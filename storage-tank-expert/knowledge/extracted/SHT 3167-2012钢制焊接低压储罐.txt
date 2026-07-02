@@ -1,0 +1,2304 @@
+--- 第 1 页 ---
+ICS 75. 180
+P 72
+备案号: J1521-2013                                SH
+HA Ae ABS SE AO Ge 4 7 46, 147 Me as HE
+SH/T 3167—2012
+SP rill Ke $32 (TR 8 fa te
+Steel welded, low—pressure storage tanks
+2012-11-07 发布                                              2013-03-01 实施
+中华人民共和国工>上和信息化放 发布
+
+--- 第 2 页 ---
+SH/T 3167—2012
+目 次
+4 材料和
+4.1  一般规定站ee ;
+4.2  BWP erceeceeeeecencceeseeesctecaeeseansecenensesenscesseccaseescegessaescaacseessascsases senses est seteesteseneeee seed,
+4,4  锯休5
+         4.5 曙栓、螺母尼ee
+4.6  结构钢型钢尼6
+4.7   焊接材料民eye ee
+4.8  国外钢材民ee
+5.3  fe Sit 6
+5.4  emt 家
+5.5  过渡区及承压圈设计 723
+5.8  齐平型清扫和孔 0
+8.1 总则ee
+附录B“〈资料性附录) 钢制焊接低压储仙计算实例 并
+本标准用词说明.和ee nesses aeesenssesen see ees
+Bt: RoW HA cre cee see seececsnesseeecccsssesceensssecseseeccccesssestssesessscausscecssssssesvosestascsssossscscssesassessAT
+I
+
+--- 第 3 页 ---
+SH/T 3167一2012
+Contents
+ForeWOrd ans res car anseasens eee eoe TT
+1   Scoperssssssestrssssseecesetscsseceenscecsesssscecssecscrsassceecararscessesestsesaecessesecsesscecesacesces ces aescecors |
+2 Normative TeferenceS ee
+3   (General :eeeeeieeee 9
+3.1 Design conditign nn
+3.2 Foundation-s:s++srsresseeeeseeeesscceevenencevassseenescenereserscnaeesssesscee nesses cnsauesereresssensses nesses ened)
+4   MaterialS center ass sen ser ees ere ee nesses ese s ee eer aes ee esse ree eee nesses see nee)
+4, 1   GeneTal] sec ccerectcececceececccccesccecescoetescaerensescsecacsessescsscaresssasaescasseseressa ces ces )
+4.2 Plategessscssseceecreessceeceresstersccerserssssesanseeseeereeeesceeaeeeesses uae seeseeuss eeesseenerencesenassesee sed
+4, 3   了jpeS cessor sesccevosvoscss cesses ses ssed,
+4, 4  Forgingsessss+ttttescrsesreeesse ses seeccessseescececscessesaeccoscescccesscesceecscesceecesseuceececeusesseeseesseey)                i
+4.5 Bolting material 5                |
+4.6  Structural ShapeS ly                 |
+4.7 Welding consumables:++++++++++ssssssessssseeseeessecsesenenscnesesesessneeseneseseecsssensessessenenesesenseee§                |
+4.8 Foreign material .ee
+|
+Design       |
+5.1 General.eeeeeeeeeeeeeeeeeeeeeeeeeeee see sse                |
+5.2 Bottom desjgn 和 rn
+.    5.3.  Sidewalls design 6             |
+5.4  Roofs deSjg 2
+.      5.5 Design of roof and bottom knuckle regions and compression-ring girders-++++++++++++reeerererereeeeee 23
+5.6 Tank anchoragesssss+s++ssesssseseseseessesssesestensesessssenaensetessencensenssscssenssensssessestonsees see eee) 7
+5.7 Reinforcement of openin旬2
+5.8 Flush-type shell connectigne 30
+6  Pre-fabrication, erection and Weldingsssssrsrersecseseereeeeececceeceesecsssesesescesesesscscccccsca sos ceasesses eee 3A
+7   Inspection, examination and testingss++++terrrerrnseeseereeceseeesentseeeserereseeessceenaeetessenseseneeesenseee see 3G
+8 Pressure and vacuum-relieving devices-ss++++ssttsssssresssersesessensenseeeascsseseessesensentenseseesseeeseeBR
+8. 1   Goerneralss:ssssssssecer ee
+8.2 Pressure ]imjits .ee ee 38
+8.3 Pressure setting of safety deyicegs 39
+Annex A (Normative) Suggested practice regarding foundations:++++++++++++++s++ssesseeeeeteesseeeseree see ree eee AQ)
+Annex B (Informative) Calculation example for steel welded low-pressure storage tanks-+*+r+++++++++++++++*41
+Explanation of wording in this standard+s++r+ceesserreceseseecsessenecceasesensessscsssscecescesesceresssensreseneses see
+Add:  Explanation Of articleS pe
+I
+i
+,            a
+
+--- 第 4 页 ---
+SH/T 3167一2012
+前 言
+
+根据中华人民共利国工业和信息化部《2011 年第二批行业标准制修订计划》(工信和厅科[2011]134
+号》 的要求，标准编制组经广泛调查研究，认真总结实践经验，参考有关国际标准和国外先进标准，
+并在广泛征求意见的基础上，制定本标准。
+
+      本标准共分8 章和 2 个附录。
+
+本标准的主要技术内容是: 材料、设计、预制、组装、焊接、检查、试验、工程验收、压力和真
+空泄放装置及对基础的要求等。
+
+本标准由中国石油化工集团公司负责管理，由中国石油化工集团公司设备设计技术中心站负责日
+常管理，由中国石化工程建设有限公司负责具体技术内容的解释。执行过程中如有意见和建议，请寄
+送日常管理单位和主编单位。
+
+本标准日常管理单位，中国石油化工集团公司设备设计技术中心站
+
+通讯地址: 北京市朝阳区安慧北里安网21号
+邮政编码: 100101
+i: 010-84877513
+4% EH: 010-84878856
+本标准主编单位: 中国石化工程建设有限公司
+通讯地址: 北京市朝阳区安慧北里安园21号
+.        邮政编码，100101
+本标准主要起草人员: 段 瑞 BAM 计 mM 斯新中
+本标准主要审查人员: 张迎恺 AZ TM Soo PRE 林 衡 杨盛启 Wak
+李艳明 Ate RA 谢 东 EME ROR 何智灵 陈德志
+刘建平 胡 明 BA
+
+本标准为首次发布。
+
+II
+
+--- 第 5 页 ---
+SH/T 3167—2012
+                  SP rill MHA Ee fae
+1 范围
+ACHRYENL GE T Tesh A aE Be EE. Be, Ee a, AA
+本标准适用于设计压力〈表) 不大于 0. 1MPa、真空度不低于一0. 49kPa、设计温度高于一20C但
+不高于120C 、盛装或储存在环境温度下顶部有气相空间的液体储镀的设计、建造、检验和验收。
+2 规范性引用文件               -
+下列文件对于本标准的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本标
+准。凡是不注日期的引用文件，其最新版本〈包括所有的修改单》 适用于本标准。
+GB/T 699 优质碳素结构钢                                         -
+GB/T 700 ”碳素结构钢
+GB 713 ”锅炉和压力容器用钢板                   :
+GB/T 985.1 气焊、焊条电弧焊、气体保护焊和高能束焊的推荐坡口                      .
+GB/T 985.2 埋张焊的推荐坡口
+GB/T 1220 ”不锈钢棒            :   ;
+GB/T 3077 合金结构钢              ;
+GB/T 3274 RRA AMR ah EL a a
+GB 6479 高压化肥设备用无颖钢管
+GB/T 8163 ”输送流体用无颖钢管
+GB 9948 石油裂化用无缝钢管
+GB/T 14976 ”流体输送用不锈钢无颖钢管               、
+GB 24511 了有承压设备用不锈钢钢板及钢带
+      GB 50009一2012 ”建筑结构荷载规范
+GB 50128 立式圆篇形钢制焊接储负施工及验收规范      .
+NB/T 47008 承压设备用碳素钢和合金钢锻件
+NB/T 47010 承压设备用不锈钢和耐热钢锻件
+NB/T 47015 ”压力容器焊接规程
+.      JB/T 4730 ，承压设备无损检测                   -
+     JB/T 4736“补强圈      -    ,
+3 总则
+储负的设计、建造、检验和验收除应符合本标准的规定外，尚应符合现行有关标准和规范的要求。
+3.1 设计条件                                            -
+FER RUA BER) 至少应包括以下内容:
+;         3.1.1 fiedeA RATERS                                         ;
+a) (HERR. BR. Ama;
+b) “介质的名称、组成、特性〈可燃性、易爆性、毒性);
+c) “储饶的设计/操作压力〈包括正、负)、设计/操作温度〈包括最高和最低温度);
+1
+
+--- 第 6 页 ---
+SH/T 3167—2012                                                                        ,
+dj) “介质的密度。
+3.1.2 自然气象条件
+a) SADE: XXX N/m’,
+b) HABE. xXx WA  5)          ‘@)
+cj) “最低日平均温度;      rs                ty
+3.1.3 工程地质条件  人                      SC,
+a) 场地类别， (ex                          4                  |
+>) 地面粗糙展:人xl关;
+c) RRR YD: fk;                         Y
+d) Rita peepee
+e) 设计名震分组                                 心              |
+3.2 ee |
+Te te oe 应设置在                          的要求》 van
+可
+4 材料                                A
+4.1  人                                         县
+4.1.1 fi    寺应符合本                  scbisiatind SHER FAS tay ded) AE AT
+Hon ee                                          &
+4.1.2 se» igang                 6) AOR BOS edt 09
+化学成      全能、焊接性
+4.1.3 eT. 应考虑人                               工
+4.1.4]2    TRS CHUBB Re ea: Ses sth ade Te ee A tot a Be I   iE
+seems) 时，应在图样       aa                  门
+4.2 钢板
+4.2.1 LQaa aE, pata         fe                        <
+“Te    :    =
+| We      |      yy        |
+=              =                                       |
+[ml Mee \ |      ow      全      7 (a        |
+Pace \ |              hes}         bs J] fe |        |
+[wa             a         757)
+uf                                 é
+4.2.2 in TNR AL mB 42.2940.    =~?
+4.2.3 用于壳体厚度   9  日小于等于 36mm 的 Q245R 和 Q345R  B/T 4730 规定的
+方法逐张进行超声检测N赁 ee REI.
+4.2.4 (8 FIBRE — OC ONSELOCI, RAF 20m uQanpe 的砚板，应每批取一张进
+FR CV 型缺口) 低温冲志试八《 试合温度为统权卫便用温旋.e即柱存受压元件的最低设计温度)
+或按图样的规定。
+夏比 V 型缺口冲击试样的取样部信条试栏方向应符合要应AGE 713 的规定。冲击试验每组取 3 个
+标准试样，三个试样冲击功平均值 天防不得低于 417, 允许其中 工个试样的冲击功数值低于 委J，但不
+得低于 29J。                                                 | |
+2                                                               |
+                                                     |
+
+--- 第 7 页 ---
+SH/T 3167一2012
+     二站
+&
+eI
+= €      z saan     % | %
+@&    站       =      :          =| 5
+je
+SS
+Cd             NTE
+Qs]  Po Ny
+[人”NG
+a    7|                   \   N
+oe                        6  \ }
+  la ‘ ‘i 4
+N                               hd
+i     ©  o  sso}     al =)     =  yy  -\ a   .
+Fs     vi wie     ie} f     t | 【ed lS
+o      | Nn     na       a
+H        :           A           1G  a
+     7 家                   ,  PS
+Pam |S =                    x} Wha
+      aX                                  i] all-AAlle
+&     ae                                  “| “|信汉|
+im          po              4
+因     了    二    3           网
+      BE                              =
+EX     lig                            in
+i | 世                   la» |
+a  ng                            al]
+Le \|                       K
+:       &           d                            中
+由       是                                          人
+                            二
+八第                        让   i
+-                        1 Pm,   4
+%        1
+03                     VAL
+tos  x
+=         |     a
+A      :             V  7   加  Py
+2    é S s  加   2   =       A  =  a
+SNe el & | 5 | BL AS
+Vs gal °    y    Ces    S| 8)
+~~        Lb      9
+NY      7 oY        2
+*      8   o   oO        a  a  RB | 村
+ail              1S
+pee tefed ef ee ett ete]
+3
+
+--- 第 8 页 ---
+了
+SH/T 3167一2012
+1
+4.3 钢管                                             |
+4.3.1 -RRUBELREES, ARMAS RIERA, SCARIER RNR HE 4. 9. 1-1. A 4.8. 1-2                 |
+的规定。                                      |
+表4. 3.1-1 7B EASE                 |
+号        号          状态       管标         Ra       、
+序号             钢号               使用状              钢管标准          最低冲击试验温度          许用厚度
+c      mn
+1                                        |
+|
+2     20                                  1
+|
+Pee ae Pere [op]
+Cee [Cees [a
+Ces [ome eee [se        |
+Ces [one eerie ee
+|
+表4 3.1-2 无名钢管的许用应力值                  |
+常温强度指标     下列温度下的许用应力
+壁
+序号   钢号     厚     MPa          MPa
+mm          .
+                           |
+1    10             205   124    121    119
+i
+                           !
+410   245   152    147    144       |
+                           :
+     :
+     :
+pepe ep
+4
+
+--- 第 9 页 ---
+SH/T 3167—2012
+表4. 3. 1-2 ”无颖钢管的许用应力值 CH)
+                    常温强度指标     下列温度下的许用应力
+a    a    壁厚     MPa         MPa
+序号   钢号
+mm
+es ee
+eee ee To
+1                  °
+注: .所有高合金钢管的许用应力仅适用于允许产生微量永久变形之元件。
+4.3.2 梯子、平台等结构用钢管可选用焊接钢管。
+4.4 锻件
+4.4.1 储缸用锻件应符合NB/T 47008 或NB/T 47010 的要求。
+4.4.2 锻件许用应力应符合表 4.4. 2 的规定。
+         表4.4.2 锻件的许用应力
+or 常温强度指标   下列温度下的许用应为
+序号  as   标准 |   MPe    __MPs
+me |e | oe | we | awe |
+2 [se foenel aw [| [ee
+ee ee
+   en
+注1: 中间温度时的许用应力值，可用内插法求得。
+注2，所有高合金钢锻件的许用应力仅适用于允许产生微量永久变形之元件。
+|       4.5 螺栓、螺母
+|       4.5.1 螺栓、螺母用钢标准及许用应力应符合表 4. 5. 1 的规定。
+i}
+1                                      5
+
+--- 第 10 页 ---
+SH/T 3167—2012                                                           :
+表4 .5.1螺栓、螺母的许用应力
+ ann   Tacs   下列温度下的
+序号| as  标准 Ti Rican | EOF rox  vin,
+Le ZO TS ee [ire [ae
+y,               =            |
+CSET) |
+LR)     we [|
+2     G [
+rT edewl         |
+Vi |
+四本人各           Vee]
+>      ams TA\SS
+:        [wwe
+i 4 ee ee    p | 205 | 5 | 226 | Wry) bs
+pes =    memes 2 | |b |
+5              GB/T 1220!                                    Pion | NA
+2. 上国叶
+a cm |一|
+4.5.2 _~, mars DY LOMB EE AA    AN       ee
+4.6 NG aap
+4.6.1 Sex Pe a ay 7S 48 py    规范前
+4.6.2 兢贡组构锦型钢的强处     合表     op 3 Bp Eg (ET
+RABE                                          |
+‘as   的强度
+El ° Ff Fee
+|. | \  \U        a     yf
+A_\ See ee Y/Y
+ee A OL
+°   AG sce | 各 R100
+4.7.1 应根据母材的化学成》 oS adil eBay EY oe ee
+选用适宜的焊接材料。
+4.7. 2 ”焊接材料应有产品质量证明书必答合相应标准的规定
+4.7. 3 ”常用钢号推荐选用的焊接材料应符合 NB7T 47015 的规定。                     |
+4.7.4 ”通常情况下, 不同强度负号的碳素钢、低合金钢之间的焊接宜选用与强度较低的钢材相匹配的                   |
+6                                     |
+
+--- 第 11 页 ---
+SH/T 3167—2012
+BUH REBUT HU ER
+4.8 ”国外钢材
+4.8.1 选用国外钢材时, 应选轴国外相应储负最新规范所人允座人k胃且已有使用实例的材料, 其使用范
+围应符合材料生产国相应规范和必准的规定，并有该材料的 二 +.
+4.8.2 pr AR ARR Mr iy     be STH AE PERS ov ae 的钢材的要求。
+4.8.3 a ae  1 Rel. 5 (PE AN Ry TN) HAZ
+5 设计    人~
+5.1  4                               Y
+5.1.1 设讲温
+设计湛度的确噶应按                                 CC
+a)   Lat a PEP BY ie                                 BIA Bl Nae EES BR BS
+b)  aan 高设计
+oj) 僻织的恨低设计金属温度，应考        日平均温度。对寻无加热& 2
+@) it SE       均温度加 13°C. SCE APE A AR TEER
+OS ANAT EL      BSG TERR ERLE, LAE
+il 会属温度。
+5. 123  FE
+:             i      1s fee te TSB                                  DFR BR    只的 2%) 的
+eH      不小于泄压                           RBA
+5.   “al
+Weblo WV 95 FE DF Bea                         工
+体静压头〈储               :何情况下，最水宪启周不小于
+Ore                                      ITT
+bj    1 As AER PEP By               ;
+人 files 8 RM                                                                       二
+DC Beene, inig        He       等;       mn
+Qasim, inte       备        等;              C)
+f edie       基       ArT      3      ~
+®)\ PRAT      以      气候      EEA cas
+b) \peBiacuhge acai:
+) eaedae Aven
+j) MBB RH
+5.1.4 Een                                  Pa]
+       厚度附加 S    IN 确定:                       0O7
+cC=ate   vovccveccscceghe  crn  站 (5. 1.4)
+AP:        2                       “Py
+< — REMAN By            m
+ci一 SA PEE   <0 his  ere  am
+c一一 腐蚀裕量〈按 5.1     确定)，mm。
+5.1.4.1 钢材厚度负偏差
+钢板的厚度负偏差按钢材标准的规定。当铜材的厚度负偏差不大于 0. 30mm，用不超过名义厚度
+的 的时，负偏差可忽略不计。
+|
+
+--- 第 12 页 ---
+SH/T 3167—2012
+5.1.4.2 腐蚀裕量      .                                                           |
+为防止储镀由于腐蚀、机械磨损而导致厚度减薄，应考虑腐蚀裕量，具体数据根据工艺数据表确
+定。
+5. 1.5 焊接接头系数
+焊接接头系数败应根据焊接元件的接头形式、位置及无损检测的长度比例确定，见表 5. 1. 5。            |
+.    5.1.5 电弧焊的最大许用焊接接头系数                              |
+;           基本焊接          最大焊接接头        ，
+序号     头形            范                时线检测。
+双面焊对接接头(液位以上的镀      0.85         局部          0.85
+项除外)      ”全部      1.0
+双面焊〈不包括带金           :
+ae >             é            nae     0.7
+LDA E AOMA THT          0.7     0.85
+全部*
+                      1.0
+                板厚不大于 30 mm 的纵向或经          局     0%
+向、环向或纬向接头, 接管连接   075   全部。     0
+带垫板或相当于带垫 | 焊锋无厚度限制      “
+板的单面焊对接接头                   0.7
+ee a          0.7     局部     0.75
+全部。
+:                         0. 85
+FRA AK UH
+3                  Bi  ys                .                   .
+板厚不大于 9. 5mm 的纵向或经
+向及其相当接头*、环向或纬向
+接头;这种形式的接头不得用于   07            07
+        , | MMe MO RR    .           a          \
+4 | 双面满角措接接头” | 区域的纵向或经向接头(该接头
+         为对接接头)
+|
+其他板厚不大于 16mm 的环向     0.65
+或纬向接头
+板厚不大于 9. 5mm 的纵向或经
+向和环向或纬向接头;这种形式
+的接头不得用于镀顶与负壁之
+Nal
+单面满角搭接接头   间的过滤承压图区域的纵向或    0. 35                 0.35
+经向接头〈当较清板厚超过   .
+6mm 时》
+8
+
+--- 第 13 页 ---
+，                                     SH/T 3167—2012
+35.1.5 电弧焊的最大许用焊接接头系数 (续)                      ;
+            、            “e       基本焊接      | 最大焊接接头
+       对厚度不大于 16mm 的受压
+人  凸形封头的连接，只能在接    0. 35                 0. 35
+管内侧采用填角焊颖
+2 见7. 3 条中的检测要求。
+。对具有双曲率的弧壳，在焊接接头处承受由负压 me 或其他外部裁荷而引起的压应力时〈该压缩应力不得超过
+4 .8MPa)，则无论表中给出任何数值，板壳之间的搭接焊颖的接头系数都可取为 1，对其他搭接接头，许用压应
+力值 gm应考虑焊甸系数; 对于被连接的整个厚度上承受压缩应力的全焊透对接接头，其焊接接头系数可取为 1。
+。 所有的主要对接接头〈镀壁上的所有纵向或经向及环向或纬向接头) 都要按 7. 3 条的规定做全部射线检测，接
+管及其补强件要按 7. 3 条的规定做磁粉检测。                     .
+4 厚度限制不适用于均匀基础上支撑的平底。       ，
+© 在下述部位的环向或纬向接头的要求及限制应考虑与纵向或经向接头相同:
+) 在球形、矶形、酉圆形或其他形状的双曲面上;
+2) ，在锥形或碟形项〈或底)和圆简饶壁连接处，如 5. 5 条考虑的;
+3) ，在过渡截面或变径段的任一端的类似连接点处。
+f 角焊和塞焊给出的焊颖系数不适用于表 5. 1. 6. 6 中对钢结构焊颖规定的许用剪应力值。
+5.1. 6 ”钢材的许用应力和壳体结构的许用应力
+5.1.6.1 符号说明                        .
+NM一一压缩系数 (M=S,/Se3) , IF 1.03          -
+N一一拉伸系数 CN=Syses) ,小于 1.0;
+R— ek ARK, mm;
+Rio—@_ EMA RNAEAKPE A, FATES PIA BY RE, mm;
+Ro —_EMSBNBSEKR POA, RALRAARS EN PORES, mm;
+Ro AHETEBACT A LEE, mm;        :
+;                 Sm KN ER CDA, 也可以是计算应力, 按使用该变量的上下文确定)，
+MPa;               、
+Se一一双向正交应力状态下, 壳体的许用压应力〈《由于是双向正交应力状态，故其值沾于 Se )，
+MPa;                 *
+Su一一在所考虑点上的计算压应力，MPa;                      -
+Se一一壳体经向许用压应力〈对于圆简形壳体，由壳体壁厚与半径的比值确定)，MPa;
+St一一表示拉应力的变量(可以是许用应力,也可以是计算应力, 按使用该变量的上下文确定)，
+MPa;
+Su一一双向正交应力状态下，一方受拉，另一方受压，壳体的许用拉应力〈由于存在着正交的
+      压应力，故其值小于 Se)，MPa;
+Se一在所考虑点上的计算拉应力，MPai
+9
+|
+
+--- 第 14 页 ---
+SH/T 3167—2012
+Ss一一钢材纯拉伸许用应力〈见表 4. 2.2), MPa;                                        !
+T—-EREAR AEE L, MAIC E DREAM CERES, GUE
+RE), N/mm;
+T-— (FER EAE     Kerns ab aihod>  (正值表示受拉，负值表
+示受压; Ky it ieee ee ed  Retin 3), N/mm;
+t——_ FAR RT wg                      4                   |
+5.1.6.2 mAHMD 4,
+SRE Sb Ze i Mya   ，不得超过下述条款确定的应力值:        v,                |
+a) FARR ‘a Tif                              TPA sat Bava aS SEL | Ste 不应          |
+PIL 4.2. 2 的给定                                              |
+b) 著缚向单元内/ WR                        » DTA. 2 [A BAT        |
+Af Abssigy, Mer                      Su SFR EL ARH RA
+(SPN, 1/6. 2-1 中 N值的乘积。N           (CS=Ss) AUER (1-0)/RVA EE ey 6.2-1           |
+由但得 BS TRA ABS HIER         5%时，设计者可以按 a) ARE, iT
+PEELS ARIE. (LEE        得超过表 5. 1. 5 SHH URES NS 3         |
+4 meh asic                                  O
+a TF |  = | cl  Lh.          |
+一六:                   有
+a 86                ST               |
+a   n                      Lt                 全三山
+CH二TH         一
+Se |        ime       ri        oes
+a  af                i       =       tt 1} =
+#\ eh [|            ime       ss        = OC
+=   8           4        —o         —        a ee
+ea i a 8 inne                    |
+ES   a          {|        |       fem] +        nay    ce                i
+ai \wl\s        im       ime        Fass                |
+€           f | |        w        | {J        | | es 3
+Re    pad   -一上一                =         — — FF 0.8
+B30 (SA              io        二
+NA NT           it TA |,                   |
+，  NAPE                 ai           YS                      |
+oO   & 002   040.006 0.008 0.010 0.012 0.014 0.016 0.018  , 02g ffi                    |
+LC           (AR            7                         |
+注1， 任何情况下由特定  es 值忆不得超过曲线 Cd Cy. fa IH. RIN AER        |
+于曲线 OABC HTD  f )           am
+注2，系数 凡和入的关系见图 S Nov’,
+注 3，当压应力是纬向时，R-R,，当压且是经向时，R-R,。
+ 5.1.6.2-1 拉-压双向应力计算图〈适用于屈服强度为 200MPa~260MPa 的钢材)                   |
+10
+
+--- 第 15 页 ---
+SH/T 3167一2012
+"EREEEEERUTD
+| |
+四面和本外
+ay aT T SARA
+gS
+ SERRE
+人~ game) MA PTET PIS AS
+Q           Lil le acted of | al Ns]
+~/                                    |
+Ty                           M =I
+6)       图5.1.6.2-2 Hr          用下的 MS N 的关系                    -
+5.1.6.      ERA                                        \ |
+;             7 eee AK Hs BOSS HY AL Re           Rises:      和 ，不得超过FS有估款网定的应
+If ZORA EAT                        SHEP RHONA) « AVC. $F
+a)i      {6 (4A                          时取 R=R |构Ussg 4H). c),
+de       规定的基础
+网 1 adi                              上力也无压力民 Tt ，则计
+的压应力值 Sco 不应超过可担下列壁厚与半径比值页确定的 $。值;
+(@) t-c) /R<0. 0                                          Tm
+S..                  和56. 3-1)
+GO ). 00667<(r           5                             Ss
+Seg      ~c)      和   . 6. 3-2)
+‘am c)/R>0.0                                       个
+-           .3-3)
+b MATE Ti      bh Ts       , AL       USER PN S.. FHLB
+Pi 0        Pa EH                                       -
+—c) AR<0. 0                        人
+MY>                 ay        5 1,6, 3-4)
+M0, 00667 (t
+063              eae  ‘OC. ee eee (5. 1. 6. 3-5)
+4(t         OWS 时                                sy
+Su=57.5         5.1.6.3-6)
+对于半途传穆笑铺抽低压储馆，当(-o /R<0. 0A gf A澡将科在设计温度下的弹性
+模量小于 2x Ger HOYBMIE 2 RE) F 205 Mat LESAN Se ty 5) 5 te 5 2x 10° BE 205
+的比值相应减小;
+0) GAMBA TN. ANCA 乳都为压缩力，但大末候等时，则二者中较大者的应力值和较
+小者的应力值均应分别满中中画各式的要求:
+(Si+0. 8S.) /SopSl. 0           56.3-7)》
+1. 8S;/SosS1. 0         (5 1.6. 8-8)
+11
+
+--- 第 16 页 ---
+SH/T 3167一2012
+式中:
+3一一较大的压应力值，MPa
+4一一较小的压应力值，MPa;
+Se一一壳体经向许用压应力，MPa;， 根据壁摩/半径的比值，从 ad Rf; 式〈5. 1.6.3-7)       |
+适用于较大的应力S，式〈5.1. 6. 3-8》 适用于较小的应力 Sy                                          |
+注，在上述表达式中，考单位力是纬向的，丸应等于 R, BRAM REE Ro.               |
+@) FAA NARA. BH 也为拉力[e)规定的除外]，或 再为压力、了为拉力，则计算
+的压缩应力值 Se不应超过 Seas Su 值是根据图 5. 1. 6. 2-1 由计算出的 N ABS (t-c) /R 值相交      |
+求出的对应的应力值 S%.决定的，此 &L即为给定条件下的 Su 的允许值;
+e) “当圆简壳上的局部轴向压缩届曲应力主要是由弯和天产生时，a)、b) 定义的纵向允许压缩应力      :
+Se或Su值可以增大 20%. WR MR CPEB) 或地震载荷 (ASHE) 作用产生的弯
+曲应力，除在上述增加 20%的基础上，由弯矩导致的允许届曲应力可以再增加 1/3。对充满      |
+或未充满液体的储缸，由地震载荷引起的纵向压缩应力，其允许压缩应力无需按拉压双向组        |
+合应力所确定的许用值进行限制，除非图 5. 1. 6. 2-1 中另有要求。                  ，
+对抗翅设计，满缸通常是最不利的情况，对多载荷，有内压的空镀通常是最不利的工况
+(由弯曲导致的局部压应力)。
+5.1.6.4 BARBRA         |
+人和孔、接管及其补强件或其他附件与缸壁之间的焊颖和作为补强作用的人和孔或接管的横截面上的                          |
+允许前切应力，不得超过表 4. 2. 2 相应材料最大许用拉应力 Ss 的 80%，对于奥氏体不锈钢不得超过钢
+材届服强度的 90%。该剪切应力只适用于载荷与焊终长度方向相垂直的情况，和否则，应降低最大许用
+前切应力。                                               |
+5.1.6.5 ”风载荷或地震载荷的许用应力                                  |
+在与风载荷或地震载荷组合的设计载荷联合作用下，人允许的最大应力不得超过设计载荷条件下许
+用应力的 133%，同时不得超过钢材届服强度的 80%，除非另有规定。
+5.1.6.6 结构件和螺柱的许用应力                                                                 |
+”结构件和螺柱的许用应力应符合以下规定:
+a) “储鲜内、外在第 5. 1. 3 条的载荷或操作条件中可能存在的组合载荷作用下设计的隔板、连接
+板、棉架、支柱和框架中的螺柱和结构件的最大应力不得超过表 4. 5. 1、表 4.6. 2、表 5.1.6.6
+给出的许用应力;
+b) “受压构件和除圆杆以外的受拉构件的细长比〈支柱无支撑部分的长度工与最小回转半径>的      |
+比值)，不应超过下列数值，但 c) 规定的除外:
+主要受压件为 120;                                       |
+支撑和其他次要受压件为 200，                                |
+主要受拉件为 240;                                                                       |
+支撑和其他次要受拉件为 300。
+c) HE AYE BESS BAPAC LEB LAB 120, 但不能超过 200, 只要这个构件在正常情况下不受剖
+击或振动载荷作用，而且在全部设计载荷作用下的单元力应不超过表 5. 1. 6. 6 中该元件实际
+细长比下的应力值与/值的乘积:
+f=1. 6-L/ (200r)
+d) BRR TEARS BS BR TAT AR ALAR TBR LF SEE :
+1) 构件上任何位置的总截面积垂直于元件轴线上的宽度与厚度的乘积之和; 净面积是以净      |
+宽度代替毛宽度来确定的，当结构元件上有一串孔〈沿元件的对角线或交错排列) 时，
+在计算净截面积时，应从总宽度中扣除所有开孔直径的总和，对于等间距排列的孔再加
+12
+
+--- 第 17 页 ---
+SH/T 3167—2012
+上以下数值: SV (4g) [*为任意两相邻孔间的纵向间距，mm; 8为该两孔间的横向间距，     ;
+mm];
+2) 对于角钢，在相对角钢翼上的孔间距应为角钢背的孔间距之和减去厚度;
+3) “在确定塞焊或槽焊处的净面积时，焊缝金属不得作为附加净面积;
+4) “对于连接组件，厚度的确定由焊缝或其他超出连接部分的厚度决定;
+5) “在销钉连接的受拉构件中《〈除锻制眼铁外)，垂直于构件轴线横断销孔的净截面积，应不
+少于构件本身净截面积的 135%; 在销孔以外，平行于构件轴线横断销孔的净鹤面积，应
+不少于构件本身净截面积的 90%; 与构件轴向垂直，横断销孔的销钉连接件的净宽度应
+不超过销钉处构件厚度的 8 倍，除非侧向失稳被限制;
+eo) “储饶的外部结构，如管子、支柱和框架等，在承受风载荷与第 5. 1. 3 条中规定的载荷的组合
+应力时，单元应力可比表 5. 1. 6. 6 中的规定大 25%，只要所需的截面不少于按表 5. 1. 6.6 规
+定的单元应力为基准的所有其他组合载荷所要求的面积, 这些元件的连接螺栓或焊缝中的许
+用单元应力可以相应提高;                      ;
+f) 螺栓的许用应力为螺栓预紧时的应力， 法兰螺栓的许用应力为过载和试验时的附加应力。
+表5.1.6.6 结构件的最大许用应力值                          .
+_    ，                不受压构件             受压构件
+        124               He 4.2.2
+        124
+压缩。
+受轴向力的钢结构支柱、支架和次要结构件，在 | 124/014 (27/1247) | 但不超 | 124/[I+(ZV1249] 但不超过
+毛截面上                        过103               103
+受轴向力的钢管支柱、支架和次要结构件，在毛 | 124¥/(1+(£°/1247*) ] 但不超 | 124¥/[1+ (17/18 0007) (AB
+截面上〔〈最小允许厚度为 mm)              过 1037                 过 103
+对接焊颖，在焊颖中或在焊颖边缘处的最小截面          124                  103
+上《【受冲击压力)
+                       Ste                                     .
+型钢、板梁和组全构件    24 Led/btr<600  :    按表 4. 2. 2 拉应力什
+销子最外层纤维应力，
+构件同时受轴向力和弯曲力作用时，其最大轴向                                     ;
+应力和弯曲应力的组合值，应不超过仅受轴向载
+荷的许用应力值;                           186                 137
+受弯的对接焊缝末端的纤维应力值不得超过规定
+的拉应力和压应力值〈焊缝受拉时，该应力值应
+| 乘以焊接接头系数)
+.                                           ;                              13
+
+--- 第 18 页 ---
+SH/T 3167一2012
+|
+表5.1.6.6 结构件的最大许用应力值 (续)                  |
+a
+| seaans mah A A | 3 OpoNa |          |
+jawme =f | ws INP          |
+FEA ANSE Fe AA FE       uh 人              E       vy \                |
+oe       Reale
+GOR, ERE get                                                    a
+eo        ee ee
+ee 7        en ©
+mali] 二
+ce EO eo |
+     |
+对于粗末从                                              a
+  ay
+Mi 的厚度上                                    和一
+ae eae abe ae
+Lope ffs mares cat,                                  ey
++ — Ana oe pe                        " )
+y¥—~4 , WED. OL 时，7=1.            fl         {100 ¢         3) [100 (A    了
+R—#X   SRK, mm;
+h—# Qe ere,   本                                          和信
+» a5 aa Os 义如
+LF IRB NEE,             bist        REA Be, mp             |
+4一一构件的高诡，m                                          六
+5 SE FE AIR Day idem
+bp — SIE MUR “fs                           ~O                   |
+“区应力公式呆的变量定Xi                       “>
+A —— 3S 10 EAL SBS A >             CO
+ 一一腹板的厚度，mm。                               ~<
+=
+5.2 BERIT
+5.2.1 SERRA        i ed
+HEARN Rot Bede LF AE :
+a) “中幅板                                                           |
+14
+
+--- 第 19 页 ---
+SH/T 3167一2012
+不包括腐蚀裕量在内的缸底中幅板最小公称厚度，对于奥氏体不锈钢为 5mm，其他为 6mm;
+b) “边缘板
+不包括腐蚀容量在内的钱麻边缘板最小公称厚度，对宇奥氏体不锈钢为 smm， 其他应符合表
+             5. 2. 1 的规定。
+O    5.2.1 ”边缘板最小     aie                  单位为mm
+/人心 -Eee \ \、
+-一/一                              \\ |
+~//                                     a\_|
+i i. df |                             \
+| |     \ |
+—
+5.2. p AMIE p81                                                                  \ }                   1
+Te ey PD FE LA
+abet ee EK                                        O
+jad 边缘板伸出全                     人钢的宽度应刊由00inm;
+板之间的接3                           StoRM BENS,
+d) | AE ARSE Aa Ie nO Use aaIemnN concep hl
+RTL, A iA oh eli (iV) IT RL Ss
+拉毛头可采用下        和              ae | Lt cae 焊
+RHEL VERE,
+A 3 FAP, 4          于                 Pin ee LT,
+pei RETR N      We=     &,      25. 5 ERRORS
+全 5} 300mm;                              、
+WE ABIES       a,         )mm.               (  )
+5. 2. 3\ mere Say 5 Hees     接                    入
+fi         ‘ee BEA           MF          :
+a  reg? ee i         a          anf
+b) %     的公称                wee          5 Spe BE i HH He
+i we 表
+m5. 2.   Fe el te ey cd SRA  By AY By  ae) >        单位为 mm
+> OA
+一    =       > a _                、
+c) 站边缘板的公称厚度大于 13mm BTS 焊贿请腻或焊脚高度加坡口深度应大于等于边缘板厚度
+(见图 5. 2.3);
+15
+
+--- 第 20 页 ---
+SH/T 3167—2012
+d) [4A HERE RGR KF 248MPa IN, 122828 7> 12 PB A.                     .   |
+E           FR FEE                                             |
+本            a
+i                                                             |
+最大13mm,最小mm
+                            BAS
+. 5.2.3 ，璧板与底板(厚度大于 13mm) 的焊接示意
+5.3 HBR                                                                                 ,
+5.3.1 符号说明
+A — EXE NACHE, HEA RRR, mm’;              ;
+F— Br ARRAS ASAT. 3238. BAR. MTA, SORE. RRR RSE AEA
+AAHANEBOAN RE, 当其产生的效果和自由体水平面上的压力 p 方向相同
+时,五与忆 的符号相同，和否则，书与P 的符号相反，N;
+了一一在特定的载荷工况下，作用在给定平面上的总压力〈表)，p=Pprtpg，MPa;
+pe一一作用在液体表面上的气体压力(表) ，为镀的设计压力，ze 应为正值，只有在校核储
+饶承受负压作用下的稳定性时为负值，MPa            :
+新一一在给定水平面上《〈见图 5. 3. 1 所示的水平面)，液体的静压力(表) MPa;
+;        . W— RRA EOS Cn 5.3.1 Aras e7ksFi), 76 Be RE A
+包含物料的总重力;，当其产生的效果和自由体水平面上的压力方向相同时，球 与 疡
+的符号相同，和否则，歼与六的符号相反，N。
+g 一在应力作用区域内，最弱的焊接接头的焊缝系数〈由表 5.1.5 确定)。
+其余符号的说明见 5. 1. 6. 1条。
+ eee aa
+Pop ey ep ae
+ee ae                                   |
+让 TREE TFT
+IT人一一一-一一一二7
+AAA
+ 5.3.1 圆简形储镀的自由体分析
+16
+
+--- 第 21 页 ---
+”SHAT 3167一2012
+5. 3.2 ”单元力的计算                                                             ，
+对储饶作自由体分析〈见图 5. 3. 1)，圆简形壳体任意横截面处的单元力按下列公式计算:
+                                                   T =p Ht")      53. 2-1)
+2     At
+.                                   T2=Rp        (5 3. 2-2)
+5. 3.3 厚度的计算
+5.3.3.1 当马、乳都为正值 〈受拉) 时，设计厚度取下列两式中的较大者:
+tage tape        (5. 3. 3. 1)
+5.3.3.2 4 TATE 4th), RATE GER), 4 WIE GED. NAR SH) 时，需
+假设不同的厚度，进行试算，直到某一厚度值使得同时存在的计算拉应力 Se，计算压应力 &e分别满
+足5.1,.6.2 b)、5.1.6.3 d)的规定。
+当压缩单元力不超过拉伸单元力的 5%时，也可以直接根据 5. 3. 3. 1 条的规定计算。除非许用拉应
+力的大小是由 5.1.6.2 b)中的gss 的乘积来确定的，和否则焊接接头系数9将不予考虑。
+5.3.3.3 47. RANA GER), BAIS, BES PETAR:                  :
+-     “5, too *8     .           . 3. 3.
+式中的 Su值是由厚度与半径的比值根据 5.1.6.3 bl)和 5.1.6.3 e)的规定取值。
+5. 3.3.4 当马、乳同为负值〈受压)，而大小不等时，饶壁厚度取按以下步骤计算的最大值:
+a引“第一步，按下列各式计算厚度值;
+oN +0.87 )R 有3 3, 4-1)
+111. 43                                .
+EE     53. 3. 4-2)
+上式中，厂为有、玖两个单元力中绝对值之大者，7 "为 五、匹两个单元力绝对值中之
+be; “SAHA Ch) 是大值时，R' =R，R =Ro，反之，当经向单元力 (Nn) 是大值时，
+R'=R,, R'=R;
+b) 第二步，由第一步计算出的两个厚度值，减去腐蚀裕量后，与计算 MATRA R ASE
+分别核算厚径比 (t-c) /R。如果两个厚径比(tc)VR 的值均小于 0.00667，则第一步中计算壁
+     厚中的大值即为所需要的厚度。和否则，继续进行第三步计算;
+c) “第三步，若由第二步确定的厚径比值中的一个或两个大于 0. 006 67，则应按下式计算 +值，
+         7-2 +0. 87" +0. 87" +e     (5 3. 3. 4-3)
+”103.4
+T
+tate    oo (5.3. 3. 4-4)
+中”第四步，核算由第三步计算出的两个厚度值的厚径比 〈:-c) /R[与式(5. 3. 3. 4-3) 相关联的 丸
+用步骤 1 中定义的R=R'; 与式(5. 3. 3. 4-4)相关联的尺用步骤 1 中定义的R=R ]。如果两个
+厚径比的值均大于 0. 017 5，则该步中计算壁厚中的大值即为所需要的厚度，和否则，继续进行
+第五步计算;
+e) ”第五步，由第二步或第四步计算出的一个或一个以上的人t-c) /AR 比值介于 0. 006 67~0. 0175
+之间, 若该厚度是由式(5. 3. 3. 4-1)或式(5. 3. 3. 4-3) 计算所得, 则应求出满足下列方程的厚度:
+17
+
+--- 第 22 页 ---
+SH/T 3167一2012
+7TH (de e) +1912 Cea ge   Len Br”    5 3, 3, 4-5)          |
+或者该厚度是由式 (5. 3.  人  M必求出满足下列方程的厚度:
+1   wit    es.    4S   53. 3, 4-6)
+R                4
+f) BA, yas ie BAA, ds TAN TT SES INARA 5.1.6.3           |
+5.1. ALM TUREHRERE, Als. time wee.
+5.3.4 Meee |e                                        Y                      |
+MERE yp hs, 于
+a) 5mm Ae rhe gts Al
+b) 5.38 HRW RE;                                    a)
+c) fai TSE BE                                     van
+I         35.3.4 see         RAMEE                                |
+oa                                              EE
+|         IE
+|} fee f—} —                              =) 41
+| |      aaa                              Poe UL AT
+[| bell | |                              Cee        ;
+5.3.5 |中上
+5 3.5 | PEE e mone, 10          风力          1                工              |
+5354 (emdnimian             ;                            IT]
+|
+:       他                                 SR 人 -2)         |
+2.5
+e               Sees K 3. 9. 2-3)                |
+a:   \y                                           [~
+[pe] —   Asi 的许
+D 一一 娃饶内径Nm
+He— BREAN:                              0
+Ar POPES BOLLE, mm;                   ~~)
+及一一 第; DE Ag NEE, m;
+1一一 wally Scone, ms;                     >
+t; —— Hi ERE ‘Ge am.                Dm
+5.3.5.3 似壁简体的设计外JR 和 rt:       am
+Pi=2. 25mwktd          (5 3.5, 3)
+式中:
+Py —— 匀壁简体的设计外压，kPai;
+wk一一 风载荷标准值，应根据建负地区的实际状况及储缸的高度,， 按照 GB 50009一2012 的规定
+18
+|
+
+--- 第 23 页 ---
+SH/T 3167一2012
+进行计算，kPai
+4一一负顶呼吸阀负压设定压为的T 7 TE, kPas
+5.3.5.4 ，风载荷标准值 ww应习PfE式计算:
+O=P UL, Oo    人  5. 3. 5， 4)
+b— wine peg Witt: £1;          C4
+及一一 Regge ew 应取驻点值，A=l;             +L
+bz   (kgs WAR;                            又
+co一一下      ey,   Pa.
+5.3.5.5  [REY                            N\A REA, (AE)
+0. 3kPaf BIZ, 1B                          mel. Nee Ae estat.
+ARIE OT GP pepo                       分析确定。
+5.3.5. 9 ill SEBEL RR                           AN
+aq提或稍有起伏的地形，民      系数应根据储链高度及 Angas 类别按表
+6-1 确定，中间值采用插
+i                 表5.3.5.               EI LA,                 D
+他关上                          OU
+re                          Cn Pt
+icra      Et
+‘Ienq |g        liga St =i
+| NA      |_|         iy               pst | [Ebb
+oa «| « coe
+[| \ Us| |       pa      到       ee 7
+| \ sel       |      =       5 ASP) See
+| \Saqy\ | |       于          5 JUS
+PR 国     @     ae /,
+NG  二               | oll        en P| fiw |
+| UN      tt               p04         Pay [2
+wan          cE       yf
+VSB \ we Ye
+Wie Nee | aa RY
+2 NY ea ae
+a        ee ee eee eee
+[ma 3 au
+地面粗糙度可分为A、B、C、D 四类;
+A 类指近海海面和海岛、海岸、湖岸及沙漠地区，;
+19
+
+--- 第 24 页 ---
+SH/T 3167—2012
+BAHAR. SH. MK ERD RR FATT                        1
+C 类指有密集建筑群的城市市区;                                                                                                          |
+D 类指有密集建筑群且房屋较高的城市市区;                                                                                                     |
+b) “对于建在山区的储缸，风压高度变化系数可按平坦地面的粗糙度类别，由表 5. 3. 5. 6-1 确定        |
+后，再乘以修正系数7 。                                                               |
+对于山峰和山坡，其项部了B 处的修正系数可按下述公式采用:                        ，
+2
+_     _  Z       53. 5. 6)
+must 2. Z|
+式中:
+下一一系数，对山峰取 3.2，对山坡取 1.4;
+6一一山峰或山坡在迎风面一侧的坡角，当tg6>0.3时，取tsg0=0. 3;
+2Z一一储饶计算位置离地面的高度，当 Z>2. 5到时，取 Z=2.5FL, m;
+孙一一山顶或山坡全高，m。
+对于山峰和山坡地其他部位，可按图 5. 3. 5. 6 所示取 4、C 处的修正系数 na. nc,
+AB 间和BC 间的修正系数按 1 的线性插值确定。
+出间盆地、谷地等闭塞地形，71 =0. 75一0. 85;
+与风向一致的谷口、山口，1=1. 20一1. 50;
+B                      B         Cc
+a                                              1
+VN    LZ                                    |
+|    dy      dy              d
+                   图 5. 3.5. 6 山峰和山坡地示意
+c) “对于远海海面和海岛的储负，风压高度变化系数除可按 A 类粗糙度类别由表 5. 3. 5. 6-1 确定
+外，还应考虑表 5. 3. 5. 6-2 中给出的修正系数。
+表 5. 3. 5. 6-2 ”远海海面和海岛的修正系数7
+距海岸距离
+km                               4
+5.3.5.7 中间抗风圈的数量及在当量简体上的位置，应符合以下规定:
+a) 当[pe] ze 时，不需要设中间抗风力，                               |
+b) py >Lrg] AEM, UE 1 PPTL, “PIR A EAE He/2 处;                 |
+c) 4 > [pyle 时，应设 2个中间抗风圈，中间抗风圈的位置分别在 He/3 与 2H/3 处;
+|
+20
+
+--- 第 25 页 ---
+SH/T 3167一2012
+d)  当全> [pu] >他时， 应设 3个中间抗风圈, 中间抗风圈的位惫分别在 无/4、硕/2、3有/4
+处，以此类推。
+-     5.3.5.8 ”中间抗风疾在实际负壁上的位置，应符合以下规定:
+a) “当中间抗风圈位于最薄的饶壁板上时，它离上面一个加强截面的实际距离，不需要换算;
+b+ 当该中间抗风圈不在最薄缸壁板上时，它到上面一个加强截面的实际距离，需要按
+hi=Heilti/ tmin)” RETR.
+5.3.5.9   中间抗风圈所需的最小截面尺寸应符合表 5.3.5.9 的规定。
+表5.3.5.9 中间抗风圈最小截面尺寸
+5. 3. 5.10 中间抗风圈与饶壁的连接应使角钢长肢保持水平，短肢朝下，长肢端与镀壁相焊，上面采
+用连续角焊，下面可采用间断香。中间抗风圈自身接头应全焊透、全熔合。
+5. 3. 5. 11 中间抗风圈离饶壁环焊缝的距离不得小于 150mm.
+5.3.6 ”负壁排板与连接
+5.3.6.1 相邻壳体的纵向接头应相互错开，最小间距不得小于 300mm。
+5.3.6.2 ”负壁板的纵、环向焊接接头应采用对接的形式。
+5.3.6.3 对接接头应采用全焊透结构〈见图 5. 3. 6.3-1、图 5. 3. 6. 3-2)，焊接接头的设计应符合
+GB 985.1、GB 985. 2 的规定。
+ie          me     M4    \ 2    Yo         Th
+a) 工形坡口       (b>) 单面了形坡口     c) thin U 形坡口
+A           NA      .                       q
+ss                 GS
+d Way wkO               e) 双面U形坡品
+图 5. 3. 6. 3-1 EW MRE RS
+21
+
+--- 第 26 页 ---
+SH/T 3167一2012
+国有     Y
+人           OO 刀 CN也
+WYN     is
+TQ               IY                   NSS                      |
+a) FRA                                    ) Wm y eo
+5.3.7 bse Rag  St                                 van
+地震训沪地语。/尘负的设计尚应符合有关j                          >
+5.4 HeTTpS
+5. 4.1 FF Sia                                              yD
+RARER, mm                                  〇
+a   dail 5 SE HAE                        PED, 。
+SULA SW 5. 1. 6. 1 尹
+5.4.2.1) FARE TOYS LOMA BER Po Be Re are
+a)  im U> EAR R           载               1. Ty fi,
+=    MeN, Ry
+b)  ey 如饶顶设置
+    c) SMe, 在饶顶水         上                0Pa; 4 Beep   60)Pa
+.   Veo                                      —
+5.4.2.2 \aPrA RAE     规定                  (  )
+5.43 Bie e
+5.4.3.1 Eagan                                           入
+a     7                                                         |
+PETE ET N19 7,            Nee                                    {a
+oO                                            eeeeee  weseeee (5, A. 3, 1-1)
+fA                 .         bee LD. ». 4.3. 1-2)
+5.4.3.2 BHM                                      0
+GLA TE ae AE ot PIE PIAS:                “>
+A>  (2cosa)\(p*)   Oy wove (5.4.3, 2-1)
+Keown      wel © Yo 5. 4.3, 2-2)
+5.4.4 厚度的计算
+镀顶厚度的计算同本标准第 5. 3. 3 AAAS
+5.4.5 Hig) SE
+22
+
+--- 第 27 页 ---
+SH/T 3167一2012
+负顶的最小厚度不得小于下列二项之中的最大值:
+a) 5mm 与腐蚀裕量之和;
+b) 5.3.3条的设计厚度。
+5.4.6 inet                           oO
+5.4.6.1  a ee ETA, MIMS Lp NE xk.
+.      5.4.6.2 SETA z Iphiyhaal DTS eo atk       C4
+5.4.6.3 当采用 en PORE AE DF 5 倍板厚且不小于 30mm, 4 fs ZN? 间的距离不得小于
+200mm.
+5.5 wWEkKA Es ‘                         Y
+5.5.1 iiBlx
+reas Sari 1                           AN aR RSH te
+KOA FE PA iil 1085 i                           于 12%. VERON NS NaS
+5. 3 Spee ie
+5.5.2 PRES                                          >
+5.5. 21 (Fp pA
+m= RAE BRL, PRN e        GER tA), mm’;    pt
+OSE BARE                                      :
+R i ene                                  m;         O
+5 Oj at                                    Q
+Se 钢板纯拉伸许有
+ry PEE SUE AN DP Me DRT    se Ae AIC], N/mun:
+Tp (EA EET SH       _           SS AY 2 Al CN   4
+A); RIZE S       面            KRSM App.
+i)  mm;
+RANE, AS         ree        i          mm;      <=
+jue KEP, AKA       He TH       a         mm;     =a
+=.    KES, aS       may                ;       C)
+W)     ARH, 7S        HET
+as ty 经有       RL       5                人
+5. 5. 2.2 \ heer 钱顶之间         tye        NES         Hh if fee 。承压圈的
+ARGH \ AAS & 2. 2.              a          中项旅和壁板的厚度需满足
+5.3、5. 4 AUR.
+A                  一           oy LO. +(5,5. 2. 2-1)
+W.=0. 6 fRt,— 6)     让 Lud, ov (5.5. 2. 2-2)
+5.5.2.3 在承压区 人 NG le BMT ER:     “>
+O=ETW+T2sW-T.Rsing   CI 55. 2. 3-1)
+承压圈有效范围内的将坑靖机不多小    HoT: mS
+#0 /103. 4 (4 CO<0 PY)    55.2.3-2)
+注，当材料为奥氏体不锈钢且其届服纸酉小于 205MPa 时，式055 2.3-2) 中的 103.4值应按该材料设计温度下
+的尾服强度与 205 的比值相应减小。
+或   A=O/ (Sis) C4 020 时)    (5 5. 2. 3-3)
+23
+
+--- 第 28 页 ---
+SH/T 3167—2012
+              ee TI                     :
+eb
+ae    z        :
+<
+S|] a H             a
+4
+4  -
+~~. == -- =~ -
+mee,       :
+图5.5.2.2 承压圈有效范围
+5.5.3 承压圈有效范围的规定
+5.5.3.1 当吕为负值时，表示承压圈受压力作用。这时有效承压圈区域的水平投影方向的径向宽度，      !
+应不小于缸顶与饶辟连接处饶壁水平半径的 0. 015 倍。
+5.5.3.2 ”当承压圈的净截面积不能满足 5. 5. 2. 3 条的要求时，或者当 O 为负值而有效承压圈区域的      |
+水平投影径向宽度，不能满足 5. 5. 3. 1 条的规定时，应考虑在承压轿有效范围内采取如下增强措施:
+a) “在有效承压圈范围内增加顶板和壁板的厚度;
+b) “在缸顶与负壁相交处增设角钢、扁钢或水平设置环向加强圈;
+c) ”同时采取上述两项措施。      .                           |
+PSone TL AR ASE SA AT eS Ae PL, i OP AS
+MPa BCR BGA. BPE WY 1.5 倍。                          |
+5.5.3.3 Aah. RARE ORE A aM, JL 5.5.3.3. SRM R TE PH
+ER:                                              |
+a) ”增加横截面积后，承压圈有效范围内的实际面积应满足 5. 5. 2. 3 条的要求;             |
+b) Fes SPUR i PZ A TS A eT A I CE BE NAN Fh RE KEE ZR, AY 0. 015 倍;      |
+当角钢或扁钢增加的横截面积不大于按 5. 5. 2. 3 RU REM OK, BTR A
+身的有效宽度 两 的水平投影宽度等于或大于 0. 015R。或当角钢、扁钢位于饶壁外侧时，丙,
+的水平投影和附加角钢或扁钢的水平宽度的总和等于或大于 0. 015R.，则上述对角钢或扁钢
+的宽度要求可以不必考虑;        |
+c) 按照 5. 5.3.8 AHR, DRA SEAR, AAR SSE REE Fh
+(5.5.3. 8) 的计算值。
+5.5. 3.4 当角钢的垂直边、扁钢加强圈〈垂直设置) 的厚度不小于项圈镀壁板的厚度时，可以采用与
+饶壁对接的形式并成为侧壁的一部分。若不采用这种结构，则紧靠饶壁的承压圈垂直边应与饶壁整圈
+贴紧，其与镀壁相连的上、下两侧焊接接头都应采用连续的角焊颖《5. 5. 3. 5 条规定的除外)。角焊颖      ，
+应有足够的尺寸以便向承压的角钢或其他形式的加强圈传递环向力 CO。图 5.5.3.3a)、图 5.5.3.3 h)
+表示了结构元件的宽度将焊缝隔离开的情况下，仅假定最靠顶的焊缝是有效的。在任何情况下沿承压
+圈任何一侧的焊颖的尺寸应不小于二相焊件之较薄件的厚度，且不小于 bmm。同时，图 5. 5.3. 3 d)、      |
+图 5. 5. 3. 3 e) 所示的镀壳与加强板之间的角焊颖尺寸应不小于表 5. 5. 3.4 中的规定值。表 5. 5. 3. 4 中
+|
+24
+|
+|
+
+--- 第 29 页 ---
+SH/T 3167—2012
+的连接件的厚度和尺寸是在焊接条件下包括腐蚀容量在内的尺寸，而在本条中有关所有其他连接件的             ‘
+REMEBER TARE ee.
+16 ¢(max)                                                                      16 ¢(max)                         16 ¢(max)
+                  aw 24          Ts           ee
+ah      va      Vy      om
+       nl |         EL
+a)                           b)                          c)                          d)
+We
+允许采用
+变化顶连接                                                               ae
+HALA) ~WE                                                                            y,
+Pa                 ts,                          ts                    CL.
+thy ae o                       Z|                                                 Sa
+<  SF                  六 ‘SH                    ¥ aa              Vea
+得  见6.5.5.4条          绅                 a            =  外
+|                 56.      Lo     neve /lL_)               上
+e)                           f)                          f-1)                        8)
+图e)一图 8), L<l6th W,<l6t
+                         :                     允许采用
+A                         A                          A
+|可xz      By A       Elsie, A        PE A
+=           rey                  im.           nik,
+16¢(ma TR                      SS    al 16 t(max)]             ae 6 ¢(max)       16 t(max) He
+角钢中性轴   |                       |   角钢中性轴|               |   角钢中性轴| 。 角钢中性铀    |
+、                                 h)                       h-1)                          i)                           i-1)
+a  _  ，
+当饶项的厚度不大于6 mm 时允许采用          、
+              角钢中性轴                 角钢中性轴
+                                      了                           5                                       D
+和 ， ，
+不人允许采用
+注 1: 当采用图广1) 的结构，即顶板位于承压圈的下侧时，角焊缝应是封闭的，并且能顺利排水。
+;           £2: “TRE E<6mm, # ARAB). ADAP RAAMN, BMRBKT AB.
+#3: 图 、图k) 、图 1 为不允许采用的结构。
+-            注4: 各种可以选择的焊接接头形式，受表 5. 1. 5 的限制。
+ 5.5.3.3 RRB
+.                                                                                                                  25
+
+--- 第 30 页 ---
+SH/T 3167一2012
+表5.5.3.4 角焊缝的最小尺寸          单位为 mm       1
+、                 —™     ，
+             -           = >< —
+ee / 站                           |
+5.5.3.5 4h RE Seyi                 ea MIRE LE BE
+2B) Pn Swe BZA) BT DY A                          A)
+a) BRE IC ENA Fe
+b) Sof game dima                    aa) et
+c) FRREAT ROTTER BRE, (BAKA        4的规定。
+5.5.3.6 上育上在圈的钊出部分应尽可能靠近饶         Ml
+5.5.3.7  ie 内、外的承压圈的形状如会         AR, 则应沿其圆周均匀地好 se  排
+WL. 四人 装满液体局          oid      HA AWA MES ae
+dae Wl eet                               €
+5.5.3.8) grllicieB wana                         超过其厚度的 区证时，
+可不必男旭进幸.| 否则，需在                       设置支撑。 yer Es
+Ts BE i a 以防 支撑时， 角吕ee出名膨!
+圈梁的     TEESE ASE Ab   的要求，
+7T=1. 440p         ee;             se  Re .8)
+tO} '                                      TT
+h   Grapnniacm          中下            计在内，当5 |
+.     ;     Pesca ¥20 2 Sl Fie       Ni       JAK HY]     Sp EF)
+es 虽作用 )， In
+Oo—* Fa fin ak BRE       DFA [i       :压构      esance (une  比
+(YTS ).\N;
+Re WE EA a sce eb          ER                                   aS
+k FG gt HEAR FE      tor      Fie ay       FBO, FAH p. 5.3.8
+确定     为沿上             if        HF 90°).
+MT             fj                  |
+fi >
+ONT
+CD eel Oe
+=              E
+| a ae
+26
+}
+
+--- 第 31 页 ---
+SH/T 3167一2012
+表5 5 3 8 决定承压图拉排人值的系数(续)
+Los | am | A]
+把           rN
+加IAA
+[UMD | oo
+AI NT
+ 必[                    rN Uy
+ara                    TO
+加从/人                   四VGN |
+5.6 $F
+5.6.4 a      荷或地震载荷组合作用产 a 得超过
+Meat mec es Set ee     H2A. BM, VERDE
+FH see.
+5.6.2 ie MbHeRt,                            fea ee iC.) tis
+REE PERT, BT                          ,震载荷不应上 Cy
+5.6.    PEE LAF EH
+i Aue thee FE eee oe                     工
+ae                5:                  rT
+-用拉伸应力
+im J. ew
+a                           BSUNIRE)
+“= i =
+> VE \ ens     m foie
++}                                  »
+= desea           : Dia
+>) NCATE, 4       eh     name Sue th ARR
+INCI,       7  妙
+) mRNA RMR, KabimiR Amt of, Dy ee Rt mem
+或其他志 绝澡式与锯尽相连接，不应使匀壁产生过友的局部R人变形;
+d) ，饶内径小认人SA党性间距 CIR) 不得大于 2m; My APY? 15m 时，螺栓间目
+5.7 开孔和开孔补强     )         am
+5.7.1 符号说明
+4 一一 开孔削弱所需要的补强截漳积ramz:
+B— 补强有效宽度，mmi
+C 一一厚度附加量，mmi
+                          27
+
+--- 第 32 页 ---
+SH/T 3167—2012                                           -
+也 一一壳体内直径，mm;
+4 一一 开孔直径, 圆形孔取接管内直径加两倍厚度附加量，椭圆形或长圆形孔取所考虑平面上的
+尺寸〈纺长，包括厚度附加量)，mmyi
+乒 一一 强度削弱系数，等于设计温度下接管材料与壳体材料许用应力之比值，当该比值大于1.0
+时，取大=1:0;
+万一一 接管外侧有效补强高度，mmi
+in — BE AMARONE, mm:                                                }
+6 一一 壳体开孔处的计算厚度，mmy                                              |
+be 一一 壳体开孔处的有效厚度，6e一Or-c，mmi
+bu 一一 接管有效厚度，js=borce，mms     -
+bn 一一 壳体开孔处的名义厚度，mmi
+2一一 接管名义厚度，mm;                、
+& 一一 接管计算厚度，mm。                          :
+5.7.2 MISE. MELIFFLMTOR, MEARS
+储饶壁、饶项上的开孔应为圆形、椭圆形或长圆形。当储饶壁、饶项上开椭圆形〈或类似形状)
+或长圆形孔时，和孔的长径与短径之比应不大于 2.0。当开孔位于负壁、锥顶经向应力和纬向应力不相
+等的部位处，其长轴方向宜与较大应力的方向一致。            .
+壳体上每个开孔或其加强件的边缘与壳体上任何形状突变处〈如镀顶与饶壁连接处) 及补强件外
+缘之间的距离不得小于 150mm，且不小于 8 倍开孔处的壳体厚度〈包括腐蚀裕量)。开和孔的最大尺寸，
+不得大于开孔处壳体曲率半径的1.5 倍。
+5.7.3 适用的开孔范围                                 .
+5.7.3.1 本标准第5.7.3条和第5.7.6条中给出的补强规定, 适用于开孔的尺寸不大于以下值的情况:
+a) EPR HEE (AZ) R和750mm 时，开和孔最大直径 d<R, H d<520mm;
+b) fe HHRE TS CAFE) R>750mm 时，开和孔最大直径 d<2R/3, A d<1000mm.
+6.7.3.2 大于上述尺寸但仍在本标准第 5. 7.2 条所述范围内的开孔, 应给予特殊考虑。补强应满足本
+标准第 5.7 条中提出的各项要求。应特别注意使补强的主要部分尽可能靠近开孔边缘，同时从镀壁厚
+度到补强件的最大厚度处还应提供合理的过渡区。在可能的情况下，大约 2/3 的补强量应设置在开孔
+每一侧向外延伸 d/4 的范围内。
+5.7.3.3 角焊缝宜打磨成圆滑过渡，饶壁或接管颈沿开孔边缘处的内侧转角应圆滑过渡。
+5.7.4 不另行补强的最大开孔直径                           四
+5.7.4.1 壳体上的单个开孔在符合下列条件时可以不另行补强:                                        |
+a) “壳体壁厚乏9. 5mm，接管公称直径小于或等于 PN80 的开孔;                           |
+b) 壳体壁厚>9. 5mm，接管公称直径小于或等于 DN5O 的开和孔;
+c) ”螺纹接头直径不大于 DN5O 的开孔。
+5.7.4.2 在外压条件下, 壳体上开孔所需的补强面积, 仅为本标准第 5. 7. 5. 1 条中所需补强面积的一
+半， 该条中的 5 是根据外压条件确定的厚度。
+5.7.5 开孔补强结构
+5.7.5.1 壳体开孔补强的要求
+通过开孔中心，且垂直于壳体表面的截面上所需补强面积应按下式要求确定;
+A=dd+2656e(1-f,)    57.5.1)
+5.7.5.2 有效补强范围及补强面积
+计算开孔补强时，有效补强范围及补强面积按图 5. 7. 5. 2 中矩形 WXYZ 范围确定。
+28
+
+--- 第 33 页 ---
+SH/T 3167一2012
+                  8
+Fas    aa
+wl 全 |           x      w   a : :          x
+«   ;    机  ， 1          _  ， 1
+aK \|    aa                  ‘a    4    mS
+| qi ASG      ， 11 ee JSS      和 |
+-         aA |             -         aly |          y
+a)                                 b)
+图 5. 73.2 有效补强范围示意
+5.7.5.3 ”有效补强范围
+有效补强范围按以下规定确定:
+a) “有效宽度妇按下式计算，取二者中较大值;                                          ;
+2d
+                    .         B= {95 42d,         人 7.5. 3-1)
+b) 有效高度按式 (5. 7. 5. 3-2) 和式(5. 7.5. 3-3) 计算，分别取式中较小值。
+外侧高度
+ho-  V%ar     加       (5 7,5. 3-2)
+: [ea
+内侧高度
+ho=  Vm    加               (5 7,5, 3-3)
+° (scab .
+5.7.5.4 补强面积
+
+在有效补强范围内，可作为补强的截面积应按下式计算;
+
+A= Ai + Az. +As          (5 7了.5.4-])
+
+式中，
+
+4一一补强面积，mm';
+
+4一一壳体有效厚度减去计算厚度之外的多余面积，mm ;
+
+Ar (B-d) (6,8) -25e:(6°8) (Ih) 57..5.4-2)
+
+4一一接管有效厚度减去计算厚度之外的多余面积，mm
+
+.           Ax=2In (6sr6D ft+2he Oe-C2) 大      57.5.4-3)
+
+Ar — #2 BREA, mm’;
+
+若 4。>4，则开孔不需另加补强;
+
+若 4e<4，则开孔需另加补强，其另加补强面积按下式计算，
+
+4-4。     5 5, 4-4)
+
+式中:
+
+4熏-一有效补强范围内另加的补强面积〈见图 6.7.5.2), mm’.
+
+补强材料宣与这体材料相同。若补强材料许用应力小于壳体材料许用应力，则补强面积应按壳体
+材料与补强材料许用应力之比而增加，若补强材料许用应力大于壳体材料许用应力，则所需补强面积
+不得减少。
+
+29
+
+--- 第 34 页 ---
+SH/T 3167一2012
+5.7.6 多个开孔补强
+5.7.6.1 ERMA MACATLY OE) tise Sa ete TERE Ree A
+5.7.6.1), SSP FPL ALTERS TL Pe FAAS 5.7.5 SMT FMR, BRASH
+强。联合补强的总面积， 要To. Sy, 网补强面积至少应等于两
+LAE IME 50%. GS, Cadipee rth. 裤中心在同一直线上的          |
+FTL, FT BERR HF Wey                  F4
+人~         补强范围                 4
+Q        \ a             y
+=/ i    |    rm
+ae att            ‘
+dl             atte                          >             |
+5.7.6.2 |两4   相邻开孔的                    开用联合补强   图
+5.7.6. 2)4 Wie Sea Se FE FL BS                             了孔之间的补惠
+SFB Molade fo PIR AREY                                                       |
+HE il  孔中心距小                           人  candids 0 ii
+SSFP ILE       示准第 5. 7. 6. 3 条的方法进行补强。                                                  |
+(  )                   ah                        | j |
+oc     a        =    |
+we               C]                          C)
+\      L       if                        | a
+人       图 5. 7.0.    STIL
+5.7.6.3 PERRI Dy PTR ANTI MOAB IFILL E29 —/ MEAT BAR ALAA FEE EL
+BETAME. BUS ILI AVG GM BNE 5.7.3 条的规定，所有接管 ity PRE DATERD AR.
+5.7.7 #38]                                                                 |
+“SR URMR MET ANE, SOY IB) 4736-       m
+5.8 齐平型清扫和孔
+5.8.1 设置条件
+在满足下述 a) ~c) 的条件下，可在储饶下边缘议置与负底齐平的清扫孔。                           |
+a) 储饶内气相空间的设计压力不大于 13. 8kPa;
+30                                   .
+
+--- 第 35 页 ---
+SH/T 3167一2012
+b) 由内部设计压力和试验压力及风载荷、地震载荷而引起的链体提升力相抵消而不会抬升负避
+和底板之间的连接部位;
+c)镀壁在齐平型清扫孔开外所部处的纵向或经向游膜序sANSE超过开孔所在的底圈镑壁上的环
+向设计应力的 19
+5.8.2 ”尺寸和详图   Sa)
+sep snit ghee GEA EA 5.8.2, 5.8.20  ig
+~/                   :
+所              生生  3
+O   efulaeim mE =            a"
+>   oF    oa    NT VO
+LL  ewe                         e)
+|      l/s     工
+LT ww                     Mm
+7
+(@i
+ets LLM
+re all    —
+vel               ()
+ae             a
+| )   e         八-
+WA                   长尺寸wj500 mm
+| il ee       :        欠
+e        N     Yi ne Le
+a    iy   H        BASSAS
+Oe =>
+nae    REIN
+31
+
+--- 第 36 页 ---
+SH/T 3167—2012           ;
+当加>38mm时磨成圆角
+4 7       4
+GEEK 38mm)\  N  4
+Bi) b,/2  | 125mm x                 Bee
+由
+贞    Nase)
+i=            IN                    底板加强板          底板过渡板
+人Fr一                S
+SSN NWSW 73                                                                                _                                    [x                           Z\
+            nim              * OS
+<            、                 -                   Ly
+<            ce ae re,
+24t250mm          开孔的中心线
+ta( >13mm)   底板
+FF IS” TS GN                              wr vara PSS
+Oe      OO         a
+KA           .   N77       o
+Ez                                             可选择的对接焊详图
+ieee b= AA
+CES |
+当四>38mm时麻成贺角                                g hy   FI
+q                   z             底板加强板恕      ©
+(最大 38mm)            f       7     '                A
+，   KE) wanna          cream)
+5/2    125mm’   i         NS
+nl           XY        ES
+YZ            ale
+<30° ep,       BS  i
+7
+BA
+接管中心线         wee     |
+|                 2和+250mm <|                               底板
+Oe 1   TIN   NA
+人     4 十、一      *
+MERE D> AOR       -                              .
+CC
+注 1: 连接件中较薄板的厚度，且不大于 13mm。                                                 ，
+注 2; 法兰尺寸按 HG /T 20615 的规定。                                                                    ;
+注 3: Bt, 为过渡段接管厚度和颈部厚度，mm; 4 ARRAS, mm; 1, 为清扫孔处加强底板摩度，            |
+mm; ty AASSFL ARE BEAR ERE, mm.                                                   |
+|
+|
+ 5.8.2 ”章平型清扫孔
+32                                                                                 |
+
+--- 第 37 页 ---
+|
+SHAT 3167一2012        |
+”表5.8. 2章平型清扫孔尺寸
+were                      ead    开孔上部     Peg ee
+      ml cm ” _ ;                        |
+PN2.0        mm        mm        mm        mm          mm            :
+      350
+      450
+    300      |
+    300        550
+    625        1725
+Loo | ao sw | ?zx      |
+a) AS LIER ILAL RARE DAB 900mm, RABE A MABE 300mm;            |
+b) 章平型清扫孔处的饶壁板厚度不得小于相邻的底圈负壁板厚度;                      |
+c) FEF BUI T Fb seat 9 J BES FL Ach AR                         ;    |
+d) 章平型清扫孔组合件中缸底过滤板的厚度不得小于12mm，当有规定时，取饶底边缘板的度。     |
+5.8.3 ”热处理                                                             |
+齐平型清扫孔组合件全部焊接完毕并检验合格后，应进行整体消除应力热处理。               1
+5.8.4 =i
+章平型清扫和孔盖板上不得连接有附加载荷的接管。
+5.8.5 补强
+5.8.5.1 清扫孔开孔上部所需的最小补强面积按下式计算;
+本有和/2       《58.5.1)          :
+式中:
+太一一补强面积系数，见图 5. 8. 5. 1;
+ta FF ILE REE DSBS), mm;
+六一一清扫孔高度， mm.
+128 Cee eee                           |
+PERE EEE
+H+    1   Ree
+100 FEE EEE EEE et
+站HH
+oe    CAE
+a      FELL ESN PTT Ty)
+Fl, os tj PS aro a
+alg) Ee eS
+elo:  |  一站NE
+=      FEED
+sf 9.80 Cee  PRN
+aa Leo PEN
+Fach EERE EEA
+0.25 EERE EE
+sad fact#fanatenat vais
+FEE
+LEER LEAH   EET HES                         :
+0  1.0   Ld   1.2   13   1.4         .                 ，
+补强面积系数 K,                                  |
+注，玫-一负体高度，m。
+图 5. 8. 5.1 章平型清扫孔补强面积系数 K                      |
+     33       |
+.                |
+                                         |
+
+--- 第 38 页 ---
+SH/T 3167一2012
+5.8.5.2 负壁的补强应设置在开孔底部以上高度为工的范围内, 工应不超过 1. 52。对于小尺寸开孔，
+工减去广的值应不小于 150mm. 4 KEL, WR ATES 户高度范围内的补强部分才有效。
+注，L 为负壁补强板的高度，mm。
+5. 8. 5.3 所需要的补强可使用天家/天本天着形式或联合使用:  O
+a) HERES,
+b) FEATS TL BA PRISE eT BSG AGERE CRRA) BE BOP,
+Cte. te tates ree             Le
+5 8 5 4 HtSTLingh RQ ERI 250mm 加上开设清扫孔处的缮壁板  PRIS 清扫孔加强
+REAR ATH EAP GY:
+sere Mgereeseees 05.8.5. 4)
+st.                                                  a)
+b:— aA SLs mm.
+fn 33 eB pu , 24 H=14630mm         , 4 H=17000mm Et, }i ai p34
+H=19500mmn ff}, S4f4 20mm。加强底板的最小       小于计算厚度加厚度附加是有
+se. otf abe en, Sh (5.8.5.4) 确定的如值        村料在设计温度下的屈服强度之上 ia Sy yin.
+5.8.5.5 pipes ee paK           as
+5.8.6 f >                                                 (
+weet? ld EAS HE BEAR.                                    HES THI, FEL AS
+FILA A                           MERI EAR ui 上
+ERP ds  渡段和加强                                         FR Be Sh taal}
+ARE.     过接法兰及接管颈部的冲击韧性值应符合本标准第 4 章中的相关要求。此外。 ME BEEA
+UEP AEE RNR AR EB} 5               EY,                        SLES AR SR PEA TTT a
+5.8.7  hoe f
+ec Fp Der 137         pe               AES ee
+we
+oe Oe                                                  oy
+SL ABD RD iim tm        Hap        A                 CK)
+5.8.9 3h                                                  入
+清扫孔有天大的锚基础, 应根        MEEK        理。
+5.8.10 接管饲中                                             人
+章平型清拔员半路呆用共                结          ,线的起小距离虑不小于
+1.5 (brtbet65) mn HAR ANAK 60(                 tf           表兄SS第 3出中查得。
+不共用同一个补强民的上中订于                a            0y 全
+注，此处 bo Sead 7 Lire.                            />
+5.8.11 ，焊缝检查
+Bee Rats LONE pr REL, URN LPT lowe
+Wl. ‘BE MEE Rah SAR ZNO Pav Pr. SER A ( APES   WY ME. IR, UES
+焊完 13mm 1S BA Hs a 点进行磁粉探伤检查。 GB
+6预制、组装和焊接
+6.1 一般规定            .
+储径的预制、组装和焊接应符合本标准、GB 50128 及相关设计文件的要求。
+34
+|
+
+--- 第 39 页 ---
+SH/T 3167一2012
+6.2 焊接
+”6.2.1 焊接接头的形式应符合图样的规定。
+6.2.2 tee Ta a A eS, MOREA, FASC ATA ee 〈包括工型
+接头处) WASERAI RPA,
+6.2.3 AAT FINS BEEF WAR BEST IE. A ED NO 搭接宽度
+DAF BEBE WIGS SAKE 25mm.                            7,
+6.2.4  TEP   MAES. ETB, AASB TBE co 3mm 时或当采用中
+心线对齐时相领对全板厚度差应为大于 6mm 时，应将较厚板削成平油         OK L 至少为相
+ABER AR ELE 2a fa) te Tg Sab ae i ob Tit pa haa es fats)   4
+a]        a
+人          4                    L   =
+O                                                 锥坡可在内 oR)               ;
+=
+S|  O
+山上|                                            Cc)
+a) 优先                3              天 sit
+a5                                 y |                                      +
+6.2.      IE REE 0°C             Ey                      早接处 100mm     APPR #1)
+sph                                               i
+6.3  Hee  热处理                                        Ps
+6.3. 1\ Walp Prat        ei       30mn       KE BRE Cy  接管或
+BA EARS HERE        热处
+6.3.2 Werle 支耳附       为下       不做       a (JD          .
+a) \Agbots\aret rd      bey       等于           八-
+D)  4 上                 于
+6.3.3 需做所处理的部件                ie           Pon Be
+a) PAU AR,               Ke
+b) 244rrhHeasoo'e ay ree epee 200/   YC/h GMP 8 Rae (18 RE, mm),
+AABK POMC
+c) 加热过程总,合作8昌外任意 4 500mm KER A EE A APOOt, GRR, Ab
+的温差不得大于 6外，和肯湿通度为 590C士20C时xn每     ROSA OR 1 小时;在升温和
+GRIT, SRE Gat oe ta    ;     he    Ld abt ee
+d) ”降温过程中， ry WARE 300°CRK, SOKEUPAT 降温速度不得超过 260/ (1/25)
+C/h, BAMBI 260°C 4 AE PRES ERA 300°C, HRA.
+6.3.4 当热处理温度达不到 590C时，人允许按坟5. 3. 4 的规定在较低的温度下保持较长的时间，以达
+到应力释放的目的。
+35
+
+--- 第 40 页 ---
+SH/T 3167一2012
+表6.3.4 热处理温度及保温时间         ;
+Cc                            h
+ee
+            |
+6.3.5 除设计文件另有规定外，奥氏体不锈钢储饶的对接接头可不进行消除应力热处理。
+7 检查、试验和工程验收                                       .
+7.1 一般规定
+储饶的检查、试验和工程验收应符合本标准、GB 50128 及相关设计文件的要求。
+7.2 气孔限制
+所有焊颖每 100mm 长度范围内的气孔密集群不得超过 1 个，且其中最大的气孔直径不得超过
+2.4mm. ;
+7.3 ”无损检测
+7.3.1 可采用射线、超声波、磁粉或液体渗透等方法对储饶的相关部位进行无损检测 。
+7.3.2 射线检测方法应符合 IB/T 4730 的有关规定和如下的要求，
+a人“100% 射线检测应符合以下规定:
+1) “凡是双面焊对接接头中的较薄板厚度或者缸壁板厚度超过 25mm，需进行 100% 的射线检
+测;
+      ” 2) ，铅底边缘板的每条对接焊缝外端 300mm 范围内，应进行 100%射线检测;           ，
+3) ”设计文件中要求 100% 射线检测的焊颖; -                .
+b) 局部射线检测应符合以下规定:
+1) “局部射线检测点的焊缝长度应不小于 300mm; 丁字焊颖处的射线检测点，环颖检测的长
+度应不小于 150mm，纵颖检测的长度应不小于 80mm;
+2) “底圈壁板的每条纵焊缝应任取 2 段 300mm 长的焊缝进行射线检测，其中一段应靠近饶
+底板;                                                                         ，
+3) “未进行 100%射线检测的所有纵向和环向焊接接头，应进行局部射线检测;
+4) 每位焊工焊接的每种接头形式和厚度的纵焊颖中，在最初焊接的 3m 焊缝的长度范围内
+任意取一个射线检测点, 以后对每种接头形式和厚度的纵焊颖在每 15m 长的焊颖范围内
+任意取一个射线检测点〈最终剩余不足 15m 长的焊缝范围内也要取一个射线检测点)，
+至少 25% 的检测点应位于丁字焊缝处，且每台储镀不少于两处;
+5) 每位焊工焊接的每种接头形式和厚度的环焊颖中，在最初焊接的 3m 焊缝的长度范围内
+任意取一个射线检测点, 以后对每种接头形式和厚度的环焊颖在每 30m 长的焊颖范围内
+任意取一个射线检测点《最终剩余不足 30m 长的焊颖范围内也要取一个射线检测点);
+6) ”厚度大于 10mm 的壁板，全部丁字焊颖应进行射线检测;
+7) “当射线检测不合格时，应把该检测点的两端延伸 300mm 做补充检测，如果延伸部位的
+36
+
+--- 第 41 页 ---
+|
+SH/T 3167—2012         :
+检测结果仍不合格，应继续延伸进行检查，以此来确定不合格的焊颖范围，不合格的缺    |
+陷应去除并重新施焊，重新施焊后的焊链进行 100% 射线检测。                     |
+.     7. 3. 3 ”磁粉和涂透检测应符合以下规定;                             |
+a) REE SHERRY T形接头的饶内、外角焊颖应进行渗透或磁粉检测，并在水压试验后进    i
+行再次检查;                                      中
+b) “储负缸壁上的所有接管及其补强圈的连接焊颖，需在锥内外两侧用磁粉或渗透法检测;       i
+c) “标准届服强度小于或等于 390MPa、壁板厚度大于 25mm 及标准届服强度大于 390MPa、任意    |
+厚度的饶壁板开孔焊颖及补强板角香缝，应在第一层焊完后，进行滩透检测，在最后一层焊    |
+完(对有延迟裂纹趋向的钢材至少要经过 24 小时)后及水压试验后应各进行一次渗透或磁粉   |
+检测;                                         |
+当有消除应力热处理要求时，还应在热处理后、充水试验前增加一次渗透或磁粉检测，  |
+d)，负底板三层钢板重伙部分的措接接头焊颖和对接缸底板的丁字焊缝的根部焊接完毕后，在沿    |
+三个方向各 200mm 范围内，应进行渗透控伤: 全部焊缝香接完毕后，应进行渗透检测或破
+粉检测;                                                         |
+e) “凡是要保留垫板的焊接接头, 应在打底焊焊接完成后用磁粉检测, 待全部焊完后再做一次检测。  -|
+纺”磁粉和渗透检测 | 级为合格。            |                                |
+.    7.4 压力试验
+7.4.1 总则                                  本
+.   7.4.1.1 储饶全部焊接完毕并经无损检测合格后, 应进行压力试验。 当设计考虑了能充液到饶顶顶部    |
+的储缸，应进行水压试验，否则应做水一气组合压力试验。              .       i
+7.4.1.2 RARE RIFT FL #b SE PNY ZE Fe FIR ASLAN 0. LM Pa 的压缩空气检查焊接接头的质量。
+7.4.1.3 ESERIES OR FR ET PE, 其试验值均不得低于 53kPa, 无渗漏为合格。
+7.4.1.4 储包的错栓应完成二次灌浆《如果设计有要求)，且应将锚栓的夹持件设置完毕。
+7.4.1.5 在上述过程完毕后，向储饶内缓慢通入空气至设计压力的一半，且不大于 13. 8kPa，对设计
+最高液位以上的镀壁上所有焊缝及人和孔、接管和其他连接的所有焊颖进行初次泄漏检查。如有污漏，
+修补后重新试验。在上述试验过程中，如果发现镀底周边向上抬升而离开基础出现间隙时，应在饶内
+带压时,用砂填满颖隙并夯实。上述检验均合格后，再进行压力试验 (水压试验或水-气压组合试验)。
+7.4.1.6 试验水温应不低于 5C，对于奥氏体不锈钢缸，试验用水中氧离子含量不得超过 25mg/L。
+7.4.2 水压试验
+7.4.2.1 试验压力为设计压力的1.25 倍。
+7. 4. 2.2 试验方法按以下规定:
+a) KERMA SRAM, EO,
+      b) 充水过程中应控制水的流速，水面上升的速度应不超过 0. 9m/h;
+©) 充水过程中应监测基础沉降及地基基础的饶底四周边缘不应有过大的向上抬离，如沉降量超
+过相关专业设计文件的规定时，应立即停止充水, 并及时进行处理;
+d)，充水到设计最高液位并保持 48h 后，锥壁无渗漏、无异常变形为合格; 发现渗漏时应放水，
+使液面比渗漏处低 300mm 左右，并按 GB 50128 的相关规定进行焊接修补，修补完毕后，继
+续充水至设计最高液位
+e) ”缓慢充水升至缸项最高处, 关闭负顶放空口, 缓慢加压至设计压力的1. 25 倍, 保压至少1小时，
+          然后缓慢降至设计压力，并保持足够长的时间以对所有焊接接头和连接部位再次进行油漏检
+查，如有渗漏，修补后重新试验;
+f) ”饶内泄压，把水位降低到安全冰进口位置，拆除安全闪上的盲板，然后从储负顶部注入空气，
+当缸项气相空间的压力达到设计压力时，检查安全阀是否起跳。
+37
+|
+|
+上
+
+--- 第 42 页 ---
+SH/T 3167一2012
+7.4.3 水-气组合压力试验
+7.4.3.1 水-气组合压力试验应有安全措施一区交全折施需妈试验单位技术总负责人批准，并经本单
+位安全部门检查监督。
+7.4.3.2 REA AREA   &              Cn
+7.4.3.3 试验方法按以下规定                            6
+a). b)s os d) igh ge F422 Sit a). b). 0). ds     AAA
+e) 在液面达到设扇师起机僻以后、气相空间加压以前，地脚螺栓】 全 TRIE, BK
+用锚带， Miles if DY 5 ae BE IS                                    ;
+f) KAGE os  feck i: AW 4 ON UIE all ICs ES a) 上寺  rey  半时，保压
+5min, PR Ja MATa                               Ha. \VWE4Nea BNA
+外)初次泄漏检查货格后                           !至规      NA, trie
+BP 他 Ht pp se tay                      HEARNE ON BS)
+h) & ad b) Behe Be AE                   BSL ALA REA EAT
+RAE, /如有渗漏，修补后重新试
+i) 饶虱泄库” 拆除安全闪上的言板，然        注入空气， oo 到设
+TEINS 检查安全闪的操作情况。
+7.4.4 局部亮会雇验
+7.4.4.1) 在生汶压力试验之后                             asin mia: Gait
+Sh, HB Vil bees
+7.4.4. 了 Minit THB BS                                EHP TED Sh ZK &): 的
+液位达 ae pTLA A — A A                               上的压力等 |  体
+ad I ca  UW Aik, peewee eae eth
+- 7.4.4.9 FARA A Fela HTK,          hay                 AFAR CZK    司外) 。
+FORE UEAUEA, Ea]          if                 AR,
+1.4.4.4  AI Rated          边|                 阶时,应在鲁jAtt全期可，
+FA RD Waa BORA
+7.4.5 外观检查                                               el
+SEMA IO AAA,         :力，         外过        观检查， Kodi 部支
+et. HPAL ey sae |       车栓       se,       调整。 为 hes Bh,
+中 用双螺|                                           ~
+8 AMAA ER
+8.1 总则
+凡是按照本 ey ws              Bil         = (My ;
+8.2 压力限制                                          f /
+8.2.1 按本标准建记gf。 :议题自动压力泄放装置，以防止缸顶部的尹   PA 倍的设计压力。
+8.2.2 ~4feieA AY REI     pS  eo TA Aye a BD YF FAK
+ee, VAR ILETAB AS NA    BML TT WR A canes eT LAR AD 8. 2. 1
+RABAT, ATLAS a
+8.2.3 CIERRA EP, AT Orikiemre AEA PRN, fe LV RBRS RSA, SARK
+BORE AN, 2 GEARHEAD AREA. BRERA
+小和设定压力〈或真空度) 应满足以下要求: MEAN ASE TERI RHNREE, 真空安全阀应
+位于储钒的气相空间，绝对不允许被介质堵塞。
+38
+
+--- 第 43 页 ---
+SH/T 3167—2012
+8.3 安全阀的压力设定
+8.3.1 当负顶压力等于饶的设计压力一省且维内的液面从最总设计沪位时，安全阅的设定压力〈正压
+力) 不得大于它所在液位处可能角钢的最大压力。
+8.3.2 FEIN F eae DAF eNOS Ha, BIL    或其他气体或者蒸汽) 以最大的
+;       RBI LR AS EE , eS HS BS OR APE RE EE 。
+4)
+<9             a
+上                                                  ts
+as                                                  =
+Oo                                            ~
+人                      oY
+39
+|               |
+
+--- 第 44 页 ---
+SH/T 3167一2012
+附 录 A
+|      (规范性附录)
+.    ;  储锥对基础的基本要求
+A.1 一般要求
+A.1.1 储缸基础的形式
+锥基础宜采用整体钢筋混凝土承台基础，也可采用钢筋混凝土环梁基础。
+A.1.2 储缸基础的一般要求，-
+A.1.2.1 基础应能满足储饶在各种不同操作工况〈包括非正常工况，如饶内存留很少液体，大部分
+或全部为气体时的情况) 及水、气压试验时的要求。
+A.1.2.2 基础顶部应有防腐措施或采用沥青砂垫层厚度应不小于 100mm 。
+A.1.2.3 基础应有适当的排水和负底泄漏检查措施。
+A.2 基础尺寸的要求
+'A.2.1 饶壁处基础项表面的水平度
+钢筋混凝土环梁基础顶表面水平度的要求为: 任意 10m WKAR +3. Omm, 在整个圆周上不应
+超过士6. 0mm;， 对整体钢筋混凝土承台基础，负壁中心内外各 150mm 宽的环形面内，水平度要求同
+钢筋混凝土环深基础。
+基础为混凝土承台基础时，在直径方向上，从镀外壁向缸中心 300mm 范围内的基础上，9m 弧长
+内任意两点的高差不应大于 6mm，且整个圆周长度内任意两点的高差不应大于 12mm。其余部分内任
+意两点的高差不应大于 20mm。    -
+A.2.2 全部基础项表面的要求
+基础顶表面的浙青砂垫层，在任意方向上不应有突起的棱角，从中心向周边拉线测量，表面凸凹
+_度不得超过 12mm.
+A.2.3 基础顶开面的坡度
+当基础顶表面的坡度为从基础中心坡向四周成锥面时，基础沉降稳定后坡度不应小于 0. 8%，不人允
+许将储饶的充水试验作为预压基础的措施，当基础顶表面的坡度为非中心锥面时，按设计文件和有关
+规定确定。
+A.2.4 tA HRS                             ;
+基础边缘上表面应高出地坪不小于 300mm. ZEMWEPL_E DY BRE EIS EA a BBR
+大于 20m，每台镀至少4个，管子公称规格不宜小于 DN50，且不宜大于 DN70.
+A.2.5 BiB TTB                                                                             ，
+储饶沉降应均匀。储人饶直径方向上的沉降差, 不应超过表 A. 2. 5 规定的值。支撑镀壁的基础部分
+不应发生沉降突变。沿饶壁圆周方向任意 10m 弧长内的沉降差不应大于 25mm。
+表A.2.5 储缸基础径向沉降差许可值
+22<D<40                                        0.010D
+40<D<60                                                      0. 008D                                                         ;
+40
+;                                 r
+
+--- 第 45 页 ---
+‘|
+      |
+|
+SH/T 3167一2012
+，                             |
+附 录 B                                       i
+.                                        (资料性附录》                                      |
+              钢制焊接低压储负计算实例                                 |
+某工程装宣中有一储细，自支撑拱项结构，其外形尺寸及工艺参数如下:                  |
+{IAs V=2000m';                                                 i
+fi AEE: D=16 400mm;                                                  |
+ARRAS RAR ETZEL LEE): H-10000mm;                                |
+
+最高液位; H=9000mm;                                                 .
+
+介质名称; 乙二醇;
+
+介质密度: p=1 100kg/m’s                                                 |
+          HEREIN 20408,                                                  |
+厚度附加量，c=0;                                                     |
+设计压力: ps=0. 02MPa;                                                 |
+设计温度， 20C 。  |
+其计算过程如下;                                                               |
+B.1 自由体分析
+以负体最下端的平面 1一1 作为给定水平面对储饶进行自由体分析，见图 B. 1。
+|                   .                          |
+1         _ — — —_ _ _ =        1                                            |
+给定水平面           |
+也        ’                 1                              1
+图B.1 自由体分析               |                    |
+B.2 单元力的计算                                                                |
+按照式〈5. 3. 2-1) ASK (5.3.2-2), BA A iit FP:                             |
+|
+Im      人 (B. 2-1)         |
+和       |
+
+--- 第 46 页 ---
+SH/T 3167一2012
+T=pR      (了 2-2)
+式中:
+R— 在所考虑的水平面上匀条bs和经，R=8200mm;    Cn
+p— €1-1¥H EZ tn               ty
+rnin hyp                      0,
+pu IL-1 é, RMthKA, HONEA, WEA sir  ;
+Pig人oo. 81x9=0. 097 (MPa)                 yY
+pg一一在1  Lidia ray
+p,=0.02 {MPa                                 a8)
+W— fiteres    Fit                                 BRE pa Q0mm 计
+KT iiss   Wit                              \
+W 3nk8 200°x9x1 100x9. 81x10°=
+Epil Pk as RET                       D
+=> B0x10°x9. 8=                                          O
+Wt W.=2. 11x
+Ay  二  1 水平面上，                                    CQ)
+aeR"=2. 112 10° (mm                             工
+F {A aprasauren                             ena nte fh] pps
+Gi 没有其他的名                         ;
+OMA  月 图可以看出        部分                   力 灰的方有上Sa由作水
+平面上 ae， 所以       -算如                      O
+一     _R        +F)                 OY fg!
+AF                    CMV                 入  (B. 2-3)
+a     _                 "          本[Am
+B.3 壁厚计算                                        人7
+因为 N<th, FU  5              的
+pet ae    oo ©) seeeeeeee (B. 3-1)
+Ay           *           “>
+查表 5.1.5, HUSEBNLE Mage 073               2)
+BR 4. 2. 2 可知，材料 SIM RES ¥IMPa, c=0, PRL:
+t=9. 347mm
+EE AS Uh ES BY el Ee EE AR OR I, BC 10mm.
+按照国内板材的板宽规格，取板宽 1 780mm WHAT OR, ROTA RAD, FiRAR
+42
+
+--- 第 47 页 ---
+SH/T 3167—2012
+的厚度，计算结果及排板图见图 B. 3.                                         '
+2          ay
+32 =
+Oy   Tl            NZ
+RY    他
+O         Sn          a           马            |
+8 4| Kedar                             mM
+ao a Genoa                         构如图 aK  按式
+(5. Deo) 1和式〈5. 5.      OF:
+所                                      |
+r                W,=0       )         天B. 4-1)
+\            =      C)        性 CB. 4-2)
+R— yrs a                   n           teapenigc neg Ti EE,
+Neko                   i              hee halichisemmeriernes
+ae DX. ELago. 8D=13 120mm;                   {}
+R, 一一 fe ENE   NIKE, BURR, R=RS8200y
+4 一一 Tie  Ay:                CD
+fg — SUE, ie  «)           am
+c 一一厚度附加量，c=0。
+W,2194. 385mm
+下=133. 086mm
+43
+
+--- 第 48 页 ---
+SH/T 3167—2012
+;           TR
+pata    LD
+                   x
+6
+TRE   |                                   _
+ B.4-1 承压圈结构示意
+在承压圈附近，对于球缺形拱顶采用式 (5. 4. 3. 1-1)、式 〈5.4.3.1-2)、式〈5. 5.2. 3-1)，计算
+Tr. TAO; NF ?zs，根据它的定义，可以采用式〈5. 3. 2-2) 进行计算:
+下 -到x+人         43)
+T-Rsp-Ti     Perret eerie reer etre terete (B. 4-4)
+Tes=Rp      5B .45)
+O=TeW + TosWe- T.R,sina          (4-6)
+对于球缺形拱项: 及就是拱项的曲率半径，Rs=Rz。
+      在不考虑充液到镀顶顶部时，p=pe=0. 02MPa。如果在设计时考虑了能充液到镀顶项部，则需要考
+虑相应液柱的静压力。                                                    ;
+从图 B. 4-1 PRT LAB, a=35°.
+根据 球的定义，对球缺形拱顶，丈取缸项的重量约为 15t。
+                                                      W=15x10009. 81=1.472xl0 (N)
+SUARAMA PH, EAR ARS ER OV Ae lg BOF TE
+力方向相反，上述各项的计算如下:
+qh Fala +) -lz 63 (N/mm)   Co srererenrseeeceaneseeareaay (B. 4-7)      ;
+T=Rep,-T=135.77 (N/mm)      WEB 4-8)
+Tos=RDg =164 (N/mm)      0 (B, 4-9)              |
+QO=T,W,+TosW.- T.R-sina=-8. OZAx103(N) pp (B. A-10)                  i
+因为2O<0，所以用式〈5. 5. 2. 3-2) 计算 Ae
+A = Wa =7.76x 10° (mm?)         (4-11)
+从图 5. 5. 3. 3 中可以看出，承压圈区域内有效面积的计算如下:
+44
+
+--- 第 49 页 ---
+SH/T 3167一2012
+;        |
+镀顶板有效宽度内的面积4: |                                      :|
+         4P(Wa+150) x (tg-c) =2. 755 10° (mm)        CEB.412)
+.                       负壁板有效宽度内的面积 Ay:
+A=W x (kr-c)=798.519(mnm)      (了 4-13)
+ARGS Ay:                                                                     |
+A= At+A=3. 554*10° (mm’)      (了B. 4-14)           |
+因为 4z<.4。。，所以此结构不满足承压圈面积的要求。经过试算并考虑承压圈区域的整体刚性，取      ，
+承压圈区域的饶壁板和支撑板的厚度为 20mm，最终的结构见图 B. 4-2，计算结果如下:                   .
+W,=307. 35mm
+W242. 914mm                          - |
+. O=-7. 69x10°N
+                                        Ac=7. 433x10'mm’                                                                      |
+A=9. 147x10°mm?                                                          |
+As=4. 86x10°mm?
+A,=1. 401x10'mm’                                    :
+42>4e，所以此结构满足承压圈面积的要求。
+HET
+ae         SO
+oa
+&     An
+                 CAE
+，                     支撑板   20       =                     _
+.                          DEE        ;
+AB.4-2 承压圈的最终结构示意
+45
+|
+
+--- 第 50 页 ---
+SH/T 3167一2012
+本标准用词说阳
+1 ABT ERT AL Ka. Ts ne) Dyan :
+1) RARE, QE PEA AT:
+ae
+TRIG Pee LEFF    =) BY.    :
+eal ay By ie "    =P    Gi    »    «sa»             Y
+3) FAR VPM Ae
+Pe          9
+2 &m < 按其他                             rH    或 mae, 全
+(1)                                               +
+=                                                D
+山                                                  QO
+工                                                   工
+         5                                                  mM
+oc                                               =
+en                                            入
+|
+oO                                        >
+&     2
+\D              〇                                 |
+46                                                           .                  |
+
+--- 第 51 页 ---
+.
+
+中华人民共和国石油化工行业标准 、          |
+
+Pd Fill KE FER: ee
+
+|
+
+SH/T 3167—2012          .               .
+
+条文说明
+2012 北 京
+
+|
+
+--- 第 52 页 ---
+|
+                                   SH/T 3167—2012
+|         制订说明         |
+SH/T 3167—2012 (2 EBHR EAE), ATA A4O88 2012 年 11 月 7 日以第 55 号公告批
+本标准的编制，主要以 API 620《Design and Construction of Large, Welded, Low-Pressure Storage Tanks)
+为参考，同时参考了 SH 3046一92《石油化工立式圆简形钢制焊接储饶设计规范》、GB 50341一2003
+” 《立式圆简形钢制焊接油饶设计规范》、GB 50128一2005《立式圆简形钢制焊接储饶施工及验收规范》
+等国内外标准和规范。                                           ;
+为便于广大设计、 施工、科研、学校等单位有关人员在使用本标准时能正确理解和执行条文规定，
+《钢制焊接低压储饶》编制组按章、条顺序编制了本标准的条文说明，对条文规定的目的、依据以及       |
+执行中需注意的有关事项进行了说明。但是，本条文说明不具备与标准正文同等的法律效力，仅供使 “
+用者作为理解和把握标准规定的参考。                                                           |
+.                                                     7
+.                                                                           |
+                                                          |
+|
+49
+|
+
+--- 第 53 页 ---
+SH/T 3167—2012
+=|     次
+
+4.6  结构钢型钢 5
+
+4.7 焊接材料 5
+
+5 设计 5
+BLA HETIL hee eee cere een eee er 和作和 作人们人58        |
+
+5.5  EYE A 7K RA ett 8
+
+5.6  锚栓 5
+
+7.4. 压力试验 9
+
+8 压力和真空泄放装置 9
+
+51    .
+
+--- 第 54 页 ---
+SH/T 3167一2012
+钢制焊接低压储饶
+1 范围                                                                 .
+:        本标准的适用范围从以下 2 个方面进行了限定:
+a) “储饶类型，指立式圆简形钢制焊接储镀;
+b) “工艺条件按以下规定:            ，
+1) “本标准适用于盛装或储存在环境温度下顶部有气相空间的液体储饶;
+2) ”设计温度指在正常使用情况下，设定的负体金属温度，其信不得低于负体可能出现的最
+高金属温度，或不得高于负体可能出现的最低金属温度; 储饶的设计温度，主要考虑储
+存介质的操作温度和建生地区环境温度的影响， 一般比储液的储存如度 (近似操作温度)
+低一些，储液的储存温度由储液的性质，如挥发性、凝固点、沸点、粘度等以及储存条
+件所决定;                                                        .
+APRA REA REE ES SRR, AARNE EE Pe
+PBA RM, WEA, DERN KIS Re Bs PN
+;             ” 较低者，对于在环境温度下储存且无加热或设置保温层的储饶，应考虑环境最低温度的
+影响，设计温度取建饶地区最低日平均温度加 13C，对于设计温度低于-20YC a,
+应按照低温储饶设计，人工制冷液体的低压储饶不在本标准范围之内，几个国家储饶设
+计参数对比见表 1;
+Hel 几个国家储镀标准规定的设计压力及设计温度
+TEX: 90°C        TEX: 接近常压
+美国API 620《大型焊接低压储饶设计和建造
+常压储饶; 正压 750Pa
+负压 -250Pa
+a        aT    ais                 (REM: IEFR 2000Pa
+;              英国BS 2654 《石油工业立式钢制焊接泪继》                Su -600pa
+高压储饶: 正压 5600Pa °
+负压 -600Pa
+四EEC
+制储负一基本计算方法》
+alee
+GORA ERT IE)                                  负压: -490Pa
+_ | 中国 GB 50341一2003 《立式加条形钢制昌接 | IE: 90°C       正文; no ne
+nH Be Ht SAE)                    附录 B: 250°C      HES As GkPa
+;                                               53
+
+--- 第 55 页 ---
+SH/T 3167一2012
+
+3) “对介质毒性为极度和高度危害的储缸，不推荐使用本标准; 若确有需求，需在本标准的
+
+基础上提出更严格的相关的设计一列焊及检测要求
+
+4 材料            7         Cn
+4.1 一般规定                                 6%
+4.1.2 AREER YEP WI AT ERSTH, A-THARSHA ee ra a pee
+BAAD AE Sa Sa YY in PORE, MEA LAABE, NEUE eas. lth tee
+的疫计应在安全可敌人人的守/尺可能的节省材料，降低工程造价。
+
+pitas nna fafOpE xe wir J rma aoa                Y
+
+a) Beata ee il
+
+b) MRE Hayy
+
+c) hs aie) Se                          0
+
+é) #    hae. 13                        vat
+4.2 钢板  Le
+
+wa )oer. He ERE AR        Wy, WEREREED  EBL FAD, Viet
+Si BE J A      ee, Ti AKG         iS. PMRW AL lube
+SAP REE, ETT. 7am       Flot tah   fA WE A EEN   ;
+WATT SMART 材料。其他间                                  可以适当前 G.
+
+Tp a i AY AAR, ARR                                 BRR, aA    -的焊
+BEPERE, PEERS The L847                             9 个钢号分别 Go B.
+Q235-Ch QAHSR{ Q345R, S304ORS   SoS ST SUR eg aOdO sets SISOS 8 氏休不锈钢全40
+C~850IC    A (UNI BE pial ileal 5) Lin in iO Guatiertintieii FYE, tk Agee
+MARE,   蚀介质中可能入         TL               EAE DL TA oN ES Nal
+Gh, GUEMPRAR ET. A          化               锈钢储饶。
+
+ 参考 [3 相关规定，        Peet                 的使用范围R =
+a)  Wace Veal Liiva       b35-C       KF        B 钢板的使朋    RAF
+6    Qip35-C 钢板         RA                            C)
+b) ST Wantage FA Q2       昌度才      4板使        36mm;
+c) xt SN 板 Q345          EK           板使有          F 36mm, (42 payin BEER
+—1ORC MEEK F 20n        计温       二试验
+
+d) ATER Yee            4a)       规范和 人 AEE.
+
+SFR DN A                 .           PER AAYLS B A,
+取 min (Ry/2. 7,4 人  Tit                 了,有           采用 APE Yeo PA AP EL AY
+最低抗拉强度的 30K    GFR SRE IN OOM PN a PHELAN
+4.3 钢管        “hy                            O
+
+ARE PANE 2) AK OF -2O eS. TNS SIS OVO IAS, H—ARAMT.
+SEG Meet YE, TTD we                 Dm
+4 4 锻件                      G
+
+本标准中共列入了 7 个钢号的外   0 号、16Mn、S30408、   68<”S31608、S30403、 $31603
+分别|满足不同使用情况的要求。储缸用品件应符合NB /T 47008一NB /T 47010 的要求。
+
+4.6 结构钢型钢
+
+碳素结构钢型钢的强度设计值来源于 GB 50017一2003《钢结构设计规范》。
+
+54
+
+--- 第 56 页 ---
+SH/T 3167一2012
+4.7 焊接材料        ，
+焊接材料品种繁多，而且与焊接工共有富可的天未API 620、API 650 等国外规范对此没有具体
+规定。可参考 NB/T 47015 推荐族骨的焊接材料。在实际施工根据母材的化学成分、力学性能、
+焊接性能，并结合储缸的绪属特短<崇接方法等综合邯虐选提适宣上盎焊接材料。
+4.8 国外钢材
+随着储人的大裂ff对储各天芭要求的不断提高,国内一企做钢名经针涩采用进口的高强度钢板，
+本标准规定了在六     条要求的情况下，可以采用进口材料;
+选用赋惑新放是国外相应销镀最新规范所允许使用且已入(用区全钢材，其使用范转
+不及 pa WAR   和规定;                               v,
+b) ARTs ohh                     ZR ADA EAT ANE Oe ;
+c)  PISh4R aR Aye AB)                    AL AmiaQ/% 7, Res/1. 5),
+TAP as 并的使用                       wei, YRC eee.
+TEA CZAMEC IG AE fiat E.                             》
+5 多 hi  )                                         a)
+5.1      二
+5.1/1 ees
+i    FOE RIM                             F, DAS REY    的影响。
+EE     A, HAS                          MARAT AA SRE
+i gl Se 昌度是不经常                                          存介质的影中 ms ie
+度|     PRES, “HRA eA FEZ UE    nae RH aS FEN RE, | TALULA Se A
+AV AS FEY 目前各国相        以建           irene fi ie 最低设
+Thi    WR 2, Bee         on              (Pte ERT) SEER EE ARSE,
+wrt’ GRE se, BL       hy            均温度加 13 设计温
+度。
+as                                          ><
+个国家        EB         上度“    fe]
+Bima 2 ff             pe |
+| No (Rh          | J         me          Ac espa s i L498)
+Te Qed cen               了         ET
+AN              |         cpm
+2 [sages Non neneneexiaonin beyhiice
++ [smn aid ptecannvenmennnesy Laie
+5.1.3 载荷
+eit Beta BS ER A ET BT, 根据实际工程经验和需求, 增加了以下 2 项需要
+考虑的载荷:
+d) 集中载荷，如设置在储负顶部的重型仪表、阀门等;
+55
+
+--- 第 57 页 ---
+SH/T 3167一2012                                                              .
+e) 动载荷，如在储铅顶设置搅拌装置而引起的载荷等。                                          ，
+5.1.4 厚度附加量
+厚度附加量为钢板的厚度负偏差和腐蚀裕量之和, 其中钢板的厚度负偏差按相关的钢材标准选取。
+当钢材的厚度负偏差不大于 0. 30mm 时，负偏差可忽略不计，这与压力容器的相关规定是一致的。
+5.1.5 焊接接头系数“                                                            .
+焊接接头系数g是饶体设计计算或相关焊接结构的强度计算中使用的系数，它是基于焊缝中可以
+存在规范中允许范围内的缺陷或焊缝的质量可以略低于母材质量的假设得到的。焊接接头系数的确定
+与焊接元件的接头形式、位置及无损检测的长度比例等因素都有关系，各规范的取值也不尽相同，本
+标准中对焊接接头系数的取值参考了 API 620 规范中对焊接接头系数的取法，系数用小数表示。
+对于对接焊颖或满角拱接焊缝，焊接接头系数等于焊缝许用强度与母材许用强度的比值。对于采
+用电弧焊工艺制造的储缸及其部件，在设计中所人允许采用的最大许用焊接接头系数和各种焊颖形式的
+使用范围在正文表 9 中给出。
+5.1.6 钢材的许用应力和壳体结构的许用应力
+正文表2 中所列奥氏体高合金钢的设计温度低于是变范围， 且允许有微量的永久变形，许用应力
+取0.9R Ri sj和RS [Rios]/1.5中的较小值。其余材料参见 API 620 相关章节。
+5.2 缸底设计
+5.2.1 GRR |
+RRR ie REF
+a) PEAR                    ,
+各种规范中关于缸底板的最小公称厚度为，
+API 6201/sin 〈约 6mm) 不包括腐蚀裕量
+JIS B 8501 6mm (实际厚度)
+BS 2654 6mm              :
+GB 50341一2003 IRAE BEART HAMA 12 D Wie                            |
+      .     fRHE ATE Cm)         中幅板厚度 (mm)                                           |
+D<10                    5 不含腐蚀裕量                                  ;                                             |
+D<20            6 不含腐蚀容量                                              |
+D>20                    6 不含腐蚀裕量
+参照以上规定，本标准规定了不包括腐蚀容量在内的缸底中幅板最小公称厚度为 bmm
+b) 边缘板
+国内储饶大角焊缝应力测试结果表明，适当增加边缘板的厚度可以减小底圈饶壁及边缘板的不协
+调变形，减小边缘板大角焊缝处的峰值应力，同时增加边缘板的厚度，也能提高储饶的抗震能力。本
+标准参照了API 620, JIS B 8501、GB 50341 的规定，最后按照 GB 50341 的取值，规定了边缘板的             |
+最小公称厚度。
+5.2.2 eR                                                                         .
+b) “环形边缘板沿径向的宽度，不同国家的规定不完全相同，
+API620 规定环形边缘板沿径向的宽度，在缸壁内侧至少 600mm，伸出饶壁外侧至少 25mm;
+BS 2654 规定边缘板的最小宽度为 500mm
+SYJ 1016 规定边缘板的最小宽度为 600mm
+GB 50341 规定边缘板的最小宽度为 600mm。
+适当增加边缘板的宽度，能提高镀底抵抗基础局部沉降的能力，本标准规定缸底边缘板伸出饶壁
+外表面的宽度应不小于 50mm，在饶壁内侧的宽度应不小于 700mm。
+5.2.3 ” 锥底边缘板与缸壁板之间的连接
+56
+             |
+|
+
+--- 第 58 页 ---
+SH/T 3167—2012
+REBERSUARZ AN TRA, B-MEPBER NMOL. AEN Ry) Ree,   ，
+如果尺寸过大则会造成接头刚性过大、焊接工作量增大、容易发生变形。
+本标准中对于T 形接头要求遵循 API 620 中的相关规定。
+5.3 ESET    ;
+本标准采用了 API 620 Wit St, AME. BADIA EE
+上力的大小和方向的设计程序，在选择的分析高度上，储饶保持静平衡，高于或低于选择高度的部分
+作为一个自由体。自由体分析法应用在从底到项都是连续的储饶上，其目的是得到存在于临界高度的
+储饶壁中的环向和纵向单位力的数量和性质，在这一高度，所有不同气体压力或部分真空) 和操作
+时更压头对设计可能产生控制作用。
+在对储缸进行自由体分析时，在给定液位的最大总应力《〈液压头加上和气体压力) 不一定是此液位
+的控制条件。在每一液位上结合许用拉应力和压应力进行充分分析，以确定在该液位将要控制设计的
+   液压头和气体压力(或真空分压) 的联合作用。通常在固定液位高度下操作的储鲜，在设计时也应满
+FEWER EN KS ERK.
+5.3.4 fa NSE         /
+AREER) AP ERESRAR API 620 ROME (TLR 3):
+表3 API 620 MEMBERS) ABBE    bls:
+os     ARES    ,      AARC SR ELBE
+ft       ，                 in
+5.3.5 Here                             加
+中间抗风圈的计算参照 GB 50341 的有关规定。              pe
+5.3.5. 2 fa AEE A 8 Be DS) (ELE PR PEP ee SP DF PEI SR AD
+稳定性问题是不同的，主要有以下两点;
+a) “储缸的饶壁除了要满足强度要求之外，还要考虑经济合理性，各圈壁板自上而下是一围比一
+.   ELIE, OT LA taste EAE RE SK Bn AT RE EH];
+b) UR CEMERE LAOS ATE.    oo         |
+ 基于以上两点，BS 2654 规范中提出了当景简体的概念。所谓当量简体，就是把各个实际存在的
+不同厚度的简节，按公式折算成内径不变，稳定性相同、壁厚均为最小壁厚 ti 的假想简节，由这些
+假想简节组成的假想简体叫当量简体。换名话说，它把一个实际的变截面缸体变成了一个假四的等直
+径、等壁厚、等稳定性而高度较低的负体。此假想简节的高度称为当量高度。
+根据菏壁短圆简在外压作用下的临界压力公式为:        、、
+2.5
+藻壁圆简的风洞试验表明〈参见中国科学院北京力学研究所《浮顶油饶的强度和稳定性》 1975
+年版): 风压达到两倍临界压力值时，简体表面的届曲波形仍是弹性的，在风压等于零时，立刻回弹且
+不留痕迹。 考虑到上述试验结果， 把此式用在“当量简体”上，并稍加变化，取:
+57
+
+--- 第 59 页 ---
+SH/T 3167一2012
+2.5
+[P= 16. 4g. min       2
+CD
+5.3.5.3 HEBERT SP ER po = 208      , 2.25 EB LS PSR (AZ NRA AY. RA,
+BERT GES 10min PE Ra eI vet Chins pHs]. 7 ZB Pegi 1976
+年，科学出版社)，本标准和xp1.尿 出于基本风压与风速的平方议正氏，族枚换系数为 2. 25。
+5.3.5.9 护风的入 LSM RT RE RAK, 而与设计外压无稀 ss蛋所中国科学院力学研
+究所关于“弹性支郑 AD) WA” RR (SRP RRS DE EOE OF Wiha
+的强度和稳定性》 AQZDSE WY, ARENAS C= 0. 3), SHEE LBA EE ey Wh A SKIT
+A, TAB Be dds                               INE MAK. ARR
+RA MRR DRY, 就                                       =e)
+(3)
+式中:   ~/                                         vat
+G    on 四圈的惯性号，mm ;
+R     fie Fee, mm;                                    =
+t     eae, mm.
+5.3.6 ee   FEHR                                   pt
+二 接头共分8                           缝不开坡口 ap oe
+钢板; Fi      下用于较厚钢                             U RAI Y       Bed
+ant b fale v eA                               采用何种形 Cyr
+PRE ATER AS A AH                                  3
+5.3.7 | Sagi
+fj    ,| 由于地震的原          破               有的还伴随着水?   炸和
+环境污  害。因此在                             缸的设计还应按照抗震规
+范，如SHASg48 ES AI HES
+5.4 锥 A.)                                  <=
+5.4.5 堆 thi NE                                                     =
+WT FRINE ARE         0 规          JIS         4 4.5mm, Cor
+5mm (4        从量 ) 。
+5.4.6  |                                          入
+目前使 Ae 顶形式        项、        RM,        1. EB) pied Fe 3 ct) BE
+Th, ESCHER OYE ARAF             =F         RAE. ESC Fe UT OD FA
+Re, Be.                              4
+5.5 RK RARE BAT
+在内压作用请 Mele:               向属   5     7    BASRA th,
+EX 3 BAY Fe BB] FS we TOL ae NP A — SE 9B] PA BE A BBE
+we ma i Sy ATR At, 45 API 620 Ht dy
+5.6 te
+当内压和风载荷或地震 el PA DATT Efe: MERRY, fete
+NRE.
+5.7 FFFLAAFE FLED SB
+API 620 的开孔补强计算方法基本与美国XSR人一VIT 一致，均采用等面积法。与 GB 150 HE
+要差异在于接管与壳体补强材料的有效范围。GB 150 的开孔补强设计方法在我国广泛应用，具有长
+58
+
+--- 第 60 页 ---
+SH/T 3167—2012
+期的实践经验，技术人员应用较为熟练。故本标准中关于开孔补强的计算方法与 GB 150 一致。当开
+孔率超过本标准范围时，应采用应力分析方溪谍有息坟使用经验的对比经验设计。
+7检查、试验和工程验收  2        CN
+7.4 压力试验                    ay
+(REE ARMED GEE PTLAT I S S, NOE RIN QM, AONE T REPEAT
+LEN, oi SOW A MUR Bok -气组合压力试验。主要外要 包容，
+a) t@E 和 cae A
+c) LAE TAR RE.
+a) seinen,                              a8)
+e) 皮人多六的换作。
+i                           (EAU CE, FLL
+t= ods ida Bae   .       .   peo, ee pat  a
+“FRAG HONEA AE EA, ZETA BY        EA SEU RHE, CUE 2 安全距离
+DES E
+het 卜采取水压试验的方式。                          pe
+8 上     宝泄放装置                                   i
+aynom                           ZEAE SE
+TE Ii     本。
+un
+59
+
+--- 第 61 页 ---
+N
+S.
+A
+co
+已
+-                                                            请
+Ss
+x
+Nn
+f
+中华人民共和 国
+石油化工行业标准
+钢制焊接低压储饶
+SH/T 3167一2012
+*                        ‘
+中国石化出版社出版
+中国石化集团公司工程标准发行总站发行
+:        地址， 北京市东城区安定门外大街 58 号
+邮编， 100011 电话: (O10) 84271850
+石化标准编辑部电话: (010) 84289937
+:     读者服务部电话: (010) 84289974
+、                    http : //www.sinopec-press.com
+E-mail: press@sinopec.com                                                                               .          :
+版权专有 不得翻印
+*
+开本 880X1230 1/16 印张 4.25 字数 128 FF
+2013年4月第1版 2013年4月第1 次印刷
+*
+BF: 155114-0615 Ht: 56.00 元
+,                        《购买时请认明封面防伪标识)

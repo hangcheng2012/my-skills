@@ -1,0 +1,6620 @@
+--- 第 1 页 ---
+1
+|
+|
+|
+—          A    y
+|                 国家能源 局
+                        N         Fk.
+aw 千
+2018 年 第4号
+修正版
+依据《国家能源局关于印发<能源领域行业标准化管理办法〈斌
+行) >及实施细则的通知》 〔国能局科技 (2009) 52 号) 有关规定，
+经审查,国家能源局批准《风力发电机组振动状态评价导则》等 168
+项行业标准，其中能源标准 (NB) 56 项、电力标准 CDL) 112 项，
+现予以发布。
+       附件;行业标准目录
+二〇一八年四月三日
+j
+|                           ;
+
+--- 第 2 页 ---
+本| | 2) 2/2) 2) 2
+a 5/8) 有| 号| §
+£ z/2| 8/2) 2
+|  812/28) 8)8
+zl fale
+alalels
+ERELEEL
+g bl} 中| o| o&
+ela] 8| 8/8
+S/ aia
+clele
+¢ 中中 8/8
+和 Tagg
+m |所 目四四下
+t 全|中| el ele
+: e|5)5/8/8| |8
+ib
+fal Fs      |
+gla sig
+5 Bl e| 8
+s  CRS
+了 ie  =
+: eee
+本四四关上
+| | 过| e
+HL
+=) | 中
+8) 2/2] le
+和| (TEE EG
+E 8! 8) 2| 8/8
+BE) S/S) | 人     |
+&
+   B| 8|3|5| 5
+这 BEEEE i  |
+g     |
+  |
+
+--- 第 3 页 ---
+j
+
+i
+
+A
+NBAT47065,1一2018《容器支座 ”第 1部分: WESRSERE ) se
+
+NBAT47065.1一2018《容器支座 “第 1 部分: 蔡式支座》编制说明 3        1
+NBAT47065.2一2018《容器支座”第 2 部分，腿式支座》 1
+NB/T 47065.2一2018《容器支座”第 2 部分: 腿式支座》编制说明 ce eceeeeeeeecstestesseseeseeneeeeeee 5,
+NBAT47065.3一2018《容器支座”第 3 部分: 耳式支应》 9
+NBY/T 47065.3一2018《容器支座”第 3 部分，耳式支座》编制说明 189
+NBAT 47065.4一2018《容器支座”第 4部分，支承式支座》 eeeseses195
+NB/T 47065.4一2018《容器支座 ”第 4部分; 支承式支座》编制说明 ee213
+NBT 47065.5一2018《容器支座“”第 5 部分: 刚性环支麻》》 217
+
+NBAT47065.5一2018《容器支座 ”第 5 部分:刚性环支座》编制说明 :Res237          .
+
+{
+
+.   上
+
+--- 第 4 页 ---
+
+
+--- 第 5 页 ---
+ICS 23                                                                       |
+°         NB
+中华人民共和国能源行业标准
+NB/T 47065.1一2018
+代痊 JBT4712.1一2007
+eee
+容器支座
+第 1 部分，鞍式支座
+Vessel support—
+Part 1: Saddle support
+2018-04-03 发布                                     2018-07-01 实施        :
+国家人能源局 2H                          |
+
+--- 第 6 页 ---
+
+
+--- 第 7 页 ---
+NB/T 47065. 1—2018
+A OR
+PES rect se sess scvseseents cont vonntteneszenntare sesso csWs0S 545 S555 Zs OHOSSTSCUT ORESTENME teepsaneeccnneesfnnneers mf
+附录 A 【资料性附录 )  RGRDDRARRR RE AURSO SEE PRT once ieee eeceseeceseeeeneeecsseeeeesseees 3g
+附录 C 《资料性附录 ) 。鞍式支座基础垫板尺寸 ee
+编制说明和人rennnnnnnnannsnnnnrnnnneonnnnnnenrrnenssnsnnssanneesnsssse 43
+3      |
+|
+
+--- 第 8 页 ---
+:        NB/T 47085. 12018
+                           前 言
+NB/T 47065一2018《容器支座》分为以下 5 个部分:
+一一第 1 部分: 迁式支座 CNB/T 47065.1一2018) ;
+一一第2部分: 眼式支座 (NB/T 47065.2—2018 ) ;
+一-第3 部分: 苹式支应 (NB/T 47065.3一2018 ) ，                                 -
+-一第4部分; 支承式支座 (NBT 47065.4一2018) ;
+一一第5 部分: 刚性环支座 (NB/AT 47065.5—2018 ) 。
+本部分是 NB/T 47065一2018 的第 1 部分: BRR.
+本部分按 GBAT 1.1一2009《 标准化工作导则”第 1 部分: 标准的结构和纲写》给出的规则外草。
+本部分代替 JB/T 4712.1一2007《容器支座”第 1 部分， 蕉式发座》， 与JBMT 4712.1一2007 相
+比，主要技术变化如下:
+一-护照 NBT 47042一2014《具式容器》中的相关规定，作为本部分内容的设计依据;
+一一按照GB/T 9019一201和压力容器公称直径 的规定将芒式支座的直径上限扩大到DN6000mm，，
+并增加 DN4100mm一DN6000mm 直径系列的轻型鞍式支座 .重型鞍式支座和 150*包角的
+BLA;
+一一核算并调整了热板、底板及相应筋极的尺寸;                      |
+一一过式支座的材料调整为可以采用Q235B、Q345B 和 Q345R;                                                  |
+一--航式支座的使用温度调整为可以在-40它一200C的工况使用, 使用温度低于-40C时,也                 |
+给出材料选用的途径;
+一-取消了 IB/T 4712.1一2007 中的地震设防烈度 8 度的限制。
+本部分由全国锅炉压力容器标准化技术委员会(SACATC 262) 提出并归口。
+本部分由全国锅炉压力容器标准化技术委员会固定式压力容器分技术委员会组织起草。
+本部分起草单位: 东华工程科技股份有限公司。                                            .
+本部分主要起草人: 刘吉祥、谢萌、刘晓林。
+本部分由全国锅炉压力容器标准化技术委员会 (SACATC 262) 负责解释。
+本部分所代理标准的历次版本发布情况为:
+一一TB/T 4712一1992;
+——IB/T 4712.1一2007。
+4
+
+--- 第 9 页 ---
+.                                                                          NB/T 47065. 1一2018          |
+-                             容器支座”第 1 部分: Hee
+1 范围
+1.1 本部分规定了驶式支座的型式特征、系列参数及尺寸、材料、标记、制造技术要求及选用方法。
+1.2 本部分适用于双支点支承的钢制卧式容器的迁式支座。对多支点支承的卧式容器芝式支应，
+其结构型式和结构尺寸亦可参照本标准使用。
+1.3 本部分鞍式支座设计条件:
+WARE: -40C一200C。
+2 规范性引用文件
+下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本
+文件。凡是不注旧期的引用文件，其最新版本〔(包括所有的修改单 ) 适用于本文件。                  ，
+GBAT 985.1     气焊、焊条电弧焊、气体保护焊和高能束焊的推荐坡口
+GBAT 1804      一般公差”未注公差的线性和角度尺寸的公差
+3 型式特征
+能式支座分为轻型(代号A) 、重型(代号B) 两种。
+重型鞍式支座按制作方式、包角及附带热板情况分为 5 种型号，各种型号的鞍式支座结构特征
+见表 1。               -。
+BABEL (NSF) ASR SS) 两种安装形式。                                   :
+:          |
+t
+|
+
+--- 第 10 页 ---
+NB/T 47065. 1—2018
+1 型式特征
+Ce ene | ana |
+1
+120° 有
+        ，
+焊制
+      Da] towne | mea
+重型
+  |
+  |
+ay | om  |
+ese ana]
+wit
+1          |
+pep wee |
+|
+6                  |
+.    |
+
+--- 第 11 页 ---
+NB/T 47065. 1—2018
+4 ”系列参数及尺寸
+4.1 轻型 (A型) 鞍式支座
+4.1.1 DN1000mm一DN2000mm、120"包角轻型带垫板鞍式支座的结构和尺寸应符合图 1 和表 2
+的规定。
+
+b,
+rgeasct         toy
+  aa 1          Pe
+
+yk         a7          iT    |
+Gee = bes
+NN        M3}          IL LF pews
+h                  册 30            ，
+4                  by
+Ss) 10  15,     2-d                    a
+odo ds stad.    ated. sits
+rie                sat
+图1                 ;
+vy
+|
+，
+|
+
+--- 第 12 页 ---
+&
+
+R2                 单位为mm = S
+
+直径    BBE                         a             aman | 名
+
+ov [om La To To] * fs ToT [a [mets [a | TSPSPTRP TSE) Ses | ms | =
+
+[rw [ ise [a0 | vo [iro [vo] 6 [refi] ai| 6 [rio] ao] [sr [ oo | [oof of # | ss 18
+
+3
+[100 [aso _[ 200 | exo [am [ao [6 [ies | vo [m0 [6 [vaso | seo] o [ee | owe | 4 [rao] wo | se [oe |
+[iam | ree [00 | ooo [vm [io | 6 [20 [wo a00 | | rs | sso | 6 | m2 | mo | o [emo wo | se [or
+[1500 |e [2m [oe [om [a0 |e [aus [io [a0] 6 [isto | 200 |e | ve | om [2 [ooo | wo |» | se |
+[seo] es [am [roo | im | vo |e [250 [ao [220 [6 [ren | woo |e [ae | mn | 24 [roo | wo | | ne |
+[ism [a7 [20 [vow | ao [ie [6 [oe [iro] a] s [ive | ao | s [mt | ooo | or [me] os [us | tos |
+[sem [2s [250 [rz0[ am |e | 6 [as [ivo [oa | s [rao] ao | 6 | oe | 960 | a7 [woe] os | mm [na
+= [tam [ae [as [ame [aw [i [8 ae7 [vo ae | s [somo [oo | s | se row | a7 [rer] os | oo [ne |
+[soo] “ss [ 20 [raw | 20 | v2 | v0 [6] wo [20] 6 | 20m | 0 | to [oo | rta0| a7 [ame] os | [a7 |
+[ssio | se [20 [1360 [a0 |e [ io [ste [0 | 20] | 2200 | ao | to [os [ram] ar [ame | as | im | ss |
+[20m | 30 [20 [rao a0 [ie [io [son [iso] a0] s [20] oo | 10 | oj rae | or fae] os [me [se |
+
+|
+
+--- 第 13 页 ---
+NB/T 47065. 1—2018
+4.1.2 DN2100mm~DN4000mm、120*包角轻型带热板鞍式支座的结构和尺寸应符合图 2 A 3        |
+的规定。                                                      |
+|
+a as            一一一一               ，
+人        <     |         Pe |
+SS aie eee
+\   一         —   j        ae
+Bye              |                   f                  i              i                            :
+\         |       Ake       |        |
+\\ cutie |     v4       |     |
+NS    |     A if           i        |
+\  i TT]  I       il   i Jj
+WITT LL fs                    Lette
+a |-                0,
+5
+ort          Nt 4g   10           4          .
+TET AE He Tere
+4a Lee 3a le ha     606 Cale "ala ee
+4          a             é          b,
+Fel                      si
+图2
+.                                                      9      |
+
+--- 第 14 页 ---
+——                              ms                    单们为mm 委
+人| 本 ao 8
+sr Prowl ae [i]s [a | * [os [ [fo [me] x] «|e [e/a] SF Ae ee|inee |
+[aioo | a5 | a0 [soo] ae | me | w | m0 [ane | aw s [2aio| soo | 10 [10 [isool — [as [aane[ so | a | ws [3
+[2am0 | se | a0 [ro] 200 [ 18 | v0 [25 [200 [200 | 6 [asso] sao [to [0 [xsm[ — | as [anco| | 20 | 201 |
+| 2300 | se | aso [resol aa | i | vo | 236 [208 | 250 [8 [aorol sso | 10 | vo» |r| — | 5 |zamo[ so | 25 | |
+ ‘as0 [i720] 0 | 14 | 10 | 266 [20s | 00 | 8 [arm] seo | io [ae [isoo| — | as [ano] so | 27 | 2a2 |
+ 机| 250 1 00| 300 | 14 | a0 | 260 | 268 | se] # [25m] sm | 2 | ian [isso] — | 5 [asco] [3 | 2s
+[2am [se | aso [reso] s00 [ae [a0 [ams | 208 [ae] s 20mm] so | 2 | az0 [reo| — [35 [anco] so | ass | 247 |
+| zee [ ese | aso [rsco[ so | v4 | a0 | sor [ame | aco} [sino] soo [aa [ame [irao] — | 5 [aswo] so [an [53
+| 2ao [ae | aso [2oo[ soo [ae | a0 [seo [26s | 300 [ @ [3aso] oo | 12 | 120 [sooo] — | 5 [pao] so | ses | 20 |
+
+_ avon [ase [250 [pine[ 360 | ae | 10 [51 [ie | avo | v0 [asso] oso | 6 | a0 [revo] aoe | as [eno] oo | me | aia |
+[seco [ 129s | aso [2iso| soo | a6 | 10 [20 [si | aio | 10 [aan] oo | as | 20 [ros0] ws | 5 [awn] oo [sot | ne |
+
+[ sie | vaio | 20 [2200[ 360 | 16 [ 10 | 238 | 2:6 | a0 | 10 [som] ovo | 16 [van a0a0] sos | as [aawo] wo | xs | 2s |
+
+[sam | sma | aso [230] 560 [ 16 | 10 [ses [216 [ao | io [aro] seo | as | ian [2100] 225 [3s [anso| wo | os | sa |
+
+[ s3c0 | 1490 | a0 [anol aa | a6 | v0 | seo [ste | so | 10 [5850] 200 | v6 | a20 jaiso] sos | 3s [enna] @ [ow [|
+
+[saz [ress | aso [2eso| s00| ve | 12 | 391 [32s [a0 | 10 [os0| m0 | aw | vo [2200] ss0 [ 35 fence] wo | os | v0 |
+
+[ 2300 | 16se | aso |2scol seo [ae [iz | os | ses | a0 [to [cosol m0 [ 16 | v0 [2200] sro [ a5 [aaco] oo | ms | 397 |
+
+[ sew [eer [ 250 [reo] 300 [16 | 12 | aie | aes | an | vo [+is0| v0 | a6 | 0 [2500] 90 | as [exo] eo | i | aes |
+
+|       [ 270 [asi | aso [2ni0[ se0 | ve | 12 | a9 [sas | ao | io [avo] 700 | ae | rao [reso] aos [3s [arco] @ [oe | aa |
+|       | sem [ass | |
+       [500 | v9se | aso [2eco| soo [we | 2 [| 255 [a0 | 12 [4seo| van | ie | io [2seo] os [35 [sano] oo | oe [57 |
+[ som | ase [250 [200/300 | ve [ 12 | aor | aas [oo | v2 [asvo] moo | [140 |260| cos | as Janse] oo | on | ase |
+
+--- 第 15 页 ---
+，
+nN
+ie
+中                                                                 |
+NB/T 47065. 1一2018
+4.1.3 DN4100mm一DN6000mm、120?包角轻型带辱板粮式支座的结构和尺寸应符合图 3 和和表 4
+的规定。
+一-一-一:去一一一         eg
+\             ro"         |         |    Li    i
+\     ee RON,        /           i         Ire
+Ve    |    N.  / Pet | 位
+aK               ET            上     1
+        |        Tie |        |
+NS               y             i        j
+SNameo |     A |          |       |
+i   SS +11   大 |   i  J
+oly N                 Y   s             st   由
+A COT fe            LY
+A                        5
+;        by                         fed                 h                                             '
+= eg
+aoa a Tea a     ae la les ea ado
+bs          bs             és          bs
+FAL                      Sa
+图3
+i
+i     1
+
+--- 第 16 页 ---
+.              RA      ;     单位为mm  &
+Fae ed Caled dad ITL
+[ie [23a [a owl am] ww [ae| we [ao] we [ra] vow fim fare) we fw [aoe] w [roe] ee |g
+| 4200 | 2374 | 250 js too] soo | as | 1s | s79 | 352 | 460} 12 |ss70] son | 18 | 1s |2eo0] v0 | a [mae | a | rin ed | ©
+[sai [25 [a fsr[ aw | ow e [oee sf i [a0] wo | we |e [oem] mw [oo [aoe] w | viet [oe |
+[sao [2507 [a0 fsae[ eo] we [6 [eras [wo] 2 [sie] co | ws [sm aoe] me [a aes] w | or | ws
+[e500 [soar | a0 [ssn] co] a0 | a [a2 [am en) v4 [s2m0] so | an [es [seo] rw | wt [ape | | vat [toa |
+| +600 | 036 | 250 [sto] «a0 | 20 | 20 | a7 | 370 | so | a4 [s3s0[ soo | 20 [ ro [suo[ me [a [ams] ao [rer [776 |
+[ste [09 [2 fas 20 | zo [on | ref [esol em | av fs [so] | a fe) w | van | er_|
+[ae [suc [as fsx | 20 | a0 [ee [sro eo] x [sem sin [20 | wo [sam [ aa | ar [oe | [ise [ns _ |
+[ese sor [oie oe on | a0 [a0 [om v0 [ao | [seo] wn | a0 [vas [amo es | a fees) oe [rae | wa |
+
+© [Ses [59 Fae fon an | a [ a2 [er | || [swe] sof a | we [sae] ow | oe [we | ore | we |
+[sie [ 355 [a0 fae] co] m= | a2 [re] se [0] 1 [sin] som [up [sam] ws | [wws| oo | asm |e
+[sam [ase [a0 fifo fm | a [ro] |e] m [onl om fm [im [sen [ ws | (wis [oo | vom | 0 |
+[sane [ss | a0 fai co] a | a2 [rss [so] [oun] oo | a2 | we [seo] oo | [ws wm | io | a
+[ s4a0 | «08s | 250 [seo] aan | 24 | 2 | 749 | 26 | 570 | 14 |6260] sao | 24 | 192 | suo] 920 | sa | mae | 100 | 2250 | 07 |
+[ss [0 [0 fee] wo oe [ox [| ae| so] [en] oo | oe [me [oro | oe | a [oe | oo | 2307 | se
+[seco [ans [0 Ho foe [ox [re [ae [roe oso owe [oe [oe [amo oe [se [war | oe [ase |
+[ss [ea [a0 js so | a6 | ae [0 |e] s | ve [oro fsen] ox [or [seo] oe | se [wee [we | ons |_|
+[samo [es [0 zal ao fae | ae [|e [eo [oof roe] oe [am [soen| os [oe [was [ave [ass | s_|
+EE
+[son | 4s [a0 rae ao os [as [iss [ oe [wo [6 seo |roo[ os [mr [eum] res] [wes [oe [soe | o_|
+
+|
+
+--- 第 17 页 ---
+|
+:                                                                            |
+7
+                                                                            |
+NB/T 47065. 12018        |
+!       4.2 Bal (Ba) Beste                                        i
+4.2.1 DN168mm~DN406mm, 120°¢a FARA ALAC ARLE ROGER TRL RAIS] 4 和      |
+表5 的规定。                                                           |
+4.2.2 DN300mm~DN450mm, 120°f ff) HL aa A HPPA 4 和         i
+表6的规定。                                                           1
+Aid
+by
+RSS                     a            |
+NS aa                       fp |
+fee    ]                              4
+| ~ Tal                 16X45      TN an
+I   E                               iM 1 OEE
+| {|                       ha]                 .
+s_| ja
+410                                                       by
+3           2-4                            a
+一                             一上
+a_i Gh  al                           an ahi g
+°  [|  °                     +     |  :
+A          :
+Fey                               say
+Sil
+by
+Hea | as
+Bess                     aaah
+i                        i    i           i
+. —                  te fs
+ae      |                         16X45     |
+|                                  i    2-g1t             1
+五。|     A                                HEMIONPE
+                         20 45°
+Lyf.                         Pt
+Hi     5                     R16.      lol
+LE |                           by-10                   i
+Pal                               sa                     |
+图4                                    ，
+3       |
+
+--- 第 18 页 ---
+=                                 表5                         单位为mm = &
+       公称 | so, | BR 项加om |S
+fee |aen] Be Ea eo fame [ET ne [a “nae | ©
+[| 2 | om [opm | s | s [os [s [om [uol «fa [ io [om [om] [is | s | ow | 4
+[ae | [am fro] mols [s [se] s [ao [im [6 | [io |» [smo] 7 [os Pow |
+[2 | » | 20 [xo) ao[s | s [a | s [moos [a] imo |» [ool | o | 7 | 2 |
+[os [| am [ool iw fe | s [nels [am [ae | 6 | a | ao | o [reo] as | oe fos | ze |
+[asf a | 20 [solo] | 6 [uel s | wo [ am] 6 [2 | a0 [x [aol as [is [ow | 20 |
+[os [ © | mo [sof le | [rele [oo fae) 6 fs | mm | m [reo] Ts | ou ||
+RG                         单位为 mm
+286 | fi地 | BEE ae $0 100m
+Seon! Too | & [ole [mel [a] «| PD] | wee [me | nase
+[aw [2 | wo [of vols | s [uel s [so]uo) «| [am [a [acolo [on Ts | 2s |
+[om | ™ [20 [solo] e | = [nels [aw foo| se [| a |» [mola [os [os [ar |
+|        [am [7 | m0 [so fro] ef e [ae] s [ao [ow] 6 [¢ | 260 | [roofs | ow |e ||
+        [| 7 | aw fwofo fs | s fne[s [oo [aos |e | om | [om] [ie Toe [|
+|
+> | >
+
+--- 第 19 页 ---
+NB/T 47065. 1一2018          !
+4.2.3 DNSOOmm~DN950mm, 120°C fi RVG RAPER SMM MER SB          |
+表7 的规定。                                              |
+ela        by                   |
+R25                      :
+5 EN | ON /       aint
+AN一    ae    -              |       |
+排气孔48 i              i  |      |              :
+16 X45°,    &
+Rg       (3 ea
+LI           从|
+b       “          30
+4-10                  by                   和
+S     rd                   @
+|    !    }          LH    I Te | Ss
+“|     全 有      |      je          H—& Ih      |      | &
+d    i    q       ~    q       l
+J      |
+型                  sil
+:                 by
+Bia
+TPR        ia      a
+°    >.    /           (eee
+we         nt
+_    j120°          |
+atccase 1°    1        相同|      |
+1               {         FT
+      a               L |
+|
+i           tts    16X45°    ‘           .
+I                                  ©       aa     2-11
+be 上   _       iia
+a ne | or           Se                 .
+4                                       :
+Fig                  si
+图5
+i
+15      H
+
+--- 第 20 页 ---
+表7                     单位为um。 &
+a       L** Jax) ®® | ®*% [| seme | eensmane|#h 0mm) &
+.    elena | we =    £m   = ane = SAAR | WH Oe 3
+by     fe Re
+fete be folmlel eff [fm falta pels bela fete > |g
+| s [ae [200 [sio [i/o [ s [am] io] 6 | oo fools [a [se [x [ooo] | as | ow [so | ®
+DOO OOO
+Spm bate felt ebepe le [ fel ela [ox bela po fa [=]
+Feta poe feel wpe feel el pepe [ =| @ [a fmf p> [|
+[30 | we [ 200 [oxo [iro] vo [ [om [iso [ 6 | ovo [amo] 6 [a [sw | x [woo] wm | a6 | ||
+DEO
+| Eafe [ae [oe el Le [ow bm[w fow fmf [= paw fom] fw fof |
+[a | a [200 | se [aml vo [ao [so] am] to [row [ao] ¢ [oo | soo | x [roo] wo | [os | oo |
+FR
+|
+|
+
+--- 第 21 页 ---
+:                        NB/T 47065. 1一2018
+4.2.4 DN1000mm一DN2000mm、120"包角重型带热板鞍式支座的结构和尺寸应符合图 6 和表 8        |
+的规定。
+by
+pom oo ane
+\_ ph    im   t          i ee | |
+DA     !    ey            i       |
+er        /          |           .
+Ne 9 (i       |   il
+:                     |
+GOB hee
+AL a       i
+:             b                 由 ao
+五                 4
+| 10 15     ad H                  | 4
+——<—<—<— a es a]                       Cp       SN
+sa。 alas   ojo. st...    a
+F型                Sa
+图6
+                        17     |
+
+--- 第 22 页 ---
+°                            Bs                  ， 单位为mm =
+BE | 人 | me seotta | Tene | 3
+oy [Row MrL To [al * [5 [afm [a we] ofa] ETRE EE] 8% | moe |
+de
+[io [se [a0 [sn | am [2] 2 [res [to [0] | ine0 sso] « [Lo [coo | ar [owe] | oss [ee | ©
+[1200 | 36 [2m [so [amo [v2 [ 12 [010 | 200] 1 | rao [0] | vm | a foe [ a | [oe |
+[1300 | s40 [ao [0 | avo fia [ [ais to || ia [rato [am |e [vw [ roo [ 7 [roe | wo | vos [ns |
+[oo | 4 [200 [000 | am | 2 | 2 || wo [20] [reo [aw] s [| seo | 2 [rox] wo | im | ss |
+[soo [a [250 [oo [ 200 [as | ae [>| v0 [200 | | 1740 [oe | wo | ee | soo | os [eo | os | | no |
+[ico [as [aso [ao | 20 [a6 | ie [| ro | ae [14 [ reco | 0 | to | ss [ooo | os [veo | os | wo [uss |
+      [70 [3 | 250_[ 1200 200 [re | ve [27 | v0 | 200 [14 [197 [so] wo [se tm | 35 [mo | os | im | ane |
+|      [so [sa | 更 [in| a0 [ts] 4 [se [ 0 [200] 1 [2000] to |e [ ro | ss [roofs | as | m2
+[90 | seo | a0 [300 20 [a6] v4 [216 [0 [20 | | 2000 | eo] to |e | rome [as [noo | os | ame |r|
+[zoom | 35s [oso [ian | ae [6] o¢ [| wo fa] ve | 22m |'o0 vo [ree] am | as [eo os | ae [7 |
+|
+|
+
+--- 第 23 页 ---
+NB/T 47065. 1一2018
+4.2.5 DN2100mm~DN4000mm、120?包角重型带垫板鞍式支座的结构和尺寸应符合图 7 和表 9       |
+的规定。                   -
+       a
+oe r=]
+Ves | ONL |        |      a
+BAH      |     aif       |     |
+\         上 VAN as        i         |
+\  SSNtsauau|      WA |           |        |
+\  Ss. +17  Hy      L    i
+aa             | free
+8
+fa ET           Ren
+|---|            i
+is | 2        bo ay   10,15          h
+Pe tn RO nik a rn En                      !
+SFT Ee ae ee
+6. Lei RE     5
+oy        ca           &        os
+Fal                   sa
+图7
+i
+19     |
+
+--- 第 24 页 ---
+8                                                z
+#9            单位为mm  §
+本本[车EIEE lan eam | 有|
+Be frosts [as ToTal s [> [a Ts [o[me[o [a] | METRE SF FF mes | see | -
+DN    A  J       3              h_|ulal uw       质量/kg  一
+[rool rom [20 [tse faa) ew | ow [awe [ao fic [ama] so fe] ma iom| —farfaaae fer) ae [ma | &
+zon | iw | a0 [rae a0 [ie] w | 26 [roe | wo] 6 [2550 [sm [ie fiw [ism | —[afarae]| we | oss | =
+fre] rie [am | ce [aisle | 2s [aw 2m [v6] 200 [ so] | 7] rae) — | [2ans [so] er [360 |
+frame rae am farm [20 ic] | 260 [am [am [rs] 27m [50] 16 10 ]s0/— a [aans[so] as | ora |
+[200 | rsio'| 250 [reo [aefi@| | am [oe ]sm0| [200 [eo [rrfasw|—[ulasacfso| se [9 |
+[aan [row | a0 [ra [20 fe] a | as [ae [om fe [se fon [is] 6] reo) — [a [avec [so [a [io |
+Leno 150 | a0 | 5 [aoe] ie | | on [ae [so [ie [sie [eo] [ili [— Ja ]2aee| [es | or |
+Tease | aio 200 [ome ef [sn [2 [5a [e [520] [8 [iva] — [ei fanme [a] as [sts |
+[zs [2a0 | as [ar [20/20] » [m1 [ne [so] m|ss0| me |z[nsfiemfaelalancl@! se | as |
+jo | 2a 20 [2100 ||| a | a4 [6] a0] [sen | ro [| vo roo [aw [wr[oane feo] om [97 |
+[sive aso | an [2am |300]20| a [ass [ne [an [20 [s0m[ mo] 2 [us[aoe]as[a[eams|co| on | 9 |
+[sae] 20 | 25 [ase [3eo]a0] a | 36 [nc [wo [20 |sn0[ n/a [us[aim[as[a saas[@| oe [ea |
+[sao] 290 [a [ani [36020] | 30 [36] a0] m [sen [ro] a)ra [aim [se] aanef@| oa [|
+[saw [sao [am [am [ao|m| a | mi [ss [eo]m [soo] m0 [a [uo|zam[s0]e[ame)@[ nm | m2 |
+Paseo asm | 250 | 2560 [ss0 [mm | ws [ss | 00] 2 [om] no [2e| re [2am [sw] a] sans [oo[ rae [me |
+|      [io | sa | 250 [260 [so |2| = | ae [ns [o| a [erm [em [a [im [a5 [se laf anel@| ras | me |
+      [sme [ se [ a0 [an tso]z2| = |e [os[oo]m [em [so] 2] [2a0|en[afaaasfo] im | 2 |
+[sam [aie | aso [arm [aio] 25| as | wo [ms [eo] [eno ]oo|2s| a [2sm[es[alawe]@[ ise | as |
+[3000 [aise | 250 | axe [am [a5| as [or [oss [oo] 2s [eo [eo | [we [asm fos arfenee|@ | tan | 352 |
+[sin am [ am [2st [owe ]as[ as [ar [sis [0 [2s [sen wo [oe] [aco| ea [ar [eames [a | ies [ose |
+i
+
+--- 第 25 页 ---
+NB/T 47065. 1一2018
+4.2.6 DN4100mm一DN6000mm、120?包角重型带热板壕式支座的结构和尺寸应符合图 8 AIRE 10
+广-一-一:去|拉:一:一一        po
+\    eZ CaN.      j   bo |
+\     | 7         |        ae
+py        |           /           |        |
+并                ay.                 i
+\       |      sie              |
+\ SSHiEsautao |                   |       |
+\ a \ Hf |         L.     J
+SA CTT be              2
+SS       meat                EMI OWIE
+d                      30,
+i                      by
+a                    ded             A                    d
+TT ECS Heel eT ie
+2 To a oe ae a     5b Lela Tole a Le
+bs         oy            oy         Oy
+Fa.                     sil
+_          ws
+21      |
+5                                                             |
+
+--- 第 26 页 ---
+8                     。                      各
+10                单位为mm SS
+ae sem | BRE   底 板   we    筋 板       Pz        8   _ lees Joon FI
+ON   1     é | 4   nla | mK   5   Te | AE PR] LE | 质量Kg    &
+DN   h  i     a       a  n | kh lai Mit   Blke T
+ wm [os [soe [mo | wo] ow oe ow] wo [6 [| oo are [orf | we [me [es |
+[ean [m0 an [sim [an] ae 3 a [oe | |e [| wo [oe [orl me [awe | [ae | we [ae | |
+son [0 coo | oo [etm] me [am [e [me @ [ie | 0
+[ssn | ea [ 00 [a sion] wo pf wo [> fer[ we fw [so |u|
+[ssn | sos | 20 [san [ono asf Po [oa [sw [2s sm om [ae [an [vn [so |
+ 500 se| vn [sear [om in [|r| | 20 |
+ Oe a
+ son an | | [ao [sa on [as] som [om ||| eo [3mm [or| we | w | ee [ur
+ sam [50 | 7m [| | [| | [ae [ sn |r nae | @ [se [| 20 [ss
+[sam [sim [an [0 [|| | | [noe] [ee [ae |e [oem |e [ae | [ae [ors
+ cn [ 30 [350 so] |» [re [oo] so) | es [row] [a0] om Toe [ef we [ve [ 20m | |
+ com [ 20 [son fw [rm [eos] 26] eae [ro [36 20 | om [see fa [sae] or [oe | ar |
+[sso | om [a0 sme [oe] [20 [| an ||| om [om |e | [ne |) ew [5a [|
+FC ed >a [a
+sw [7s | 20 [ese | [re] or [ses fone] iio [a [0 [om [easel n [wer || cow [as
+sew [von [20 [aw [aff Par [ae] aoe [ome] ne [ool ze | 90 [sew | La mae [ e_|
+[som [van [0 [ ae |e] | m2 | [| [oo 1
+|          [cow | saan [one] sof] = [rss [wo || ooo rie] 0 |e [in [a [fr | vw [oa [ver |
+
+--- 第 27 页 ---
+NB/T 47065, 1一2018
+4.2.7 DNI000mm一DN2000mm、150"包解重型带垫板鞍式支座的结构和尺寸应符合图 9 和表 11        |
+的规定。
+
+by              ，
+ as           i
+—.   ——        realy
+2一   .          上|
+i) 指气也416 j             nse         |        |
+[下于             “had
+从-上
+J                8          |   ‘i
+SOL is         Cie
+j_4                I], 30
+下                be
+中了-|      上 2          Calpe        :
+Lh ty    ee ee ee
+oatotis stats. sft.
+Fa                say
+图9
+i
+23    和
+|
+
+--- 第 28 页 ---
+2                      -
+.         Bu           单位为mm S
+ow [rom] 和| [= Tol [oT [o [a [me] [a] [SETAA TSE RE BBs | nme |
+[ion [ se bo [oo fale) a [so [relor| ne] cols [afew far faer] [| os |g
+Pram] ae [am iow fof [2 [as [we [ae [fra fae] eo [oo [or foee[ oe [| es | *
+[rae[ se [ae [ioe [ie [ie |e [as [ofa |e [rom] e | [om | a [nae [wo | we | ist |
+[iam [ae [am [rw re[w| m [xs | ofan fvnw lan] « [oe] me [a [wef [ne [es
+[asco [ ase [ao [aa [me [ie [ [om [ao [am [2 [vom [wo] s [oe [oo [ov [me |e [es |
+Fra) we | oe [osm [ae fic] [a [om [me ano] wo] | @ [oe [os [woof [oe | as |
+Frew | wee [ae [iso [ae [ | [8] me ean [| of [oe [os co] « | [ee |
+[reas [a0 [aso [am [ie [i [is [ve [ae | [25 fe [io [oe [io | as [aww [os [ae [ms |
+[ran | a [ae [vse [a0 [io | [om [ea [e200 [0 [ oe [ve [ [co] © [oe |
+[ovo [ae [en [ae [ao |e [8 [ie | [ae || ow [vam | Yoo os [an [ar |
+[own [eae [sn ven [ an [ae [ve [oe | so | 200 |e | 2am | on vo ee [ze] os [wo] os | as [6 |
+:                                   -
+|
+i
+
+--- 第 29 页 ---
+|
+|
+|
+NB/T 47065. 1一2018        |
+4. 2.8 DN2100mm一DN4000mm、150"包角重型带垫板藤式支座的结构和尺寸应符合图 10 和表 12
+的规定。
+by
+Ar =
+as    H    ~~       |    1
+=            pf       i    i
+让    a  ay       |    |
+       |       八代    |
+WW        |         Jf           |       |
+Seas]    7“ |        |    |
+让  Pr   人      LY
+ti Tt Be     LAK 28
+|        .    in               两MI0烷栓
+号           hb   ne                0 |
+i                 6               :
+jlo   _          _              h
+sof als Tate Ta Ls             h
+os        2
+FE型                si
+图10
+25     |
+
+--- 第 30 页 ---
+只                                    z
+#12    .       单位为mm = §
+we jromlel sy [ado & fa [mo [feel [a] « [SPTSETEY| Se [AT] Me™ | Cees |
+[rico | vi [20 [iva [awn [ie | v6 |oee [ae [0 |e [2500 [0 [re | me | ta00[ — | n [aawe [oe [oe | os | &
+[zam [vist [ 20 [ise [mo [se] as [2s [aoe | 20 6 | si00 [sv [vs] oa [asm | —"] a [anes so [ws | es | =
+[am | nso fas [roae [oe [ie] as [2a] ae [a |e [sao [ao [ie [ar |vaeo | — [a [2ane| so | sr | os _|
+    [ao [ries [ 2 [aw [a0 [6] 16 [26] 206] 20 | 6 [330 | so [ts] wo [in| — [a [2aae| so | ww | ws |
+|    [2sae [asm [aso [2oro | soo | a8 [ ae [ae | 358 [500 | [9520 | ao [a8 | [se |
+|    [eon aos | 250 [20 on [se] 1» [>| am [500] 0 [ae [0 [ves [roo) — [a [aaae[ vo | os [27 |
+|
+.    rela aa aa Pe Pht steleste ref bef [a [oo
+Fzom | asie | 250 [2am [seo [20] 20 [sm ]¢| ao] 20 [smo] mol m [is rem [ae | [espe [oo | om |e |
+[som [255 | a0 [2a [se fo] 2 [a2] 6) ao) |r0| no [za| wofiow |e [a [saas[@ | oe | |
+[samo] 2ose | 220 [asa [am [a0] a0 oe| sie] ao] [ear [a0 |m2| us| amo] wos | as [snes] co | ims [2 |
+[sam 2sre | ase [2emn [aon |20] 20 [ras [sie] ao] a0 [4sio| vo [a2 [iss [2am | sa | x [eae [oo [aon | ms |
+[200 2ase [20 Pao |e [20] 20 [os [se] a0 2 [co [rn | m2 [reo | avo | ss | an [ows | eo | ine [ns |
+[son] seo [ 250 [arco [a0 |[20| = [o2| ss [eo] a [ame | rola [is [22m [a0 | [oane| oo [vam [ao |
+[sor] ses | 20 [awa [ovo [22] a [sos| ses] so [2 [eos [malas jr [az | om [a [aes |e | tas | oa |
+[seen | seas [20 [2mm [an |m2| x ae |sss| a0] | Som | em [ae[ re [ase | so | a [ame [ oo | im | oe |
+[>| 3705 [ 20 [200 [oan [22 a [ox] as] oo] a |S2i0] ao] a [o[2e0| om [a [ares] @ | ies [sso |
+[san | saat | as [som [aon fas] as [| se5 [a0] 2s [seo] eo || |2e0[ es | a [anse| @ | ioe | or
+[son [a2as [aso [sie [ase Jas] as [| 5] ao a5 [sore [sso as] ioe [ase | os [as [enss | co [ins [our |
+[som | sate | 250 [sam [awn [as| as [sas [oss] eo] 2s | seo we [as [ams [aoe | eos | a [ove | co | irr [me |
+i
+i
+|
+i
+
+--- 第 31 页 ---
+NB/T 47065. 1一2018          |
+4.2.9 DN4100mm~DN6000mm, 150°C ff Hi) MA WERT Se A HAR PLEA LL 和表 13
+的规定。                                             |
+|
+be                |
+并 孔 el el     .     je              |
+一一 Ne Sf          |      |
+认               1p        1     i
+人NN            1            Jif     2      i       |
+              个和
+ NS       ，       vA j         i     i               :
+\  \ oka |     |         |     |
+i   SS 1   fe        al  中
+HL [LT 他        ee
+:    zat         STi HM OSE
+4           i                       ol
+I                   b;
+15,  Ste        ded     be        d
+ae re ne
+6         bs
+Fa                   sai
+图11
+1
+|
+i
+27      |
+
+--- 第 32 页 ---
+B13                     单位为mm &
+| aa RE] |e IE
+ze woos To [a] & [Topo [ofmel es [el ED TELAT As | mss |
+[eave sem [ 26 [ao [an] 20] > [eos| 0 [oo] | svn] wo [25] wa amo | ess [ar [wo [we [tem [oes 和
+fea ware | 20 [90 [on] 36] 26 [on [ove | ao] 2+] sn] wo | 25] 7 [mo | Too [ar [wn | wo | iso [amor | ©
+
+|      [ese] aero | 20 | 30 jaw 6 a6 [on [oe [ane | com | wo [26] 2 | zero] mus | a7 [we | w | ise | os |
+
+.      [eau ase [ 20 [30 [an | 26 [ 36 [on [>e | on [20 [62m om [acl ora] os | ov [wwe ['w [aoe | mo |
+
+[eso [ sie [20 [sn [a0] 30 50 [or] 0] soo] 25] ex] on [ae [am [seo [ a ['s¢ [ome [ wo [ams | se |
+
+[ao | sine [ 2 [7a [an 30] 30 [3] 30 [sm [28] can | ow [an as| sno] mm | 3 [wes [oe [aa | ns
+
+[exo sae | 26 [0 [an] | 20 |r| sa [sw [2s eo | vo [ae [2i0[ seo] ves [se [we ['w [200 [oe |
+
+[son san 250] 3530] 20 [0 [ 0 [2s 0 0 [as [ore | om [ae [ne |sz0[ os [s Tmen| wo | oe | ss _|
+
+[so | 3500 | 250 [evo | an || so [vn | sen | sn [25 [son | oo [26200 [samo wes | se [as] wo | ser |e |
+
+[somo] «oso | a0 | som [an || o« [se] 30 |sa0 26| 700 [ine || ms] ose | @ [ree [ime | oes | se |
+
+[sim as | a [eve [sn [24] 94 [726] a0 [| 7a [von | [me | sao] wes [ee | [i | 30 | ss
+
+[sare ssee [a0 [4300 [00 94 | [ss] 0 [ae [a0 [ow | [aos] as | o2 [we [im | 2 |e |
+
+[seme [ssn | aw [ea [on [oe [ 9+ [om [356] 0 | [70 [vo [ se |p sco] we [@ Yaw | im | sz | tes |
+
+[seq | 7190 | 20 [aio [an [20 | 2 [ro |e | so] 26 [70 | 1c [56] ms [seco] veo | ee [nas] wo [ 57m [ea _|
+
+seco] 72m | a0 [eso [am [ae[ 34 [6] 06 | so [oe [710 | vom || a0 [37] we |e [ss [iw | see [rms |
+
+      [sexo 7as0_[ a [+50 [an [| 94 |e] ns [0 ae [70 [11 [oe| ae [sen] ois | nn [wee im [9m | ime |
+
+[sro ssn | a [4ero [sn [oe 56 [or | [sn | [an [1180 [ae |ean[ oo [mm [ves toe | ae | te _|
+
+[see] sow [a [750 5m [oe 56 | oe [oe [sn [x [et | rn | oj soe0] ome | nn [ow | i | oess | oe |
+
+[sao asso [ an | 0 [sin | 26 | we] se [en ae eo | vam | [or [ coo [roe] mt [aa [oon | exes [ss |
+
+[com essn_| as ro [se [on | 56 [ove] oe [oo |e [ean | vam [wo am] soo] ios mm [wes |i [ame |e        .
+|
+|
+BC
+
+--- 第 33 页 ---
+NB/T 47065, 1一2018
+          4.3 毅式支座的允许载荷                                                          ，
+|                 4.3.1 Be 2一表 13 给出了鞠式支座主体材料为 Q345R 的、在标准高度下的允许载荷 Q, Meat
+座高度增加时，巩式支座允许荡荷应按附录 A 确定。
+4.3.2 迷式支询主体材料为 Q235B 时，公称直径 DN<4 000mm 的容器的圣式支座在标准高度下
+AUST 按表 14 Tha. MMR SRBC LIN, BSCE A SOY RRA A 确定后并应
+FEL), 0.86 的修正系数。
+id                                       单位为KN
+DN                      SERGE O                           允许载荷                           FevERRIL
+=
+           |e |
+           [|
+    -    一人
+[|
+        |
+        [a
+=
+              |
+              |
+|
+
+--- 第 34 页 ---
+NB/T 47065, 1一2018
+#14 (BO
+
+DN                     PERU                          Sete BAM O                          Sibesteti O
+ 7 487 oss |
+a
+ce
+es
+Le
+5 材料
+5.1 索式支座主体材料包括筋板、腹板和底板，散式支座主体材料常用的材料牌号、使用温度范
+围和许用应力见表 15。
+30
+
+--- 第 35 页 ---
+NB/T 47065. 1一2018        ，
+#16                                       sO
+   Of
+5.2 SMELT HEIR P 40°C, NORER SCRE ERA, PBSC Re l= Aces A EE HR
+检验要求或选用其他合运的材料, 并根据实际使用材料的许用应力修正按表 2~表 13 HY Ret
+支座的允许载荷 Oo
+5. 3 拟板材料一般应与容器简体材料相同。
+6 标记
+6.1 标记方法
+NB/T 47065.1一2018，支座 x x一X
+L_  固定通式支座F，滑动鞍式支座 S
+公称直径，mm
+WS (A, BI, BI, BU, BI, BV)
+BE 1: 若鞍式支座高度 bh. HURIUOE by. MMRIRIE 而、底板滑动长孔长度 ?与标准尺寸不同，则应在设备图纸
+备件名称栏或备注栏注明。
+WN: h=450, by=200, 44-12, 30,
+注 2: EA SC Be LIS oy ELE ECS, RR) SCRAP. TEENY PONS aL
+6.2 ”标记示例
+示例 1，DN325mm，120"包角，重型不带雪板的标准尺寸的弯制固定式攻式支座， 迁式支座材料为 Q345R。
+标记: NBAT 47065.1—2018, Best BV325-F
+HAA: Q345R
+示例2: DN1600mm，150"包角，重型请动骸式支座，共式支永材料 Q235B，埋板材料 830408，较式文座高应
+Fy 400mm, SAVERY 12mm, WAIL 60mm.
+标记: NBT 47065.1—2018, eR IEMK BI 1600~S, 4-400, dy=12, [60
+材料栏内注，Q235B/S30408
+了 制造技术要求
+了.1 焊接可采用电红烛或气体保护焊 (使用药芯焊丝除外 )，焊材应根据支天材料参照有关标准先            :
+用。音接楼头型式和尺寸应符合 GBAT 985.1 的规定。
+了 2 芒式支座本体的焊接，采用双而连续角焊。鞍式支座与容史回简焊接采用连续焊。焊经厦高
+取绞藻板厚度的 04倍一0.6倍，且不小于 Smm。
+7.3 焊细表面不得有裂纹、夹潜、气孔和弧坑等缺隐，并不得残留有迷酒和飞溅物。
+7.4 BE SAARI
+7.5 WESC HEME FLUE fp PAP EEL 42mm,                                             i
+i
+31          |
+
+--- 第 36 页 ---
+NB/T 47065. 1—2018
+7.6，较式支座的螺栓孔和其他部分的制造公差分别按 GBAT 1804 Hf m Be45 GBT 1804 中“级精度。
+7.7 与俐板相接侧的筋板两端应切成 23x45?的倒角【图中广明者除外)
+7.8 WALT AEE ELBE) Ra50hmo
+7.9 PPACRRREIRATIAMC TNE, Beak NLC EH ANT AE
+7.10 ESQ REALISE, ARB PR OPM, ACEI 6
+8 选用方法
+8.1 毅式支座型式选定
+
+a) 按壕式支座实际承城的大小确定选用轻型或重型芒式支座，
+
+b) 按容器圆简强度的需要确定选用 120*包角或 150"包角的鞍式支座;
+
+c) 欣热器优先选用 120"包角或 150"包角的重型鞍式支座。
+8.2 SRS MEET
+
+AS 4 Beeb OB oh TAR BET eat me A SOPRA, RS eT EAT MET BEI, ME
+POMERAT ME, IER RB IE»
+8.3 HORI
+
+公称直径 DN< 900mm HRB, WESC EEA} AP HAR ALA IK RRA
+件之一时，必须设置垫板:
+
+a) 容软圆简有效厚度小于或等于 3mm;
+
+b) 容器圆简苇式支座处的周向应力大于规定值;
+
+c) 容器圆简有热处理要求;
+
+d) 容器圆简与尽式支座间温养大于 200C;
+
+e) 当容器贺简材料与圾式支座材料不具有相同或相近化学成分和性能指标。
+8.4 ”加式支座安装要                                                                |
+8.4.1 4 AEARER EMMY GREE ORIRL AT BEKO FIM , MARRIES LE. SIC A,
+按附录 B 核算螺栓孔长度7。
+8. 4.2，鞍式支座螺栓孔应根据容器不同膨胀形式，按图 12 要求进行布前和安装。
+8.5 基础垫板
+
+当容器基础为钢筋混凝土时，滑动鞍式支座底板下面必须安装基础垫板，基础热板必须保持平
+整光滑，望板尺寸参照附录 C 确定。基础热板由设计者在图样上规定其供货关系。
+32
+
+--- 第 37 页 ---
+NB/T 47065. 1一2018
+pone
+|                                                     |
+|                                                      !
+!
+|                                                      |
+上               cp              a
+Lo          pest Sema
+da
+TEMS     一
+下
+了                                      d
+Palka    -一:一:一一一-
+;                                    2
+:                                    |
+vena oa Te ’"
+othe
+滑动对式支认                            inet eM
+图 12 蒂式支座安装间距
+，
+33            |
+
+--- 第 38 页 ---
+NB/T 47065. 1一2018
+附 录 A
+《资料性附录)
+超过标准高度的鞍式支座允许载荷
+A.1 轻型鞍式支座的允许埠荷按才A.1 查取。
+表A.1 轻型鞍式支座的允许载荷       单位为kN
+erate                ‘SPA
+sins [as] a0 [ [50 [oo] o] ox [on] ne [ow [oo [on [ve [
+beet pels ts tefefstaletet = [= [x |
+ee
+[owe pef* «(pepo ls elope» |e
+ed Ce
+oe CC ce
+Se 本和可本
+四四古而加加EIENED
+bow [= [aa fae De [ors [os fin fiw fe fee | Ce      |
+Fs [= [eam [ar [ae fie fim Pow [oe [oe fe a Le |      |
+[oon fam pa [a fe foe roar oo oe foo [oe [|
+[ae [= |e [oar | foe fin [os ie | [ae [      |
+ry ne
+[saw |= eae [om [0 [os [een a [ve [om Poa |
+en
+[eve [= [oe [oe [om [om
+ed ce ee
+[sew [=a fs [a [so foro [ef Pa ae [oe [a
+Farm T= as [a Pow [se [ne |r [aa [see Pa Fie [|
+sun) — fw [mr | ot [oe [oe [on [a fa [ne [a [ms |
+vow |— [om [vam [i [ow [os fs [wr [an [ae [as [or | ae [8
+[saw [= ise [ae [a [oe [oo [rm fo aan [oe] ar [ 5 | 8
+[pier [= [iam tam [is [To [os [| | Ta | [9
+34
+
+--- 第 39 页 ---
+|
+|
+|
+NB/T 47065. 1一2018          |
+HA HD                                     !
+ama                              文山
+DIEIEOIEOEIEIEIEIEIEIEICIIOICET
+raw = [veins [oe [os Tom fom | fms | | os fw [os |
+sa [= reefs ve [wn [oo Few fo Toe [or fer [1 Pe |
+[sa | [resem [rem [refi |v |e [oo [er | sa [or] ow [w
+| 2500 | — | vse | 1431 | 1260 | 1125 788 544 ais |
+Pie |= [rer 0 [1 va few Tow [a oe [9 | |
+[me | [ier [rat ane rear wr [me om [oe [50 or [as | |
+[sin — [eri [vo [ae om] ot [ww [or [ow | [oe | |
+[owe | [ieee [re fae aa fee [a |r fon fas | oe | |
+[sie [= five [ne a ae ia f | ow Foe [rn fos | as [ss
+[me [= fase [2m =
+[ae |= ae 20 [1 a [|
+[eve |= [ase [ana fama [offi] ve [
+[se | — [ao |e [2am [aes [ver es [on [romp wm [wr [ow [|
+[eo | Poem asa so [eee fas a6 er] ve pos [a [|
+[+e |= {00 [aes faen| noma [i fe [se | 8 [|
+[oe |= Poesia [ames Fea am [es] 9 Pe [wm | |
+[ow |= [oe |e 2 | 0 [ae [i 40/20 [re] 9 [Pm [|
+[ene | i |e [sen [ae ffs [asi [| [om
+[ie [= fase so ae [zen [2 这|
+[sa |= Paar [se rr 2 [2 vs [oe 8 [we
+sa — [|e 2 a a foes [rae [ 10 | eo
+san [= [1a am [7 [2] a [1m ew [ree 0 as! vf
+Fs |= foe rosario i
+[se | — [ans [seine [ar [ae zo [|r| 56 [es |v
+[se | [a [ses [ze [2a fe i a [a [i
+[sn |= [ns [a [5200 Ws
+fone [= Ton [es [5 ae 加
+[|
+35         |
+|
+|
+
+--- 第 40 页 ---
+NB/T 47065. 1一2018                                                         1
+人A. 2 重型鞍式支座的多许哉荷按表A.2查取。
+RA2 重型鞍式支座的允许载荷        单位为 kN
+5        |
+8 bs [el ep Dee 二        |
+ac      :      |
+t= f=>-l=felsfe[e ele [eft ~ [ots      |
+eee ape fae bee pete pels [ep      |
+efef a fetetetetereetetels [elo     |
+全二|二[全[Tea    |
+ee
+[ae ff [eps] «pes ape fa pel fs [a     |
+ee CC     |
+Cape [spel pls pe fepa fe bale fa     |
+Lo fet o [eps [els] a B        |
+[so [as = Ta pelo lols 3      |
+Pete fete pete tere tete fafa pe |      |
+Lo fe, —[=telefals «lols |e 了     |
+ee       |
+oe      |
+[ee far fw fase f oe [or fae pos | oe fst | ae [ee      |
+ee         |
+Pee pel = fefetelafa te efatate fe fo        |
+A SY TS NC
+Re ee ES IEEE本省乓
+[rae [ef — [ae fost fatale tes els [@ fe |     |
+ee 有世相了欧阳     |
+[seo [oe [= [ae Poor fie fw [os fof os Poe | we fo [or |     |
+[rs [= ae [ae Poe [aoe Pom [ar [ane [i [ise Par [var oor |
+CS
+ee ce
+[ro [= se [ses [0 Po [50 [ae 加
+[500 [=P seer on [aor [ae [10 ast [20 [oe Pe [wo [oe fs |
+Pee fa foe fae aa ff oe Po     |
+ES ee ee
+36                                   .
+1
+
+--- 第 41 页 ---
+NB/T 47065.1一2018          |
+表A.2 OD                                     |
+SL                            支座高度/mm                       _         ]
+[ase Pa Pa [a [a 疝Ti襄[训|      |
+i [= [iw a erm pote palette pss fanaa]
+{Se | fre arper pee for fw pa er fer Pa
+EEC rt [0
+{2600 | — | 1930 | 1664 1305 | 1 178 912 520 | 479
+[aio [= oe [a Fra fi a a |
+rove [= 9m [6m fia s3a [ [ror Pw [a a
+| So [ sss [uf rf fem [9 且1 生|洛
+3000 | 一 | 2860 | 2479 1616 L062 | 953 | 864 729
+3 100  Pepe eee 1625 1067 | 958 | 808 732
+sin = [as ease efter adobe
+haa 7a ras [sat 69 ioe] se [ 1"
+[caste [= [sme seer [ es [2 [amr] en [ a [ns fs [16 | 90] 90
+[eer = [Se [sino er [aes as [ane ef sio ae [1 fw [i
+    3.620 1741 | 1516 | 1343 1000 | 921
+[ets | [sro 2 128
+bon = [a ECG
+si  feel
+4200 | 一 | 4350 | 3 763-| 3315 2079 | 1809 | 1601 | 1436 | 1302 | 1191 | 1097
+4400       4400 | 3 803 | 3349 | 2.992 | 2 703 [2466 | 2.097 | 1 824 | 1614 1312 1105
+[ces = [sim [sao sms] or [svar [>ae [aie se ae |
+[soe Tir son [ane a0 [20m [i
+es E 人E
+eon om ot [sar [ee [1
+[se Pra Yoo [aya [sar [ar [22 [ow rr IE
+[sane = [si sae sare ae [a0 [sz [sf [a [sue | on [78
+| sas} sa || sur [rr enc SS [sso fs 7
+十二] crs sao [2 [se 0
+EECOENEOEOENOIEOE EGG 全生生
+37
+|
+|
+|
+|
+
+--- 第 42 页 ---
+NB/T 47065. 1一2018
+AS 150*包角重型料式支座的允许载荷按表 A.3 ARS
+FAS 1S0"包角重型鞍式支座的允许载荷                      单位为 AN
+
+Sm [a [me [ow [me [ | se [on [| | [vo] [tm    |
+oe RE       |
+SRE ON全
+ee
+ee Cd
+Pie fe = Paw ou | [ie fie Pos fiw ew | wf |
+ee ee
+Pia T= Powe Pa [9 [ae Pa [ae [ae [we [fe Pm [fo
+[im = Taw [ae [oe Pow fas fas [ar ws [ir |
+[ise =o | [ow [am [|e [ae [ae [| a
+[ise [= Tor Pow fom [a aw [a Pao [or Pan [om [oe [|
+[aw = fae] se fos [on fs [ow [20 [ae [orb | ws [oe [or
+es ed
+ees dd
+es CC eed
+oes Cg
+[ase [= fiom ree veiw ion wa [as |e [oe [a [ar |
+[aa [= [im ef] em | me [ow [ns a | [ow
+Fam | = faoe) ma fis) [eo Pow [ow Dea [x | 0
+  fans es rsa oo [ww [mow [oe [    |
+        Fs [ssa [or | [a | ow [om [em [
+[se [= [as fase [2 [205 en [re [fron | 9 [a Pw [0
+
+sor [= [soso [236s | ao [re [rm om | ws |_|
+
+saw | — [an 290 ams | [19 ammeter Pow [aa |
+Fam [= [os asm an [207] 190168 [rae [rao os [om [ a [
+[0 | = fron [si |e [220205 [re [| 8a [|           |
+[se [= [oem [ana 2 [2m [a rar fae | or               |
+38
+
+--- 第 43 页 ---
+|
+|
+NB/T 47065. 1—2018
+器A.3 (4D
+su                              SEA
+Se [eT [oe [we [wm [9 | [| [we [|
+so = [ora sa | [| |
+3900  | —_ | 4285 | 3706 | 3 264 2636 1413 | 128 | 1172 | 1079
+[f= fs [
+Fe = Yo wea [0
+Fs6— = fo nee [| 5
+Feo [ = Yona [a [re [a
+Fe = [one a [uf [vf
+[i= [oan [| fr [se
+| 490 | — | 5300 [4509 | 4015 | sso | 5251 | 2014 2171 1424
+| som | — | 52 } sas? | 4739 | 4230 | 3820 | 3482 2573 [2275 | 2040 | la | 1690 | 1556
+[Si = Yo |e [5 sans 0s [0 [a
+[Sse Fes |v [| [us [fo
+[5 [= [re mn [0 [sr [2 fa [ne
+3        i
+i
+|
+
+--- 第 44 页 ---
+NB/T 47065. 1一2018
+附 录 B
+《资料性附录)
+RBH RIE TLIC
+BE BAUS BF aaG MTL AS BEA HE A eA kA BS Se Dede B,1 查取。
+表B.1                      单位为 mm
+BORER                         Ue I HRC
+                                               «
+                                                 rz
+                                 a
+1) 材料按奥氏体不锈钢;
+2 ) 环境温床为25C。
+|
+40
+|
+|
+
+--- 第 45 页 ---
+NB/T 47065. 1一2018           |
+附 录 C                                        ，
+(资料性附录)
+SoM
+C. 1 BEREAN ZAIN C.1 所示。
+4420
+"|   |p oy]  1
+二
+3                                           3
+:                                           3
+图C.1                                               ”
+C. 3 MESS ME AEN PARE AEC RIL AeA SEA EAI
+C. 3 SRSA ASRNNE CT EARL BCR a Hest (C1) 取值，
+d=M+2mm           steerer COD)
+a
+MAAR
+41         |
+|
+
+--- 第 46 页 ---
+
+
+--- 第 47 页 ---
+NB/T 47065. 1一2018 《容器支座“第 | 部分: 园式支座》编制说明
+|
+NB/T 47065. 1一2018《容器支座”第 1 部分，鞍式支座》
+.                                           编制 说明                                              |
+1 概述                                                                                           :
+本部分是在 IB/T 4712.1一2007《容器支座 “第 1 部分: BER SLE) KEM, ALE NB/T 47042
+一2014《卧式容器》中的规定，结合有关设计、制造及使用单位返馈的意见，对原标准的部分内容
+进行了修订。
+2 ”主要修订内容
+2.1 按照 NBAT 47042一2014《卧式容器》的规定，作为苇式支座没计的基本依据。
+2.2 按照 GBAT 9019一2015《压力容括公称直径》的规定，补充齐全直径系列中的空汗，增加
+DN4100~DN6000 直径系列的轻型较式支座、重型鞍式支座和 150*包角的粮式支座系列。
+2. 3 核算了枕式支座的轴向宽度，并调整了输式支座垫板及相应筋板的尺寸。
+2.4 镑式支座的材料可以采用 Q235B .Q345B Fil Q345R,通式支座的使用温度范围拓宽为-40C ~
+200 CH LW.
+2.5 BOE TESA Se 9 Sb BERL EO BA
+2.6 增加了地脚螺栓的数量。
+2.7 按照 NBT 47042一2014《式容蜂》中规定的裁荷组合，计算航式支座的许用载答。
+3 对修订内容的说明
+3.1 按照 NBMT 47042一2014《卧式容器》的规定，作为喜式支座设计的基本依据。
+NBAT 47042一2014《恕式容回》中对壕式支座的尺寸设置、材料选用、载荷计算等内容进行了
+详尽的规定，以 NB/T 47042一2014《 各起容器》中的规定作为本标准的编制依据，更加方便于压沪
+容器设计者在设计中的选用对式支座及进行截荷核算。
+3.2 增加了较式支座系列中的规格 。
+目前，我国石澳化工装置的大型化已经成为新的发展趋势， 很多工程公司和设计单位在设计中
+需要大尺寸的粮式支座, 以满足设备大型化的设计需要。因此, 在 Be 4712,.1一2007《 容器支座”第
+1 部分， MRED AUREL, HEIR GBAT 9019一2015《 压力容器公称直径》的规定，补充齐全丰
+RIV PAYS; 重点是增加 DN4100~DN6000 直径系列的轻型喜式支座，重型炉式赤座和 150°
+包角的蒂式支座系列，扩大了鞍式支座的应用范围。                                           :
+CATERER SCBA, BEN GBIT 9019—2015 (FRA AAR BRL) RESALE ELINA
+增加索式支座的规格，
+轻型鞍式支床规格从 DN 1000~DN4000 扩大至 DN1000~-DN6000 规格范围;
+120"包有角的重型怠式支座规格从 DN159~-DN4000 扩大至 DN168一DN6000 规格范围;                               :
+150"包角的重型通式支座规格从 DNN1000~DN4000 扩大至 DN1000~DN6000 规格范围。                         i
+i
+43            |
+
+--- 第 48 页 ---
+NB/T 47065. 1一2018《容器支座 SH 1 部分: 芒式支座》编制说明
+3. 8 BRT MSCS RNAI, FRM TBR See ERAS
+
+NBAr 47042—2014 (Hibs 9-88) Ape HAF West AI BE BE SA Se PAR ASE BE: ET               q
+3, DLR WAM EN o> eR ， West HE MAL OY TELE AIB JE B, > b, =D 41.564R,5, » 1
+RMR TESEAR DP , BER TCS EMU EEA RE EE, WHT AR Oy KI, 使得较          ，
+式支座与 NB/T 47042—2014 CERARED BOMB TT »
+3.4 ”巷式文座的材料可以采用 Q235B8、Q345A、Q345B 和 Q345R， 过式支座的使用温度范围拓宽          |
+为-40C一2007工况。
+
+迟式支座常用的材料为 Q235B 、Q345A、Q345B 和 Q345R， 本标准采用这些材料主要考虑以下            |
+PARK :
+
+a) Q235B, Q345A, Q345B 和 Q345R 材料是目前常用的压力容器材料，材料许用应力属于
+147Mpa、170MPa 两个等级; 同时允许使用温庶为-20C一200C、-40C一200C两个范围，
+基本满足了我国绝大部分地区对苞式支座工况的要求。                                                        |
+
+b) 在驴式支座结构尺寸表中，给出以 Q345R 材料计算的台式支座允许载荷，Q345R 材料多
+许强度值[zj=170MPa，可以莱顾使用 Q345B 材料制作驶式支座。                           1
+
+co) 当必式支座材料采用 Q235B 时，在标准中给出了公称直径 DN<4 000men IWRC FEI
+的允许裁荷值, 对于公称直径 DN> 4 000mm 的蒂式支应,推荐选用 Q345 档次的材料制作。               |
+
+d) 对于或式支座的使用温度低于-40C的情况， 本标准允许设计者使用自己选择的材料，通        有
+过材料标注加以更改。但芝式支座的允许载荷应由设计者负责进行变更。                      1
+
+3.5 取消了髋式支座的地震设防烈度的限制。                                                    |
+NB/T 470422014 €RDSCAEAE) =P AOL ALBEDO RUBE Wy 9 RE, TRE MEAS BN SC Me a JB
+核的地震载荷仅为水平地震力。
+在本部分的老式支座载荷计算中， 摩擦力法包括水平地震力和温度变化引起的摩擦力两种裁          (
+i, AELSB Woe a | sR I, PAL, Rd TR A TH BE 9       :
+REMAP MAH Tho
+也是由于 NB/T 470422014 CPST) HULA Beh Se REI A RM Bee, FEAT He
+SAC PACARAR BE GPRD, ABCA MLA AG TBARS MEA PAR Ta 5 sR LAR 2 eR
+支座承藏的影响度予以降低了。                                                                :
+3.6 增加了地千螺栓的数量。
+在本次修订中，部分规格鞍式支座的地脚曲检尺寸予以加大;部分规格长式支座的地脚曲栓驴
+量予以增加，由原标准中 2 个增加为 4个。主要考虑的因素为，
+
+a) 根据收集到的部分施工现场的反映，原标准中地脚螺栓尺寸在 2m 范围后偏小，补易被现
+Sas;
+
+b) 借鉴了有关国内外大型工程公司的企业标准，其地嘻照栓尺十和个数均比本部分大;
+
+oj) 本部分已经取消了通式支座的地震设防烈度的限制，如果发生 9 度地震的工况，国定端的
+笛式支座地著螺栓有可能承受较大的剪切力。
+
+          基于上述原因，本部分对地脚螺栓进行了调整:
+1 500mm 以上的部分车式支座，特别是重型靶式支座 (包括 150"包角 ) 的地脚螺栓直径加大;
+2 800mm 以上的通式支座的地脚曙栓直径和数量均子以调整。
+-44
+
+--- 第 49 页 ---
+|
+                                                                                         |
+t                                                                                         |
+                                                                                         |
+NB/T 47065. 1一2018《容器支座 ”第1 部分 较式支座》编制说明
+4 ERE RINT O 的确定                                                  i
+                NB/T 47042—2014 ( IDSR2S-8 ) HUSA ESL SE RY SVR HGS ASR BH ULE, ARAM         :
+过程中依据 NB/T 47042—2014 (Bhs Ze > BEFT RSE SE LNG FOE MUTT LSE,  为了方便使用者正确使
+用本部分，现将对式支座允许载荷的确定方法介绍如下:
+4.1 鞍式支座的受力分析
+a) 通式支座腹板水平拉应力，
+eS)
+° Hy +66,
+ate:
+Fy — WAS SCE AC AR TET A AED EIS, MPa;
+OBR EHIRI, Ns
+A,- +S AE, mm;
+5, WAS UE, mm;
+6 PRX EMA IED (如果设置垫板) ，mmi
+6, WAX MARAE CE RHOR ) ，mmi
+Ke— BL, MOEA FS O=120°M, K,=0.204; YR A 0=150*时， K,=0.259,,
+b ) HARA Re Rest See A aR EH
+on pe        CHaao<yont)
+和 a a   (424.9520 8H)
+式中，            :
+ca HM BETS | ERB ART PN LAF, MPa
+O—64+ ZW RA, Ns
+4p PMR SALA ATTEL, mm?;
+AWAKE, mm;
+HL, VAS Paty BA We 5 ER TES, mm;
+LWA OR SM RAL RRS RM, mm’,
+L— HIRES, mm;            :                             .
+A-~FER SEE Pal BRE STAR AES, mm;          :
+GAP SURE RL, RUEBEN 9 AE, 设计基本地震加速度为 040g 时， @,=0.32;
+F, WEN SOME CARE SN (0 By RRR ABC , HAE Me TI RL, 大=0.05。
+©) 由温度变化引起蒂式支座组合堆面内的压应力:
+of =- 2 fF
+SA 互
+式中:
+吃一温度变化引起较式支座组合截面内的压应方，Mpai
+了一-长式支座底板对基础的静摩擦系数，取危险工况为钢对水泥时，/=0.4。
+                                      45         |
+
+--- 第 50 页 ---
+NB/T 47065. 1--2018 《容器支座“第 1 部分，较式支座》编制说明
+4. 2 ，鞍式支座的允许载衍设计工况
+以上表述了园式支座设计的三种工况,a ) 工况是核算炉式支座腹板的拉应力， b) 、e) 工况同
+属核算著式支座组合稚面内的压应力。
+在本部分的鞍式支座允许荷载的计算中，b ) 工况的水平地震力大于鞍式支座底板与基础部摩
+BEAT CHM £0.05 ) 为危险工况:c) 工况的鞍式支座底板对基础的静摩氛系数取为钢对水泥时(即
+了=0.4) 为危险工况; 因此，需要在b) 、c) 工况中进行比较。
+b) 工况的最危险工况时: 取w 0.32, £0.05, Il) 2w -大=2x0.32-0.05-0.59;
+c) 工襄的最危险工况时: 取钢对水泥，则7了 =0.4。
+ZB, b) 工况最为苛刻,在本部分的鞍式支座允许芒荷的计算中，取计算系数 7” 0.59 作为
+航式支座组合鹤面内的压应力核算依据，可以基本涵盖地震设防烈度为 " 度的工况和最危险的温差
+变化工况，拓宽了较式支座的使用范围。
+因此本部分鞍式支座的允许载荷计算采用a) 、e ) 工况进行，即
+[o]<max[oy,,05]
+4.3 款式支座允许载答[四
+a ) 按通式支座腹板水平拉应力确定的[Clkwxs *
+[levan = (eX +55.)
+b) een SGA AR TT EI EY (Dae :                                                         :
+.           [Dlavemiciee =e                                                           |
+ae
+ec ) WER SERRA ORFS [0] HOMARE :
+租式支座常用的材料为 Q2358 、Q345B 和 Q345R，本部分主要推荐 Q345R Jy Woh CMTE)
+材料,其fo四取值为 170MPa，主要考虑以下因素:
+1) Q345R 材料的设计温度范围为-40C~200'C , 基本满足了我国绝大部分寒冷地区对蓄式支
+座低温工况的要求;
+2 ) Q345R 材料是目前常用的压力容器材料，材料允许强度值[oj取 170MPa，应用范围较广;
+3 ) 对于 Q235B 材料制作迷人式支座时，本部分给出了修正后的蒋式支座人允许载荷;                           |
+4 ) SECEDE MSC, BEBE Q345R 材料初步确定其允许载荷， 再用实际材料的许
+用应力值对其进行修正，从而确定著式支座的允许载荷。
+d ) RRR SCR PP ALAT (O) HSE
+es MAE NY FYE ARAY TE AY HN HEA DESL AA PHI EAD [Dye UAE CRE
+ARTETA EL TREY (Ola ，取两者中小值，即
+jx
+    46
+
+--- 第 51 页 ---
+=       ICS 23
+° NE
+中华人民共和国能源行业标准
+NB/T 47065.2—2018
+代营 IB/T 4712.2—2007
+容器支座
+第 2 部分，腿式支座
+Vessel support—
+Part 2: Leg support
+2018-04-03 发布                                                 2018-07-01 实施
+Ie] 家 能源局 发布                            ，
+I
+
+--- 第 52 页 ---
+
+
+--- 第 53 页 ---
+|
+|
+|
+|
+NB/T 47065. 2—2018
+目 次
+附录 A (资料狂附录) 。腿式支座计算方法69
+49
+i
+
+--- 第 54 页 ---
+NB/T 47065. 2一2018
+前 OF
+NB/T 47065一2018《容器支座》分为以下 5 个部分，
+-一一第1部分: 较式支座 (NBAT 47065.1一2018 ) ，
+一-第2部分: 腿式支座 (NBAT 47065.2一2018 ) 5
+一-第3 部分: 耳式支座 (NB/T 47065.3—2018 ) 5
+一一第 4 部分: 支承式支座 (NB/T 47065.4—2018) ;
+一一第 5 部分: 刚性环支座 (NB/T 47065.5一2018) 。
+本部分是 NB/T 47065一2018 的第 2 BBS: 腿式支座。
+本部分按 GB/T 1.1一2009《标准化工作导则”第 1 部分: 标准的结构和编写》给出的规则起草。
+本部分代替 JBAT 4712.2一2007《容器支座 ”第2部分: 腿式支座》，与 JBAT 4712.2一2007 相
+比，主要技术变化如下:
+一一对引用文件进行了更新;
+一一对腿式支座的适用范围及亮体最大切线虐、规格、材料和人制造技术要求进行了增减及修订;
+一-增加了“设计”章节，给出了设计温度、腐蚀宪量、材料、许用应力、工况及载帘组合的
+BER;
+一一修改了其他相关技术要求;
+一将附录 A《〔资料性附录) 腿式支座计算方法参照 GB/T 50761《石油化工钢制设备抗震
+设计标准》进行了修订。
+本部分由全国锅炉压力容器标准化技术委员会 (SAC/TC 262) 提出并归口。
+本部分由全国钢炉压力容器标准化技术委员会图定式压力容器分技术委员会组织起草。
+本部分起草单位:中国石化集团洛阳工程有限公司、洛阳卓达石化设备有限公司。
+本部分主要起草人: 赵建新、胡庆均、许超洋、李占国。
+本部分由全国锅炉压力容器标准化技术委员会 (SAC/TC 262 ) 负责解释。
+本部分所代千标准的历次版本发布情况为:
+一-BAT 4712一1992;
+——JB/T 4712.2一2007。
+50
+
+--- 第 55 页 ---
+NB/T 47065. 2—2018          |
+|
+容器支座”第 2 部分: 腿式支座                   |
+1 范围
+1.1 本部分规定了钢制立式容器(以下简称“容器” ) ASRS CRIP TA “SOR” ) 的结构型式、
+系列参数尺寸、允许戎荷、材料、制造技术要求及选用方法。
+1.2 本部分适用子直接安装在刚性地基上，公称直径为 DN300mm一DN2000mm 的容器。
+1 3 本部分不适用于有脉动疫劳失效的场合。
+1 4 本部分未考虑外部管线或其他设备所产生的附加弯矩。
+2 规范性引用文件
+下列文件对于本文件的应用是必不可少的。凡是注已期的引用文件，仅注日期的版本适用于本
+文件。凡是不注日期的引用文件，其最新版本(包括所有的修改单) 适用于本文件。
+GBMT 700                BRIA
+GBIT 706          热轧型钢
+GB/T 985.1         AUB, RAR UU, SUPERP AIRS AERA AERA
+GBIT 1591               低合金高强度结构钢
+GB/T 1804一2000    一般公差”未注公差的线性和角度尺寸的公差
+GB/T 8162               结构用无颖钢管
+GB/T 50761              石油化工钢制设备抗震设计标准
+NB/T 47015                   压力容器焊接规程
+NB/T 47018         承压设备用焊接材料订货技术条件
+YB/T 3301               焊接 GG
+3 符号说明
+Ao — HAR IEEE, mm;
+Ax—— AAR AR BE, mms
+B— SEER, mm;
+九--一地脚螺栓孔中心圆参数，mm，
+Zx一一地脚螺栓孔中心圆直径 (见图 1) ，mmy
+PN一-壳体公称直径，mms
+玫 一容器总高度(见图1) ，mmi
+配一一支承高度(见图 1) ，mmy
+Homax 0K RAGE, mm;
+A, — SEAR FRB US CLA 2) , mm;
+KB RIK, TK 1.25;
+L——~FE ARIE CLE 1) , mm;
+31         :
+
+--- 第 56 页 ---
+NB/T 47065. 2—2018
+/       Ze一支柱地脚曙栓孔孔距，mmy
+
+Lay SEER BE, mms
+Lax SE HARE, mms
+Qo——AB EDU SLVR ARRAY CHE Homax BABE)» Ns
+及Cs、有io)一一材料在设计温度下的届服强度(或 02%、1.096非比例延介强度 》，MPa;
+环 本型钢支柱高度或宽度，mmi
+2一一角钢边长，mmi
+四-一钢管支柱外径，mmi
+国-一地脚螺栓孔孔径，mmi
+1f-一焊继长度，mmy
+大一盖板边长，mmi
+用一益板边长，mmi
+hy — #0. RHE, mm;
+iy WA WRARM, m2 153
+Go— iit se RUE, Pas
++SEE, Cs
+pH USEROUR, mm;
+
+gH EE, mm;
+5一-角钢厚度，mmi
+6钢管厚度，mm
+6一一肆板厚度，mmy
+所一底板厚度，mami
+6.一支腿连接处的加位有效厚度，mmi
+S in 支腿连接处的圆简不设置挤板所需的最小厚度，mms
+6, REA SUEBE, mms
+[ok SEBEL F IGRI, MPa;                                        .
+[or], 一一地脚螺栓设计温度下其材料的许用拉应力，MPa;
+[中一支月设计温度下其爆笑的许用剪切应力，MPaz
+[z了一一地肢螺栓设计温度下其材料的许用剪切应力，MPa。
+
+4 型式特征
+腿式支座的型式特征见表 1。
+
+* 52
+
+--- 第 57 页 ---
+NB/T 47065. 2一2018          |
+表1 型式特征                                               |
+act                                saa,               :
+~                       00一                       、图2、
+    |有|
+Le]                                                           |
+pe Ge Hoe | eee |
+         1.6                   1.000~2.000            见表4、图6、图7
+5 系列参数及尺寸
+容器结构简图及支腿布置见图 1。
+AN 3, A 型腿式支座的结构尺寸按图2、图 3 和表 2 的规定。
+BN 型、B 型腿趟支座的结构尺寸按图 4、图 5 和表 3 的规定。
+CN型、C 型腿式支座的结构尺寸按图6、图 7 和表 4 的规定。
+3           i
+}
+|
+
+--- 第 58 页 ---
+NB/T 47065. 2一2018
+AT
+H    }
+上  |
+  |  |
+|
+    i
+—
+|    |
+|    i
+(|    iN
+|  |
+二 和导
+AN、A理       BN, Ba       CN, Ci         |
+J         1                    1
+As         小                    |
+120% Cr} 120 1208 a 120°
+bx   J     Rs,   心
+DN300~DN700     DN600~DN700,
+R   X  45°   R   X  45°   x   RY \ 45°
+bs   4  45°   Ne   4k / ase   2   /ar
+DN800~DN1300     DN800~DN1600     DN1000~DN2000
+li 支腿布置
+54
+
+--- 第 59 页 ---
+NB/T 47065. 2一2018
+入 mw
+1,
+Aa Oe
+Pig   At                   af
+as   WA    | 中
+Feat lor |
+1         SY               xX
+:
+支柱            |        C
+=
+三    4
+|
+I,
+:     站 ，
+10X459
+20                                ，
+图2 AN 型腿式支座
+s |
+
+--- 第 60 页 ---
+Al gs
+we | 7   _
+
+--- 第 61 页 ---
+表2 AN、A 型腿式支座系列参数
+ras erry
+x fratiene) Anal! — aaa   :
+wg EAR a eee       bed              -      z
+& | Hones] DN FEEIEE Ina] Hoom | 规格| 长度"| an? [deme] 边 | | 边 x 长 fab a Loe ls ele nee
+BEF) Gu| mm mm | mm     ke {| BR) E| 长  度 径  参数 |直径    a
+an      bod | le  “lalate tala falal ® | | |e] ew
+[es far ae | wes [me [P| oe [wf os | ae ame) ao] | feof 3 |
+[_« | m |3      sm                                  fe      [6 |
+[9 | m0                                         Z      | «6 | »
+ g
+2500    90x90x10    1180 | 130 | 130       200 | 简 24 | M20    总 16 | 27   192
+|u| se |                           x    [ 2 |
+ ‘ p=    jem] mee] 2 | [| | 3       ra
+[22° |      11041012 | 1288 | 1310   156   230 | 320} 240 .    Ps    39 | 12
+[|                                 138
+* AMMO, OMMARILAUEH SPOR, HA, ROG SOR NERA,
+”支社长度 Jr- HHO BUR IE 5, DMR RESIS REE (Hoe) BASE, FMS TF a MLM ARS
+Ed
+了
+~
+3
+&
+x
+也
+8
+4                                                    &
+
+--- 第 62 页 ---
+NB/T 47065. 2—2018
+『   q
+40   byw) XD
+Cay:    Rd
+seb aS, 2
+<a
+|                al
+ony |
+.    LA
+mo        |
+A一~    i&  \) 4            | A
+Se |      Ne
+|      8
+|                |
+seh     3          |
+L               '         .
+| | 4
+fy his ks
+底板
+a   |
+ )
+HoN a                      |
+be
+A
+p
+10 45°,  人
+Seteshtst, 90 || B77 |
+图4 BN 型腿式支座
+58
+
+--- 第 63 页 ---
+NB/T 47065. 2一2018 “   |
+|
+FY
+|     DN.
+ne     |                 Ali
+ait      i
+ae           |
+日 弛
+An     Lt
+| len,
+HY
+PI                 1,  mI
+bj   on
+Hat
+1-4                =   >
+KY
+BL     外
+>      |
+ox   HK RX   x          Bal
+ee,                     到
+oe          四           *
+r  了          六站
+axé               四  中
+we          Ese
+ae                    oie
+él            上
+ona            |
+3
+|
+“A      ,
+10X459/  it y
+Saha,                            :
+图5 卫型服式支座                       :
+59    |
+
+--- 第 64 页 ---
+3                                                                 z
+#3 BN、B 型腿式支座系列参数                              5
+S
+em  vaxume | 3
+g
+[228] ma SBE TT  sa     te     4
+最大载荷| 公称 | 服    支承                               BE           |
+Ele Hlonad 直径 | 数| OE | 高度        | ladle                  aes       beac
+sliery | ov 2) ee | | meme feces) | | EE asl cole liewe| B ne] a |二| 去 |e eC] 忆
+Q |=      mm | x6 | le    度 | fg, | 2 fe | Am [ae | 如   ay | 格 ee 往 | 板 | 板 | oe
+a                       hy                                板)
+:                       Dy
+[mm |         89x7 11114) 1140    160 | 26   150 | 140 | 150   ® 24         5.2 | 0.6 | 21.5
+[2 | se |                                   x      可
+与      总
+站有ET                                          :
+108x7 | 1132} 1160 | 110 | 170   65 | 170   170 | 200 | 贺      R  20 | 6.3 | 0.7 | 26.7
+                       .            :      ®
+[= [rae | «                 5      &
+114x7 | 1237} 1265 | 115 | 190  70 | 180 | 170 | 180 | 220      1  23 | 7.9  31S
+[aa                                   ®      s
+                  8) 25| am
+5                  140x7          200     200 | 210      等              1.0
+[e[ 2 fre]        [ise ioas 20 | 0 | | = feo ae [35 0
+* SEE Tar HARE 4. VERA (ie, BR, SESE PRT RE,
+S AGH, OREM AVERSA, TR, ORM SA UES
+
+--- 第 65 页 ---
+|
+NB/T 47065. 2—2018            |
+|
+|                                *  DS    本                                                             |
+2     No 2
+A * \                                 “
+oe Z|          “A
+人         a       z                   10% 45            ,
+\                                            Yi x                  °
+a                NS                              多
+er      4
+seh                            本                        Va
+r            1
+|
+rice
+底板         |
+B
+30,
+ioe
+cl
+See od
+名|            @     €
+LS
+CT
+Ure toe
+图6 CN 型妥式支座
+61
+
+--- 第 66 页 ---
+!
+NB/T 47065. 2—2018                                   ，
+& 由 入 DN
+als    nq 1,                                   |
+AE WAR
+|| 一一        10x4 ESS
+es                       SA
+ane      NS            7
+sl            .
+。    ho XS
+s
+7     qd
+底板  |           .
+: mal 10xase
+aS
+ca
+|  \   (Wt se)
+:           7 c 型腿式支座
+
+--- 第 67 页 ---
+表4 CN、C 型腿式支座系列参数
+RE | 运记 | | pee    [rm |                       mem
+a       公称|下| 受大
+KDA    BB    区高席                     SRE
+B | (在ie| 2 ae] 28        ewe ee | are [ae                  i              lama
+md      Ls     7                 | a;                P
+号换度下)G| Lg Eben “mm   pa 。 |导这|发攻      iivdiravapabaelda eee
+iN   mm    mm          ea 和  5 | 严            S| bh | b |e] Ax | | ®              las )
+[is [100] [avo] isosonenol ae |
+[20 [1 100]                            300 | 210    270 | 220 | 260 | 350    55 76
+2               150*150x8/12               22             28 | M24
+  sa                     |_|" pe ost
+12                            般
+      1                        SLL elas]
+3                                           180180x8/12                     1810
+            =| abe es
+                  3           360 | 240       250 | 290 | 410 A                 37
+|                      4000} 1 600 |180x180x8/14            1984/2 010                                        &                   93° | 117        108.4
+[42 [1 00]                                                  s
+ae                            :                     [fo ce
+5             1 800 |200*200%8/14     2 224 |2 250)      26 | 340 | 270 |310| 450 | 相 | 65      116.3) 13.7 | 4.3] 1343
+                                                  s
+[ee  “                        四      四                       四
+2 000 | 250x250x&/14      2 524|2 550    310       320 }360| 550    80       165.3    6.2} 191.1
+;      =
+HENLE Om eA Sai cum CAE, (6) -到| tk SINE:
+FAB, SRR CBN PR, BEATA, oR SIE Vee a                                      z
+各
+* SEB Lae HTH 生，该数值是党县大支排高度 (Hho) STE, TULLE FM A                                        2
+a
+z
+S
+s
+3                                                                                           =
+
+--- 第 68 页 ---
+\
+|
+|
+|
+NB/T 47065. 2—2018
+6 设计
+6.1 设计温度                                                                       |
+SEI TAA BE] Tk BEARS AS a OR Mi 、绝热情况和环境温度综合考虑确定。
+6.2 腐蚀容量
+支腿元件的腐蚀裕昌应满足下列要求:
+a) 地阅螺栓的腐蚀裕莉了到 3mms
+b) 底板的腐蚀裕量取 2mm;
+cs) 其他元件的腐蚀裕景到 0。
+6.3 材料
+支柱、盖板、底板、垫板等支乃元件材料应采用列人相应材料标准旦焊接性能优良的钢材。材
+料选用应符合下列规定:
+a) 与设备壳体直接相焊的支柱或雪板，应采用与壳体相间或相匹配的材料;
+b) 地脚螺栓宜选用符合 GB/T 700 规定的 Q235 或符合 GB/T 1591 的 Q345;                                      |
+c) 支腿用钢板材料应符合 GB/T 700 的规定，支腿用钢管应符合 GBT 8162 的规定;
+d) 支月用角钢应符合 GB/T 706 ILE, SALA 于型钢可参照 YBAMT 3301 执行;
+e) 焊接材料应符合 NBMT 47015, NB/T 47018 的规定;                                     |
+£) SORES BEER RAR ESM TC AAS SEU TP LE Hee 5 IR, DIR A          |
+取其他材料，但其力学性能不得低于表 5 对应的材料;                                                           |
+多) 当支腿元件设计温度不在表 5 ES, PTH EI                  |
+开5_支服材料选择表
+6.4 HARD                                                                       ，
+6.4.1 支用元件材料的许用应力按式 (1 ) 确定:
+[oy = San a)      1
+其中, 六和靖定支腿元件材料许用应力的最小安全系数，一般取 m=1.5。
+6.4.2 SORE CAFS AL DR Re ) 常用材料的许用应力可按雪6取值。
+64
+
+--- 第 69 页 ---
+NB/T 47065. 2一2018          |
+考6_支服常用材料的许用应力                               |
+.
+[sum | ome a ee   20
+om aw (sep    i
+oe Ce ee
+[Sie [Te ap ae ie
+ons, owe. [sie [a0 af ne ee]
+a
+6.4.3 MIRA RE
+SU DAUR BF IE Sa EB BLE
+a) 室温下，Q235 的许用应力[oP =147MPa, Q345 的许用应力[cj =170MPa;
+b ) 车地脚螺栓的设计温度高于窗温，或采用其他烤料时，按 6.4.1 确定许用应力，其中 ng He
+PAP RERUN: 采用碳素钢制地脚螺栓时，取 n= 1.6; 采用其他低合金钢制地翔螺栓时，
+SUK m= 2.0.
+6.4.4 HAA                                                           :
+许用剪切应力应符合下列规定:
+a) 支服与设备连接处焊颖的许用剪切应力，可按式 (2 ) HOE:
+[el =o8[ok         2
+式中:
+Ur], 一一支服与设备连接处焊色的许用甬切应力，MPa;
+[ol, 一一取设计温度下支柱材料的许用应力[of 和容器或肆板材料的许用应力较小值，MPa。
+b ) 地脚螺栓材料许用剪应力机按式 (3 ) 计算，
+[rl = 0.80},         3
+6.5 工况及载荷组合
+支腿计算时宜考虑的工况及相应碟荷组合见贿7。
+R? CARBS
+ om
+ype a 本]
+|一
+we [| et
+pam fy | Pv |
+* TER EME BHI OS Be EE, PUR, SIRI eyes)
+” 在用户现场的压力试验重这包括设备自重，内部、外部附件和试验介质重量 CCH RSOIN Tay                 |
+© Sent mae                                                                    :
+65         |
+
+--- 第 70 页 ---
+NB/T 47065. 2一2018
+
+7 标记
+
+7.1 标记方法
+
+NBAT 47065.2一2018，支限 x x-x-x
+Layette 6, mm
+OOF A, B. CHU, BREA)
+SUR H, mm
+支座号
+型号(A、AN、B、BN、C、CN)
+7.2 标记示例
+示例1，容器公称直径 DN 为 800mm，角钢支福支朋,不带痕板，支承高度己为 900mm，其标记为:
+NB/T 47065.2一2018，支腊 AN4-900
+示例 2: 容器公称直径 DN | 200mm, HATES, APLAR, BAL IEBE OI 10mm, SERIE Hy 1 000mm,             J
+其标记为:      :                                                                     ‘
+NB/T 47065,2—2018, 3€18 B4-1000-10
+示例 3: 容器公称直径 DN 1 600mm, HBASCHESCR, AHPRAR, SCARAGE 2 2000mm, FUE:
+NB/T 47065.2—2018, fi CN4-2000
+
+8 制造
+
+gt  焊接采用电弧焊，香材型号应根据支座材料参照有关标准选用。焊接接头型式和尺寸应符合
+
+GB/T 985.1 的规定。
+
+8.2 支柱应平直，且无止坑和损伤等明显缺陷。支柱直线度允差应不大于 故/1 000。
+
+8.3 MAAS BY (或垫板 ) 外盛的连接狐线应按样板切割，钢管支柱与封头〔 或垫板 ) 连接部分
+
+应与封头外壁相吻合。零件加工边缘的表面粗糙度不得大于 Ra50hm，地县螺栓孔加工后表面粗糙
+
+度应为 Ra25hm。垫板与容器壳体应紧密贴合，最大组装间隙不得大于 Imm.
+
+8.4 除另有规定外，尺寸的极限偏差应符合 GB/T 1804—2000 表 1、表 2 RAE 3 中公差等级 C级
+
+的规定。
+
+8.5 ”焊接应采用连续焊。所有角焊颖其焊脚高度应不小于较斑件厚度。焊甸才面不得有未焊满、
+
+咬边、裂纹、气孔、驶坑利来洼等缺陷，焊河和飞溅物应清除干汐，焊缝与母材应圆滑过滤。
+
+8.6 ER: (RA) 与容器壳体的组焊应符合容器设计、制造的有关规定。凡被其覆盖的壳体焊
+
+双均应打磨至与壳体母材齐平，经检验合格后方可进行支柱 〈或垫板 ) 与容器亮体组焊。有焊后执
+
+处理要求的容器，支柱〈或吉板) 与容器党体的焊接应在容器焊后热处理前进行。盐板与容器壳体
+
+的焊接应在垫板最低处留 10mm不焊。
+
+8.7 ”底板地脚螺栓孔直径允差为中 mm，螺栓孔中心圆直径的允差为+2mm。支腿应均匀布置，任
+
+意两底板地脚螺栓孔弦长的允差为+2mmo
+
+8.8 者支腿底板底面应位于同一水平面上+，其最高与最低相差不得超过 3mmo
+
+8.9 支腿与容器焊接后，应与容器中心轴线平行，其平行度应小于 Zu/500，且不得大于 2mme
+
+9 选用方法
+
+9.1 当设计条件满足以下条件时，可直接按本部分进行容器支服的选取:
+
+66                                                                               |
+|
+|
+|
+
+--- 第 71 页 ---
+NB/T 47065.2一2018
+a) MBAR F-20°C HAM F 200°C;
+b) 设计基本风压值不大于 800Pa;                                                                      |
+<) 地面狂糙度类别为A 类;                                                   1
+d) 设计抗震设防弄度为8度，场地土类别为工类，设计基本地震加速度为 028，设计地震分
+组为第三组;
+e) 单根支腿所多许的最大重力亲荷在表 2一表 4 所示范围内。
+9.2 对超出 9.1 范围的支腿，可参考本部分附录 A 鹿式支座计算方法进行设计。                               ，
+9.3 具备下列情况之一者，宜选用带垫板的支腿;
+a) 合金钢制容器;
+b) 有焊后热处理要求的容器;
+ec) 与支服连接处的圆简有效厚度忆小于表 8 给出的最小摩度 Saino
+9.4 支承高度 古及垫板厚度乙可根据需要确定，双宜与简体夯度相同。
+67
+|
+|
+
+--- 第 72 页 ---
+|
+NB/T 47065. 2一2018
+HS 支腿连接处的圆简不设置热板所需的最小厚度 gm
+| mmol en a ech so oe cp]
+画简 | 设计奈
+Cee PPE EE fps paps pels [ssl] «|
+[reoa a [a [a [3 [as[asfas| « [ast s [5 [ss [ss] « [os les [7 |
+[peaeals [ata [a [ele ls [ests Gas) oPo le] o [rs[rs[s [|
+Ro eel estasl fastest s fash e fest Dsl aso fo
+[sostolasfasy a [a [s [5 [safes] 7 [ral a fas ]es oa]
+ae [3s]                                  |
+> bE EPP PRE psps]
+beapttep pp pastsieteptote fetal     |
+[poamoafs [a [a [s [asfas[s [a [as] s [esfsalss[e [es es] 7 [7s     |
+powacl a Pa [a [a [asl @ [as aats [3s [es[os les] 7 [rs! « [s [oa]     |
+peeceal Pe adres Pe teste Prod Pesl e fesl do     |
+i EIEN ERECT CG Ga SR ED ST     |
+puntla flat ets ts fo] efssp 7s |e |
+pumrelas|asfs | «| s |
+           AR Re
+PEEP ER RREERREEREEEE
+ off Pa fe]aP fashsias| a [fast s [5 [i
+Eee EL EEE 5
+[soaoal a [ays [alas [asjas[« [aslass [s [ssl | [|
+ =e [sf feslas] «[aets [s [as fas] « [os[7 [7 Dra]
+Beene tt spotsperet tater ee peter pals
+sase|Sromial'a [a [a [a ast [as[as|sa[ss| « fesfes [as] « [aslo | |
+|   Btexab pr pstispetr ts lasts ey
+[=rerals | [as(as[ a |
+(Suszo[ 3 [3 [as]         we em
+68
+
+--- 第 73 页 ---
+NB/T 47065. 22018         |
+附 录 A
+《资料性附录)
+服式支座计算方法
+Al 适用范围
+本附录适用于容器总高 刀与公称直径 DN 之比小于或等于 5 的钢制焊接立式圆简形容此的腿式
+支座计算。
+A.2 支腿计算
+A-.2.1 AP RRA
+Py =12fqyD,Hy x10         settee: CAT)
+式中，
+Py APF BRE, Ns
+APE RI, BELA To TA EDEL, ASAI f= 1.0 5
+D, 一一容器外径，有保温层时取保漫层外径(见图 AL) , mms
+万;一一容器这体总长度，mmo
+| |
+ie |
+Ss fom
+q
+an
+[INT
+|              s
+Fs > |   {fie
+Da |
+图A.1
+A.2.2 Hea                                                         并
+地震载荷计算方法详见 GB/MT 50761。                                                                                             ,
+®
+上
+|
+|
+
+--- 第 74 页 ---
+NB/T 47085, 2一2018                                                                          |
+A.2.3 支腿水平反力
+单根支肌的水平反力按式(A.2 ) 计算:
+Rate             CA
+N
+式中:
+R一一单根支腿的水平反力，N;
+Fi一一作用于容响上的水平载荷，按 6.5 中不同工况下的城荷组合分别计算，N;
+N--一支腿的个数。
+A.2.4 支腿垂直反力
+OBIE MR USE EL A Mest (A.3 ) 计算:
+AFH, _W,
+Fie      settee (AZ)
+式中
+FTA MEI I), Ns
+He — AEN HELE BA BOA BE mmo 按式(A.4) HF:
+Ho=H,-h+          eee bce eee eee teense eee eeeeeee, (AA)
+式中:
+用-一封头直边高度，mme
+已一一底板中心圆直径，mm。按式(A.5) 、式 (A.6) 、式 (A.7) 计算:                      |
+a)  A、AN型支服;                                                     |
+D, =D, +26,           sitters CAS)
+b)  B、BN 型支腿:                                                     |
+Dy = D, +25, 一40           testers CAG)
+c) Cy ON 型支腿;
+Dd,    ’  Wr, .  本
+Dy =W +2, (Bsa) (5%)                 (A7)
+式中，
+已一一壳体外直径，mmo。
+到一一重力载荷，按 6.5 中不同工况下的载荷组合分别计算，N。
+A. 2.5 支服强度及稳定计算
+人.2.5.1 SOMBRE He I
+SAS SEM OE A RMR (AS), CAD). ah (A.10) 计算，
+a) A, AN U3¢fiR
+o,=-Abshe        ttt (AB)
+b) By, BN UH:
+o, = Rat ROR,       9
+Zz
+70
+
+--- 第 75 页 ---
+NB/T 47065. 2一2018         |
+eo) Cy CN 型支腿，                                                           |
+on =A             testers (AIO)          \
+sk,
+7, 一-单根支月的最大弯曲压应力，MPai
+ZI-一基础板下表面至支腿装配焊甸中心的距离长度，mmy
+1H, +%e450         stents: CAI)
+eM > BEBE DAES CSL A.2) , mm;
+2一单根支腿的抗弯截面模最，mm?。
+e                        20                      B
+aN     rs
+J                     Web
+> Le.        7     :      )     eens   ole. -
+KR                     Ap                   ae
+Na                      fi                    cy
+Sve     1 钢管形心                                1
+HEHE Ly
+ieee /          wane \               设备外径[A
+图A.2
+A.2.5.2 支月的轴疝应力
+单根支腿的币向压缩应力按式(A.12 ) 计算:
+-分            AL12 7
+式中:
+克一-单根支腿的轴向应力，MPai
+A— XML SARTTL, mm?
+A.2.5.3 支服的许用临界压应力
+支腿的有效长细比按式〔A.13 ) 计算                                                _
+ao             OA)
+支腿的临界长细比按式【A.I4 ) 计算
+j=  Ea           AL4)
+oak
+式中
+4 一一支妥的有效长细比;
+ASHBY MEAS A 5
+n       :
+:
+
+--- 第 76 页 ---
+NB/T 47065. 2—2018                                                                           4
+EE! —— Se USE E HL BEF A SCE TAL EE, MPa                                  |
+1一一支月截面的最小回转半径，mms
+I, EWE CL, =H, +50) ，mm。
+SEI ASA Fa A I J
+a) MASA, WX (A.15)、式 (A.16) HR:
+ra |  ，
+1-04|和| |fot
+3 212T
+后            settee (AMG)
+b) 当4 > Amt, WHR (A17) HR:
+for = S270         cenetenreeceene (AAD)
+(3)
+sth
+[cl, 32 BEF EA PEA, MP ac
+A.2.5.4 SHQUTALA OST                                                             |
+支腿鹤面组合验算应满足式〔A.18 ) 的要求:
+le: 图                          cats)
+A.2.6 支月与简体连接处焊颖的强度计算
+a) 焊继处的剪切应力可按式(A.19 )、式〈A.20 ) 计算，
+avs                            (A19)
+r< fr},             sine (A200)              |
+式中，
++一一连接焊缝处的前切应力，MPa;
+A, TE BENE GCHAR, mm?
+4 =e            sete CAD)
+式中，
+双一一连接焊颖的焊脚高度，mm。
+4一一焊接接头系数，取多=0.6;
+[zh, 一一支妥与设备连接处焊继的许用剪切应力，MPa。其值按式 (2 ) 确定。
+b) 焊秋的弯曲应力可按式(A.22)、式 (A.23 ) 计算;
+“党              2
+o<K ook,          seein (A203)
+式中:
+ite He Fe Sh YS TH IT», MPa;
+72
+|
+|
+|
+
+--- 第 77 页 ---
+:                                                                NB/T 47085. 2一2018
+么一一焊颖的抗弯稚面模量，mm32;                                       |
+2,-2t de         CA         |
+[ojv 一取设计温度下支柱材料的许用应力 [co上和容器或垫板材料的许用应力较小值，MPa。                 |
+A.2.7 地脚螺栓的温度计算                                                     |
+a) BR >0时，地脚螺栓的拉应力应按式(A.25)、，式〈A.26 ) 计算，                      |
+On          vee           (A.25)
+Ou Soy           session (A,26)         .
+式中:
+cv 一-单个地脚曼栓的拉应力，MPa;
+名一-单个支腿的地脚螺栓数量;
+各一一单个地脚螺栓的有效截面积，mm?。
+Db) 地脚螺栓的剪切应力可按式(A.27)、式〔A.28 ) 计算:
+R
+awn            stents: (AT)
+Te Sly             8
+式中，
+         Fy RAR Jd, MPa
+A. 2.8 支腿底板的强度计算
+a) 支腿底板的压应力可按式(A.29)、式 (A.30 ) HS:
+                    oy =f             人229)
+B
+0, =[0ls            CA30)
+式中，
+ca一一支服底板的压应力，MPa'
+[cl 一一支且底板的许用压应力，MPa。其值政温施土基础截荷的许用压应力。
+b) 支服底板的厚度可按起 (A.31 ) 计算:
+5,=B, rac +O, 46,                   (A31)
+式中:                                                                  ，
+马一一支腿到底板边缘的最大虐离，mm;                                       i
+CG一-支腿底板负偏差，mmy
+-一支腿底板腐蚀裕度，mm。
+AS SABENA SBM ATA
+CURA HORA, PSM, SPER. RRB RM,. M,. M, (Sb
+PY AS), ARAESUAS BRA AEE, APSR ERE AE AORTA ETT BM TTT                     :
+73        i
+|
+
+--- 第 78 页 ---
+NB/T 47065. 2一2018                                                                           |
+|
+|
+M,
+<                Mo            x
+~                        Fy
+Me
+J                  :
+z
+说明，                                                                            |
+Fak, M.=0;
+ek, M,=0;
+F=0, M,=RL,;
+BF. FSA, BESCIBR SABHA, Ns
+M,. M,. M,———SSCCRREREIV POISE, BISCHILE Jy RRM, N+ rom,
+RAS                                            |
+BE: 在局部应力评价时，应考虑以上载荷与容器内压的共同作用。                                       |
+|
+/
+74
+
+--- 第 79 页 ---
+|
+NB/T 47065. 2一2018《容器支座 ”第 2 部分，妥式支座》编制说明         |
+NB/T 47065. 2一2018《容露支座 $82 部分，腿式支座》         |
+编制 说 明
+1 范围
+1.3 ASDA AF ADB RHA
+原标准: 本部分不适用于通过管线直接与产生脉动载荷的机器设备刚性连接的容器。
+容器支服产生上动疲劳失效不一定是通过管线直接与产生脉动栽荷的机器设备刚性连接, 有可
+能通过其他刚性构件连接，或是与产生脉动载荷的机器设备距离较近且安装在同一刚性平台, 或是
+内部安装有产生脉动载荷部件的搅拌容器等。
+1 4 本部分未考虑外部管线或其他设备所产生的附加寄矩。
+本部分编制中无法定性、定量确定外部管线或其他设备所产生的附加弯短，在实际工程中若存
+在，应予以考虑。
+3 符号说明
+按照标准编制要求，增加了符号说明。
+4 型式特征
+腿式支座的型式特征见表 1。
+#1 型式特征
+sce                    sagen a,
+一              2、   2、   3
+        [|
+2
+互型钢支柱                      I~6                     1 000~2 000         见表4、图6、图7
+依据腿式支座标准实施以来的实际应用经验，本次修订将原腿式支座所适用的容器公称直径
+DN400~DN1600 根据角钢支柱、钢管支柱、H 型钢支柱的实际应用进行了修改;为了便于选取，
+统一将支座号划定为 1一6(见表I) 。
+a) 角钢支柱增加了 DN300 规格，取消了 DN1400、DN1500、DN1600 规格，容器总高小于或
+等于5mi                                                                                                         :
+b) 钢管支柱取消了 DN400、DN500 规格，容器总高小于或等于 5.6m;
+¢) 瑟型钢支柱取消了 DN400一DN900 规格，增加了 DN1700、DN1800、DN1900、DN2000         |
+Ss         |
+
+--- 第 80 页 ---
+NB/T 47065. 2一2018《容器支座 ”第 2 部分 映式支座》编制说明
+规格，容器总高小于或等于 Tmo
+高度及直径比较小的立式容器，通常采用腾式支座。具有结构简单、易于制造、价格便宜,并
+可使容器下部留有较大的开放空间，便于连接管线及进行防腐、绝热、防火等工程施工。经工程广
+泛实际应用，本支姐标准规格系列基本油足又求，对于本部分设计条件及规格系列以外的容器支胞          |
+的选用，可按照本标准附录 A 进行设计计算。
+5 ”系列参数及尺寸
+5.1 腿式支座的结构图中，对符号进行了修改，对六板进行了倒角加工，防止划伤人员。
+5.2 ”考虑到石油化工装置中生产或储存的介质多为易网、易爆及有毒介质，根据 GB 50160一2008
+《石油化工企业设计防火规范》中 5.6，装置区内地面安装的腿式支座容器，其月式支座的支柱、          :
+底板及地脚螺答一般需设置耐火展。本次修订按照 30mm PAIR, MAT RRR. IE
+度大于 30mm 耐火层或无耐火层的腿式支府，盖板尺十应予以相应增减。
+5.3 支腿的反力由两部分组成[见式 (A.3 ) ] ，一部分是由水平载荷(一般是风截帘或地震载荷 )
+引起的反力，另一部分是由设备重力载荷引起的反力。为使用户选用方便，本部分在进行支腿反力         j
+计算时，按 9.1 ADELE AE, ELA RRA HRA RT SI A, TTS PAL Se MT AE         |
+受的最大重力城荷 Oo. 所以用户在选用妥式支座时, 仅需根据实际设备重力载荷在单根支朋上产生
+AY LAGER RARE ATL RH 多进行比较，满足要求即可。
+6 设计
+6.1 本次修订增加了腿式支座设计温度、腐亿裕量、材料、许用应力、工况及功荷组合等要求。          |
+服式支座的温度受容器壳体避温、绝热层、耐火层所选用的材料和厚度以及环境温度等影响，
+并且沿支柱高度方向发生变化。腿式支座的说计温度一般可按下述工况确定:
+a) 压力试验工况: 腿式支座各元件的设计温度可地压力试验条件下试验介质温度。            :
+b) 停工、安装工况: 腿式支座各元件的设计温度按使用地区历年来月平均最低气温的最低什
+加20C (以下简称“环境温度”) 考虑。
+©) 操作工况:                                                                   1
+1) 地肢曙栓和支腿底板的设计温度可按环境温度考虑;
+2 ) 瘟板、垫板及支柱，当有可靠的绝热措施时，设计温度可到容器设计温度，当没有可集
+的绝热措施上且容器内部介质为气体时，设计温度可取容器介质凋度与环境温度的算术平均
+值，当没有可靠的绝热措施且容器内部介质为液体时，设计温度可取容器内部介质温度。
+6.3 为了应用方便，表 5 给出了常用支乳材料的选择表。当有眼式支座设计温度低于-20C时，可按
+设计温度的到值相应选用 Q235E、Q345R、Q345DR 、09MnNiDR $30408 等材料。
+64 HAMA
+表 6 HY TASES ME EEA E-20°C << 200°C KFA HE FRE APIE TG o SEIU SEAN A
+力试验、安装及操作工况，其中压力试验工况和安装工况，支腿应选取 20它的许用应力值; SAME
+工况腿式支座设计温度大于 200或采用其他材料时，按 6.4.1 确定许用应力。
+地脚巢栓许用应力:
+a) 室温下，Q235 的许用应力[oj =147MPa，Q345 的许用应力[cp =170MPa;
+b) 若地脚昭栓的设计温度高和室温，或采用其他材料时，按 6.4.1 确定许用应力，其中 六按
+76
+
+--- 第 81 页 ---
+NB/T 47065, 2一2018《容器支座 ”第 2 部分: 服式支座》编制说明         i
+以下要求选取: FARR ATHEIST, FRC ne 1.65 采用其他低合金钢制地脚螺栓时，              !
+则取 1,2 2.0.                                                                                                    H
+8 制造
+|                8.1 ARES PAPO, JAR By BS ic ALS eS SS A FD ESL UTR AUR PE
+GB/T 985.1 的规定。
+考虑到 匡型钢支柱在实际制造过程中因用莉少难以采购,制造商一般采用钢板焊制,其焊接可
+SIR YB/T 3301一2005《焊接 H 型钢》的要求进行。对于本部分以外的 也 列钢支柱，也可选用
+GB/T 11263一2017《热轧卫型钢和剖分T型钢》。
+9 选用方法
+9.2 对超出 9.1 范围的支朋，可参考本部分附录 A 腿式支座计算方法进行设计。
+在实际工程中若存在外部管线或其他附件所产生的附加载荷，有可能造成支乃所允许的最大裁
+荷超限，设计中应予以考虑。
+BASRA
+A.2.8 支服底板的强度计算
+支腿底补的许用压应力[cls 应根据实际所采用的湿主土基础的强度等级，按照 GB
+50010一2010《混泌土结构设计规范》4.1.4 中表 4.1.4-1 选取。
+表4.1.4-1 混凝土轴心抗压强度设计值
+强                                      在下列强度等级下的有(Nmm2)
+m [es [oie [es [ow [os [ow [os [co | cx [oo [os [ow [om om
+[a [oa [oe Po [ns [oor Po Fone [ae ass [as or [a [ne [0
+ASPBSY AE 2, B83 及表4 MOC ALER E FLU Hs [01], 是按照混凝土强度等级 CIS ERIN
+7
+|
+|
+i
+
+--- 第 82 页 ---
+|
+|
+|
+
+--- 第 83 页 ---
+ICS23
+|         NB
+中华人民共和国能源行业标准
+NB/T 47065.3一2018
+AVE JBT 4712.3一2007
+容器支座
+第 3 部分，耳式支座
+Vessel support—
+Part 3: Lug support
+PO I ee
+In] 2t fe DA Ue Bh                         |
+|
+
+--- 第 84 页 ---
+
+
+--- 第 85 页 ---
+NB/T 47065, 3一2018       |
+|
+|
+
+目 次
+
+前计生          |
+1 范图ne
+2 GEERT RISC 二
+附录 A 《资料性附录) 。丁式支应实际承受载荷的近似计算ee
+附录 B (资料狂附录) 由容器壳体限定的支座许用弯短 Ne
+WRC (OUBUEMSE) 。丁式支认安装尺十 el88
+ARUBL ANY soe cscececceseseueeceneietneieeenceseeistineietneneineussneeesenesneees 189
+
+81        j
+
+|
+
+--- 第 86 页 ---
+NB/T 47065. 3一2018
+前 言
+NB/T 47065一2018《容器支诬》分为以下5 个部分:
+一一第 1 部分: 芒式支座 (NBAT 47065.1—2018 ) ;
+一一第 2 部分: 良式支座 (NB/T 47065,2—2018 ) ;
+一一第3 部分: 耳式支座 (NB/T 47065.3—2018 ) ;
+一一第 4 部分: 支承式支座 (NB/AT 47065.4一2018 ) ;
+-一第5 部分: 刚性环支座 (NB/T 47065.5一2018 ) 。
+本部分是 NB/T 47065一2018 的第 3 部分: 耳式支座。
+本部分按 GB/T 1.1一200% 标准化工作导则”第 1 部分: 标准的结构和编写》给出的规则起草。
+ARAM RAE IB/T 4712.3一2007《容器支座 ”第 3 部分: 耳式支座》， 与 JBMT 4712.3一2007 相
+比，主要技术变化如下:
+一一耳式支座主体材料采用 Q235B、8S30408、15CrMoRi
+-一-给出了耳式支座的-100C一300C人允许使用的温度范围;
+一一给出了设备简体的许用应力在fo]j=120MPa、140MPa、167MPa、185MPa 时，支座处壳体
+的允许弯矩LA];
+一一增加了对管道推力、竖向地震力的载荷大加要求。
+本部分由全国锅炉压力容器标准化技术委员会(SACATC 262) 提出并归口。
+本部分由全国锅炉压力容器标准化技术委员会固定式压力容器分技术委员会组织起章。
+本部分起草单位: 东华工程科技股份有限公司。
+本部分主要起草人， ME. RACHEL MURA.
+本部分由全国锅炉压力容器标准化技术委员会 (SACITC 262) 负责解释。
+本部分所代替的历次版本发布情况为:                                            ，                          |
+一一JBT 4725—1992;                                                                                                  |
+-——IB/T 4712.3一2007。                                                                                                |
+|
+82
+
+--- 第 87 页 ---
+|
+NB/T 47065. 3一2018         |
+|
+|
+容器支座”第 3 部分: ARH
+1 范围
+1.1 本部分规定了耳式支座的结构型式、系列参数及尺寸、材料、标记、制造技术要求及选用
+说明。
+1.2 本部分适用于:
+a) 公称直径不大于 4 000mm 的立式图简形容器;
+b) 允许使用温度-100C一300C 。
+2 规范性引用文件                             .
+下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本
+文件。凡是不注日期的引用文件，其最新版本〈 包括所有的修改单 ) 适用于本文件。
+GB/T 985.1      气焊、焊条电弧焊、气体保护焊和高能束焊的推荐坡冲
+GB/T 1804       一般公差”未注公差的线性和角度尺寸的公差
+NB/T 47013.1     承压设备无损检测 ”第 1 部分: 通用要求
+NBAT 47013.4    承压设备无损检测 ”第 4 部分: 磁粉检测
+NB/T 47013.5      承压设备无损检测 ”第 5 部分: 渗透检测
+NBY/T 47015         FRA REESE
+3 型式特征
+耳式支座的型式特征见天 1。
+表 1 型式特征
+fae [ape e PS ee
+wae | A           有
+KY              有
+加长区 | c           有      有                                                    :
+4 系列参数及尺寸
+4.1 A型耳起支应，按图 1、图2 及表 2 的规定; B 型耳式支座，按图 3、图 4 及表 3 的规定; C          |
+型耳式支座，按图 5、图6及表 4 的规定。
+4.2 支座的垫板厚度应满足本部分的规定，一般应与简体厚度相等，也可根据实际需要增加厚度。
+
+--- 第 88 页 ---
+.                                     |
+|
+NB/T 47065.3一2018
+iO                                     |
+by
+|          be             Atl             |
+i            日             与简体外形咖合
+wie) —|     上          i,   -
+|            日
+i            日
+spt     ~          时                          5
+|         s
+a          i     $
+aaa          ea
+eh oS
+ 三      A          .
+图1 AG (XMS 1~s)
+\a
+be rt               All
+|一-一         ate            与简体外形哆合
+二      fem            aan
+AL9s         上 Ad              7
+H
+\     q      |          [人 这
+i    i      8
+pth both                     thessomigel
+a an’        | |
+图2 入型〈支座号6一8)
+机       ，                 All
+，   ，                      与简体外形哆合
+下     |
+         日             Se
+al二   | 所      |
+4                            |
+BH toe HY
+yt         i            四
+|
+上
+      ole     由了          |
+by
+图3 BA! AES 1~s)                      '
+|
+                                          |
+|
+|
+|
+
+--- 第 89 页 ---
+NB/T 47065. 3一2018
+{4
+Ala)
+be    b                               y      全         |
+poo             ，                    与简体外光合          |
+二FT          —                     人
+i                                      |
+A     a       fl                   ——
+!               i              “
+|
+            有             z
+号-一一-3           中一一ss
+IS          H        al
+图4 Bal (支座号 6-8)
+All
+a
+ok                                  与简体外形曙全
+poet            ae                     bs
+pt     i    :              Stl
+ot         floxed
+eae)           有                       nmi
+      ale]
+al          上                   ”
+Li          j               a
+thd                                 4                                 sc 1
+                       fell
+Y        dl            ai) os
+4      E36,                b              |
+图5 Cal (支座号1一3)
+从向
+4a                                    与简体外形胸合
+by    &                                 b;
+i——|  =      wey 了                             \
+Sane somes         fess                   :
+二| |                      rand            |
+|             |
+so      hel fl                  本
+|下|
+theta, |             |               SSSHssd                      |
+Xe      LA s                     :
+fy                               ，
+图6 CM Cems 4~8)                          :
+i
+85       上
+
+--- 第 90 页 ---
+NB/T 47065. 32018                                                                          .
+R2 ，A 型支应系列参数尺十                          单位为 mm                    |
+支 HkBes kere) sertgy | 高       j      .       ¥                sesacns         |
+af monn Beale] 。 庭 看       ah 板       a ai          suey pe
+ca ee Ce 4融和             |
+leper Pelee elf Pal ee |          |
+500一
+100     5           24 | 30    24   20} 3.0
+ nm [Fie so 6 [oe [i | 5 fa] « [>| [= 2 co |
+3700一
+ rf te em i fn fo [n=
+1000~            1
+sf fee of fi fb oe [fi
+2000                                                     ~
+sf [= a on i> en fff = [fia
+nr om fff feo oa om
+一      |
+Fel fo fo ean lao os
+on of > fn oo
+SE, WSCA DIRE 3 HOLE, TOUR 3 AUTRES, CMS RITA
+表3 了型支座系列参数表                           单位为 mm
+支 支座本体允许者 适用容 | 高                                             ir
+xy ea                    :                    x                   ,
+EPMA Eee 8) mw 厂       i 板       few | a ae | sonramie ra
+* a Ta Pa POON To Ta [on [ae Ta To To [os [a Te | oe [a] 了|
+Fein | [fins Pfc [= 3
+500一
+fam hol we nh sll | =[ a
+Pepe afl lof [> [ol
+Ff fe mw fon lal Fn =P
+[= [| | [pie a | [no |] 0 =| J a
+Fen fi of nf wl ow ne oe
+Ff nine oe ne oe
+[se [a [i rl ea [oso [no [ [io] |e [oo vs
+iy ACEATALL Re PAAR 6 TN, AR 6, WUE, SERRANO,
+86
+
+--- 第 91 页 ---
+i
+NB/T 47085. 3一2018
+|
+A C 型支座系列参数表                            单位为mm                |
+支 | 支府本体允许 | sae              证                                                   a
+i ne A
+300~
+ree ape Ae ee el belo
+500一
+FF fo Ps tao =f ofl elf»
+Pfft oni Tol nfs fs || nfo
+FF on [pr feo i
+eel ee nel
+1500~ |,
+Ls [ss [a a)
+ff 25a lol fon ol fi
+sil nono 5 pow]
+Ber ACTED THAT IOy 3 TOY, WER 6 ASEIEICIS, MUSE aR MAMAS,
+5 材料
+5. 1 台板材料一般应与容器材料相同。
+5.2 支座的筋板和底板材料分为 3 种，其代号见表 5。
+RS 材料代号
+6 标记
+6.1 标记方法
+NB/T 47065. 3一2018，耳式支座 x x -x
+[一材料CT、I、ID)
+支座号(1一8)
+WE CA, B,C)
+注 1者热板夯度 3, SERA RTA, SIZED A RE Bk EEE HN,
+BE 2) SEAR MRE AES ELA PERE AIRE, SET RELIR: SERED RAAB,
+6.2 标记示例
+示例 1， AB, 3 EUSUEIE, SEMEN Q235B, BATHE Q245R:
+NB/T 47065.3—-2018, FSRSE AZ. 1                                                                         :
+PEs Q23SB/Q245R                                                          H
+87          1
+|
+|
+
+--- 第 92 页 ---
+NB/T 47065. 3一2018
+示例2: BD, 3 号耳式支庄，支座材料为 Q2356，杏板材料为 30408，狼板厚 12mm;
+NB/T 47065.3—2018, JFK MEBS-1, de=12
+PPR: Q235B / $30408
+示例3: CH, 1S, KAHN 830408, BARS 830408:                                  |
+BAT 47065.3一2018，耳式支座 C3-卫                                                                             |
+材料:830408/S30408
+7 制造技术要求                                                                      |
+7.1 焊接可采用电弧煤或气体保护焊 (使用药芯焊丝除外 )，焊材应根据支座材料参昭有关标准先
+用。焊接接头型式和尺寸应符合 GB/T 985.1 的规定。
+7.2，丁式支座本体的焊接，采用双面连续壤角焊，支座与容器壳体的烛接采用连续埋。焊颖屡高        ，
+约等于 0.7 倍的较薄板厚度，且不小于 4mm。
+7.3 ，焊后焊颖金属表面不得有裂纹、夹潜、气孔和弧坑等缺将，并不得残留有熔泪和飞泪物。
+7.4 HARMS AEM A
+7.5 支座螺栓孔的加工被限偏差与其他部分的制造公差分别按 GBAT 1804 中的第四级与“级精度。
+7.6 支座所有给焊件周边粗糙度为 Ra50hmo
+7.7 支座组焊完毕后，各部件应平整，不得考旧。
+7.8 支应本体材料为 15CrMoR 时，煤接工艺应符合 NB/T 47015 中的要求; 若容器壳体有热处理           {
+BENIN], SCRA EP b Te AI ABE Lo
+7.9 “材料标准抗拉强度下限值 Ra> 540MPa 的材料和 CrMo 钢制的垫板和支座等的连续焊接接头
+表面应进行 100%磁粉或渗透检验，按 NB/T 47013.4 和 NB/T 47013.5 中的工级合格。
+8 选用说了明
+8.1 根据公称直径 DY 及附录 A 规定的方法计算出耳式支座承受的实际载荷 C(IKN ),按此实际裁
+荷如值在标准中选取一标准耳起支座，并使 CO<[9]。
+8.2 ”一般情况下，应校核耳式支座处圆简所受的支座论矩 MM, Hest CL) 和式〈2) 计算，
+M.<IM]            1
+对衬里容器;
+DLL
+<b          2
+         式中;
+MF SR EAA fh PSE SEAL, Nm;
+ou, 22D
+10°
+[Me] SES TM, AEP B, kN-m;
+RS hb, Sy WHR 2 #3, R40
+8.3 Fst sc Re ANBAR, 2) DN<900mm 时，可不设置垫板但必须满足下列条件:
+a) 容器党体的有效厚度大于 3mm;                         .
+b) 容器壳体材料与支座材料其有相同或相近化学成分和机械狂能。
+8.4 支座的安装尺寸万可按附录C计算。
+8B
+
+--- 第 93 页 ---
+|
+NB/T 47065. 3一2018         |
+We 录 A                       i
+《资料性附录)                                 ，
+HERKEN                           :
+Al SCRA RSE WV RUATIUE ALL 所示，耳式支座实际承受的载荷 C 可按式(A.1) 近似计算，
+=| MEE. AIEEE) 192 AD
+式中:
+OTEK IRENA, Ns
+一一支座安装尺寸，mmy
+8一一重力加速度，取g=9.8lmys2;
+Ge一一篇心载荷(包括管道推力引起的当量荷裁) ，N;
+& -一信心距 (包括管道准力引起的当量偏心号 ) ，mmi
+Ah水平力作用点至底板高度，mmi
+大一不均匀系数，安装 3 个支座时，下上=-1; 安装 3 个以上支座时，取大-0.83;
+mm一设备总质量(包括壳体及其附件，内部介质用保温层的质量) ，kg;
+nS
+P—AEH, Th py 和Per0.25pw HA, No
+PoE, Ns
+2一一水平风载荷，N。
+|
+89       |
+|
+
+--- 第 94 页 ---
+NB/T 47065. 3一2018
+Sy
+加 一广一     a
+j_e
+  J           /
+|             9
+图 A.1 立式容器承受的载荷
+A. 2 当容器管道的推力较大时，应按推力的方向、大小以及耳式支座的布置方位进行耳式支座承
+受管道推力的计算，确定受力最大的耳式支座的载荷值，并将该载荷值与式(A.1 ) 的计算载荷值
+相加。
+A. 3 ”当需要考虑坚各地震载荷时，应计人耳式支座受力的不均匀系数，并依此确定耳式支座承受        _
+的竖向地震载荷值，并将该载荷值与式(A,1 ) 的计算载荷值相加。
+|
+90                                                                                ,
+
+--- 第 95 页 ---
+NB/T 47065. 3一2018
+附 录 B                                     |
+《资料性附录)                                    1
+由容器壳体限定的支座许用弯矩                              i
+了B, 1 适用范围
+a) 适用于承受内压的饮制焊接贺简形容器的带雪板耳式支座;
+b) 道用于采用 Q235B、S30408、15CrMoR 等相似材料制作的容回壳体。
+B.2 ARRAS NIRA
+a) 本附录给出了设备本体材料许用应力为[zlj=120MPa、140MPa、167MPa、185MPa 时的同
+简形壳体，处与计算压力为 王0.0MPa、0.6MPa、I.0MPa、1.6MPa 工况时，在安装耳式支
+座后，由其局部应力限定的支座许用弯矩值[14];
+b ) 对其他材料〔按许用应力值) 和其他有效厚度可采用线性内插的方法确定[ii];
+c) 对其他压力等级的工况，需由设计人员拉实际的计算弯矩，对壳体强度进行核算。
+B.3 附支座处壳体的允许弯和矩 Li]玫
+a) 表B.1: AM, BRASS MUbFE DRE AF eEMELMA] ( [ac]=120MPa );
+b) 表B.2: A型、B型耳式支座处壳休的允许弯矩[MG] ( [oj=140Mpa );
+c) 表B3: AM, B型证式支座处壳体的允许弯矩[Mi] ( [o]=167MPa);
+d) 表B.4: A型、B 型耳式支座处壳体的允许弯炬[Mt] ( [o]=185MPa);
+e) HBS: C型耳式支座处壳体的允许弯短Lif] ( [oj]=120MPa );
+f) 表 B.6，C 型耳式支座处壳体的多许杰插LM] ( [oj=140MPa );
+g) RBI: C 型耳式支席处壳体的允许杰矩[MG] ( [ao]=167MPa 》);
+hd 表 B.8: C 型耳式支座处壳体的允许弯矩[ML] ( [o]=185MPa ),
+HEB.1 人型、B型耳式支座处壳体的允许弯短[Mi] ([a]=120MPa) 单位为 Nm        .
+a
+A
+[0090 aa
+| tos             :
+[0 [ear i
+;
+a a |
+四
+[RE             j
+|
+91         |
+t
+|
+
+--- 第 96 页 ---
+NB/T 47065. 3一2018
+He B.1 CR)
+mm  Barca  pam
+=
+网
+二
+3
+SE
+ee ee
+[mo | ae it
+[ieee
+ne [ost ae
+[cae [se fa
+ae ae
+cs ER本汪汪
+二
+Low pow | =
+es
+4
+(ive [3a [=
+a
+ee
+(iw [ws fe [|
+i
+a
+5
+[am [oe =
+,    [om [ee Pe
+[om se |      |
+er      |
+Coe [ef =   |
+ees
+ee
+6
+ee
+i
+92
+
+--- 第 97 页 ---
+|
+7
+NB/T 47065. 3一2018           |
+HB ED          |
+  |
+ee
+a
+Da |
+ae ee
+son
+a
+a
+ee ee
+A
+ee ee co
+[ioe | ae
+” en
+HES
+   a
+epost ap
+[om | inst | as [a]
+ee EEC
+a 天到和3
+oC a
+i Too二
+IN
+一
+Da
+        93   i
+|
+
+--- 第 98 页 ---
+NB/T 47065, 3—2018
+32B.1 (8D
+
+1400  14.04  842  _
+
+150 | 1339   157 [| - |
+ vm [se [=f |
+| am | 10.84  419 | -__|     |
+Lz [oe f= |     |
+ 20.54  11.09 i |     |
+ B68  5 | 二 |
+ee
+[2m [en      二
+ 二    一
+ 二 =- |
+   | =|
+   P=
+
+100 Naot
+
+1800 13.23
+ee 26
+a fe ft
+   [=
+
+7
+[2 [os fo | =
+ee RE
+ 1844  = [ =] =
+94
+
+--- 第 99 页 ---
+|
+NB/T 47065. 3一2018          |
+表B.1 BD i
+  |
+oe ee a ee
+二
+ee
+a   一二一
+ee
+[as
+| sa0" Tae 有
+ee ee
+eo [ee a]
+ |
+i a
+[iow ees | a
+a ee
+(Tae Tae
+a
+ =
+a
+| 1000 | 1403     ne | se | «at |
+a
+” [|
+Te [Tae fae ee
+ a =    |
+ =一  |
+ee 国生恒国王   |
+95  |
+
+--- 第 100 页 ---
+NB/T 47065, 3--2018
+表B.1(续)
+mm  支应号 mm
+
+ee
+ =
+
+ =
+EN
+EEC
+ee
+oc
+[二
+es
+ee
+Pe [oa [es re [|
+a
+ee
+ee
+
+7
+ee
+[200 [ies =
+ee
+ee
+
+96
+|
+
+--- 第 101 页 ---
+|
+
+NB/T 47085. 3一2018
+
+表了.1 (HE)          |
+站
+ae [aa
+eae
+ee
+a
+ee
+a
+ef [er [a
+Tee | eras
+ee
+a
+a
+ee
+
+97  |
+
+|
+
+|
+
+--- 第 102 页 ---
+NB/T 47065. 3一2018
+5 B.1 CAE)      .
+
+oe   |
+
+ee
+ ni   |
+ se [oer]
+ 21.90  16.83  一    |
+ 区     |
+10  5                |
+     |
+     |
+ee [ee GE全全
+i     |
+ a      |
+ce     |
+ee 和
+ee 人和
+
+ve [ee [ea = RE
+
+A
+
+ee
+
+98
+
+|
+
+--- 第 103 页 ---
+NB/T 47065. 3一2018
+eB. 1 (BD)
+ =   |
+Se SE     |
+Ee
+ee ee
+See
+ee
+0
+[ae [ae [aw [=
+ee
+ee
+[ow [Tas we
+ee
+ee
+ee
+Co
+[fs [a [as]
+ee 生生
+12
+CI ET
+2 12.48 10.41  9.07   :
+[900 |    11.84    9.57        50
+ 四 区  还一
+99
+|
+
+--- 第 104 页 ---
+NB/T 47065. 3—2018
+HB. 1 CARD
+a
+eo ee ee
+[0 [a sare |
+ ioe  =
+* tee 三
+eee fe
+[220 ao | ais ase
+am [ ass | se ne]
+   |
+ =
+ =
+100                    |
+|
+|
+|
+
+--- 第 105 页 ---
+NB/T 47065. 3一2018          |
+表了B.1(续)
+二
+[ame [ae |e | as
+a
+’
+[2m | 6 fas
+[300 | ee | 有
+Se
+ 113,63  83.76  61,59
+ESS ee ts f=
+ee
+ee
+ 14.59  14,12  13,40
+ 2a  aus  na |
+“    7 ie |
+o00 1628  v4.59
+105  |
+|
+|
+
+--- 第 106 页 ---
+NB/T 47065. 3—2018                                                                          !
+32 B.1 (SD
+   |
+  (
+ =
+ 6020  sie  3145
+102
+
+--- 第 107 页 ---
+a
+NB/T 47065, 3一2018 |
+SEB. 1 BE)          :
+ =
+ 二
+ 5
+[ae [ee | ee Sa [|
+[20 [wn a [an |
+2800  96.35 46.45
+16                                   3.000                93.21         40.69
+[0 sf [ae
+ van =
+ —
+ee
+103  |
+
+--- 第 108 页 ---
+NB/T 47065. 3—2018                                                                           |
+#B.2 AB. BRA RANKED RIEL] (lo]-140MPa) 单位为kNm
+ =
+os ee
+pow [aa [ef |
+iow jas fs) oe |
+ee
+ee ee
+os eT
+‘   [xe [ae [os
+Fie [ ae [im | |
+[ew [ae ue
+[im [ee [ae
+Caw [se fs |
+Cee ss | 2 | =|
+(iw [se [ae
+De
+[|
+[|     |
+ee     |
+[iow [os [we f= | |  |
+© [ee [ as [as   |
+Pie [es [as   |
+104                  |
+|
+
+--- 第 109 页 ---
+|
+|
+NB/T 47065. 3一2018         |
+表B.2 (续)         |
+[eo [ee    |
+Do
+:Ph |
+Het EE
+[ise [nan
+ae
+[ie [ee aw
+[wo |e [SS
+[2000 |e
+[a0 [oe
+oe om |
+|   一二
+” pone ae
+ee
+Cs
+a ee ee ee
+ec
+[so] eae as a |
+ee
+;
+[soo [son [aor ar a0
+A
+oe
+; Keto |
+[人
+[|
+105  |
+
+--- 第 110 页 ---
+NB/T 47065. 3一2018                                                                          ，
+表B.2 (ED
+ =
+ 10.36 475
+[ise [on | a [se
+ie [v0 swe
+[iw |e |
+Hie aoe
+i
+Coe [es [oan | = |
+[ae [eae       ，
+a
+a
+     |
+[iw se pose [|     |
+Ge { ose pa
+[oe [es [| = | | = |
+[oe [ose f= | = | |   |
+[see[ we [= [= [=|
+Cow [ae [Tee [= if |
+ae
+|
+106
+a
+
+--- 第 111 页 ---
+NB/T 47065. 3一2018           |
+表B.2 BD         |
+  |
+a [ as [ee pf
+ “a    |
+ee a
+> [ae [ Tae |
+Ce
+a
+二|汪汪
+[人
+a
+ee
+[see | ae [=
+[320 [eS
+[0 ase
+.
+ 可
+ER
+|
+ 8.32  6.76  430 |  .
+107  :
+|
+于
+
+--- 第 112 页 ---
+NB/T 47065. 3—2018
+aR B. 2 (&)
+
+ rome [pen
+ mp
+ =
+[ie [me | a [to |
+ "306  30 =
+ a =
+[ee [am [as is]
+Cem [ws [oe [= |
+ee
+Pe [se [meres
+
+© aa [sor [as [=
+
+Cee [an [se [=|
+ee
+[em [se [ef
+Com [ame [ow [= |
+ =
+
+108
+
+--- 第 113 页 ---
+NB/T 47065. 3~-2018
+He B.2 (8)
+lm [aa [a= f= | = |
+pew [uw [ze
+ee ee
+a
+[se [ee [ef
+[sm [an [uw [=
+ee
+Paws [ais [eo [=
+fee [em [ed
+fee [sn [se [|
+ee
+ee
+a a
+[pee [oa [=
+远
+[3m [Tes [=
+[ee [ee [=f
+ee
+人
+109
+
+--- 第 114 页 ---
+NB/T 47065, 3一2018，
+表B.2 (AD
+1100        1383      7.96
+1200   1453   740 |
+ im   1
+1000  15.98    区
+1200 21.34 15.30
+Fete}
+cee
+im ~—
+ 一
+ —
+ =
+ce
+ee   |
+“tw [aa [we [wef =]
+[we [aie | at [ee
+[ae [Tea [if er
+[ae [ ae [ee
+[ase [wor [arf
+[sen [ Tam [am fo]
+a
+110
+|
+|
+|
+7
+
+--- 第 115 页 ---
+NB/T 47065. 3一2018
+表B.2 (续)          |
+  |
+” Ger[ Tse [ae
+base [Tee [ae |
+[en [wm [ee |
+ee
+[sae [se asf |
+200 an [eo | 一 |
+eer [vem [ae =
+va [ae | we J
+ee
+i
+wa  |
+|
+
+--- 第 116 页 ---
+NB/T 47065. 3一2018                                                                         |
+HE B.2 BED
+Hee [ Temp Tr [es |
+a EN
+ns ee
+oe
+Fis [ae PT | |
+。
+[ie [ Tae [ea 和和
+ee ee EE
+(ae [est] ae
+1800          oss | sa6 | 400 | 2608
+112
+
+--- 第 117 页 ---
+NB/T 47065, 3一2018               |
+RB2 (续)          !
+  |
+Geer [ [ae]
+ee
+[ae [ aw | ae fe
+[se_[ #9 [an [we
+: =
+2
+Ha oan [oa
+os EEC用
+ce
+ce RE 国汪汪
+oo
+ce RETIE
+se 本是3和
+[se [oe [a
+Es [ces tos f
+[sm [es [ew f=
+[xe [ae [me
+|
+HS  |
+|          |
+
+--- 第 118 页 ---
+NB/T 47065. 3一2018
+#B.2 (HE)
+om [Tan | ae
+pm [an [em [a |   |
+[iw [ew [ee |e |e   |
+[1m [en [we | |e
+[|
+‘  |
+ce
+  |
+  |
+[ie [en [se [ae | en
+ee    |
+ x   |
+2000    46.32    28.67
+ce
+4
+
+--- 第 119 页 ---
+NB/T 47065. 3一2018
+表B.2(续)          |
+  |
+1.600  72.53  51.37       :
+ 122,12  104.24  9176
+ 103.91  90.55  69.61
+[ne [Tima [Tee [Tee wm |
+? 116.76 0.17  39.69
+ mo | a =
+2.600            174.48         60.28
+ee
+i
+15  |
+
+--- 第 120 页 ---
+NB/T 47065. 3~-2018
+表B.3 AW. B型耳式支座处壳体的允许帘矩[Mi] (Lo -1GO7MPa) 单位为kNm
+[ae [a a |   '
+[we [ae [ae fee
+ere ee fa   |
+ ie   ,
+;
+[se [as   |
+ =
+ee
+:       i
+，   [ine [ae aa     |
+fae [se an [is  {
+|
+EEC有
+ce ee
+‘
+ee     |
+[ef se fee   |
+[ie [se [ae   |
+a   |
+oe   a
+oe
+116,     “
+
+--- 第 121 页 ---
+NB/T 47065, 3一2018         i
+3 B.3 (HD         :
+Two [9 yaw
+[me | 90 | ae
+， CE
+ =
+ee
+ao | isse fe
+[ame | asf en
+‘
+aes pap
+[am ae]   一二
+He oe te
+[tie | 29 [es
+” am]
+Hop |
+[2ue [ie [sf |
+| Este LT
+‘ ue
+ 26
+[oo | gar  7 49
+ 8,08  6.11 2,60   i
+117
+Hi
+.                    和
+|
+Hl
+
+--- 第 122 页 ---
+NB/T 47065. 3一2018
+32 B.3 (BD
+ee
+Peo [is [ee | |
+Cw ee fa)
+Cow pm | we fe
+[ie foe we fe
+[ef es fos | = | |
+[oe [ae [se fe)
+Dre [we [wn [we [|
+Cw [ef es fe
+ee
+fee[owe foe t=
+[ue [ee [ef = |   |
+ee   |
+ee
+ep |e [ee
+[im [ze [mee |
+Pref as [wa [|
+ee
+118
+{
+|
+
+--- 第 123 页 ---
+|
+NB/T 47065. 3一2018        i
+表B,3 (4)         |
+  |
+[im [ax [oe | we
+[ime [fm fms
+a
+Tae] sie [sm |
+Gets
+a a
+sm| zz | 一 | 一 |
+be [ose pop
+j 2am fo ssas | an | 二 |
+| 220 | sas | zw 二 |
+[2m | oa Tae | 二 |
+ 4 | mo | 二 | 一 |
+-全
+   _ |
+a
+| 20 ae | 一| 一| 一|
+|
+[|
+ge
+| so | [74 |  | sar |  | 635 |    6.05 |
+a
+119  |
+|
+
+--- 第 124 页 ---
+NB/T 47065. 3一2018                                                                           |
+表B.3 (BD
+
+ 本  825  5
+ 5a 9
+aw [aw [se [fe |
+
+‘   |
+ee
+ee   |
+ee
+
+a |
+cee
+ee ee
+ =
+[3a [as [nsf
+Sete pop
+ce
+ee
+(per ae | ae [un [|
+cee ee
+
+120
+
+--- 第 125 页 ---
+4
+NB/T 47065, 3—2018        i
+表了.3 (续)         |
+[ae [es [we [ne [|
+ee
+pier [aarp
+[00 [a [ae =
+Seo pe
+[ew [ose [se [Td
+[2m | «nw [ae [|
+ee
+ee
+[om [en [ee |
+[20 a ae 2和
+[be [an [Tae [=
+[se [aa [ee
+[|e [=
+De
+ 区
+i21  |
+
+--- 第 126 页 ---
+NB/T 47065. 3一2018
+3EB.3 CR)
+简体有效厚度 At 直径
+Soe [ns es ef |
+   '
+ =    |
+[tom [sf mae]   |
+ as
+[iow [ma [me tee
+  .
+[se ae [as wo [a
+fiw [ee [ax | as [we |
+ise [ae [me [we [ae |
+122
+
+--- 第 127 页 ---
+7
+NB/T 47065. 3—2018          |
+表B.3 (BD          i
+ se [=
+ ass
+ 3621
+ 2585
+ :
+ -
+ :
+Hw [ae [ae
+Se [ae oe [=
+ 4067
+[ome | mm em
+yc
+pew [owas [es [an
+ee
+ec
+Sm [oss [oe fp
+en
+ber [asf m=
+ 1491
+[os
+2   ee
+| oo | pe fi soe
+ 18.70   ‘
+123
+
+--- 第 128 页 ---
+NB/T 47065. 3—2018
+B.S (HED          :
+[roe [test faster |  {
+ee
+，
+120 108
+ 30.74 22.66  1748
+[rei | en) ee [we | mm |
+[ie [wa [ae [xa [em
+,
+[ee [ws [ms [aw [= |
+[eee [ee [ao [meer
+(efi [ase [ese ee]
+124
+
+--- 第 129 页 ---
+NB/T 47065. 3一2018          |
+表B.3 (续)          |
+  |
+a 和和
+Fie ef fee)
+  ,
+|
+a
+a
+ar [ a [ae [ef]
+®   [en [Tan [we ae
+a
+Pie [war [ae [=     :
+fee [ns [oan
+125  |
+
+--- 第 130 页 ---
+4
+|
+NB/T 47065. 3一2018
+表B.3 (HED
+      [mm | am | zw | 2 | ao |   |
+ 2491
+2   800  27    23.30      |
+1 an  woe   |
+ 4035   |
+[oo | ssi [3657 sons
+ 2148 区
+3 23.68
+ 加
+ 3237
+| 1000 | me 4730
+ 27.86
+[ise | ergo [pan [ae | 3
+ 3224
+   |
+[am mo | aa | 320 | 2 |
+ 26.8
+Hie ose tae oa a]
+[iso | ma em | ae | ws |
+ 49a
+1600 4527
+ S894 nt
+:
+ 28
+Le itso [ton [96s | anas | 9
+126                    |
+
+--- 第 131 页 ---
+NB/T 47065. 3一2018
+B.S (续) 1
+  |
+ee
+ =
+ =
+[sem [we [sim [ms
+ 181.28 104,33
+Far [ae [a] ae
+     |
+Hee [ oie poet fo
+}
+127  |
+
+--- 第 132 页 ---
+NB/T 47065. 3一2018
+央了.4 人型、 3型耳式支座处壳体的允许查答W] 〈[cj-185MPa) 单位为XNm
+|e Se
+     |
+     |
+[|     |
+Ce     |
+     |
+ee
+i Te
+gs
+CN
+ee
+ee
+ce
+ee
+[ise [ase | ea
+ee
+eo
+[awe [se [ae
+[200 [sx [aw
+ee
+, [aeons]
+cs a
+           (tae Tas [sm
+128
+
+--- 第 133 页 ---
+NB/T 47065. 3一2018          |
+2 B.4 (BD         |
+line [we [asf
+2 ee
+[2a [eo | sd
+Het p oe fy
+‘   a
+[200 [ow [ae
+ee
+a
+eee ee ee
+.
+[se [se faa |
+ee
+[90 fest [se foe
+CO
+129  |
+
+--- 第 134 页 ---
+NB/T 47065. 3一2018
+表B.4 (AD
+
+|
+Coes [es [ee |
+se IE
+Pe ae [a | oe
+[ro [uw [ae fae
+[ier [Te [fe
+A 和和
+cs
+Law| eee
+| 200 [ao [ss P
+[200 | we | ew | = | = |           |
+[tse] am [met [teas           |
+[seco | vos | me [tT           |
+Po [vos [ee [|           |
+[2m [se Pun P=
+[| am | mm |           |
+[20 [aa | we | = | =
+| 2000 | me | oe | =
+[sme] ve [owe TT
+
+130
+
+--- 第 135 页 ---
+NB/T 47065. 3一2018         |
+HR B.4 (续)         |
+  |
+    |
+Se
+ep es se ff |
+ee ee
+[om [ae [= |   一一
+一一全
+few [as [ea |e
+[2m [oe [xm [= | |
+fiw [ae [ae |=
+oe
+[soe [mo [mee
+ee a
+[0 [xe [=
+ee 和全于
+131  |
+|
+.      |
+
+--- 第 136 页 ---
+NB/T 47065. 3一2018
+表B.4 (BE)          |
+   |
+ 区   |
+i   |
+   |
+   |
+ 到
+ His {ose [es   |
+Da
+[ime [wo [ae toss fear   |
+ ss   |
+     |
+ =   |
+ =
+[a0 | ere [an [| a0 |
+[ imo [i S90 |r| tos |
+| tome [asm [are [ass
+[200 [es [am | ae |
+[220 [ae [an [or
+[am [8 [me | se | |   |
+ee
+[see [xe [ne [=
+132
+
+--- 第 137 页 ---
+NB/T 47065. 3一2018            |
+#4 CD          ，
+ 二_  ，
+ 368
+’ ams
+ pa | 一 |
+ wo | |
+ee an一 -|
+[sao [an | ao T= | 二
+ 08
+[ecm | mas] am [ee |
+ce rs |
+[|
+[二
+Fe ae fos f= |一|
+| sae [se | am | =- | 二|
+下
+:
+[Leo
+ i701 189
+[so | |   |
+ 1
+，
+[tooo fase | mas |  |
+|
+133  |
+|
+
+--- 第 138 页 ---
+NB/T 47065. 3一2018
+表B.4 (4H)
+[aa foe
+:
+[ise [ns [ea se am
+ee II RE
+Tine [aw [sw [ne [|
+Tse [ «| 990s [ae
+134
+
+--- 第 139 页 ---
+NB/T 47085, 3—2018        |
+RBA (续)          i
+ z  :
+  !
+[|
+ee eo
+ -一
+，
+ -
+a
+Se | em [owe [=
+ :
+Ho ime [an |
+     |
+Het ono osm
+Se [ome] we pp
+pe Tea | me
+a   |
+ce RE   !
+135
+
+--- 第 140 页 ---
+NB/T 47065. 3--2018                                                                                   |
+38 B.4 (AED          |
+Cer [ae [a [ee | wa   |
+ rz   |
+a    |
+Cie [Temp ne)   |
+   |
+   |
+"   ise | safe [a
+Cer [sae nef en |
+Cor [ aa | «| ams
+Tre {Tce ef]
+[ee [ea [ne [||
+a
+ec
+136                  .
+
+--- 第 141 页 ---
+NB/T 47065. 3一2018
+表了.4(续)          |
+  |
+  |
+[am | ew [an [ae]
+[see [isa 辣于3
+:
+
+°   [ase | ss | eae |
+oe
+a 交国三
+De [is [ae tae |
+[ze [0 Tax) om | en |
+ce
+a
+Pe [Tee [Tee oe
+ee
+[ee [nse ae | a
+re 有国汪
+  |
+
+137  |
+
+--- 第 142 页 ---
+NB/T 47065. 3一2018
+表B.4 (HD)
+et    |
+ 加    |
+四 om
+i
+ 加
+Ce
+a 天和加汪Z汪间
+138
+
+--- 第 143 页 ---
+NB/T 47065. 3一2018         |
+
+1
+
+B.A (续)          |
+PIC
+[oe [is [|e [|
+
+ 173,84  142.52  93.51    :
+
+fee [ime | | ot     |
+
+139   |
+
+--- 第 144 页 ---
+NB/T 47065. 3一2018
+表B.5 C 型耳式支座处壳体的允许弯矩[Mr] ([o]-120MPa)        单位为 ENm
+ 4.70  3.82 | am | 2.14   4
+ee 3间
+[|
+ee     |
+     |
+Ce [oe ff     |
+bepress
+，   ee
+3              |
+eer [ef   |
+fee [oom pes ST
+repo toe = P|
+cm [owe [= | = | |
+Che [om [ae
+[fsa [oe |
+Defoe ff
+ce
+fe fom f= | = | |
+cep we f= 7 = | |
+pepe f= f= |
+    se
+ef f= >= | |
+140
+
+--- 第 145 页 ---
+NB/T 47065. 3一2018        |
+表B.5 (HED                |
+    |
+[iso | ne se T= -|    .
+[io [ne fe PT
+[im |一|一| =
+Dll一|一| =- |
+5
+[im [on | = | = P=
+Lo中|二| -| -|
+[|
+Fete ft
+[iw [Tse f= [= |
+pef ef
+4
+a
+Ce 关时2和
+felons [= > = [=|
+[am [en [=
+fine [we [= | = _|
+Pepe
+7 .
+Ge | ve | = | =|
+ee
+———
+[exo fa | = fo = f=
+ee
+[em ao
+[Lo
+[| em fae oe se
+joo few fs |e sr
+| so | we | no or Te
+Lo | em | re |e |r     ,
+a cc
+‘  加
+ee
+:          [te [9 [om Ts =- |
+141    |
+
+--- 第 146 页 ---
+f
+NB/T 47065. 32018                                                                                                   :
+表了.5 (BD          |
+sn a      |
+[ese [ioe [ee
+oe oc
+Dw [ose foe
+a RE RE 3间
+Peer |
+Da [nf |
+oe
+em [nes [ae 有
+ea
+Hee fe
+a a
+(ime [eae Pom
+pie [es [ef |
+cn A a IE2
+Maw [we [= | | |
+ee [es [fp
+pew [oe [= | P|
+ee 四于
+a RE RE
+1
+142
+
+--- 第 147 页 ---
+|
+NB/T 47065. 3一2018         |
+ABS (BED
+  |
+[aw [oas p= =
+a
+ee ee oe
+a
+Low [ae [wef
+(ie [ae | sep | |
+Cc
+ee
+ee
+ee
+ee
+ee
+ee
+oe
+[200 [aie me
+a
+[ee [oe |
+Hse
+ee
+ee
+ee
+ee ee
+1 [ml ao | sa | np Ta |
+[Lo op | eo | na | om |
+| | ss om om mm |
+ee
+[四| ne | sm rn ae
+[mL um | mo
+”|
+[mm oo la | sx |
+1609
+143   1
+|
+|
+|
+
+--- 第 148 页 ---
+NB/T 47085. 3一2018
+表B.5 (BE)
+eer Hee     at    直径
+
+Le [as [ee [me [am
+Cw [wae [ssf ees |
+ee |
+ee ee
+fiw [wm | we [im |_|
+ee          |
+Es          |
+[ie [a [fem |
+[iow [ao [aan | ee |          |
+[iw [me [ame [ton                     |
+                     |
+[ie [se [es fe |          |
+cn EECTIE2间          |
+A EREZI辣本39生
+                     |
+ee a
+Lise [an [mie [me
+[ise [asi [sare
+Heep ep]
+[ro [ae [moe [as
+[ee [se [Pas
+
+a |
+[2% [ae [en | = [|
+(ae [ae [ae f= [|
+(20 [as [oe [= |=
+a
+De [ae [a [ae [|
+ce REII II
+EEC
+Fie [xs [am [en [|
+[20 [sn [ef - [= |
+
+144
+
+--- 第 149 页 ---
+NB/T 47065. 3一2018            |
+2B.5 (HED        |
+  |
+ee
+Sew [Ta [we
+a
+ee 2生3
+oe
+[im [ae [xe [Tae | |
+[ee [9a [ie [ee
+jae [ew [aan
+[ew [en [ef
+Cee [ie [we
+[Bee [Wise s8
+ee
+xe | ef  一
+ee
+Fe [ee [Pa
+ee RE王国加汪汪
+Pa
+feet 浊
+[aw [ax ff
+be [es [=
+Cee [ef
+ee
+Cee [ae [TS
+ee
+[ee [Te
+  :
+Fo [ee [ae [en ef
+a
+[Pe [| ue [es ee |
+us
+|
+|
+
+--- 第 150 页 ---
+NB/T 47065. 3一2018
+表B.5 (BD
+
+区
+[二| [ors [ae ee  |
+[v0 [mae | [ear [aa   |
+
+eT   |
+ee
+Cs RECT
+Ee |
+Creo [se am |e |
+[rm [we | an | ws | |
+[aw [ae [se] os
+ee ee
+ec
+ce
+Tm [ee [se [me [=|
+(iw [ ee [sn [ms [|
+[am [as [me __|   一= |
+|人和二全
+[ma | ee | = | = |
+(pe [im [wm = [= |
+
+146                  “
+
+--- 第 151 页 ---
+|
+NB/T 47065. 3一2018         |
+表B.5 (BE)          |
+  |
+fiw | sa [we [er 人人生
+[ie [a2 tae | ew
+He [a] ae
+ae a
+zm [ea | ssp ef |
+od ee
+a 四和于
+ee
+ee RE有生2
+dete ae
+.    [2m | aa |
+Ce
+(ame | sa | Tae Pf
+Te
+[十一]
+ie   a
+va =
+ ee
+*   eee ee
+147  |
+|
+
+--- 第 152 页 ---
+NB/T 47065. 3一2018                                                                                                    ，
+表B.5 (SE)         .
+[rere TSS | | room | ream [rim | rc |
+i IE
+[cae fe [ae [|   |
+i
+2 [ae [ace [ass [|]   |
+ae [ee |e [oe [|   |
+a 本下了    |
+ee   |
+ee ce   |
+[区
+[Ta
+Liew [—a@ [ae [ae |r
+[ia [aoe [ aire ||
+ie [aa safe |
+ee  |
+Ae [oa pose pose
+[aon [ace | ee
+ee
+[ise [se [ae perf a]
+[ae [a [aw [| |
+a
+[aoe [ae [aa |
+[aw [ ex [ae [asf |
+[2a [aa | af va  |
+a
+148
+
+--- 第 153 页 ---
+NB/T 47065. 3一2018         i
+表B.5 (续)         : :
+  |
+a ECTI全生生
+foe [Ten [ee fe
+[Sie] Tam anf ee
+[ase [ Tae ae 间下划国于天
+Pion ae]
+[| rn [een]
+bse [as [wwf ee
+[se [ ome [ee fons |
+a
+a
+a RE生生划
+bree [ae p=
+He [ae [ae fe |
+“nw | Tae [ ew [an |
+Ge [ mn [xe fa |
+a
+ee
+ee ERE厅二天天
+[订
+ee 和生生本下   |
+ew | wef fp   |
+eee
+149 |
+i
+
+--- 第 154 页 ---
+NB/T 47065. 3一2018
+表B.5 CHE)
+
+700  38.29    35.42
+ na   |
+a
+   |
+[se _[ ser [ae]   )
+Hew [ae [an [a
+ 26
+ 89.93 7105  58.74
+oe
+[ee [ae [a
+He [ aa} mea | xr |
+
+150
+
+--- 第 155 页 ---
+NB/T 47065. 3一2018
+表8.5〈续)          |
+  |
+  7
+fae |p ae | ae [
+LO
+Heo [ ef
+Cae [af ea) a
+EE See t
+ee [ma fee) es |
+ 一
+ -一
+ 141.90  116.7  76.40
+[ae [ms [mia en
+[se [oe [wef aw fof
+   一
+   a
+31  i
+I
+i
+|
+
+--- 第 156 页 ---
+NB/T 47065. 3一2018                                                                                   |
+RBG C 型耳式支座处壳体的允许弯矩Wu] ([cj=140MPa) 单位为kNm            |
+   |
+pe [en [eS   |
+se [ae [ea   |
+i   |
+ee
+Se [ere ee
+* Fe [ee ae |
+Fe [ee a a |
+ee
+Fw ne [pe
+Le [oa ea
+a
+2 a
+‘    [ew [ae
+Hie pe
+a
+“he [ an [ae we
+a
+Se ee
+feces poe f= |
+a
+a
+ce [eee
+Pw [ae [ae
+Fre [ef
+fe [a= =
+[二
+s [en | oon ee =
+|       se [af ae | =
+152
+
+--- 第 157 页 ---
+NB/T 47065. 3一2018            |
+
+FEB. 6 (BD           1
+
+  |
+
+a
+Pa
+
+pa >
+
+Pa
+a
+[ew [one [ef = |
+Le [Tee [ee [=
+rw [ see
+[rw [wa [=
+[ou | ee [=
+[axe [an
+a 本于有
+Da
+es
+[a [wr | = [= | = |
+ee
+EE
+a
+ee
+a
+a
+Fae [Fiat [9a [ers fs
+Sa
+ee
+es
+View [se [na [sm |
+
+[rw [se [we fem
+
+{83  |
+
+--- 第 158 页 ---
+NB/T 47065. 3一2018
+表B.6 (BD
+ae [oe [ote      |
+ =   |
+Hee ee   |
+[tea [6s [ae      |
+ee tee   |
+[te [won eae
+a
+” [ee [as [ae fa
+a
+a
+A
+A
+‘    ee
+ce 二
+Lim [ae [as [|
+ee
+[ame [ee [me
+[ae [es [ee
+[se [ses [|
+eos ee
+[ier [ae [ea
+[im [oe [ee PT
+[ime [ae [we
+[200 [67 [ea
+ce
+[poo see
+[poof as [ff |
+[2m [me ff
+[om [we [= = P=
+154      .
+
+--- 第 159 页 ---
+NB/T 47065, 32018          4
+FEB. 6 (HE)          \
+Tim | se [aap     |
+ee
+a RE 人全
+EITHER人
+” [PT |一
+[ae | xs [SS
+[be [ae [=
+a
+   ee RE有生生
+ee
+a ee
+[aera ee]   a
+[eae [ae   一二
+[二
+[|
+ee 加于汪天国生站
+See [ae
+bepoe pee
+ sai |
+Con [Tuas eae
+Cr Tie [ae | ee a |
+  |
+155  |
+
+--- 第 160 页 ---
+NB/T 47065. 3一2018
+表B.6(续)
+
+Cie [au [ew [ae [tr
+
+> Hart cas [Ta fae     |
+a    |
+     :
+     |
+     |
+     |
+ie" [ ase [ain tee     |
+Cis [aa [am [|         |
+ee         |
+ee
+CE
+     |
+[ee aa aa |
+[|     |
+Tae [se [ae |e     |
+
+ge     |
+         |
+ee
+a
+cs
+fee [ms [a [
+[ise [as [ssc [eae
+[iw [ass [ss [sf
+fim [ea [ae [|
+[ise [sa [ss [oe
+(ie [ ee [a | sa ||
+[ame | as [asf
+[2@ [we [oe [J
+ne
+“ame [ ee [wef
+ee EN有2
+
+156
+
+--- 第 161 页 ---
+|
+NB/T 47065. 3一2018         |
+HBG (BE)          |
+ef ae [ae pa
+Lime t 90 | ea [am |
+Hee [sar | sn [ae |
+ee 全生
+|       eC
+fee [op =f
+se
+ae [ oer ae TS
+ae
+Beef
+bets} ep
+   PSE
+ee a
+ae 加
+ oe oe
+ee SS
+ee
+;  ,
+pe [Tafa
+a
+7                  157  |
+|
+
+--- 第 162 页 ---
+到
+NB/T 47065. 3一2018
+表B.6(续)
+Tw [aw | sos | ss fe |
+ em 二
+RE国生和
+[wh
+170 =
+ =
+[|
+ee
+   a
+[mw | ze |   =
+fie [ee | s [ «© | ae |
+ee RE
+[im | oe | sa fan | — |
+158
+
+--- 第 163 页 ---
+NB/T 47065. 3一2018            |
+#B.6 (AD          |
+  |
+ =
+(pa [ ex fee [= |
+Tew we [as [|
+Son [ae [ae [=|
+Pim [ws |e tae f=
+awe [ae [amas
+de
+[2m [ae [ew [es | |
+[Gen [ as [aw [ase |
+’ [Gan [Tan [en
+on 全二交底
+ee RE加二
+10
+   =
+      pete ae
+[zoe [as ee [oe [=
+[226] me fs | we ||
+het ee
+ec
+[sae [en [ss [=f |  |
+ae xe fms
+ee
+[Sie [62 [se [= | |
+[oe [we [= f= |
+fe [owe [Tee [oes [ome |
+ae ee
+159  |
+
+--- 第 164 页 ---
+NB/T 47065, 3一2018
+表B.6 (续)
+1200  27.69  19.79 _
+(ioe [sf ea | wo [|
+[ime [oa [eee |
+[we [sae [mw sue | |
+[im [se [wm [oe | om _|
+peep
+[iw fas [wos [ato [sm
+ee
+Ea ass fe
+| eo oer poe fa |
+160                   :
+
+--- 第 165 页 ---
+i
+NB/T 47065. 3一2018          |
+天8.6 GD          |
+EEC
+[|
+cae ee
+ea RCI
+,
+'
+
+。
+[|
+ae
+ 98.06  SLOL | 二 |
+Fon [on [ae 本天
+
+tol   i
+|
+-      |
+
+--- 第 166 页 ---
+NB/T 47065. 3一2018
+;          #B.6 BO          |
+ 62.56  9.14
+ee 4901    |
+[mo [9s] 902 | sae | ee |
+; 38a    |
+ee oo | ws | aa | 3562    |
+[vom [a0 [ses [tere |e
+ 66.04    :
+[om [ise os sa  5236
+et Se 467
+es EC
+[3m | sar [msi | ao] os
+ ans
+[140 | “son [aus | 05 | 96
+[i000 [wn | tas | te]
+ 64.07
+ m3
+[1300 [73.68
+,       ee 4638
+‘
+| tow so | 24 | 46 [rae |
+ 3145
+ee
+Lao [sas [asa [owen
+Home [oe [oa ee |
+[roo [sm [mais | om | 55
+[im [wa | ma | es [wm |
+[ms [mse [wor |e
+2.200
+ee 33.08
+ 224
+162
+
+--- 第 167 页 ---
+NB/T 47065. 3一2018       |
+
+表B.6 (4D          |
+
+  |
+
+Tie [ie [wa [owe [aap
+
+Pe [Sma [ae eee
+
+  |
+[a [in| ue |
+ce RICETEINEE
+
+2
+
+ee 同和
+[see [| nf er |
+ee
+[se [me [me] ow |
+ee
+
+se 全和
+
+ce Ta
+
+foe [ee [wn fd     |
+
+|
+
+163  |
+
+--- 第 168 页 ---
+|
+NB/T 47065. 3一2018
+HBT C 型耳式支座处壳体的允许弯矩[Mi] ([o}-167MPa)       单位为 Nm
+ rom
+[se [ewe fw
+ae or
+[soo | ss | 5  458  344
+| soo | 993 7.10  621
+ee
+.    Dee
+[oe [ase fe
+[eet ee [ana
+ee
+     |
+ee
+i
+ee
+[tio | se [ee ais
+ ee  |
+ee
+‘ pete fe f=}
+[iso [ee [se
+[io | is [se
+[imo [ee fs
+[sem [ess fae
+[200 [an Pw
+ee
+s [imo [tow [en =
+pe [ee [we
+164
+
+--- 第 169 页 ---
+NB/T 47065. 3一2018          |
+i
+BT CBD          |
+EEC
+[党二区人十二
+a a
+a IE
+Cae | ue Te
+ =   —
+ee
+ sa
+ wa [= 1
+Hef ose ef
+Lo Esse po
+Hef op ces er
+500  10.53    9.82
+600  791  6.18
+[ef in] ea
+ee
+1000 15.58  13.09
+165  |
+i
+
+--- 第 170 页 ---
+NB/T 47065. 3一2018
+表B.7 CAD
+| ao | 26.07  20.90 10.93
+[oe | en [ee | ee
+Pw [Tae | se [a
+，
+
+ 加
+———
+
+      [im [ee [es [8
+[tem [ieee |e |e
+[aoe [680 [on
+Loe [aw [ae [|
+Vie [ue [a [ee
+pie [ee [ae |e
+[io |e [ea [an
+ee     |
+
+* ew [aes [es oe  |
+ee
+[ee [ae es [=
+[20 [em [ee     |
+cd
+[|
+[|
+[ise |e [ae [a
+[20 [ee [ee
+de
+[m0 | we [eT
+[300 [an
+166
+
+--- 第 171 页 ---
+1
+NB/T 47065, 3一2018        |
+BBD         |
+  |
+    |
+       |
+ee
+ 36.63  17.61     一
+” 3     二
+[|
+ee
+ee
+    =
+ 加    =
+    =
+加    =
+oe a
+ee
+[sie [wef    -一
+[se [ae [=]     J
+350    28.09   26.01     2470
+ ca
+a me vi
+a
+sto
+; 900 26.22  22.92 17.02   i
+167  |
+
+--- 第 172 页 ---
+NB/T 47065. 3一2018
+表B.7 HD          ;
+ aoe
+ v0
+Hesse ps
+ 66 =
+ 本 =    人
+[|
+      |
+      |
+(am [se [as [ew |   |
+      |
+ee a   |
+co oe ee   |
+ wa       |
+ on   |
+Her[ Tes [cae tose   |
+(ae [ne [aa
+[ae [as [as
+[Se [as ==
+168
+
+--- 第 173 页 ---
+|
+NB/T 47065. 3一2018         |
+表B.7 (BED          i
+ES wm [oom [rem [oe]
+Cw ee [me we 人
+7 a oo oe
+a
+ x   —
+ 46.44  21.39  一
+ a
+| 2000 | sa | 68,78  48.13
+ 85.13  53.67
+[sen | ee [ owe]
+ee
+[a0 [ee [os [=
+aoa we
+Ser [ Tee [ae
+Fe [ome = po
+Ese [an = =
+350 36.98 34.53
+10 40.99  ‘38.97,  37.57
++s 32.06  30,67  28.49
+Cee [ae [Te ff ep
+169  |
+|
+
+--- 第 174 页 ---
+NB/T 47065. 3一2018
+#2B.7 (BD
+ee   |
+es   |
+1 200   28.01     24,90   | 2006 |
+   \
+[iw [se Tea [se [as |   |
+‘
+ sie |
+[ise [mis | sige [ee |
+[em [me [ae [as [me |
+170
+
+--- 第 175 页 ---
+NB/T 47065. 3一2018          |
+表B.7(续)          |
+  |
+zo [9a | vn | mn |
+     |
+ =
+RE
+[各全省一|
+ER
+ =
+f2«0 [amar | se | aw |
+fae [ism fm [ee |
+[ee [ms ee fea |
+，
+[om [mw [am =
+ae | we [am | |
+Ce [ef | |
+ 230   |
+  2
+2
+  :
+v7  i
+|
+|
+|
+|
+|
+
+--- 第 176 页 ---
+NB/T 47065. 3—2018
+表B.7 (续)
+ee
+Fe [ae  |
+ 41,96  37.61 29.94   1
+1200          38.39         ~  33.96              30.90             26.17     “|                  |
+1300         38.94      30.69            25.46                      |
+[ie [es | em] |
+ 53,98  45.11 29,20
+ 5336  44,01  37.47  27.23
+ 51.22  41.06  33.96  22.82
+ a
+1600          76.88        44.28
+1700           76.42       41.78
+     II | ee pm |
+Ge [ae [ee [ae
+172
+
+--- 第 177 页 ---
+NB/T 47065, 3一2018          |
+HBT (续)         1
+  |
+ a
+: ie   |
+ =
+ aa
+[en [ee [ex |=
+eft =
+ee 有2汪
+[|
+ee
+ame [wo me fae 国于2
+[see [ase [me fae
+[ae [ms [es [ae fo
+a
+[sie [nse [we
+a
+173
+|
+
+--- 第 178 页 ---
+NB/T 47065, 3—2018                                                                          2
+RRB.7 (BE)
+| «oo | eol | ok  62,63  59.91
+Peete fo]
+te ee | a | eof a]
+700  88,20  81.08
+[va [ un] a  人
+ mat
+‘ =
+ at]
+Hise | Sees ae
+ae [aes [ms [mee] ie
+cc
+174
+
+--- 第 179 页 ---
+NB/T 47065. 3一2018          |
+
+2B. (BD           '
+
+  |
+ io
+2600  158.12    108.80
+
+[oer Poser [ies [ame
+
+er     |
+
+上
+
+1
+
+1
+
+175  j
+
+--- 第 180 页 ---
+NB/T 47065. 3一2018
+表B.8 C 型耳式支座处壳体的允许弯矩[HU] 〈IcF185MPa)      单位为 Nm
+简体有效厚度 Flat Ee
+
+ee
+[uw [sn fe
+  |
+
+;  |
+ee EECIEREIN 和
+eo ee
+ee
+Per [ae es [|_|
+[oe [ae for ea
+
+‘
+
+[ieee [cea
+Pro [ia | ese
+x
+Dw [aa ef
+oe en
+ee     =
+a a
+ae [om ae
+ =
+
+， =
+ 17.68  10,48  一  一
+
+176
+
+--- 第 181 页 ---
+NB/T 47065. 3一2018          |
+表B.8 (续)          |
+Cie [me
+5 [ee [Tae [oe |
+Foe an [ae     |
+[ne [ae [ee
+ee RE
+1800 21.09
+a
+Fae [Tae Pe |
+1000 11,90 [os | 7.46   :
+| 1000 | 2 15.21  11.26
+ca  |
+  |
+
+--- 第 182 页 ---
+NB/T 47065. 3—2018
+323B.8 (HE)
+cs     |
+ =
+[汪| |
+[二|全一
+。   |
+
+ =
+Hee [ae
+ee ee
+ce
+Hess a na
+a 本汪汪
+SES
+[ee [ aa w=
+a
+ee
+a
+
+178                _
+
+--- 第 183 页 ---
+NB/T 47065. 3~-2018         |
+B.S BD
+ =  |
+ :  :
+a
+7
+see | aor | en [=
+ee
+a
+ee
+Geos psa
+a
+a
+ee
+ee
+ 25.38  23.42  20,36   i
+a
+| 1000 | 29.15 22.95  18,96   4
+179  |
+
+--- 第 184 页 ---
+NB/T 47065. 3一2018
+FEB. (BD
+[im [ae | eff ase |
+a
+ -
+ =
+i aaa   |
+(awe [as [oe [me [|   |
+[ame |e [ss [ae |   |
+[rm an | we [es [=
+ =
+on   |
+ =   |
+ =
+ =
+[ma   |
+ee   |
+180
+
+--- 第 185 页 ---
+NB/T 47065. 3一2018           |
+HE B.8 (BE)
+  |
+     |
+[em [ee [we fee 人全生生
+jc IE
+Pee [Was [oe Pp
+ce RE
+     .
+co
+[oe [ps [asf
+See [Tse oe
+ee
+[em [aw fms f
+ no [arf
+ce 有E和
+181
+
+--- 第 186 页 ---
+NB/T 47065. 3—2018
+HBB (AD
+Dw [ee [oe [ea |
+‘
+Tie [es [aa [ae [ne |
+ =
+ =
+fase [me [am [ee ae
+182
+
+--- 第 187 页 ---
+NB/T 47065. 3一2018       |
+52 B.8 (BD          i
+  :
+ so |
+ a0  cS =~
+ na | anf)
+ =
+ —
+ =
+ =~
+(be [ex [a |
+[oe [xe [sa [|
+ee 有
+[oe [ass [sf
+183  |
+
+--- 第 188 页 ---
+NB/T 47065. 3一2018
+表B.8(续)
+[|
+ 66.45  50.36 21.67
+184
+
+--- 第 189 页 ---
+NB/T 47065. 3一2048        |
+表B.8 (续)          |
+  |
+"om [wa | we | a
+  .
+[em | wn) af ws |
+[sem [ie [eo
+on
+[300 ae few [we
+ =
+[soe [Tie [mor [we
+[oa [ ms [ma [oe
+ie ce
+ =  =
+185,  |
+
+--- 第 190 页 ---
+|
+|
+NB/T 47065. 3一2018                                                                     |
+#B.8 (BD
+eS ee
+bie [aw fae fa |
+[1000 | 116.26 105,23  98.22
+186
+
+--- 第 191 页 ---
+i
+NB/T 47065. 3—2018
+.           表了.8 (HED           |
+EEC [TP
+        130.42                103.52         $5.56
+ on
+ a
+ :
+ :
+ =
++187   |
+|
+
+--- 第 192 页 ---
+NB/T 47065. 3一2018
+附 录 C                                      .
+CARER)
+耳式支座安装尺寸
+耳式支应安装尺寸可根据峡 C.1，按式〔C.1) 计算:                                          :
+D= WD, +26, +25, 8 420, —)) verrerrrrerereeeteeeeeneees CCAD
+式中:
+万一一尺寸，mmy
+DA, mm;
+Sy SEARS URBE, mm;
+Day tay 81) 6PM, WBE 2一表 4。
+-一-一一十- ee
+i
+ba                    DN
+|
+|
+é                |
+vee -一十-一-一-一-一-
+也
+Aci 耳式支座安装尺寸
+188
+
+--- 第 193 页 ---
+a
+外                                      .
+tf
+Et
+NB/T 47065. 3一2018《容器支座”第 3 部分:写式支座》编制说明
+|
+NB/T 47065. 3一2018《容器支座”第 3 部分，耳式支座》
+编制说明                                 ;
+1 概述
+本标准是在 IB/T 47123-2007 (ARMS ME ”第 3 部分，耳式支座》的基础上， 根据有关设计、
+1         制造及使用单位反馈的意见，并吸收了国外设备类似支座的优点， 缚合国内有关标准修订情况,对
+原标准部分内容进行了修订。
+2 ，主要修订和内容说明
+此次修订，在原标准中增加了下列内容:
+a) 耳式支座主体材料采用 Q235SB 、830408、15CrMoR;
+b ) 给出了耳式支座的-100它一300C多许使用温度范围;
+ec) 给出了设备入体的许用应力在[c]=120MPa、140MPa、167MPa、185MPa Itt, 支座处壳体的
+RSM:
+d) RATT RENE. Re URE OAT IE R
+3 标准的主要内容说阴
+3.1 本次修订中仍维持耳式支座的 7 种结构形式， 主要是因耳式支座是常用的容器部件，需要保
+和持耳式支座在应用中结构的连续性和统一性。因此， 本次修订基本没有变动耳式支座的结构尺寸。
+3.2 本次修订耳式支座的主体采用 Q235B, $30408, 15CrMoR 三种材料的主要考虑是;
+a) 耳式支座被广泛地使用在讨力容器上，耳式支座采用 Q235B、S30408、15CrMoR 三种压力
+答器常用的材料, 压力容器制造商在合作类似材料的容器时,准备耳式支座的材料也容易;
+b) 丁式支座受力状况为弯矩形成的拉力， 耳式支座主体常常需要在寒冷的环境下工作，采用
+抗低温性能较好的压力容器材料，可以允许耳式支座在-20C一200C 、-100C一200C、
+-20C一300C范围正常地工作，对于保证容器的安全可某运行有着较好的综合性能;
+c) 对于希望采用 Q245R、Q345B、Q345R 等材料时，设计人员可通过对该材料与 Q235B 材
+料强度性能的差异评判, 对定式支座的允许荷装[O]进行修订; 但耳式支座的允许工作注度
+范围应按材料的性能确定。
+3.3 本次修订给出了设备简体材料的许用应力在[c]=120MPa、140MPa、167Mpa 、185MPa 时的      :
+AREAS HM), EBCE ERS:
+a) 该许用应力规格考虑为，基本覆盖容器常用的结构钢、不锈钢 、耐热鲍范围，使得耳式支       :
+HEFCE LM AAT EK ETE;
+b) SOUR AAR SRT AL AG PR YE HEL, PA RPSL IEE JAR EL fe        :
+许弯矩[ad]进行修订。                                                     i
+3.4 SPAR REBEL He APE Hy Bek Oe BBL ET aE SR SRE, AC CTT op       Hl
+专项规定，明确规定: FSI) Ib OAT IR ITY,                     |
+189        1
+
+--- 第 194 页 ---
+NB/T 47065. 3一2018《容器支座 ”第 3 部分，耳式支座》编制说明
+3.5 ”本次修订仍将加简最大公称直径维持为 4000mm。原固是: 如果扩大直径系列上限，采用十
+式支座的支撑型式未必是较好的方案。
+4 耳式支座的设计
+4.1 哥式支座本体的材料
+a) 耳式支座本体的材料采用制造容器常用牌号的材料: QO3SB, $30408, 15CrMoR, fale
+力容器的低合金钢、不锈钢和耐高温钢;
+b) 耳式支座本体的材料许用应力分别为[cl]=200MPa、140MPa、200MPa，主要考虑耳式支座
+”是按钢结构件的属性选取的。
+4.2 ，耳式支座的允许荷载计算
+定式支座本体的强度主要体现在筋板和底板两部件上。
+CL) 对于筋板的强度计算
+由于角板的受力为压力，其失效状况大多表现为压缩失稳，因此盘板的受力结构模型可简化为
+两端铵支的轴向受压的压板，如图 I所示。
+se
+CC一[LT一|
+| 2
+Al mRNA
+GARNER BE MYR (1) 计算，
+oS «tio,      1
+经整理，其按筋板强度确定的丁式支座的允许载荷[2U]可按式(2 ) 计算:
+[0,]=55,nsin w-k{o],      2
+式中:
+0一一箔板计算宽度;
+JHE Es                                                        .
+190
+
+--- 第 195 页 ---
+NB/T 47065. 3一2018《容顺支座”第 3 部分，陡式支座》编制说明
+一一筋板数量;                                                                       |
+&一一计算倾角角度，                                                                    |
+kA WAIL, HUE GB 50017 CREAM ADEE) HULA, BPR E 1. GARI          i
+回转半和从 r MYR AE RIK 1, PPLE RE 4，并依此确定上上值;                                 ;
+[ol.一一筋板材料许用应力。
+(2) 对于底板的强度计算
+底板结构如图 2 所示，二边自由、二边简支的承受均布载荷的矩形板受达模型可按式 (3 )             ，
+和式 (4) 进行计算。
+门                           \
+I                      2                       bi
+五           AX,
+.          图 2 底板结构                                   :
+JAR AGRE Mek (3) 计算:
+其中弯矩 好 值为:
+mes             ssetsssnsssestvaseentasee
+Mor                                (4)
+SSETAL, CMRI ARCO BE ae EME Se APRA [QT sh (5 ) 计算，
+BL             由
+[包]> 3B *[a]                      (5)
+式中:                  ，
+Sy by, Ly by — BRE R Ts
+lo} RRS EA, MPa.
+(3) HSCEI SCPE                                                             :
+FRECHE IR) FF AR Fat [O] He I 8A Bk Pt AE A FP RR RE AM, SE REY eR Het                   i
+(6) 计算:                                                                                i
+[Ol-min(LOr], [OD       secteestesnesnsansnsneneess (6)          |
+i
+191           |
+
+--- 第 196 页 ---
+NB/T 47065. 32018 (ASME ”第 3 部分，耳式支座》编制说阴
+4.3 耳式支座制造主要技术要求
+支座与圆简 CARAS) 之间连接焊颖内前应力和弯则应力的组合应力需要校核， 通常只要焊接
+接头的腊高满足制造又求, 该组合应力就能满足要求, 所以本标牙中设有列出煤接捷头的有关尺寸。
+5 由容器圆简限定的支座许用外痪和矩的计算
+5.1 支座处容器圆简局部应力的计算方法
+由支座弯矩引起的局部应力人参照 AD 规范 S3/4 中的方法进行计算, 该方法认为最大应力出现在
+A、B 两点的内壁或外壁，如图 3 SRR.
+而
+                  \
+           1               :         [  ba                              \
+|r         |         1 Pass
+:         |    |;
+H         !    i
+|        —
+oe         :         | 人一ea
+iP yy } ppd
+|                          ‘         |    I      h
+图3 SRT ASE
+5.2 HARMS BAAN He
+a) 由压力引起的应力按式(7) 一式【10) FS:
+周向应力，
+Fogg =         sessssseeeeseeesssserecsereeees (7)
+HUD
+Con = OE            TITTIES)
+周向应力:
+一      MC,
+One = Sos RAS         9
+轴向应力:
+= _. MG
+Fas = Ion hg          10)            |
+Db) CREE [st IU ees a eR C11) Ase (12) 计算:                               |
+周向应力:                                                                      |
+|
+192                                                                               |
+|
+|
+
+--- 第 197 页 ---
+中
+NB/T 47065, 32018 《容器支座“第 3 部分，耳式支诬》编制说明         |
+Fn Sa Rag        Ce        a)
+轴向应力，                                                                |
+On aed          aa            |
+5.3 应力限制条件                                                             :
+根据应力分类的方法，对下列应力及其组合应按照下列原则进行限制，
+a) pnsfol;
+b) prsl15[oli
+©) pitpySiSfo]o
+5.4 EELS REVE ASN AU
+a) 根据应力的组合和评判方法，可以确定出 e =f (34 ) OCR, HLM ROB RE
+SEMEL 5.3 中要求的 Mi最大值;
+b) 该 M值与其相对应的耳式支座号、简体直径、简体壁厚、材料许用应力组合成为附录 B
+所示的耳式支座许用外弯矩[Mi]表;                                             :
+©) WT BTA AIK PABA a AL RABE , SOS py BLU AR Ste SMe UR
+eB RAHA) 1/150
+193          |
+
+--- 第 198 页 ---
+
+
+--- 第 199 页 ---
+ICS 23                                                                    |
+574
+NB
+、        _.,         |
+HP AB Bede AIG AE DR TP bbe
+NB/T 47065.4—2018
+代替 IB/T 4712.4—2007        1
+容器支座
+第 4 部分;支承式支座
+Vessel support—
+Part 4: Bracket support
+2018-04-03 发布                                        2018-07-01 实施        :
+国 Se fe PR Wy 发布                        |
+
+--- 第 200 页 ---
+
+
+--- 第 201 页 ---
+NB/T 47065. 4一2018         |
+
+{
+
+.                                                |
+
+目次                       |
+
+HP oneeosscsesststeatssstiatotsotonsonensntstsniviseneh sistent 9     :
+
+WES A (资料性附录 ) 。支承起支座实际承受载荷的近似计算ee 206     _
+SEB (资料性附录) 出容器封头限定的阳 型支康的允许垂直载茶[P sans206
+
+197     i
+
+--- 第 202 页 ---
+NB/T 47065. 4一2018
+BO
+NB/T 47065一2018《容器支座》分为以下 5个部分:
+一一第 1 部分: 芒式支府 (NB/T 47065.1—2018 ) ;                                         |
+一第 2 部分: MESSE (NBAT 47065.2一2018 ) ;                                               |
+-一第 3 部分: 耳式支座(NBA 47065.3—2018 ) ;                                                      |
+85 4 部分， 支承式支座(NB/AT 47065.4—2018 ) 5
+一一第 5 部分: 出性环支座 CNB/T 47065.5一2018 ) 。
+本部分是 NBAT 47065一2018 的第 4 部分: SCARE ME
+本部分按 GB/T 1.1一2009%《 标准化工作导则”第 1 部分: 标准的结构和编写》 给出的规则起草。
+本部分代替 IB/T 4712.4一2007《容器支座 ”第4部分: 支承式支座》，与 JBAT 4712.4一2007            |
+相比，主要技术变化如下，
+-一支承式支座主体材料，板材采用 Q235B、管材采用 LOM, 支庆武支座本体的烤料许用应         |
+力分别为[o] =200MPa、180MPal                                                                       |
+一一给出了 B 型支座当设备封头材料的许用应力在[o]=120MPa 、140MPa、167MPa、185MPa            |
+时，由封头限定的 B 型支座的允许载荷[由值，                                                             |
+一一增加了对管道推力、竖向地震力的裁荷的加要求;
+一一封头的厚度适用范围为 mm一24mmo
+本部分由全国钢炉压力容器标准化技术委员会《SAC/TC 262 ) 提出并归口。
+本部分由全国锅炉压力容器标准化技术委员会固定式压力容器分技术委员会组织起草。                      |
+本部分起草单位: 东华工程科技股份有限公司。
+本部分主要凶草人; 刘吉祥、用道纯、刘晓林。
+本部分由全国锅炉压力容器标准化技术委员会 (SAC/TC 262 ) 负责解释。                                     |
+本部分所代竺标准的历次版本发布情况为:
+——JB/T 4724一1992;
+——JB/T 4712.4一2007。
+198
+
+--- 第 203 页 ---
+NB/T 47065. 4一2018         |
+H
+i
+AAR BABS: 支承式支座                        ‘
+1 388]                                                                         :
+1.1 本部分规定了支承式支座的型式特征、系列参数及尺寸、材料、标记、制造技术要求及选用
+说明。
+1 2 本部分适用于下列条件的钢制立式癌简形容器:                                        ，
+a} 公称直径 DN800mm~DN4000mm;
+b) 圆简长度工与公称直径 DV ZW LIDN BAF 5;
+c) 容器总高度 Mo RAKE 10m;                    -
+9d) 多许使用温度-20C一200C。
+2 规范性引用文件                                                                 |
+下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本
+文件。几是不注日期的引用文件，其最新版本〔 包括所有的修改单 ) 适用于本文件。
+GB/T 985.     气焊、焊条电弧焊、气体保护焊和高能东焊的推荐坡口
+GBIT 1804     一般公差”未注公差的线性和角度尺寸的公差
+3 型式特征
+支承式支座的型式特征见表 1。
+#1 型式特征
+钢板焊侧         A                有
+4 系列参数及尺寸
+4.1 六型支承式支座的结构及尺寸按图1、图2 及表 2 的规定，B 型支承式支座的结构及尺证按          了
+图3及表 3 的规定。                                                                                :
+4.2 MEARE DARA SEE TTR. BUSCAR ERT BAS, (EUAN RP SEE       :
+上限值。
+|
+199        |
+|
+
+--- 第 204 页 ---
+NB/T 47065. 4一2018
+与寺头外形哆全                bs
+ey,         |       ba   R=38y
+4         |       po
+Rh pease           站      1
+RL             |                    |
+e        4       3              2                  |
+=)                   é|
+|              4
+Ltt            |        dott                  |
+3h       a       :                                 |
+a                      4                       |
+BI 19~45 4 WeSC                   |
+|
+|
+bs
+b                          Raddy
+of aaa     au
+i
+*            f     刘               b
+|
+了        |
+次<   ay          a
+i               <
+|     |     Hj
+a Ps
+                   :
+图2 5号~6号A型支承式支座
+200
+
+--- 第 205 页 ---
+NB/T 47065. 4一2018        |
+‘of SHSM                                                |
+|             AA,                      i
+aed                H                                      H
+hear aN     |
+x         #8                             :
+tas X51                     Fl           a \                     i
+s           i                  |    本        中
+和| | fh        el           Cy                     |
+|        可         |              Sg                        ‘
+!                  |              f                        :
+rr                  |        2-Hds,
+dD.         |
+图3 1号一8 号了型支承式支座
+麦2，A 型支座系列参数尺寸                          单位为 mm
+7                                                 BES         i
+a | seoraxar [avn]                                             oe        :
+3 tam | ow | |于[二于| | « [wal s |
+| so | 350 | 130         45 | 150                       M20  82
+[ie |
+2    27         420 | 170 | 120                   240     30 | 24           15.8
+ic
+3     54   | ee | 460 | 210 | 160 | 14      240      12 | 300 | 12       30 | M24 | |  28.9
+[1300 |
+70         500 | 230 | 180        270 | 200     320         30 | M24      40,3
+             |
+5         [2 540 | 260 | 210 | 20      330 | 230     370      70 | 36 | M30 | 0 |  67.2
+250                         580 | 290 | 240 | 24 | 110 | 360 | 250             390              70               M30                  90.1
+j
+L
+|
+201
+|                                    |
+上
+
+--- 第 206 页 ---
+NB/T 47065. 4一2018
+I B型支座系列参数尺十                           单位为 mm
+去 [perma Met el ea      | seas
+|    cag | 高度                                 支座质| .100mm |
+i frvmarfowrnel | [| ada lalalalalmm| 7% | sme | mmo |让
+号| [OVKN | DN       | 和         | | dy | as                质量kg  {0 |
+32         310 | 150       4 |120    160 | 20 | M16                   500
+2   49  [1100 | 330 | 160] 12 | 108     150        20 | Ml6         1     550
+95  [10 | 350 | 210   159 | 4.5 | 220   235 | 24 | M20 [2° | 13,8   LT   750
+4       173                     400 | 250] 20 | 219          290         295 | 24 | M20                26.6          29          800
+5   220         420 |300| 22 1273    360| 12 |3501 24           47     5.2    850
+                               四
+270 460 |350| 24 | 325   420 | 14 |405| 24 | M20 | 1980 | 67.3   63   950
+be]
+7   312         490 | 410 | 26 | 377          470 | 24 | M20       95.5    8.2
+366                     510 | 460         426.          3550 | 18 | 530) 30 | M24               124.2         93         1050
+5 材料
+5.1 支座埋板材料一般应与容器封头材料相同。
+5.2，支不底板的材料为 Q23SB。
+5.3 A 型支座角板的材料为 Q235B，B 型支座钢管材料为 10#钢 ，使用性能见表 4。
+202
+
+--- 第 207 页 ---
+NB/T 47065. 4—2018
+#24 支座使用性能
+       aa
+5. 4 根据需要也可选用其他支座材料，但应根据选用材料的性能修正支座的允许载荷。              |
+6 标记
+6.1 标记方法
+NB/T 47065.4一2018，支座 x x
+L RBS (1~8)
+支座型号 (A、B )
+注 1，若支座高度 A, MMRIEEE Oy 与标准尺寸不同，则应在设备图纸零件名称或备注栏中注骨。
+法 2: 支座及整板材料应在设备图样的村料梯内标注，才孙方法如下，支座材料/地板材料。
+6.2 标记示例                                                                     :
+示例 Le PARA TANNY 3 SCR SEE, SEMIS LAER OY Q235B 和 Q245R
+NB/T 47065.4一2018，支座 A3
+材料: Q235B 和 Q245R
+示例 2:钢管制做的 4 号支承式支座,支座高度为 600mm。执板厚度为 12mm。钢管材料为 104钢,底板为 Q235B，
+BARA $30408;
+NBT 47065.4—2018, XBEB4, 4-600, 5)=12
+材料: 10, Q235B/S30408
+7 制造技术要求                                                                    .
+7.1 HEGBEPT RF He IR SPR CROPS SARA BR Ob ), MORAL ARIES BI AN eA
+标准选用。焊接接头型式和尺寸应符合 GBAT 985.1 的规定。
+了.2 支承式支座本体的焊接，A 型支座采用双面韦续焊; B 型支麻采用单面连续焊。支座与容器
+者体的焊接采用连续焊。焊继屡高约等于0.7 倍的较薄板厚度，且不小于 4mm。
+7.3 和焊色表面不得有发纹、夹得、气孔和弧坑等缺聊，并不得残留有焙洁和飞减物。
+7. 4 BBS ARIE
+7.5 册栓孔的加工极限偏差与其他部分的制造公差分别按 GBAT 1804 中四级与级精度。
+7.6 支座所有组焊件周边粗糙度为 Ra50hm。
+7.7 支座组焊完毕，各部件应平整,不得直曲。
+7.8 若容器壳体有热处理要求时，支座垫板应在热处理前焊于容器壁上。                   |
+8 选用说明                                                                       '
+8.1 根据公称直径 DN 选取相应的支座, 按附录 AIST AR TREAT O, 满足 O<[]
+ARR
+8.2 对于 BM AE, NAR rh ARR SL EO ORT, AUER 2<[F]，但对于衬里容器，
+则要求 C<[EJ1.5。由附录 BAT LURALF Hi.                                                                      |
+8.3 支座的安装高度可参见旦录 C。                                            |
+203         |
+
+--- 第 208 页 ---
+NB/T 47065. 42018                                                                         |
+附 录 A
+《资料性附录)
+支承式支座实际承受载荷的近似计算                                       |
+A.1 适用范围
+本附录送用于高、径比不大于 S, 且总高度 Ho (WU ALL) 不大于 10m 的钢制立式圆简形焊接
+容器的支承式支座实际承受载荷计算。
+i]
+|
+一一十一一十
+|
+|
+|
+|
+p
+g
+mg
+|
+|                                .
+|
+|
+Ty
+ Al 支座承受载荷示意图
+A.2 支承式支座实际承受载荷按式 CAL) 近似计算:
+0 ta
+kn         0D                                   ;
+204
+
+--- 第 209 页 ---
+NB/T 47065. 4一2018         |
+式中，                                                                 |
+2一一支座承受的载荷，kN;                                              |
+六-一支座安装尺寸,对A BERR, D=2%; Xf BWSERE, D=D,, mm;                     :
+Si, DWE 2, 423.                                                {
+& -一重力加速度，取 g=9.81m/s*;                                           |
+Gu一-偏心载荷 (LIE IEA SI EAR), Ni;
+SiH 4a PELE 3 LL LOBE) moms
+FAP EB AGE, mm;
+大一-不均匀系数，安装 3 个支座时取 k=1, FEES 个以上时，取4-0.83;
+Zoo-一设备总质量 ( 包括壳体及其附件，内部介质及保温层的质量) ，kg;
+n—— SEER
+PET, IR po 0.25py Fl pw BKM, No
+pe一一水平地震力 N;
+Po一一水平风载荷 N。
+AS 当容器管道的推力较大时，应按推力的方向、大小以及支承式支座的布置方位进行支承式支
+应承受管道推力的计算，确定受力最大的支承式支座的缴荷值，并将该荷载值与式 (A.1) 的计算
+荷载值相加。
+A. 4 “当需要考虑坚向地震载荷时，应计人支承式支座受力的不均匀系数， 并依此殉定支承式支座承受
+的竖向地震载荷值，并将该载荷值与式 CAL) 的计算载荷值相加。
+|
+205         |
+
+--- 第 210 页 ---
+NB/T 47065. 4一2018
+附 录 B
+《资料性附录)
+由容器封头限定的 B 型支座的允许垂直载荷[F]
+B.1 本附录适用于承受内压的标准栅圆封头上安装带垫板的 B 型支座。                 |
+.     8B. 2本附录给出了容器标准顶回形封头材料许用应力[ol为 120MPa, 140MPa, 167MPa, 185MPa 时
+B 型支座的许用垂直城有有[F]见表 B.1一表B.4。
+B. 3 “对其他许用应力值的材料和其他有效厚度可采用线性内插的方法确定[F]。
+表B.1 HINGES [o]=120MPa 的允许垂直载荷[1    单位为 kN
+ms
+De pepe [2 | «Ts
+2
+(axe pam [ae [sae [ae fs [oe [|
+a 本也到
+[站|
+[|
+Pee eee paary
+‘
+[awa [os [sae | es [aes as [|
+[raw an foes [ae fan aw [es [ee |e
+Trea [ae [ee [sas
+[tam [as [oe [oor [se [ae [ar | oe [on |
+[300 “Paw |e [we [os _[ se | oe [os a |
+Ea 全|
+下
+206
+
+--- 第 211 页 ---
+NB/T 47065. 4一2018
+
+表8. 2 MEMS (o]=140MPa MSSM]     单位为 GN      i
+
+    |
+
+支座号  DNmm                           i
+ow [on ae [ar as [oe [or os
+ee
+Pie om Toe oe [os ie Pw De Do
+[owe aa Dt fm [se [ofa Poe | oe |
+[en Per Pe [oe Po po [or |
+
+a
+
+ce
+Se [fe [om [es fw [oe pm [om |
+Pee Cae Pe ss [or [eae ae fe |
+
+[ve oe Te fon [or fw Pe Pow pap
+
+    |
+
+i
+
+i
+
+,             207    |
+
+--- 第 212 页 ---
+NB/T 47065. 4一-2018
+表了.3 HIRES [o]=167MPa 的允许垂直载荷吧]     单位为 kN
+封头有效厚度/mm
+支座号  DNinm
+fe [ome ae ee ee |
+ | we | a | oe 区
+ 438 512  5  600 708
+ 495  525  583  637  664  690
+ 447  479 | 和| sos | 621  647  674
+ Sas fm | fe [oe |
+ 到
+[|
+208
+|
+
+--- 第 213 页 ---
+NB/T 47065. 4一2018          |
+
+玫B. 4 EWE [o]-185MPa RIM |     单位为RN      i
+
+封头有效厚度/ma           |
+
+支座号  DNmm
+
+[FE
+
+[|
+Lowe [a fe fee [oe [or fa
+So Pepe [wpm [|e | fw
+ae Pe fo [ele Po [me | a |
+(ie Te De fe fo [on [oe [pm | |
+ear [ae [a Poe [me [eae
+[we Paw [on [or fe [wr [ee [om | ae |
+me Co toe oe os [oe [mf
+‘
+[am Dae Por | |
+eT Toe [oe Pea [ee
+|
+He Peep epee
+ v4
+"ee Tae Ta [eer 9e [oe | a
+Peo [oe Cow [os [oe [oe [ioe fe fe |
+
+|
+
+209    |
+
+--- 第 214 页 ---
+NB/T 47065. 4一2018
+附 OC
+《资料性附录)
+支承式支座安装高度
+C.1 支承式支座安装高度是指支座底板至封头切线的距离，见图 C.1。
+&                            D
+|
+外                                               j
+多
+D>
+em                                    LR            ®
+lot          i
+|
+———                           KH
+Bal                                Aa
+_ C.1 支座底板至封头切线的距离
+C. 2 ”标准枯圆形封头上的支承式支座安装高度见表 C.1 和表 C.2。
+C3 本附录安装高度系基于表 2、表 3 的支座尺寸计算所得; 车垫板厚度和支座高度变化， 则安装高
+度须另行计算。
+|
+|
+|
+|
+210                                                                                                 |
+
+--- 第 215 页 ---
+下
+NB/T 47065. 4一2018            |
+|
+#C1 A 型支座安装高度                            单位为 mam               |
+Sans  :
+文应号 | 合用客串公称直径 | 离诺          容器所关名义厚度              |
+六 a
+上
+ EREIEIEIEIEDECIEEEE  |
+ee Sy
+ed
+er Od
+2    420
+ | o: [ 3 [6s [or [ow [oa or | |
+[iw] [es [or fo [eo foe fw [wo [or [ol os |
+eC
+ Pe [or [om [| me foo [oo | me [|
+3                 ，
+一本
+ jm | | me | aoe | aoe | sor | om | os os |
+ wr [i [oe Powe [wr Pow [on fw [ve | wi |
+500
+ fee [es fon | oa fos [or Po [on | or]
+aa | [orf or [oe [oe | | ve | oe | ow [om
+5    540
+2a 1 Fon [oe [on [ow [oo | [9 fs [|
+ Fi ow [eso [as vow se
+580
+|
+211
+|
+
+--- 第 216 页 ---
+NB/T 47065. 4一2018
+表C.2 B型支座安装高度                         单位为 mm
+2 cnc ce
+ bem [an pe fas ae fw for] om | me [or]
+ee CC
+aie | a [5 P59 [sr Poe" [a | a [|
+ Pe [se [os Pon [50 [ar [op we | ||
+ Foro fo [er| ar fo foi | [ofr]
+ oe fas for | wo [or]
+3    350
+
+= @ [i [wo fas [on
+ pe [ow or [om [os [or [om | on [os |
+a
+ [om for peer fw [oe | on [wm | [|
+Posie) [ne Poe Poe [se Pu Per [| oe [or |
+ wer |
+
+Pe ete peter te ete tote
+
+420
+
+ee Ce Cd
+ Fon ros foro on [es ve [oe
+ Crow oc frow fis [10s [res ir [s09 rou ee] |
+ Few fre we [ros [eso [vom er] |
+ Fi i@ [ree se [ew [|e ||
+[er]
+y
+
+_ 22
+
+--- 第 217 页 ---
+{
+1
+1
+NB/T 47065. 4一2018《容器支座 HAMS. 支承式支座》编制说明        |
+i
+NB/T 47065. 4一2018《容器支座”第 4部分,支承式支座》        |
+>                                    1
+编制 说 明                                |
+1 概述                                                              .
+本部分是在 IB/T 4712.4一2007《容器支座 ”第 4部分，支承式支座》的基础上，根据
+有关设计、制造及使用单位反馈的意见，并疏收了国外设备类似支座的优点,结合国内有关
+标准修订情况，对原标准部分内容进行了修订。
+2 ，主要修订内容说明
+此次修订，在原标准中增加了下列内容;
+a) 支承式支座主体主要考虑板材采用 Q235B 材料 、管材采用 108钢材料; 支承式支座
+本体的材料许用应力分别为[oj=200MPa、180MPa。
+b ) 给出了了型支座当设备封头材料的许用应力在fcl=120MPa、140MPa、167MPa 、
+185MPa 时，由封头限定的 B 型支座的允许载荷[严]值。
+c) 雯加了对管道推力、竖向地震力的藏荷释加要求。
+d) 封头的厚度 (mm ) 范围为6、8、10、12、14、16、18、20、22、24。
+3 主要内容说明
+3.1 本次钥订中仍维持 A 型和了 型两种型式、共计 14 种规格的支承式支座，主机是因支承
+式支庶是常用的容器部件 ，需要保持支承式支座在应用中结构的连续性和统一性。因此，本
+次修订没有变动支承式支座的结构尺寸。
+3,.2 本次修订支承式支座主体材料的考虑: 板材采用 Q235B 、管材采用 10#钢 ，但材料的许
+用应力分别为[al=200MPa、180MPa。其提高的原因: 将支承式支座按馈结构件的材料属性确
+定许用应力。
+3.3 本次修订给出了了型支承式支座当设备圭头材料的许用应力在[oj=120MPa、LI40MPa 、
+167MPa、185MPa 时，由封头限定的 B 型支承式支座的允许裁荷[严值，主要考感因兹是:
+a) TRE FE Ai Oh Ae RS: 常漫、壁厚不大于 30mm, at S30408 Q245R,         :
+1SCrMoR, Q345R 材料范围的许用应力，该许用应力规格将使得支承式支座的允许
+戴荷[F]值能够有较大的应用范围，                                        :
+b) 如果容器的设计温度或党体壁摩超出范围，应按容器材料的实际许用应力值对支承         :
+FE OS AGE ART LEME EAT AB TT
+3.4 对于容器设计中管道推力较大或者设计中需要考虑竖向地震力时,在本次修订中增加了
+专项规定，明确规定: 管道推力、竖向地震力的载荷状加要求和三加方法。                 |
+213       1
+|
+
+--- 第 218 页 ---
+NB/T 47065. 4一2018《容器支座”第 4 部分: 支承式支座》编制说明
+3.5 封头的厚度 (mm) 范围调整为6、8、10、12、14、16、18、20、22、24，主要考虚该
+范围能够枢盖更多的立式容器，便于设计者的选用。
+4 A型支座的本体允许载荷
+4.1 受力模型
+A 型支座水体的允许城荷主要是由筋板和底板决定的, AB A RL AR FE A
+荷的较小值。
+对于和芒板其失效方式大多表现为压缩失稳，筋板可简化为两端铵支的轴向受压的杆件。
+4.2 Al~A4型号的A型支座本体的允许载荷
+a) Al一A4型号的A 型支座的筋板失效模型简化为两端铵支的轴向受压的压板，其允
+许载荷[2J按式(1) 计算:
+[Q)1=26,@, -10)Ko1      1
+b) Ai一A4弄号的 A 型支座的底板失效模型简化为二边自由、二边简支的量受均布载
+HAY IEA, HOPPE AR ATO. Mesh (2) 计算，
+2
+to1-“F te)        人
+c) Al一A4 理号的 A 型支座本体的允许载荷按式(3 ) 计算:
+LO}- (1211+ [Q2}} min      3
+4.3 AS~AG MSAD A 型支座本体的允许载荷
+a) A5一A6 型号的 A 型支座，由于增加了侧向板，筋板失效模型简化为两端匀支的轴
+向受压的模型杆件，其允许载荷[CI]按式 (4) 计算:
+[Q,]=6,(28, — 2041 )k{o]     4
+b) A5一A6 型号的 A 型支座的底板失效模型简化为二边简支、一边固支、一边自由的           |
+FREY AG AG HE OAT A, HVPE (CS) 计算:                            |
+II
+co) AS~AG 型号的 A 型支座本体的允许载荷按式(6 ) 计算，
+[OI= (Oi), [221 min     sees (6)
+在上述式 (1) 一式(6) 中，
+天一一折减系数，
+[c] 一一分别为筋板、底板材料许用应力，MPa。
+其他符号见表 2。         .
+5 B型支座的本体允许载荷[O1
+5.1 BARB
+B 型支座本体的允许载答主要是由钢管和底板决定的, 取钢管和底板两者承受的允许载
+荷的较小值。
+对于钢管,其失效方式大多表现为压缩失稳,钢管可简化为两端饺支的轴向受压的杆件。
+214
+
+--- 第 219 页 ---
+NB/T 47065. 4一2018《容器支座 ”第 4 部分，支承式支座》编制说明        |
+5.2 B 型支座本体的允许载荷                                       |
+a) B 型支座的钢管失效模型简化为两端匀支的轴向受压的杆件，其允许载荷[2]按       1
+式(7) 计算;                                                             ;
+[Q]=2/4(a? -d?)ko}      本 和相生        i
+b) BUSCA J Ait 2 BL 1G Hy ee SR RS Hy ea HI        :
+板，其允许载荷[92]按式 (8 ) 计算:
+(0-242 15)       相生
+* 3(b? = 05d?)
+cs) BASE WEAR SAA FLIP RR Har eR (9) 计算
+[OI={[Q1], [Q2]} nin      ee
+在上述式 (1) ~s0 (3) 中:
+天一一折减系数;
+[四一一分别为篇板、底板材料许用应力，MPa;
+其他符号见表 3。
+6 由容器封头限定的 B 型支座许用址直载荷的计算
+6.1 支座处容器圆简局部应力的计算方法
+由支座载荷 严在封头引起的局部应力参照 AD 规范 83/3 中的方法进行计算。通常设计
+中使用的凸形封头型式多数是标准椭圆形封头,因此本标准在计算支座荷载引起的局部应力
+时，亦采用了标准柚圆封头。
+6.2 支座处容器封头部位的应力计算
+a) 由压力引起的应力;
+b ) AER ATM MA:
+=      EF
+Oo = Sra GE
+By = fay
+e) TSC RAS RES HE AG HD
+6F
+Ou = Sou GE                                        ;
+y= 8, SE
+6.3 BE ORAS AE                                                                :
+根据应力分类的方法，对下列应力及其组合应按照下列原则进行限制:
+a) prs10[a;                                                                :
+b) pitpy<1.S{o]o                                                        i
+|
+215        |
+
+--- 第 220 页 ---
+NB/T 47065. 4一2018《容咒支座”第4 部分: 支承式支座》编制说明
+6.4 支座处容器封头部位的许用载荷的计算
+a) 根据应力的组合和评判方法，可以确定出cs/(己) 的函数关系，通过计算程序的
+BARU SE ALI 6.3 BORA FAK HH
+,卫) EET SORIA SCE. ELAS. ATARI ROBE AM HARB
+Jp AB EP RSE RE HELP VA
+e) Ay BEG AS sek ACH Fa Pa AM JE RY BEL RB, CRP a TL) A TAP Se [FY]
+取附录 BAHAY 1/15,
+|
+|
+|
+216
+
+--- 第 221 页 ---
+ICS 23                                                                           |
+374
+NB
+Wes 全         =~           |
+中华人民共和国能源行业标准
+NB/T 47065.5一2018
+容器支座
+第 5 部分: 刚性环支座
+Vessel support一
+Part 5: Support lugs with rigid rings
+2018-04-03 发布                                                               2018-07-01 实施
+国家人能源局 发布
+
+--- 第 222 页 ---
+
+
+--- 第 223 页 ---
+i
+
+j
+
+NB/T 47065, 5一-2018        |
+
+H
+
+A ok
+6设计3
+附录 A (资料性附录 ) ”刚性环支座承受的载荷计算 33
+
+219         i
+
+|
+
+--- 第 224 页 ---
+NB/T 47065. 5一2018
+前 OU
+NB/T 47065一2018《容器支座》分为以下 5 个部分，
+一一第 1 部分 BEE (NB/T 47065.1—2018 ) 5
+一一第2 部分: 腿式支座 (NB/T 47065.2—2018 ) ;
+HS 3 部分: 耳式支座 (NB/T 47065.3—2018 ) ;
+一一第 4 部分: 支承式支座 (NB/T 47065.4—2018 ) ;
+一一第5 部分: 刚性环支座 (NB/T 47065.5一2018 ) 。                                                   |
+本部分是 NBAT 47065—2018 的第 5 部分: 刚性环支座。
+本部分按 GBMT 1.1一2009《标准化工作导则 ”第 1 部分: 标准的结构和编写》给出的规则起草。           |
+本部分由全国钢炉压力容回标准化技术委员会 (SAC/ATC 262 ) 提出并归口。
+本部分由全国锅炉压力容器标准化技术委员会固定式压力容器分技术委员会组织起草。                   |
+本部分起草单位;中国石化工程建设有限公司、中国特种设备检测研究院、合肥通用机械研究
+院有限公司、洛阳卓达石化设备有限公司。                                                              |
+本部分主要起草人: TI. RMR, ETE, BE, BIL.                                |
+本部分由全国锅炉压力容器标准化技术委员会 (SAC/TC 262) 负责解释。                              |
+本部分为首次发布
+220                                                                                                 |
+|
+{
+{
+
+--- 第 225 页 ---
+|
+|
+NB/T 47065, 5一2018         i
+容器支座 ”第5部分 刚性环支座                 |
+1 范围
+1.1 本部分规定了刚性环支认的结构型式、型号及选用、设计、标记、制造技术要求。
+1.2 本部分适用于满足下列条件的立式贺简形容轿，
+a) 简体公称直径不小于 600 且不大于 8 000mm 的容器;
+b) 简体设计温炭不超过 200C且不低于-20C的容器;                                  -
+c) 容器计算高度 六与直径 六之比不大于 10 的容器。
+1.3 本部分不适用于要求作疲劳分析的容器。
+2 规范性引用文件
+下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注昌期的版本适用于本
+文件。凡是不注日期的引用文件，甚最新版本【包括所有的修改单 ) 适用于本文件。
+GB/T 700              碳素结构钢
+GB/T 985.1        USE, SSR ALIA, AUPRARAP AT REI HE Pe
+GB/T 1591             低合金高强度结构钢
+GB/T 1804        AAR AERA REA BER 28
+GBY/T 50761                 石油化工钢制设备抗震设计标准
+NB/T 47041        塔起容器
+3 术语和符号
+3.1 术语
+下列术语适用于本文件。
+3.1.1
+刚性环支座 support lugs with stiffening rings
+Hi DSR. RIB ALANA ANAT
+注， AUER BE He DAME BE RE.             :
+3.1.2
+TR top ring
+刚性环支座的顶部环形板，焊接于容固简体或热板外辟。
+3.1.3
+JE3% bottom ring                                                      :
+刚性环支座的底部环形板，焊接于容器简体或垫板外壁。
+3.1.4
+底板“base plate
+与底坏焊接、设置有螺检孔的平板。
+.                             221         i
+|
+
+--- 第 226 页 ---
+NB/T 47065. 5一2018
+3.1.5
+SH support lug
+由1 SHIRE ARRAN 2 块一3 AR RL a A A dE IE
+3.1.6
+垫板 backing plate
+紧贴简休外壁并与简体连续焊接的圆简短节。
+3.2 符号
+下列符号适用于水文件。
+a GRE (RAMEE) (见图2》 , mm;
+4一底环帘度〈不会垫板厚度) ( 见网2) , mm;
+Bo WARS a SABE (如有 ) SME ( 见图 2) ，mms
+C一-底板的宽度 (见图2) ，mas
+Ps一一支座与基础接触面中心加直径，mm。可按地脚巢检中心圆直径计算:
+Do=Dit2 (dgtdy) +2d
+忆一-简体内直径 (见图2) ，mmi
+Du一一简体外直径，有保温层时取保温层外径，mm;
+人-一地肚曲栓孔中心到简体或热板( 如有 ) SERS COLL 2). mms
+，           d=Lt+b~S,
+dy SHOE ALIA CILEL1)  mm;
+PHF AE EAR DSLR 2), NG
+GPL (TP 2) , mm;
+GA BATA) (HULL), Ns
+Hom LAER BE, LAE OR AUT IEEE COLL 2). mms
+Hg —— SREB AU LE KREME RUT CAL ARTEL) 的版离，mmi
+Ho $8 #8 APH COPEL), mm
+he SEARS, CH A HoH SEAL, mom;
+大一底板外缘到底环外缘的距离 (见图2) ，mmi
+太一一加强肆板的高度(见图2) ，mmi
+4一地湖蛇栓的公称直径，mmy
+7-一由水平地震作用、水平风力和偏心载荷、管道哉荷等附加载荷作用在容器支座处的总外
+力矩，N mmi                                                    -
+Li6]一-支座允许承受的最大外力矩，N ,mms
+一一支耳数量
+mi一一每个支耳的螺栓数量;
+必-一确定材料许用应力的安全系数，m31.5;
+六一符器所受的设计水平力，N;
+Ri, 一材料在设计温度下的届服强度下限值，MPas
+Si一一螺栓孔中心至底板外缘距离(见图2 ) ，mmi
+&一一偏心载荷的偏心距〔见图 1) mms
+222
+_                                                                    ]
+
+--- 第 227 页 ---
+NB/T 47065. 5一2018           :
+Ti一容器的设计温度，癌;                                            i
+to- EET, Cs                                            :
+WSC AR SIS BT rn AE, LAR TEAK MEL. A SER, SM REE ( 如梯子平台等)
+和保温层的质量，以及垂直地震作用和管道载荷(使支座受压时计人 ) 等引起的附加载
+荷，N;
+TP]-一支座允许承受的最大坚向载荷，N;
+2一一移板斜边倾角 (SUI 2), (9);
+Sy EMERY VIBE ( 见图 1), mm; 当无热板时，取 4-0;
+6一支座处简体名义厚度 ( 兄图1) ，mmi
+So-— Tt ORE) 环的厚度【见图2) , mm;                                             -
+名一一筋板的厚度 (见图2 ) ，mmi
+[cl一一支座的许用应力，取筋板和项 CE) 环许用应力的小值，MPay
+[ol, 一一地脚螺栓室温下的许用拉应力，MPa。
+4 ”结构型式
+刚性环支座的型式见图 1、图 2。支座结构形式宜满足以下规定:
+a) 顶环和底环的宽度相等，根据需要，也可取底环的沉度大于顶环帘度。本部分取顶环和底
+环帘度相等。
+b) 当容器公称直径 DN< 800mm 时，支座可设置 2 个一3 个支耳;当 DN>800mm 时，支耳数
+量不少于4个，且宜为偶数。
+©) 底板与底环之间连接的结构见图 3、图 4。底板与底环间的焊接采用开坡口的对接接头焊
+搂(见图5 )。根据需要，底板上设置 1 个一2 个絮检孔。
+94) 当符合下列条件之一时，应设置热板。垫板的材料与容器简体相同，
+1) 网简有效厚度小于或等于 gmms
+2 ) 当圆简与刚性环支座的材料不具有相同或相近的化学成分和力学性能时
+3) 容器圆简需热处理时。
+©) 势板厚度 和应符合下列要求:
+1) 4 6.<20mm iit, dy+d,5
+2) 4 6,>20mm at, 5,20.6d,, A. d)=20mm.
+f) MAM TOO. SR. RRR, ARB, BARN
+长等于 50mm, SE 2。每个支耳设 2 块筋板，见图 6。当两相邻支耳沿简体圆周方向间距
+(以弧长计算 ) 大于 2 000mm 时，可在两支耳间至少设置 1 块中问筋板 ( 见财 2 )。
+5 型号及选用
+5.1 支座型号系列
+按容器公称直径分A 型 (轻型) ,B型 (重型) 两个系列，其允许载荷范围及结构尺寸分别见
+表1一表4。
+5.2 支座选用                                                                      1
+5.2.1 当满足下列要求时，可根据容器的公称直径 PN、承受的设计竖向载荷 挛和外力短 ad,
+1, 22 中选择相应编号的支座:                                      :
+223         f
+
+--- 第 228 页 ---
+NB/T 47065. 5一2018
+a) 设计坚向载荷 太小于表 1 或表 2 ETM];
+b) 外力矩 Mo 小于表 1或表 2 中许用力拭[MG]。
+5.2.2 ”各支座的结构尺寸及重最见表 3、表4，其中支座质量未包括肆板质量。
+Fr                 Dy    Oe
+iS        <上 A wis
+—  =    Es   B    WH 一CT
+Aa        bol | 阳 ane   4
+(        Paes ee ie
+8    [mary ” Sa        [|e      4
+g |i TS       Bhat    全     ait
+.   aie knee
+在                 $
+“EE | .            ye ak
+t                    <<   Jie
+5     地出
+ia           lf   aw.
+|        NB            ‘Er              rH
+eae     eo       wt      A   HE
+wd,    LA                                |
+tat                (ell                |
+1 RRO         图 2 “带刚性环支座的结构
+ACA.        ACA,
+fk         tt                 |
+~   pad    <    ‘tt
+Neen    i   |                1
+a ae
+[peered    |   [po
+少   mig | | Og   aig
+ay      Le pe
+HS ，庶板与底环、容器简体或垫板连接示意图
+224                                          |
+|
+
+--- 第 229 页 ---
+1
+NB/T 47065. 5一2018          |
+i            wna                         i
+;                             sg            sii
+wf     aa
+“4-9       Pao                        :
+i    Is              Ay
+|   A   IRA    |  Be   底板                      1
+JE             底环
+图 4 底板与底环连接示意图
+BB
+' shi   人 底板
+图 5 “底板与底环焊接形式
+ee Of ee
+Ney Et
+if      o       上
+| freed      i 全
+[aa | am
+        ss
+图6 底板地螺栓孔布置示意图
+底环(底板)            HE (te)
+g                 y
+a         Z\ |
+YZ                Y
+‘af Cet            ‘Site (ab)
+图7 底环或底板和简体或垫板焊接结构
+i
+225        |
+
+--- 第 230 页 ---
+|
+|
+|
+|
+NB/T 47065. 5一2018                                                                         |
+表1 A型支座许用载和        |
+支应材料许用应力[ol =147MPa               支座材料许用应力[ol =170MPa
+编号           公称直径 DN            螺迷材料许用应力fole=147MPa                 SRSA RA FEAL) [a], =147MPa
+mm   PFE ML aRaT[ ]  AAA) | AERO]  许用力矩[ki       |
+a
+ ot a a   |
+a
+ee rm36  |
+  |
+  |
+ 754  234.30  2  270.82
+ ao se]
+  |
+es TREE ETI因加国民  |
+ 067
+[ee sa00 fae soe   |
+ee ec
+ 16553   |
+[ae [eon tae 405 rans
+EN |  {
+[100 EEE   |
+[36 [reo see [asa oes  (
+ 31038
+226                 |
+
+--- 第 231 页 ---
+NB/T 47065, 5一2018         |
+
+2 Bakara       i
+
+支座材料许用应力[cl. =147MPa               支座材料许用应力[al, =170MPa                          |
+
+编号            公称直径 DN               遇检和材料许用应力[cl. =-147MPs                   名栓材料许用应力[cl, =147MPa                                H
+
+mm        EFA LY]    许用力拭[kf    许用竖疝载荷[矿]     许用力撼[hg             |
+
+  :
+
+a
+[a ate a
+
+cr  -
+ee
+[cio 00 io ses aa |
+CO
+ee ec IE
+es REED ER各
+[2 [saw eas |
+ee ee cc
+ 300
+
+ 加
+
+ee
+a ET ET
+
+  |
+
+227  |
+
+--- 第 232 页 ---
+NB/T 47065. 5—2018
+HI 人型支座〈轻型，参数表
+wo | DN | Ae a, 6 C] GG] A  slilmralmi al] «fal a | ge | x
+编号| mm | mm Jom] mm mm | mm     mm | mm | am mm|个| mm| co) |个| mm | 材料 a
+[1 [oo [S00 0 [aso] vo [0 [re [ve paw Po [ae] Teo] ws [2 [wo esa | |
+[= | soo [eto] 50 [20/90 [0 [16 | wef s0 [wo f2r [as] eo] o24 | >| san Tomsa |e
+[3 [1000 | 8000 fion|2m0/ 90 [3m [ie |e [50 [wo 26 | 28] 90) «8 [4 | sn cra 207
+Ed
+[5 [rato [2] 20 |290| 90 [a0 | 22 [22 | 50 [wo ae [a8 [0] 668 [+ [ 20 [ars |
+[s_ |r [12 of 40] 200] ao | 26 | 24 Feo [wo 30 [4] 1 [am] 677 人aaa
+ oo [a0 [0 [sa] 1 [a0 or Pa me [oes] a |
+[am co [wo 30 [4] 1] 250(709 [frm [aasa[ 2 |
+[32am |i am) o[3e0|ts0[ 530 | 5030 [0 | wo] 30 [54] 1260] 16 «| am [ozs [9m |
+[io [2 a00 x in| se ol soo | 92 [32 | | wo 30 [>| 1 [2001 26
+[is [2a fs aofars || wo] sao | [| 0 [0 [50 [a [ass
+[iso as 20fas0f 300 |e oo [36 [6 Peo [zo] 0 [fr [ae] 250 [+ 90 [onsen p74
+Fem pre Fu fo fo | fen
+ 160 00 | 40 [40 7 {0} 36] «01 [205] a52 | [oso | coasa 247
+[5 [>a fo et) 20|390frsof om [a2 [a2 [70 | 50] 36 [40] 1 [340] 768 [+ | 90 [asa [2
+[is senna wm [| |e fe fe ne
+[iz [2am J 00] 200|si0 co] a0 [a6 fas [70 0} 38 [a0 1 [>no| 77 [= [i a6] casa | 397
+[i> [+20 feo i) 275|390| 60] 97 [34 [4 [70 [ 150} 36 [ao] 1 [o3s| v40 [a | oan fom [3033
+[20 [+400 fas | 2903901] 50 [34 [54 [70 [0 36 [ao 1 [>e0| 743 [8 | en | crs [3258
+[ar [se Jas 0 85 | 30 co] 90 [3636 [70 [036 [ao] 1 foes] vas [8 | 90 [oma [216
+[22 [vam Ja oc 290|390 1] oo | a8 [38 [7m [10 [36 [ao 1 fas0| 747 [8 | 50 | cans [3956
+[2 [S00 [50m] a0 [sof 7 san | «| a0 [an | pa [46] 1 [en vex [a |r] ces [4555
+[25 [sam [520m] 10|ao0frro| so | «2 [2 | o | wo] « [<6] x] smo] 742 [8 [reo] asa [sass]
+[2s [san [«oo| 32 oof vol | a2 | [eo [wo 2 [46] 1 [en] ra | & fs 2s [5
+[2s [sm |scom)230|a10f ro] 660 a6 [as [0 [wo] a [x6] +] 390 | 749 fs [rom] asa [255
+[ar [som |se om 40|ar0frro| coo [ae [4s [| wo] [26] 1 400] 755 [5 [1 0] casa | 96]
+[2x [0m loo om)ss0[srofrrof mo [ae [4s [om [wo] «|a6] x [s10[ 756 [8 [ro] asa [7315]
+[2 [sa |o2 om) e0|arof raf r=0| 50 P45 [0 || 2 [46] 1 [420[ 702 fs [1 10 asa [00 |
+[30 [400 [osm a0 |aa0f ro] | 52 [4s [0 | wo] @ [x6] 1 [450| 7006 [8 [0] 235 ||
+[31 [60 ]os om] se0| sso rrofvo-| s+ [4s [en | wo{ «Pas 1 40 | 759-18 [ia0! esa [9707 |
+[2 [00 Jor om) 90| aso rof m0 [56 [4s [a | wo] « [as] 1 Taso] 772 [8 [0] casa foses
+[35 [70m |r om oo| 2020) soo [se fas | 45 [2 [aso 75 Ps [30] cnsa is
+[3 [7m fra om]a0| 30/230} sa | ao fas | 4 [2 [aro] 778 [ & [10] cnsa [2s
+[35 [7400 [rom a0 |s50|z0[ oo | «2 [4s [0 | wo 2 [4s] 2 [a0] 700 [8 [10] ces [a2
+[36 [70 from) 5|sx0|250[ aon [or 46 [0 | wo 2 [as] 2 [0 maa [& 1200] 2s [a5
+_|[32 [a fs acs 0|30| wo | 66 [46 Ps [0 | «2 [56 2 sn var | #3
+:            [_38 | $000 [0 000/480 [550230] 900 | oe | 46 | wo [io | a2 | ao | 2 [s10j 740 | '}1 380
+228 -
+
+--- 第 233 页 ---
+NB/T 47065. 5一2018
+表4 BRE CH) See                   |
+销导| PN | Mo Cl 号| |人| « jal a | ame |e
+mm | mm   mm|mm| mm | mm   mm | mm | mm jmm|个| mm] (oy | 个| mm | 材料  ts       |
+[| a [pommel [sepa pe [a epee freee [eofem i]
+ee Ea ee
+[ra fs sofa fo [es P20 [a0 30 fafa [anf aw fero [+ [oo fossa 0
+5 [te proof) «0 fae Tae [an [0 Tafa aw Pes [oe [omen
+[eres ot of aaf v0] seo fas arf oo a0 [ama] is [a [0 Jana |
+[2 #0 ony | nos far fae P <0 T vo [a0 T [1 fas r8a a [aio Jessa wo |
+Fi a am [ta [Ff
+[3 [22m [0020/90/10 cn [>a [se «| oso fae 2 fam] rox [4 [0 Joaisa
+[anc Sar entero ra or [wt fame [or |
+[1 | 2 tof 2 |4o| ro) mn [a6 [36 [0 Fao [ae] 2 [eo 260 | a [a0 | same
+[5 [nn sons] re [a0 | man a fw 2 [wo Tene [io
+[as | 3300 [eros too! 200 om [aa [2 | mo [sso] a6 jan] 2 [va] 79 [ + io ass [57]
+[5 30 fe too, 2000 | [4 0 ae [on io] [= [ce [30
+Fie fallow [Ta [fo alan
+bie | sein |som}0f ao] oso fso-f su faa [i a2 [462 | ro] mart + [ras sia | 00
+fis 0 xno |nof sn [36] se fia] a3 [0] ma [wf
+ 80 | 160 | a2 | 4o|2 | aco] 725 | 8 [1010] qassa [4835
+ suff! fe of [> or] 27 asa sa
+ | | 0 [| w [wow [owl 9 [60 cn [sw
+[ 22 | s.00 | oo sia] +70] a0] oo | 2 [42 | so [160 a2 | 46 > [90] 704 |g [1 060|qassa | eas
+[a [san es] z0| [=| w [w]e 2 | 7s [iH cae enn
+25_[ s4on fer soo] 5 0 230] 720 | 46 [46 [0 | 100 | 2 [46 m0 | 8 [1 10) asA|soo |
+39 rans ew | [| w|i ini [|| an [a]
+ERE Es
+[2 son ny so| sf as 50 | 50 [w [0 a [a0] 2 |] 286s [ram] ae fo
+ sem false fasa| wm [| [90 [ro Tae [522s] 6a [0 aaa fis
+ 6800 [81 600] 490 s60[ 250| 900 | 60 | 50 | 90 | 170 | 48 | 52 769 | 8 |1350| Q235a [is 013      .
+[| 20 fom oof asf 0 [50 9 [an] waa vs ma [# [isu] crea fos
+[3 | 720 sae [9025 0 | [50 25 fn | 2 feos] nw [ia] asa fino
+[35 [ra arson cols onl Psa 95 five} w]e] 2 sis] m0 [6 fr e0| isa nos]
+[35 [70 pi 20,0 00m [500] an | « [aw] 2 || 167 [wm
+ 20 ion and oe fos]2 foo. fs een
+[ewww [asso [reno fe
+229       |
+|
+
+--- 第 234 页 ---
+NB/T 47065. 5一2018
+6 设计
+6.1 设计温度
+，，支座设计温度 #应根据容器的设计温度 、容器的保温情况和环境温度综合考虑确定。
+6.2 腐蚀容量
+
+支座的腐蚀裕量按下列原则选取，
+
+a) 地丢螺栓的腐蚀裕量取 3mm;
+
+b) 碳钢或低合金铜的腐蚀裕喇到 2mme
+6.3 材料
+6. 3.1 支座材料应是已列人相应材料标准上焊接性能优良的钢材。其选用应符合下列原则;
+
+a) 与容器简体直接焊接的支座元件，如垫板或筋板、环板 (不带垫板时 )，应与简体材料具
+
+有相同或相近的化学成分和力学性能;
+b ) 地脚螺栓宣选用符合 GB/T 700 规定的 Q235 或符合 GBT 1591 规定的 Q345;                             |
+cc) 根据支座的设计温度，支座的常用材料可参照表 5 选取。                                        |
+                    表5 ”支座材料选用表
+Q235B                                    Q235A, Q235B
+
+[oo |
+6.3.2 材料代号
+
+支座《不包括热板和地脚螺栓 ) 常用材料共分6种，其代号见表 6。
+
+RO 材料代号
+Casa Tv TY |
+64 许用应力
+6.4.1 通常情况下，支座材料的许用应力按式〈1 ) 确定;
+(oy, = Re            1
+",
+
+其中，到安全系数为mw> 150
+6.4.2 常用材料的许用应力参照表 7 取值。
+230                                                                               |
+
+--- 第 235 页 ---
+NB/T 47065. 5一2018         |
+a7 支座常用材料的许用应力                            |
+[FT
+支应材料        AE mm
+ge eee
+Tae Se]
+        |
+6.4.3 地脚曼栓许用拉应力，
+a) 室温下，Q235 的许用应力[o]ji=147MPa，Q345 HFFA ALI [of =170MPa;
+b) 落地胸螺栓的设计温度高于室温，或采用其他材料时，按 6.4.1 确定许用应力，若采用丽
+FA, WR 21.6; 如采用其他低合金钢，则取 52.00
+6.5 元件尺寸
+a) 地肢螺栓的公称直径不宜小于 M24;
+b>) AMRIREE Ssh, mea HATE OS< <2,
+6.6 支座载荷计算
+支座承受的埠荷计算方法可参见附录 和A，对容器计算高度 he SEE Di ZILA AF 10 的容器，
+其地震作用的计算可方法参见附录 Bo
+7 标记
+7.1 标记方法
+NB/T 47065.5一2018，刚性环支座 x x-x-x-x        _
+L BEE
+材料代号
+支耳数量
+设备公称直径
+支座型式系列
+SE 1，支春及热板的材料应在容器设计图纸的材料栏内标注表示方法为: 支座材料/趣板材料，无垫板时只注支康
+材料。                    .
+EQ: ASCARI A, ERSERE a Cb), REESRRS O, . SURE OE AGit 上、垫板高度等参数与标准系列          i
+的参数不同，则应在容器设计图纸中注册，如 A450, 2200, 6.18, 28, Ll 500,
+7.2 标记示例
+示例 1: RAH 2 000mm, A 型，支应材料为 Q235B，扒板材料为 Q345R，支耳数量为 4，热极厚度         :
+4 16mm:                                                                                                      :
+标记为，NBAT 47065.5一2018，刚性环支座。 A2000-4- 1-16                                     1
+231         i
+
+--- 第 236 页 ---
+NB/T 47065. 5一2018                                                                                   |
+材料: Q235B/Q345R                                                                  |
+示例 2: 设备公称直径为 5 200mm，B 型，支耳数量为8个，支座料料为 Q345C，热板材料为 330408，垫板厚           |
+
+度为24mmi:                                                                           |
+标记为， NBAT 47065.5—-2018, IEF BS200-8-V-24                                       |
+材料: Q345C/S30408                                                                  |
+
+8 制造技术要求
+
+8.1 支座本体及支座与容器之问的焊接可采用电弧焊或气体保护焊( 使用药芯燥丝除外 )，焊材应
+
+根据支座和简体的材料，参照有关标准选用。焊接接头型式和尺寸应符合 GBT 985.1 的规定。
+
+8.2 项环、底环的拼接，顶环、底环及底板与简体 〔热板 ) 之间的连接，应开坡口、全焊透，底
+
+板和底环之间的连接，应采用开坡口的全焊透结构，并连续焊，见图 5、图 7。盘板与容器简体或
+
+盐板之间的连接以及筋板与支座其他元件之间的连接，应为连续焊，且焊脚高度不小于 0.7 售筋板
+
+厚度。
+
+8.3 凡被热板材盖的壳体焊劝均应打磨至与壳体母材齐平，经检验合格后方可进行支座〔垫板)
+
+与壳体的组焊。热板与简体的焊接应在最低处留 10mm 不焊。有焊后热处理要求的容器，支座 (或
+
+垫板 ) 与容器壳体的焊接应在容器焊后热处理前进行。
+
+3.4 筋板应切角避开焊锋。
+
+8.5 RAAT AMET AR, Ba, BiB. ACL, MUA EGG, UE CRO IP
+
+8.6 所有焊颖应圆滑过渡。
+
+8.7 垫板应与帝体紧密贴合，各部件应平整，不得翘曲。
+
+8.8 设计文件上应对上述焊继提出无损检测要求。
+
+8.9 支座任意两螺栓孔间距允许偏差, 当地脚螺栓孔中心圆直径不大于 1.2m BY, 取+1.5mm; 当地
+
+脚螺栓孔中心圆直径大于 1.2m 且不大于 4m 时，取+2mm，当地脚螺栓孔中心圆直径大于 4m 时，
+
+23mm.
+
+8. 10 支座螺栓孔的加工极限偏差与其他部分的制造公差分别按 GB/T 1804 的 m 级与 “级精度。
+
+8.11 刚性环支座所有组焊零件周边的粗糙度为 Ra50khmo
+
+8. 12 ”若容器在操作工况下热膨胀量较大时,刚性环支座底板上的地脚螺栓孔应为长轴沿径向的长
+
+圆孔，长轴的长度应根据热凡胀量计算确定。                                  .            |
+
+{
+
+232
+
+--- 第 237 页 ---
+NB/T 47065. 5--2018
+HOR A                                           :
+《资料性附录)
+HER ERE ORT                         ‘
+A.1 本附录给出了刚性环支座承受的载荷的计算方法。
+A.2 符号说明;
+所一一容器所受水平地震作用，N;                                               一
+Fy SAE AR SE EE PTT ( 当该载荷的方向向上时不计人) NS
+及一一容只所受竖向地震作用，Ni
+Fy 一一容器所受水平风力，见式(A.1) ，N;
+太一风压高度变化系数, 根据设备质心距离地面的高度(户+Eb ) ， 按 NB/T 47041 CHER AE AED
+标准确定;
+8一重力加速度，g= 9.81 mis’;
+Fly EAST BSH TTT EE, mma
+hy FAS BD SAE AE COL 1), mm;
+Mey 98-8 FASE LAY PPE Ba 5 | LU EEK, N/mm;
+do HEBERT 10m 高处基本风压值，N/m2。
+未注明的其他符号见 3.2。
+A.3 刚性环支座承受的载荷计算
+A.3.1 容器所受的外力
+A.3.1.1 水平风力
+容器承受的设计水平风力，按式〔A.1 ) 计算，
+RF, =12figoD, Hy x10        seterssrtreeesseeeeree CAT)
+A.3.1.2 水平地震作用
+对容器支座以上或以下部分的高度与直径之比均不大于 10 的设备，在操作工况下，容器夭受
+的水平地震作用 有尺可参时附录 BSE.
+A.3.1.3 坚向地震作用
+对安装在设计基本地震加速度为 0.20g一0.40g (或抗震设防烈度为8 度或 9 度 ) 的地区且高度
+Ho KF 20m 的容回，操作工况下，应考虑竖向地震作用 尺。坚向地震作用 及可参见附录 B 计算。
+A.3.1.4 设计水平力
+容器操作工况下，设计水平力疡取 Fy A Pot 0.25 Fy ZARA
+A.3.1.5 管道载荷
+当容器所受的管道载荷较大时 ，应按载荷的方向、大小和位置，计算容器承受的附加弯矩 My       :
+FASE [Al AN BUAE Fy 。
+233         :
+|
+
+--- 第 238 页 ---
+NB/T 47065. 5一2018 _
+A.3.1.6 设计竖向力                                                                  |
+容器操作工况下，设计竖问载荷 W Beat CA.) 计算:                                          A
+_               W=mgtG,+F + By       tester: (AQ)
+A.3.2 ERA                                                                      |
+FEAT OUP, SUE Fest (A.3 ) 计算;                                                    |
+WAM,                                           |
+人          CA)             有
+式中:                                                                           ]
+天一一不均匀系数，当ns3时，取上=1; 当m>3时，取大=0.83;
+j1一一由水平地霸作用、风载荷、附加外力引运外力矩，a按式 (A.4) 计算，
+M, = ph, +G.S,+M,        fetes CAA)              |
+|
+|
+|
+|
+234                                                                                |
+
+--- 第 239 页 ---
+NB/T 47065, 5—2018        |
+|
+oe B                                                |
+《资料性附录)
+容器地震作用的计算
+B.1 范围
+本附录适用于计算高度 hp SH 广之比不大于 10 的容器。
+B.2 ”符号说了明                                                                                    -
+已 一容器材料的弹性模量，Pay
+太一容器基本自振频率，Hz;
+太一容器截面惯性矩，mm'
+mm一一容器单位长度质量，kghmi;
+Re一地霸作用调整系数，玫 Re=0.45。
+Te一一场地特征周期，s;
+了Ti一一容器自振周期，s;                                                                           ，
+2一一抗震设防烈度，
+0, 对应容回自振周期 Ty 的水半地震影响系数;
+au一一地震影响系数最大值，按表 B.1 确定。
+B.3 水平地震作用瓦
+了.3.1 自振周期
+容器的自振周期接式 (B.1 ) 和式〔B.2 ) 计算:
+hee              BT
+f,20.86K,K,K,  cai        BE
+式中;
+天-一插型系数，对第一振型，取 Ki=1;
+Ky TBR RB
+2
+Ki, =0.308 75 +0.123 51生-0.006 si 4)
+已           Dd,                                   :
+Ky-— KEM R Bo
+1.064 820.282 182+ +0.255 a)
+K, oA
+ah,                                                   :
+(i)             |
+|
+235         |
+
+--- 第 240 页 ---
+|
+NB/T 47065. 5一2018
+B. 3.2 ”场地特征周期 7
+根据设计地震分组和场地土类别按 GB/T 50761 确定。                                                               |
+了 3.3 水平地震作用尼                                                                               |
+水平地震作用值按式 (B.3 ) 计算:
+Fekame           serene (B3)              |
+式中，                                                                                            |
+ARGS Ti. Alloy, , 1% GBT 50761 确定。                                                          |
+B.4 BREF
+对安装在设计基本地震加速度为 0.208一0.40g { 或抗震设防烈度为8 度或9 度 ) 的地区且高度
+大于 20m HAH, Fst (BA) 计算;
+F, =O AOR Qing tg          sitters CBA)
+ogg PEARLY] EA I FS IMSS BER BE EE B.1 选取 。
+表 3.{ 地震影响系数最大值 cns
+236                                                                                                  :
+|
+
+--- 第 241 页 ---
+|
+NB/T 47065. 5--2018《容器支座”第5 部分，刚性环支座》编制说明       H
+|
+1
+NB/T 47065. 5一2018《容器支座”第 5部分 刚性环支座》
+编制 说 AA
+1 概述
+在石油化工、煤化工装置中,刚性环支座的使用越来越广泛。对安装在征架上的立式大直径祖
+训容器，若承受的外载荷比较大，选用耳式支座时党体的局部应力超标导致设计不合理或不经济，
+或设备操作时承受负压作用，一般需考虑选用刚性环支肚。                     一
+本部分为首次编制，参考了国外有关设计手册、引进装置中刚性环支座的设计案例以及国内有
+关行业标准，结合编制单位多年来对刚性环支座的设计方法和经验编制而成。
+2 ”标准的主要内容
+本标准正文的主要内容包括范围、规范性引用文件、术语和符号、结构型式、型号及远用、设
+计、标记、制造技术要求，为规范工程设计中对刚性环支座的计算，附录中给出了刚性环支座承受
+的载荷计算方法以及容器所承受的地震作用计算方法。
+3 ”标准的有关条文说明
+3.1 适用范围
+确定标准的适用范围时，主要基于如下因表
+a) 设备的直径范围。据不完全统计,工程中采用刚性环支座的设备,直径范围已覆盖 400mm一
+7 760mm, ABBE RAF 600mm 的设备所承受的外力矩不至于很大 LERNER
+在结构上不方便，因此，确定本部分适用的设备直径范围为 600mmr~-8 000mm。
+b) 于用的温度范围。 刚性环支座由于刚性环的存在, 当设备简体和加强环存在较大的温差时，
+将在简体中引起较大的轴疝杰曲拉应力，同时环中产生较大的周向拉伸应力 (计算表明，
+当梨体和环的温差达到 50C时，环中周向拉伸应力可接近许用应力的 13，简体中可产生
+超过 100MPa 的灾曲拉应力 ),， 考虑到设备的设计温度与环境温麻相差越大, 设备简体和刚
+性环之间豚时温差可能越大，上述温差应力对设备简体和刚性环的影响也越大，甚至可能
+超过其他外裁对强度的影响，为此限制本部分允许的简体设计温度上限为 200C，对简体
+设计温庆的下限，按照有关专家的审查意见，取为-20C ，最终确定本部分适用的简体设
+计温度范围为-20一200C ，对超出上述温度范围的设备，可参照本标准设计，但应特别
+考虑刚性环与简体间温差的影响以及刚性环对简体约束的影响。
+e) 适用的设备高径比。本部分附录 B 所提供的地震计算方法中，设备自振周期计算公式的精
+度受高径比的影响比较大，经过采用有限元所做的大量模态计算，当高径比(刚性环支座
+以上和尽下两段简体的较大值与设备直径之比 ) 等于4.5 时，第 9 阶模态出现 2 个波的振
+型,体现索曲振动的特点; 当高径比为 8.3 时，第 7 阶振型出现明显的弯昌振动，当高径
+比为 11.6 时，第 5 阶振型具有明显的弯曲振动特点;当高径比为 15 时，第 3 阶皖型出现
+237      |
+|
+
+--- 第 242 页 ---
+i
+NB/T 47065. 5—2018 CAPESZE BOA: 刚性环支座》编制说明
+弯曲振动。由于工程中一般只考虑 1 阶一3 阶振型，因此可认为当高径比不超过 11.6时，
+设备在地震作用下主要表现为剪切震动。另外，当高径比不火于 10 时,附录 B 的自振周
+期计算公式的结果与有限元结果比较吻合 ,在大多数情况下误差小于 5%,个别算例为 6%一
+8多，故确定本部分适用的设备高径比范围为不大于 10。
+d) 设备简体的材料。标准中未对设备简体的材料提出限制，但由于刚性环对设备产生较大的
+约束，限制了简体的变形，且刚性环与简体连接处可能存在较大的焊接应力，基至产生埋
+接缺陷，因此，采用刚性环支座的设备,原则上宜选用列人了 GBAT 150 ae IB 4732 标准的               1
+TRAE 0 GSD. Wh oA EIS BeBe A ty wR AT FER Se Ha rg ALE, A 12Cr2MolR ,         |
+07NMnNiVDR 等制成的容器，不宜选用刚性环支座。                                           |
+3.2 刚性环支座的结构型式
+为便于设计选型以及制造，本部分规定了刚性环支座的“标准型”结构，对组成刚性环支座的
+各零件之间的连接结构及攀求做了规定，标准中选用表 1一表 4 也是适用于此“标准型”。
+刚性环的顶环和底环采用相同的规格，有利于简化设计，便于制造。对特殊情况，也允许底环        ]
+规格与顶环不同，对此情况，应分别校核顶环和底环的强度。                                 |
+垫板的厚度, 是基于工程中的实际做法和 NB/T 47042一2014《卧式容器》中热板对简体起加强
+作用的有关届求规定的。
+3.3 型号及选用
+将设备按公称直径分A 型(轻型) 、B 型 ( 重型 ) 两个系列，主要是考虑同一直径的设备，册
+于高度、内件、物料的不同，刚性环承受的重量，即设备本体和刚性环的总重量可能相差很大，进
+而刚性环承受的外力素可能也相差很大, 造成所要求的刚性环支座规格也相差较大，若对这些设备
+不加区分地采用局一规格的刚性环支座，势必造成材料浪贮。为兼顾安全性和经济性，表 1 和表 2
+分别确定了A 再(轻型) 、B型(重型) 两个系列的设备直径与刚性环支座人允许承受的最大坚向载
+荷、最大力矩。其中,竖奖载荷包括设备重量、竖向向下的管道力、偏心载荷以及坚向地震作用等。
+对每一系列，又根据刚性环支座材料许用应广的不同，将刚性环支座允许承受的哉帘按大小分为 2
+档。其中，许用应力[ol,为 170MPa、147MPa 的刚性环支座材料，分别对应常温下 Q345 和 Q235，
+许用应力[ol, 为 147MPa 的螺栓材料，对应常温下的 Q235。
+表3 和表 4分别规定了人型(轻型) 、B型(重型 ) 两个系列的刚性环支座的具体结构尺寸，
+表 3 中各型号支座的尺寸是以表 1 中的最大载荷为许用载荷进行强度计算得到的，同样，表4 中各
+型号支座的尺寸是以表 2 中的最大载荷为许用裁荷进行强度计算得到的，计算时控制支座中最大应
+力不超过许用应力的 85%，所以选用央 3、表 4 中的标准型支座，只要其承受的重量和外力矩不超            }
+过表 1, Re 2 的限制，可无需对支座进行强度计算。对地脚螺栓，其所需的直径系根据设备操作利
+安装两种工况计算而得，准确来说，计算结果取决于这两种工况下设备的重县及所受的弯矩，但为
+笠便起见，表 3 和表 4 在计算地脚螺栓时设计人安装工况下设备重最对设备倾覆的抵抗作用,这是
+偏保守的。
+3,4 设计
+3.4.1 设计温度
+支座的设计温度与设备的设计光度、设备是否保温以及保温的具体情况、环境温度等因素密切
+相关，很难简单定义，因此本部分未就支座设计温度如何取值作明确规定，而是交给设计人根据设
+238
+
+--- 第 243 页 ---
+NB/T 47065. 5一2018《容器支座 ”第5部分，刚性环支座》编制说明        |
+A AN SE ELI AE» (CRS PLE BL 4S TE BET AE, BE TSR HE       |
+PERLE RAE TE LT                                                      |
+|           3.4.2 腐蚀裕量                                                                  4
+             本部分对刚性环支座材料纳入了常用的碳素钢利低合金钢，由于石油化工设备、煤化工设备的
+         支麻通常暴露在有腐蚀性的大气环境中，因此，对上述支座材料，本部分规定了腐蚀裕量。
+3.4.3 材料                                                   .
+与适用的设计温度相对应，本部分的表5纳人了常用的碳素钢和低合金钢作为支座材料,包括
+Q235B, Q235C, Q345A, Q345B, Q345C 和 Q345R。除此之外，Q345D 、Q345E 也可在选用之列，
+考虑到工程中现阶段因其可获得性原因，暂未列人,对可采用 Q345D、Q345B 支座,可依据标痊先
+用Q345R。
+除上述材料外，允许采用其他材料制造刚性环支座， 只要该材料是已列人相应材料标准的、焊      人
+接性能优良的钢材，且满足 6.3.1 的规定。
+BS 5 的选材原则是归纳了工程中大量刚性环支座的选材实例，并参考了 GBT 1591一2008“低
+合金高强度结构钢”和 CECA 300: 2011“钢结构钢材选用与检验技术规程”的有关规定，考虑到
+刚性环支座是重要的支撑结构后作出的，本部分确定的刚性环支座选材准则要高于普通结构件。
+3.4.4 许用应力              :
+7 ARE TEBE fil, BRERA ARABSY 6.4.1 中式 (1) ,参考了 GB/T 150.2一2011 中
+表 D.1 AUR B.1 以及 GB/T 1591—2008 确定的，Q235B 和 Q235C 的许用应力未考虑质量系数。
+地脚螺栓的许用拉应力采用了工程中的常规取值, 并与 NB/T 47041一2014《墙式容器》、NBAT
+47042一2014《甲式容器》等保持一致。
+3.5 制造技术要求
+刚性环与设备简体(或垫板 ) 间的焊锋、筋扳与设备简体 〈 或垫板 ) 之间的角焊缝是重要的承
+BUNGE, MESA SPR LEMMA, FEDER MTR, MUI SUS RTA (或垫板) 之
+TALIS PSE, PARSE BEA A OY a A, ARN PEAR, BESTE Nim CL Be
+出无损检测，如角焊颖进行磁粉检测，对接焊接接头进行射线或超声检测。
+若设备在操作时热了脱卫量较大，刚性环支座的项环和底环也会产生热膨心，底板相应地会沿径
+向向外位移，便得地脚螺栓与底板之问产生前应力，为保护地脚螺栓,底板上的地脚是栓孔应改为
+长负沿径向的长贺孔，长轴的长度应根据热启胀量计算靖定，此要求应在设计文件中明确提出。
+3.6 刚性环支座承受的载荷计算
+刚性环支座承受的载荷包括外力和外力矩。
+外力主要包括设备重悬、设备所受的水平风力、水平地震作用、竖向地震作用、偏心载荷、管
+道力等，由于向上的管道力起到缓解支座受力的作用，故本部分规定向上的管道力不计,这是偏保
+和守的。                     .                                                     :
+Sb AIRE ESE AD AB AE AD PARP MOF PE FS | HS I, Ay SAN EL 8 YR,
+设备所受的水平风力的计算参照了 NB/T 47041 计算水平风力的公式，认为风力作用在设备的         :
+质心。                                                                           |
+考虑到风载荷是一种常态载荷，而地震作用是一种短期豚态裁茶，且这两种载荷的最大值同时       i
+发生的概率极低, RR BLT ARE TI Py, A 0.25 Fy ZIAD BEAL, 该原则与 NBAT 4704 |
+PUA LAER ARB
+239        |
+
+--- 第 244 页 ---
+|
+]
+|                                                                                                             ;
+|
+|                                                                                                             4
+       NB/T 47065. 5一2018《容器支座 ”第 5 部分，刚性环支座》编制说明
+:          设计竖向力只计人竖向向下的力，其作用效果与设备重力相似，使刚性环支座受压，构成支座          q
+EARS BET RE LA ROR, SORE AU ETE ae 9 hid ts aR TP         q
+的管道力等，对安装在设计基本地震加速度为 0.20g一0.40g (或抗起设防烈度为 8 度或9度) 地区
+的高符设备，如高庆 Ho AT 20m 的容器，还应考虑坚向地震作用。
+3.7 容器地震作用的计算
+安装在框架上的立式设备的地震作用计算，是工程中的一个难题，求其理论解非常复杂。计算         |
+刚性环支座支撑的设备的地震作用 ,关键是计算设备的自振周期, 从而进一步确定地震影响共数W 。
+为确定自振周期的计算式，本部分针对不同直径、不同高径比以及刚性环支座不同安装位置的立式
+设备,采用有限元软件进行了大量的模态计算，分别得出其自振频率，再以固定在地面的高符立式
+设备为对象，根据结构动力学多质点体系的微分方程，按加支边界条件得出其一阶解，结合安装在
+框架上的设备的特点，对一阶解作出相应调整后得到理论解,然后以该理论解为基础,依据有良元模
+拟结果采用形状系数和位置系数对其进行修正，最终得到了刚性环支座设备的自振频率和自振周期                    i
+的修正计算公式。对比研究发现, 对安装在框架上且计算高度 ho SE DSA 12 的立式设备，                |
+RRBLCM-S ALOMAR, EDEMA T 12 后，误差逐步增加直至工程上不可接受，
+因此需要对理论解进行适当修正，经过修正后，对高径比小于 12 的大多数情况其误差小于 5%，个
+别算例为 6%一8%。因此, 式 ( B.2 ) 的适用范围可确定为计算高度 如 与直径 六之比不大于 12 的立
+式容器，标准中到不超过 10。式 ( B.2 ) 中，K 为形状系数，代表设备高径比对设备频率的影响，           有
+Ky 为支座位置系数，对应刚性环支座安装位置对频率的影响。                                |
+根据采用有限元软件所做的模态计算，当高径比不超过 11.6 时, 设备在地震作用下主要表现为             q
+STH. LMA MEAT KF a eR ARB J RR AR, BI GBT         q
+5S0761，其中地震动影响系数最大值 ws SSUES GB/T 50761 — Be, WBS (HLL              E
+RUD RRA Me) AN ARAL, FP HE ABR, 0.450                           j
+对竖向地做作用，人参照 GBIT 50761，取竖向地震影响系数最大值等于 0.65 倍水平地震影响系
+数最大值，设备的竖向等效质量等于设备总质量的 75%，则有:                                        ;
+及= Regal                                                                     |
+= Ry(0.650pq, X0.75g) 8                                             |
+OAD Ogee Mg                                                   ;
+fil
+四
+240

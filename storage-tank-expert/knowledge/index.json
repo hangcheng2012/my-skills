@@ -1,0 +1,84 @@
+{
+  "documents": {
+    "API STD 620-2013大型焊接低压储罐的设计与建造（中文版）.txt": {
+      "file": "API STD 620-2013大型焊接低压储罐的设计与建造（中文版）.txt",
+      "size": 639450,
+      "lines": 28759,
+      "chars": 383696,
+      "encoding": "utf-8"
+    },
+    "API-Std-650-13th2020.03-钢制焊接石油储罐En.txt": {
+      "file": "API-Std-650-13th2020.03-钢制焊接石油储罐En.txt",
+      "size": 1768190,
+      "lines": 29842,
+      "chars": 1756786,
+      "encoding": "utf-8"
+    },
+    "API650-2020焊接石油储罐（中英文对照）.txt": {
+      "file": "API650-2020焊接石油储罐（中英文对照）.txt",
+      "size": 1283543,
+      "lines": 44055,
+      "chars": 1055282,
+      "encoding": "utf-8"
+    },
+    "AQ 3063-2025 化工企业可燃液体常压储罐区安全管理规范.txt": {
+      "file": "AQ 3063-2025 化工企业可燃液体常压储罐区安全管理规范.txt",
+      "size": 37457,
+      "lines": 2121,
+      "chars": 21401,
+      "encoding": "utf-8"
+    },
+    "GB 50341-20XX 征求意见稿.txt": {
+      "file": "GB 50341-20XX 征求意见稿.txt",
+      "size": 302938,
+      "lines": 4671,
+      "chars": 121420,
+      "encoding": "utf-8"
+    },
+    "GBT 50341-2014立式圆筒形钢制焊接油罐设计规范及条文说明.txt": {
+      "file": "GBT 50341-2014立式圆筒形钢制焊接油罐设计规范及条文说明.txt",
+      "size": 473130,
+      "lines": 10240,
+      "chars": 334321,
+      "encoding": "utf-8"
+    },
+    "QSH 0774-2021 极度和高度介质储运设施技术标准.txt": {
+      "file": "QSH 0774-2021 极度和高度介质储运设施技术标准.txt",
+      "size": 34705,
+      "lines": 524,
+      "chars": 16716,
+      "encoding": "utf-8"
+    },
+    "SHT 3046-2024 石油化工立式圆筒形钢制焊接储罐设计规范.txt": {
+      "file": "SHT 3046-2024 石油化工立式圆筒形钢制焊接储罐设计规范.txt",
+      "size": 293920,
+      "lines": 6751,
+      "chars": 139136,
+      "encoding": "utf-8"
+    },
+    "SHT 3167-2012钢制焊接低压储罐.txt": {
+      "file": "SHT 3167-2012钢制焊接低压储罐.txt",
+      "size": 112848,
+      "lines": 2304,
+      "chars": 76940,
+      "encoding": "utf-8"
+    },
+    "SYT 0608-2014大型焊接低压储罐的设计与建造.txt": {
+      "file": "SYT 0608-2014大型焊接低压储罐的设计与建造.txt",
+      "size": 467850,
+      "lines": 13394,
+      "chars": 272941,
+      "encoding": "utf-8"
+    },
+    "tank-bottom-plate-strip-foundation-formula-4-1.txt": {
+      "file": "tank-bottom-plate-strip-foundation-formula-4-1.txt",
+      "size": 964,
+      "lines": 28,
+      "chars": 446,
+      "encoding": "utf-8"
+    }
+  },
+  "last_updated": "2026-06-30T09:13:00",
+  "schema_version": "2.0",
+  "notes": "拆分自原 pressure-vessel-expert/knowledge/index.json。储罐标准库（常压+低压）。"
+}

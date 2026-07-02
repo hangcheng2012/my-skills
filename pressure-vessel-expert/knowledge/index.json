@@ -1,0 +1,266 @@
+{
+  "documents": {
+    "API STD 620-2013大型焊接低压储罐的设计与建造（中文版）.txt": {
+      "file": "API STD 620-2013大型焊接低压储罐的设计与建造（中文版）.txt",
+      "size": 639450,
+      "lines": 28759,
+      "chars": 383696,
+      "encoding": "utf-8"
+    },
+    "API-Std-650-13th2020.03-钢制焊接石油储罐En.txt": {
+      "file": "API-Std-650-13th2020.03-钢制焊接石油储罐En.txt",
+      "size": 1768190,
+      "lines": 29842,
+      "chars": 1756786,
+      "encoding": "utf-8"
+    },
+    "API650-2020焊接石油储罐（中英文对照）.txt": {
+      "file": "API650-2020焊接石油储罐（中英文对照）.txt",
+      "size": 1283543,
+      "lines": 44055,
+      "chars": 1055282,
+      "encoding": "utf-8"
+    },
+    "AQ 3063-2025 化工企业可燃液体常压储罐区安全管理规范.txt": {
+      "file": "AQ 3063-2025 化工企业可燃液体常压储罐区安全管理规范.txt",
+      "size": 37457,
+      "lines": 2121,
+      "chars": 21401,
+      "encoding": "utf-8"
+    },
+    "ASME BPVC 2025 Ⅱ.A.铁基材料(to SA-450)(2).txt": {
+      "file": "ASME BPVC 2025 Ⅱ.A.铁基材料(to SA-450)(2).txt",
+      "size": 4584743,
+      "lines": 48022,
+      "chars": 4554456,
+      "encoding": "utf-8"
+    },
+    "ASME BPVC 2025 Ⅷ.2压力容器建造另一规则(8).txt": {
+      "file": "ASME BPVC 2025 Ⅷ.2压力容器建造另一规则(8).txt",
+      "size": 3365521,
+      "lines": 53338,
+      "chars": 3343475,
+      "encoding": "utf-8"
+    },
+    "ASME BPVC 2025 Ⅷ.3高压容器建造规则(8).txt": {
+      "file": "ASME BPVC 2025 Ⅷ.3高压容器建造规则(8).txt",
+      "size": 1851745,
+      "lines": 21996,
+      "chars": 1836769,
+      "encoding": "utf-8"
+    },
+    "ASME Ⅷ.1-2025  压力容器建造规则（英，有书签）.txt": {
+      "file": "ASME Ⅷ.1-2025  压力容器建造规则（英，有书签）.txt",
+      "size": 3504590,
+      "lines": 43864,
+      "chars": 3492213,
+      "encoding": "utf-8"
+    },
+    "GB 50341-20XX 征求意见稿.txt": {
+      "file": "GB 50341-20XX 征求意见稿.txt",
+      "size": 302938,
+      "lines": 4671,
+      "chars": 121420,
+      "encoding": "utf-8"
+    },
+    "GB150-2024勘误.txt": {
+      "file": "GB150-2024勘误.txt",
+      "size": 16683,
+      "lines": 246,
+      "chars": 11982,
+      "encoding": "utf-8"
+    },
+    "GBT 150.1~4-2024压力容器.txt": {
+      "file": "GBT 150.1~4-2024压力容器.txt",
+      "size": 901899,
+      "lines": 24845,
+      "chars": 604054,
+      "encoding": "utf-8"
+    },
+    "GBT 151-2026 热交换器.txt": {
+      "file": "GBT 151-2026 热交换器.txt",
+      "size": 587395,
+      "lines": 18106,
+      "chars": 404570,
+      "encoding": "utf-8"
+    },
+    "GBT 4732.1~6-2024压力容器分析设计.txt": {
+      "file": "GBT 4732.1~6-2024压力容器分析设计.txt",
+      "size": 1177499,
+      "lines": 34187,
+      "chars": 1113158,
+      "encoding": "utf-8"
+    },
+    "GBT 50341-2014立式圆筒形钢制焊接油罐设计规范及条文说明.txt": {
+      "file": "GBT 50341-2014立式圆筒形钢制焊接油罐设计规范及条文说明.txt",
+      "size": 473130,
+      "lines": 10240,
+      "chars": 334321,
+      "encoding": "utf-8"
+    },
+    "HGT 20580-2020 钢制化工容器设计基础规范.txt": {
+      "file": "HGT 20580-2020 钢制化工容器设计基础规范.txt",
+      "size": 105494,
+      "lines": 2419,
+      "chars": 62412,
+      "encoding": "utf-8"
+    },
+    "HGT 20581-2020 钢制化工容器材料选用规范.txt": {
+      "file": "HGT 20581-2020 钢制化工容器材料选用规范.txt",
+      "size": 238915,
+      "lines": 4562,
+      "chars": 158073,
+      "encoding": "utf-8"
+    },
+    "HGT 20582-2020 钢制化工容器强度计算规范.txt": {
+      "file": "HGT 20582-2020 钢制化工容器强度计算规范.txt",
+      "size": 1134270,
+      "lines": 23854,
+      "chars": 977898,
+      "encoding": "utf-8"
+    },
+    "HGT 20583-2020 钢制化工容器结构设计规范.txt": {
+      "file": "HGT 20583-2020 钢制化工容器结构设计规范.txt",
+      "size": 337292,
+      "lines": 7184,
+      "chars": 247072,
+      "encoding": "utf-8"
+    },
+    "HGT 20584-2020 钢制化工容器制造技术规范.txt": {
+      "file": "HGT 20584-2020 钢制化工容器制造技术规范.txt",
+      "size": 256698,
+      "lines": 5756,
+      "chars": 149761,
+      "encoding": "utf-8"
+    },
+    "HGT 20585-2020 钢制低温压力容器技术规范.txt": {
+      "file": "HGT 20585-2020 钢制低温压力容器技术规范.txt",
+      "size": 98991,
+      "lines": 2123,
+      "chars": 55069,
+      "encoding": "utf-8"
+    },
+    "HGT 20678-2023化工设备衬里钢壳设计标准.txt": {
+      "file": "HGT 20678-2023化工设备衬里钢壳设计标准.txt",
+      "size": 77751,
+      "lines": 2021,
+      "chars": 48515,
+      "encoding": "utf-8"
+    },
+    "NBT 47041 塔式容器释义和算例.txt": {
+      "file": "NBT 47041 塔式容器释义和算例.txt",
+      "size": 258639,
+      "lines": 19886,
+      "chars": 172002,
+      "encoding": "utf-8"
+    },
+    "NBT 47041-2014塔式容器.txt": {
+      "file": "NBT 47041-2014塔式容器.txt",
+      "size": 88315,
+      "lines": 6773,
+      "chars": 53751,
+      "encoding": "utf-8"
+    },
+    "NBT 47042 卧式容器释义和算例.txt": {
+      "file": "NBT 47042 卧式容器释义和算例.txt",
+      "size": 122655,
+      "lines": 11074,
+      "chars": 77093,
+      "encoding": "utf-8"
+    },
+    "NBT 47042-2014卧式容器.txt": {
+      "file": "NBT 47042-2014卧式容器.txt",
+      "size": 128158,
+      "lines": 2395,
+      "chars": 92169,
+      "encoding": "utf-8"
+    },
+    "NBT 47065-2018 容器支座.txt": {
+      "file": "NBT 47065-2018 容器支座.txt",
+      "size": 205162,
+      "lines": 6620,
+      "chars": 151334,
+      "encoding": "utf-8"
+    },
+    "QSH 0774-2021 极度和高度介质储运设施技术标准.txt": {
+      "file": "QSH 0774-2021 极度和高度介质储运设施技术标准.txt",
+      "size": 34705,
+      "lines": 524,
+      "chars": 16716,
+      "encoding": "utf-8"
+    },
+    "SHT 3046-2024 石油化工立式圆筒形钢制焊接储罐设计规范.txt": {
+      "file": "SHT 3046-2024 石油化工立式圆筒形钢制焊接储罐设计规范.txt",
+      "size": 293920,
+      "lines": 6751,
+      "chars": 139136,
+      "encoding": "utf-8"
+    },
+    "SHT 3074-2018石油化工钢制压力容器.txt": {
+      "file": "SHT 3074-2018石油化工钢制压力容器.txt",
+      "size": 101727,
+      "lines": 2839,
+      "chars": 53182,
+      "encoding": "utf-8"
+    },
+    "SHT 3075-2024 石油化工钢制压力容器材料选用规范.txt": {
+      "file": "SHT 3075-2024 石油化工钢制压力容器材料选用规范.txt",
+      "size": 212643,
+      "lines": 2973,
+      "chars": 147236,
+      "encoding": "utf-8"
+    },
+    "SHT 3098-2025 石油化工塔器设计规范（书签版）.txt": {
+      "file": "SHT 3098-2025 石油化工塔器设计规范（书签版）.txt",
+      "size": 4256,
+      "lines": 40,
+      "chars": 1898,
+      "encoding": "utf-8"
+    },
+    "SHT 3167-2012钢制焊接低压储罐.txt": {
+      "file": "SHT 3167-2012钢制焊接低压储罐.txt",
+      "size": 112848,
+      "lines": 2304,
+      "chars": 76940,
+      "encoding": "utf-8"
+    },
+    "SYT 0608-2014大型焊接低压储罐的设计与建造.txt": {
+      "file": "SYT 0608-2014大型焊接低压储罐的设计与建造.txt",
+      "size": 467850,
+      "lines": 13394,
+      "chars": 272941,
+      "encoding": "utf-8"
+    },
+    "TEMA 11th 2023.txt": {
+      "file": "TEMA 11th 2023.txt",
+      "size": 1719674,
+      "lines": 21922,
+      "chars": 1717581,
+      "encoding": "utf-8"
+    },
+    "tank-bottom-plate-strip-foundation-formula-4-1.txt": {
+      "file": "tank-bottom-plate-strip-foundation-formula-4-1.txt",
+      "size": 964,
+      "lines": 28,
+      "chars": 446,
+      "encoding": "utf-8"
+    },
+    "压力容器设计工程师培训教程-基础知识零部件.txt": {
+      "file": "压力容器设计工程师培训教程-基础知识零部件.txt",
+      "size": 932856,
+      "lines": 14927,
+      "chars": 502541,
+      "encoding": "utf-8"
+    },
+    "压力容器设计工程师培训教程-容器建造技术.txt": {
+      "file": "压力容器设计工程师培训教程-容器建造技术.txt",
+      "size": 1351049,
+      "lines": 19159,
+      "chars": 724430,
+      "encoding": "utf-8"
+    }
+  },
+  "last_updated": "2026-07-01",
+  "schema_version": "2.0",
+  "notes": "Auto-generated by rename-and-backup script (2026-06-03). UTF-8 only."
+}

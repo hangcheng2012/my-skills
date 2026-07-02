@@ -1,0 +1,6751 @@
+SS
+
+中华人民共和国石狂人化工行站标?#储
+
+SH/T 3046—2024
+代替 SH 3046—92
+
+石油化工立式圆简形钢制
+焊接储罐设计规范
+
+steel welded storage tanks in petrochemical industry
+
+2024-03-29 发布                                                                  2024-10-01 实施
+
+rte A BSE AU ES ML AUS Ah 发布
+
+SH/T 3046一2024
+
+范围.
+规范性引用文件-
+
+arwn — a
+
+8.3 自支撑式锥项.…
+8.4 柱支撑式锥顶…
+8.5 自支撑式拱项…
+
+9 外浮项.se                               .36
+9.1 一般规定.……                          .36
+9.2 FAA                                         .37
+9.3 FARE...                                         .38
+
+9.4 浮项排水系统..。
+9.5 浮项紧急排水装置
+9.6 转动扶梯及轨道…
+
+9.7 自动通气阀 .……                           .39
+9.8 导向及限位装置 …….                            .39
+9.9 边缘密封及静电导出装置 .                          .40
+9.10 浮顶人孔 ee                                  .40
+9.11 浮舱入孔…                                     .41
+9. 12 “刊蜡装置 ccc ccccecccssnescessnsscesnnsscesnsssecssuscessnnsesssnsscessnusesssnusesssuseesssnsecessnecessnneesesnnesssnuseeesnees 41
+
+SH/T 3046一2024
+
+人
+
+11. 14
+
+储缸抗风倾倒稳定计算及锚固设计
+
+12.1
+12.2
+
+13.8
+
+Lo
+
+14.1
+14.2
+14.3
+14.4
+14.5
+14.6
+14.7
+
+泡沫挡板                                                                        .41
+
+一般规定…
+单盘式和双盘式内浮项.。
+
+wi.
+
+量油取样设施，
+ADP RE...
+
+齐平型清扫孔.
+固定项人和孔.….
+固定顶开孔接管.
+固定式放水管.
+
+防雷、防静电接地及其它..
+抗风倾倒稳定计算 ………
+
+预制件出厂要求，
+MER...
+
+钢制焊接浮项组装 ..
+装配式内浮顶安装 ..
+
+附
+
+本标准用词说明
+
+SH/T 3046一2024
+
+16.2 ，焊颖无损检测
+16. 3 ，储负几何形状和尺寸，
+
+.3 HARSME NERA
+A4 最大允许内压和试验步骤.
+AS 承压环所需最小截面面积.
+A.6 储缸顶板设计 ………….
+A.7 计算破坏压力.……………
+A.8 设计压力不大于 18kpP
+
+III
+
+SH/T 3046一2024
+
+Contents
+
+Foreword …”
+
+Scope «+
+
+Normative references                                                                   sean
+Terms and definitions 着3
+General…
+
+ao. wre
+
+Material…
+General TequirementS st settee eee eee eee eee Aenean dee eee cae neaauecesausueceescesausssecescesuessescasensuss®
+
+ie
+
+Steel plates***+
+Steel Pipes
+
+Forging…”
+Nuts and bolts": see eeeeeee
+
+Structure steel …
+
+ayo 8 fp WwW
+
+Welding materials… +++ +++
+,8 Othe rserr ces cesses cee cee cee cee cnn cee nee ees cne cee ceeceenee aes eee se ceecesaeeaeecesceesensescescessesee sees 16
+6 Bottom design
+
+6.1 Size of bottom plates:
+
+6. 2   Bottom Structure eeeoe ee ee ee ve
+7 Shell Design
+7.1 Shell plate’s arrangement and connection:
+7.2 Top angle
+7.3 Shell thickness+++++++++++++*
+7.4 Top wind girder:
+7.5 Intermediate Wind Girders…
+8  Fixed RoofsPreeeOeCEOCORTOOtOeTCOrrerr err errerrerrer terre ret rerr etre terre erie t etree rr etre ree erie ii
+8.1 General requirements
+
+8.2 Allowable Stresses of structural components…
+8.3  Self-supporting cone roofsess++sereeseereeeeeeceeses eee eee cee seeceecesenenseceeceessaesseeceesesensees cesses see33
+8.4 Supported cone roofsss++++ +++ ++
+8.5  Self-supporting dome roofs
+9 External Floating Roof
+9.1 General requirements see eee see eee
+
+9.2 Structure and connection of floating roof:
+9.3 Floating roof Supports eee tee see eee ee eects ene eee
+
+9.4 Primary floating roof drains settee setts cee teeeeeteeceeeneeeseaeceeteeceteeeeeeaseetees
+9.5 Emergency roof drains
+9.6 Rolling ladder and track
+9. 7   Automatic bleeder VENES ter eerste cee eee eee ceeeeecerceecerceeaeeceeceecessescrs cesses ces 9
+
+IV
+
+9.8 Centering and Anti-rotation Devices
+9.9 Peripheral seals and static extracting devices
+
+9.
+9
+9.
+9
+10
+10
+
+10.
+10.
+10.
+10.
+10.
+10.
+10.
+10.
+
+10
+
+10.
+Tank Appurtenances:+:++++++ sere eerseeee
+11.
+ll.
+ll.
+11.
+11.
+11.
+11.
+11.
+11.
+Il.
+11.
+11.
+11.
+11.
+12 Stable Calculation and Anchorage Design
+
+11
+
+12
+
+12.2   Anchorage designss+ sss eee
+13 ”PrefabricationS ttt tte tte eee tee tes tee tee eee cesses eee eee tee ceeaeseeeee eee teeesenseaeceeneeee ones
+
+13
+13
+13
+13
+
+10
+
+. 11
+
+12
+
+.13
+
+SH/T 3046一2024
+
++0939
+40
+40
+sel]
+Wax scrapers**                                                                      “41
+Foam Dams te eeeeee cee ceecesceesescesssesessacsessecsssssccsssessssassscscssssssssssscsscssacssssssssesscsceed |
+
+Floating roof manholes s*++++++1+++seseeee8 e889
+Compartment manholes:
+
+Internal Floating Roof人Se
+
+.1
+2
+
+CADM Sw
+
+9
+. 10
+ll
+
+1
+
+cCmWmnnn & wh
+
+ee ee
+co一品
+
+14
+
+ol
+
+.1
+.2
+.3
+.4
+
+“…41
+43
+Assemble internal floating TOg人4
+46
+Automatic bleeder vents                                                               47
+Tank Vents srr rtrcrscsecsececceeceeceeceeees eee ee eee eee eee eee eee eee eeeaee eee eeeees 4
+48
+48
+49
+49
+
+:49
+49
+General reguirements nn49
+249
+50
+Shell nozzlesetss++s+ssee see see cesses ceecsecee cesses cesssecee cesses seecss census ces sesseecnscsesessen css sesses eas 53
+57
+“61
++962
++64
+65
+Spiral stairway, platforms and handrails…                                                        67
+Scaffold cable Support 6
+Side Entry Mixers…      pe eens                                                        68
+Tank heatings                                                                       68
+Protection against lightning .  Static and otherS ee68
+69
+“69
+70
+73
+‘73
+General TEQUIFEMENtS*** setter eee eee eee tes tee tte ete tee eects cee eee eee                                  see 73
+Shell Plates Prefabrications SS
+
+General requirements ++ ***+++ ter ses seers eee tee eee eee ee
+
+Single-deck and double-deck internal floating roofs…”
+
+Peripheral seals**++*++++++ +++
+
+Centering and Anti-rotation Devices…”
+Manholes and inspection hatches
+Sample  Hatches……” wweseoseosses sos
+
+Inlet Diffuser…
+
+Foam Dams…
+
+Shell openings and reinforcements…………
+
+Shell manholes pp
+
+Flush-type Cleanout fittings++++t++++trrsetereseeeee ees
+
+Fixed Roof manholes
+Fixed Roof nozzles ……
+
+Drain elbowSs
+Water drawoff sumps
+
+Wind stable calculation………
+
+Meterial acceptance…
+
+Bottom Plates Prefabrications::++*:ssttts ttt ste ete see cee eee cee eee cee eeeeeeseeeeeceseee ses saeseceeesesseeaeeeen TS
+
+Vv
+
+SH/T 3046一2024
+
+13.
+13.
+13.
+13.
+
+14 Assembly
+
+14.
+14.
+14.
+14.
+14.
+14.
+14.
+14.
+
+15 Weldin旬和
+
+15.
+15.
+
+15. :
+
+15.
+
+15. £
+
+15.
+
+5
+6
+7
+8
+
+1
+2
+
+Now fw
+
+8
+
+1
+2
+
+3
+4
+5
+
+6
+
+Steel welded Floating Roofs Prefabrications
+
+Fixed Roofs Prefabrications
+Other Parts Prefabrications ***++*+++*
+
+Delivery From Shop…
+
+General requirements ……
+Foundation Inspection and Acceptances ststtttsereteessesteceeceecesseeceesesseecssseseusesecescesces eee TQ
+
+Bottom Plates Assembly pp
+Shell Plates Assembly
+Steel welded Floating Roofs Assemblystrtrsstrstrctecercsesse see cee ses see see ses cee ceeceeceeceeces cee eee see R()
+
+Assemble Internal floating roof…
+Fixed Roofs Assembly
+
+Appurtenances  PreeeERCERIRTOOTORTOSOOOSOSTOSOOeTOOTOOTOOSOOTOSSOSSOOOOSTOCTOCTOOTOOTOOCTIOCSOSSOCTCTOSTIOTOOT OC.
+
+General requirements …
+
+Welding Procedure Qualification and specification*+
+
+Welding Meterials Managements …
+
+Welding Construction:
+Welding Sequences: *s*st++re+r*
+Repair and RewWorK :ee
+
+16 Inspections and TeSstS ee ee ee
+
+16.
+
+1
+
+Welding Seams appearance ST 101 0) | See
+
+16.2 Welding Seams NDT tests-+++s+++++++ esses see 86
+
+16.3 Geometry and dimension inspection **+**+***
+16.4 Hydrostalic test…”
+AnnexA (Normative) Design of Tank for Small Internal Pressures
+
+A.l
+A.2
+A3
+A4
+A.5
+A.6
+A.7
+A.8
+
+Annex B (Normative) Requirements for Tank Foundations:
+
+B.1
+
+B.2 Geometry and dimension requirements
+B.3 Foundation Settlement requirements
+Annex C (Normative) Requirements for Tanks Operating at Elevated Temperatures
+
+C.1
+
+General requirements****
+Design Considerations……
+
+Section of Roof-to-Shell Junction
+Maximum Design Pressure and Test ProcedureA Re Rene ee eee een ne eee eee eee eee eee eee eee see ese ees eee see erases eee
+Required Compression Area at the Roof-to-Shell Junction:
+Design of Roof Plates esters ae cee eee cee eeeene
+Calculated Failure Pressuresss +++ +++ +++ essere seers ceeseeces cence ene ces cee eee cesses seston aes ceeceecee cesses eee
+Anchored Tanks with Design Pressures up to 18 kPa…”
+
+General requirements eee seeee
+
+COPS $25,895 ers ser kes secs one rez readen ees states tasers sseseeseneeceeqreces ena pencesscescsenecsspreneccsersssesavoces
+
+C.2 Additional requirements:+:+*+++++++ esses see see 入 cee cess ees ceecee cerns ens cuecee see aee ens sen ceeees
+
+VI
+
+SH/T 3046一2024
+
+Annex D (Normative) Spherical Dome Roof With Rib reinforcement
+D.1 General requirements****
+D.2 Allowable External Loads
+D3   Connection requirements   Prrerrerrerrerrerierrerrerrerieriery
+
+Annex E (Normative) Austenitic Stainless Steel Storage Tank:
+E.1  Scopesssssssstsstsstesseeteeeeeeetsesee eee eeneeeeeeseeenseneeneene
+BE.2 Meterials+r+s++ss+sescescsscrsces soe esessscescceccoeecses senses ses cescsscse senses see ees sue ces cee cesses see oseoes cos
+E.3 Design ee
+E.4 Fabrication and Construction pp
+Annex F (Informative) Summary of meteorological station and datacss++++++ssr srr tte steers see eee eee cee ceeees 104
+Explanation of wording in this Specifications: :++s++s++ +s seeseeceecee see eee eee ees ees cesses csecee cee ens ees ce cesses 16
+
+Vil
+
+SH/T 3046一2024
+
+Dil
+
+前
+
+根据中华人民共和国工业和信息化部《2014 年第四批行业标准制修订计划》(工信和厅科[2014]236
+号) 的要求，标准编制组经广泛调查研究，认真总结实践经验，参考有关国内标准和国外先进标准，并
+在广泛征求意见的基础上，对本标准 1992 年版进行修订。
+本标准共分 16 章和 6 个附录。
+本标准的主要技术内容是: ZEAE. POR}. GER. GRRE TET, PE. AE. BARS
+定计算及锚固设计、预制、组装、焊接、检验与试验。
+本标准修订的主要技术内容是:
+-新增了第 12 章 储饶抗风稳定计算及锚固设计、附录E 奥氏体不锈钢储饶, 取消了原第十一章 操
+作说明，将原第十章 预制组焊及检验拆分为四章，分别为第 13 章 预制、第 14 章 组装、第15 章 焊
+接、第 16 章 检验与试验 ;
+-调整了储饶设计压力范围，将固定顶储饶设计正压提高到 18kPa;
+=-材料牌号按照新标准进行修订，并修订了材料许用应力取值，取消了 Q235-A.F、Q235-A，新增了
+Q235B、Q235C、12MnNiVR 等材料，将不锈钢材料储饶放在了附录 E;
+-修订了对铅体材料及焊接接头的冲击韧性要求，
+=-修订了负壁厚度计算公式中的焊接接头系数取值;
+-新增了固定项储缸缸项与缸壁采用弱连接结构时应满足的条件要求、顶板厚度及有效截面面积的
+计算公式，新增了单层球面网壳的相关规定;
+-修订了内浮项的相关要求，新增了浮箱式、蜂巢式、整体加强模块式不锈钢双盘、玻璃钢等新型
+结构装配式内浮项的要求;
+-修订了接管补强圈的规格尺寸、法兰连接缸壁开和孔接管细部结构等;
+=-修订并补充了预制、组装、焊接和检验与验收的相关规定;
+-修订并补充了储缸对基础和地基的基本要求和储饶基础基本尺寸要求。
+请注意本标准的某些内容可能直接或间接涉及专利。本标准的发布和管理机构不承担识别这些专利
+的责任。
+本标准由中国石油化工集团有限公司负责管理, 由中国石油化工集团公司设备设计技术中心站负责
+日常管理，由中国石化工程建设有限公司负责具体技术内容的解释。 执行过程中如有意见和建议，请寄
+送日常管理单位和主编单位。
+本标准日常管理单位: 中国石油化工集团公司设备设计技术中心站
+通讯地址: 北京市朝阳区安慧北里安园 21 号
+邮政编码: 100101
+电话: 010-84877513
+邮   箱: zengxj. sei@sinopec. com
+
+本标准主编单位: 中国石化工程建设有限公司
+通讯地址: 北京市朝阳区安慧北里安园 21 号
+邮政编码: 100101
+
+本标准参编单位: 中国石化第十建设有限公司
+
+山东三维石化工程股份有限公司
+
+
+SH/T 3046一2024
+
+本标准主要起草人员: EE oz 段瑞 李晓琳”翁大龙 唐元生”何智灵 EAR
+HOE OLA TR 任宁飞 张焕新”商家骏 张胜男
+
+本标准主要审查人员: 李宏斌 WR RRR 曾小军 赵勇 韩钧 RO BREE
+ThE RMR RAT RH EE 韦振光 许宁 SHES
+江明 王斌 葛阳 人牟林 何剑华 马燕 武旭东 刘伟 武文广
+TAS BT
+
+本标准 1992 年首次发布，本次为第 1 次修订。
+
+SH/T 3046一2024
+
+石油化工立式圆简形钢制焊接储镀设计规范
+
+1 范围
+
+本标准规定了石油化工立式圆简形钢制焊接储饶的设计要求。
+
+本标准适用于储存石油、石化产品及其它类似液体的常压和接近常压的固定项、外浮项和内浮顶
+储链缸体及本标准所规定附件的设计，不适用于埋地、储存毒性程度为极度危害或高度危害液体介质
+和人工致冷液体储饶的设计。
+
+2 规范性引用文件
+
+下列文件对于本标准的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本标
+准。凡是不注日期的引用文件，其最新版本〈包括所有的修改单) 适用于本标准。
+
+GB/T 699 ”优质碳素结构钢
+
+GBMT 700 = 碳素结构钢
+
+GBMT713 ， 承压设备用钢板和钢带
+
+GBMT985.1 ，气焊、焊条电弧焊、气体保护焊和高能柬焊的推荐坡口
+
+GB/T 985.2 ”埋弧焊的推荐坡口
+
+GBMT 1591 ，”低合金高强度结构钢
+
+GB/T 2518 “连续热镀锌和锌合金镀层钢板及钢带
+
+GBMT3077 “合金结构钢
+
+GBMT3091 ”低压流体输送用焊接钢管
+
+GBMT3190 ”变形铝及铝合金化学成分
+
+GB/T 3274 。” 碳素结构钢和低合金结构钢热轧钢板和钢带
+
+GB/T 3280 不锈钢冷轧钢板和钢带
+
+GBMT3531 ”低温压力容器用钢板
+
+GBMT3880 ”一般工业用铝及铝合金板、带材
+
+GB/T 4237 ”不锈钢热轧钢板和钢带
+
+GB/T 4437.1 铝及铝合金热挤压管第 1 部分: ACHE
+
+GB/T 6479 高压化肥设备用无颖钢管
+
+GB/T 6892 ”一般工业用铝及铝合金挤压型材
+
+GB/T 6893 ”铝及铝合金拉〈轧) 制无终管
+
+GB/T 8163 ”输送流体用无缝钢管
+
+GB/T 8237 “纤维增强塑料用液体聚酯不饱和树脂
+
+GB/T 9944 “不锈钢丝绳
+
+GB/T 9948 ”石油裂化用无缝钢管
+
+GB/T 10802 ”通用软质聚氨酯泡沫塑料
+
+GB/T 13657 双酚 A 型环氧树脂
+
+GB/T 13793 FLA HARA
+
+GB/T 14976 流体输送用不锈钢无颖钢管
+
+GB/T 17470 ”玻璃纤维短切原丝秸和连续原丝秸
+
+
+SH/T 3046一2024
+
+GB/T 18370 ”玻璃纤维无抢粗纱布
+
+GB/T 19189 压力容器用调质高强度钢板
+
+GB/T 24511 承压设备用不锈钢和耐热钢钢板和钢带
+
+GB/T 25040 ”玻璃纤维颖编织物
+
+GBMT 26752 RPL HAR RAE AE
+
+GB/T 30021 经编碳纤维增强材料
+
+GB/T 30583 ”承压设备焊后热处理规程
+
+GB 50009-2012 ”建筑结构荷载规范
+
+GB 50017 钢结构设计规范
+
+GB 50128-2014 ”立式圆简形钢制焊接储饶施工规范
+
+GB 50341-2014 ”立式圆简形钢制焊接油饶设计规范
+
+GB/T 50393 ”钢质石油储饶防腐蚀工程技术标准
+
+GB/T 50590 ”乙烯基酯树脂防腐蚀工程技术规范
+
+GB/T 5$0761 石油化工钢制设备抗震设计标准
+
+GB 51160 ”纤维增强塑料设备和管道工程技术规范
+
+NBMT 11025 ”补强圈
+
+NB/T 47008 承压设备用碳素钢和合金钢锻件
+
+NB/T 47009 低温承压设备用合金钢锻件
+
+NB/T 47010 承压设备用不锈钢和耐热钢锻件
+
+NBMT 47013.1 “承压设备无损检测 第 1 部分: 通用要求
+
+NBMT 47013.2 ”承压设备无损检测”第 2 部分: 射线检测
+
+NBMT 47013.3 ”承压设备无损检测”第 3 部分: 超声检测
+
+NBMT 47013.4 “承压设备无损检测”第4 部分: 磁粉检测
+
+NBMT 47013.5 ”承压设备无损检测 ”第 5 部分 渗透检测
+
+NBMT 47013.7 ” 承压设备无损检测 第7 部分: 目视检测
+
+NBMT 47013.8 ”承压设备无损检测”第 8 部分: 泄漏检测
+
+NB/T 47013.10 ”承压设备无损检测 ”第 10 部分: 衍射时差法超声检测
+NB/T 47014-2011 承压设备焊接工艺评定
+
+NB/T 47015 压力容器焊接规程
+
+NBMT 47018.1 “承压设备用焊接材料订货技术条件 第 1 部分: 采购通则
+NBMT 47018.2 ”承压设备用焊接材料订货技术条件 第 2 部分: 钢焊条
+NBMT 47018.3 ”承压设备用焊接材料订货技术条件 第 3 部分: 气体保护电弧焊丝和填充丝
+NB/T 47018.4 “承压设备用焊接材料订货技术条件 第 4 部分: 埋弧焊钢焊丝和焊剂
+NBMT 47018.5 。”承压设备用焊接材料订货技术条件 第 $ 部分: 堆焊用不锈钢焊带和焊剂
+SH/T 3528 石油化工钢制储饶地基与基础施工及验收规范
+
+SH/T 3607 石油化工钢结构工程施工技术规程
+
+HG/T 2809 浮顶油饶软密封装置橡胶密封带
+
+TSG Z6001-2013 ”特种设备无损检测人员考核与监督管理规则
+
+TSG Z6002 ”特种设备焊接操作人员考核细则
+
+JGJ7          空间网格结构技术规程
+
+
+SH/T 3046一2024
+
+3 术语和定义
+
+下列术语和定义适用于本标准。
+3.1
+
+设计压力 design pressure
+
+设定的储饶顶部气相空间的最高压力 (表压，下同)，其值不应低于正常使用时可能出现的最高操
+作压力。
+3.2
+
+金属温度“metal temperature
+
+储缸壳体及受力元件沿截面厚度的平均温度。
+3.3
+
+设计温度 design temperature
+
+储镑在正常工作情况下，设定的储饶壳体及受力元件的金属温度。
+3.4
+
+计算厚度 calculated thickness
+
+按本标准相应公式计算得到的厚度。
+3.5
+
+设计厚度 design thickness
+计算厚度与腐蚀裕量之和。
+
+3.6
+
+名义厚度 nominal thickness
+
+设计厚度加上材料厚度负偏差后向上圆整至材料标准规格的厚度。
+3.7
+
+有效厚度 available thickness
+名义厚度减去厚度附加量。
+
+3.8
+SB RIDAR annular bottom plates
+CLF ERE FA MER. HAA WAAIES WIR ACN RRB, tay Ag
+AR A — A ED Ee HE FEE ARK 。
+3.9
+SEE PIE bottom plates
+DARHT R AZ b AD AE JER ARK
+3.10
+固定项 fixed roofs
+周边与饶壁项端固定连接的缸项。主要包括以下型式:
+a) 自支撑锥顶: 饶顶为正圆锥形，饶项仅靠缸壁周边支撑;
+b) 柱支撑锥顶:， GETS TEA EAE, Bae USE ME AT PAN BR ZH Pe] SCH
+c) 自支撑拱项: METH AUR LIE, HE TL ASC AR Ga ARE J GS HE.
+3.11
+浮顶 floating roofs
+Bat Tin ETE PPO SA EET, LFA A TL.
+
+SH/T 3046一2024
+
+3. 12
+内浮顶 internal floating roofs
+在固定项储饶内设置的浮项。内浮项主要有以下型式，
+a) 单盘式内浮顶:由一个单层中心盘板和周圈环形密封浮舱构成的内浮项。周圈浮舱被径向隔
+板分隔成多个隔舱，一般采用钢制焊接结构，示意图见 3.12 a);
+b) 双盘式内浮顶:整个内浮顶均由浮舱构成。浮舱由上下盘板围成，并被环向和径向隔板分隔
+成多个隔舱，至少最外圈隔舱为密封浮舱，一般采用钢制焊接结构，示意图见 3.12b);
+c) 敞口隔舱式内浮顶: 内浮项周转设置环形敞口隔舱，其余部位仅为单层密封盘板，一般采用
+钢制焊接结构，示意图见 3.12 c);
+dj) 浅盘式内浮顶: 内浮顶由外边缘板和直接与液体接触的单层密封盘板形成的盆形浅槽组成，
+无隔舱、浮简或其他单独的浮力元件，示意图见 3.12 dd;
+ce) 浮简式内浮项: 由浮简和处于浮简上方的金属密封盘板组成，浮简提供浮力，金属密封盘板
+与液体不接触，包括铝制浮简式内浮项和不锈钢制浮简式内浮项，示意图见 3.12 e);
+f) 浮箱式内浮项: 内浮顶由既提供浮力又连续覆盖液面的箱式浮力元件和加强梁组成，浮力元
+件内部可设有季板等加强件，材质一般为铝合金或不锈钢，示意图见 3.12 f);
+g) SAMRAT: 内浮顶由上下层壳体和蜂巢芯共同组成，上下层壳体和蜂梨芯构成大量
+密集连续且相互密闭的蜂划浮力单元，每个蜂人梨浮力单元都具有气密性和液密性，材质一般
+为铝合金、不锈钢，示意图见 3.12 g);
+hb) 整体加强模块式不锈钢双盘内浮顶: 内浮顶由连续覆盖储液表面的内部有加强芯的浮力元件
+和承力结构一体化模块构成。浮力元件和承力结构一体化模块内部布满起加强作用、相通的
+蜂梨芯等加强件，外部由不锈钢板箱体包覆密封，浮力元件和承力结构一体化模块内部设置
+的加强芯仅起结构加强作用，其加强芯单个腔体不具有气密性和液密性，示意图见 3.12 h );
+iD玻璃钢内浮顶: 内浮项由上下玻璃纤维加强树脂表面层和蜂梨芯组成，且符合蜂巢式内浮项
+的特征，示意图见 3.12 i)。
+3. 13
+全液面接触式内浮项 internal floating roofs be in full contact with the liquid surface
+MS Aa CE 2S A ate fH OA TH APT. PRESALE. SAE. PRA SR AEE, eR aL
+SOAS PE TTL. BEASTS EAS BF A OLE PS PFT ABB He PF TL gH PAA PTL
+3.14
+非全液面接触式内浮顶 internal floating roofs be not in full contact with the liquid
+surface
+密封盘板处于浮力元件上部，不接触储液液面或不连续接触储液表面的内浮项。浮简式内浮项为
+非全液面接触式内浮项。
+3. 15
+装配式内浮项 assemble internal floating roofs
+由工厂预制的模块单元在现场装配而成或采用粘接工艺现场制作的内浮顶。浮简式内浮项、浮箱式内
+浮项、金属峰梨式内浮项、 整体加强模块不锈钢双盘式内浮项和玻璃钢内浮项属于装配式内浮项。3. 16
+全焊接式内浮项 welded internal floating roofs
+主体采用焊接工艺制作的内浮顶。单盘式内浮顶、双盘式内浮项属于焊接式内浮项。
+
+SH/T 3046—2024
+
+a) 单盘式内浮顶
+
+b) 双盘式内浮顶
+
+Lit f
+
+c) 敞口隔舱式内浮项
+
+L
+
+d) 浅盘式内浮顶
+
+e) 浮简式内浮顶
+
+一一一|
+
+f) 浮箱式内浮顶
+
+SH/T 3046一2024
+
+|
+
+g) 金属蜂巢式内浮顶
+图3. 12 ”内浮顶示意图后续)
+
+一一 |
+
+h) 整体加强模块式不锈钢双盘内浮顶
+
+i) 玻璃钢内浮顶
+
+图 3. 12 ”内浮顶示意图 (续)
+
+Sli?
+外浮顶 external floating roofs
+ZEW FR EPA EET. bP TH LR oF A sh:
+a) 单盘式外浮顶: 由一个单层中心盘板和周圈环形密封浮舱构成的外浮项。周圈浮舱被径向隔
+板分隔成多个隔舱，一般采用钢制焊接结构;
+b) 双盘式外浮顶;整个外浮顶均由隔舱构成。浮舱由上下盘板围成，并被环向和径向隔板分隔
+成多个隔舱，至少最外圈隔舱为密封浮舱，一般采用钢制焊接结构。
+
+3.18
+HEIR fixed roof tanks
+ACS DP 5 TT EY RE
+3.19
+SpiZIRHE external floating roof tanks
+ASL SE IF TL AD Hee fit HE
+3.20
+AjZIRei internal floating roof tanks
+Yea) SY Sk DR ee TANS TD Ai
+3.21
+PPAR «floating roof tanks
+bi Ti ft ge AL PL PF TG ie BE I EK
+
+SH/T 3046一2024
+
+3. 22
+
+抗风圈 wind girder
+
+设置在饶壁上,增加饶壁稳定性、防止饶壁因风造成届曲的构件。分为顶部抗风圈和中间抗风圈。
+3. 23
+
+转动扶梯”rolling ladder
+
+连接缸壁顶部平台和浮项，随浮项升降且能自动旋转的人行梯子。
+3.24
+
+自动通气阀 automatic bleeder vent
+
+浮顶浮起或回落到支撑状态时，可自行关闭或开启的通气装置。
+3. 25
+
+浮项排水系统 primary roof drains
+
+在正常情况下，将外浮项上的雨水排出缸外的装置 。
+3.26
+
+紧急排水装置 emergency roof drains
+
+TER AGO BEBE SbF TE aR AK HEB GE PA FD 22 A A
+3.27..
+
+环向通气孔 circulation vents
+
+设置在内浮顶储饶缸壁上部或固定项外边缘，沿环向分布的通气装置。
+3. 28
+
+EETRIBAFL dome vents
+
+BEE fit Ga Dd FE TTT a YY HH.
+3.29
+
+机械锚固 mechanically-anchored
+
+储饶为了抵抗内压、风及地震等载荷引起的倾覆、提离，使储缸与基础固定在一起而需要额外配
+置的加固设施，如地脚螺栓、锚固带等。
+3. 30
+
+自锚固 self-anchored
+
+储饶无需设置机械锚固设施、仅依靠缸体和储液重量即可抵抗内压提离、保持抗风及抗震稳定，
+亦称非机械锚固。
+3.31
+
+弹力板式密封
+
+具有连续覆盖浮顶与缸壁环形空间的密封隔膜，密封力由一端固定在浮项外边缘板顶部、另一端
+接触缸壁的弹力板提供的浮顶边缘密封。弹力板材料一般采用硬化不锈钢。
+
+4 基本规定
+
+4.1 储缸设计应执行本标准的规定,本标准未做规定时还应符合现行国家标准《立式圆简形钢制焊接
+WELT HE) GB 50341 的有关规定。
+
+4.2 按照本标准设计的储缸,应进行抗震设计。 抗震设计可按照现行国家标准《石油化工钢制设备抗
+震设计标准》GB/T 50761 的规定执行。
+
+4.3 固定顶常压储饶的设计负压不应大于 0.49 kPa, 正压产生的举升力不应超过饶顶板及其所支撑附
+件的总重量，当符合本标准附录 A 的规定时，最大设计压力可提高到 18kPa。外浮项储饶的设计压力
+应取 0。
+
+
+SH/T 3046一2024
+
+4.4 储缸的设计温度取值应符合下列规定:
+aa) 储负的设计温度取值不应低于储缸在正常操作状态下壳体及受力元件可能达到的最高温度。
+对于 0C以下的金属温度，设计温度不应高于储饶在正常操作状态下壳体及受力元件可能出
+现的最低温度;
+b) 浮项储饶的最高设计温度不宜高于 90°C;
+c) 储饶最高设计温度不应高于 90C; 当符合附录 C 的规定时，固定项储饶的最高设计温度可提
+高到250C;
+dj，对于既无加热又无保温的储缸，最低设计温度应取建饶地区最低日平均温度加 13"C 。
+4.5 储饶的饶底板应放置于连续均匀的基础上，储饶对基础的基本要求应符合附录 B 的规定。
+4.6 储饶的设计条件应至少包括下列内容:
+a) 设计载荷
+1) 压力载荷、温度载荷、重量载荷，
+2) 地震载荷、风载荷、雪载荷，
+3) 由附属设备和连接管道所引起的附加荷载;
+b) 存储介质及物性参数;
+c) 镀体材料及腐蚀容量;
+d) 气象及工程地质资料;
+ec) 储饶的类型，直径、高度或容量，
+f) ORY. West. Becht
+g) BRT HAL STALE FE
+hb 内件等附件的必要信息;
+
+4.7 厚度附加量应按下式计算，
+C=C,+C,                          (4.7)
+
+式中:
+
+(一厚度附加量(mm);
+
+Ci一钢材厚度负偏差mm); 按钢材标准或订货要求确定
+
+C:一腐蚀裕量(mm); 根据使用环境、介质腐蚀特性、防护措施等因素确定; 充水试验时腐蚀裕量
+
+取值可为0。
+5 材料
+
+5.1 一般规定
+5.1.1 储镑所用材料应符合本标准引用的现行国家相关标准的规定。采用国内其他标准的材料,其性
+
+能不应低于本标准的规定;采用境外牌号材料应当是境外储缸现行标准规范允许使用并且境外已有在
+相似工作条件下使用实例的材料。
+5.1.2 钢材选用应综合考虑储负的使用条件 如设计温度、介质特性和操作特点等)、 材料的性能 (力
+学性能、工艺性能和物理性能等)、储饶的制造工艺以及安全可靠性和经济合理性。
+5.1.3 储铅所用钢材应采用氧气转炉或电炉治炼, 对于标准屈服强度下限值大于 390MPa 的低合金钢
+钢板，以及设计温度低于-20C 的低温钢板和低温钢锻件，还应当采用炉外精炼工艺。
+5.1.4 对所选用材料有特殊要求时，应在图样或有关技术文件中注明。
+5.1.5 碳素钢和低合金钢钢材及其焊接接头的冲击试验应满足下列要求;
+
+a) “碳素钢和低合金钢钢材〈钢板、钢管、钢锻件) 的冲击吸收能量应符合相应材料标准的规定，
+
+且不应低于表 5.1.5 的规定; 其焊接接头的冲击吸收能量也不应低于表 5.1.5 的规定;
+
+SH/T 3046一2024
+
+表 5.1.5_碳素钢和低合金钢钢材及其焊接接头的冲击吸收能量
+钢材标准抗拉强度下限值            3 个标准试样的冲击吸收能量平均值
+
+Rm (MPa)“                                   KV2 (J)
+
+S 450
+>450~510
+
+>510~570
+
+>570~630
+注:对 Rm 随厚度增大而降低的钢材，按该钢材最小厚度范围的 Rm 确定冲击吸收能量指标。
+
+b) 夏比 V 型缺口冲击试样的取样部位、方向及缺口位置应符合钢材相应标准的规定;
+
+c) “冲击试验每组应取 3 个标准试样〈宽度为 10mm)，可允许 1 个试样的冲击吸收能量数值低于
+表 5.1.5 的规定，但不应低于表 5.1.5 规定值的 70%;
+
+d)“当钢材尺寸无法制备标准试样时，则应依次制备宽度为 7.Smm 或 Smm 的小尺寸冲击试样，
+其冲击吸收能量指标应分别为标准试样冲击吸收能量指标的 75%或 50%。
+
+5.1.6 不同温度下钢材的弹性模量应符合表 5.1.6 的规定。
+表 5.1.6，钢材的弹性模量
+在下列温度 CC) 下的弹性模量 (x108 MPa) *
+
+钢 类
+150             200
+
+碳素钢、碳锰钢                                                          194             191
+注: 中间温度的弹性模量可用线性内插法求得。
+
+5.1.7 对新研制的材料, 材料的研制单位应当进行系统的试验研究工作, 在工业化试用前除应通过相
+关专业机构的新材料技术评审外，还应完成工程应用技术的前期研究工作。
+5.1.8 国外钢材在国内首次使用应通过专业机构技术评审，评审通过后方可使用。
+5.2 钢板
+5.2.1 钢板的标准及使用范围应符合表 5.2.1 的规定。
+表 5.2.1 钢板使用范围
+冲击试验温度             =
+CC)          许用温度        许用最大厚度
+(C)                      (mm)
+=-10
+
+GB/T 3274
+
+GB/T 3274
+
+GB/T 713
+
+GB/T 713
+
+
+SH/T 3046一2024
+
+16MnDR      GB/T 3531
+
+
+SH/T 3046一2024
+
+5.2.2 钢板的许用应力值选取应符合表 5.2.2 的规定。
+表 5.2.2，钢板许用应力值=
+
+室温强度指标        在下列温度CC)下的许用应力(MPajm ”2
+
+Rm (MPa)                       20          100         150         200         250
+
+热轧
+
+热轧
+
+热轧，控轧，正|
+火
+
+FAL, 控轧, IF] 3一16
+火      >16~36
+
+6~16
+16MnDR           正火
+
+>16~36
+
+12MnNiVR                  调质             10一45
+
+注1: 本表为用于储饶壳体钢板的许用应力。
+
+注 2: 中间温度的许用应力值，可采用线性内插法求得。
+”当采用其他材料时，其许用应力按 5.2.3 条确定。
+
+， 当钢板用于其他构件时，应按照相应标准确定许用应力。
+
+5.2.3 未列入本标准表 5.2.2 的钢板许用应力值选取应符合下列规定;
+a) “当选取符合本标准要求的碳素钢和标准屈服强度下限值小于或等于 390MPa 的低合金钢钢板
+时，应取设计温度下 2/3 倍标准屈服强度下限值;
+b) “当选取符合本标准要求的标准屈服强度下限值大于 390MPa 的低合金钢钢板时，应取设计温
+度下 0.6 倍标准屈服强度下限值。
+5.2.4 镀壁钢板的使用厚度应符合本标准的规定，且钢板名义厚度最厚不应大于 4Smm。
+5.2.5 储饶的设计温度低于-10C时，厚度大于 20mm 的 Q245R 钢板和厚度大于 30mm 的 Q345R 钢
+板应在正火状态下使用。
+5.2.6 凡符合下列条件的钢板，应逐批取样进行夏比 V 型缺口-20C冲击试验。冲击试样的取样部位
+和试样方向应符合现行国家标准《承压设备用钢板和钢带》GB/AT 713 的有关规定，并应在图样或有关
+技术文件中注明。
+a) 设计温度低于-10C时，厚度大于 16mm 的 Q245R 钢板;
+b) 设计温度低于-10C时，厚度大于 24mm 的 Q345R 钢板 。
+5.2.7 调质状态供货的 12MnNiVR 钢板, 应逐热处理张取样进行拉伸和夏比 V 型缺口-20C冲击试验。
+冲击试样的取样部位和试样方向应符合现行国家标准《压力容器用调质高强度钢板》GB/T 19189 的有
+关规定。
+
+SH/T 3046一2024
+
+5.2.8 符合下列条件的缸壁和负底边缘板用钢板应逐张进行超声检测。检测方法应符合现行行业标准
+《承压设备无损检测 ”第 3 部分: 超声检测》NB/T 47013.3 的有关规定。
+
+a) “厚度大于 30mm 的 Q245R 和 Q345R 钢板，质量等级不应低于IJ级;
+
+b) 厚度大于 20mm 的 16MnDR 钢板，质量等级不应低于开级;
+
+c) 调质状态供货的钢板，质量等级应为 | He
+5.2.9 厚度大于 12mm 但小于或等于本标准 5.2.8 条规定厚度的饶壁和饶底边缘板用钢板应进行超声
+检测抽查，抽查比例不宜小于 20%，且不小于一张。Q235B、Q235C、Q245R 和 Q345R 钢板的质量等
+级不应低于II级， 16MnDR 钢板的质量等级不应低于开级。检测方法应符合现行行业标准《承压设
+备无损检测 ”第3 部分: 超声检测》NB/T 47013.3 的有关规定。
+5.2.10 FA Fi RE, EEE 22 METI Q235B. Q235C. Q245R 和 Q345R 钢板沿宽度方向的不平度不应
+大于 Smnm/1000mm ，用于饶壁、饶底及饶顶的 12MnNiVR 钢板沿宽度方向的不平度不应超过
+6mm/1000mm，且不应对组对焊接坡口的偏差产生不利影响。
+5.2.11 12MnNiVR 钢板的表面质量按现行国家标准《压力容器用调质高强度钢板》GB/T 19189 的规
+定执行，且钢板表面不允许焊接修补。
+5.2.12 板厚超过 20mm 的碳素钢和低合金钢的碳当量 Co 不宜高于 0.43%。
+
+Coq (%)=C+Mn/6+ (CrHMo+V) /5+ (Ni+Cu) /15                          (5.2.12)
+5.2.13 12MnNiVR 钢板的焊接敏感性系数 Pom 不宜高于 0.24%.
+Pom(%) = C+Si/30+Mn/20+Cu/20+Ni/60+Cr/20+Mo/15+V/10+5B                          (5.2.13)
+
+5.3 钢管
+5.3.1 饶壁管口用无颖钢管的标准及使用范围，应符合表 5.3.1 的规定。
+
+表5.3.1_ 无缝钢管标准及使用范围
+
+使用范围
+
+(mm)
+热轧                           20
+正火                      20
+Ey                         0
+
+GB/T 9948                             正火                                           =
+
+GB/T 8163            Es                  20
+
+GB/T 6479                     正火
+
+J                       20
+
+
+SH/T 3046一2024
+
+5. 3. 2 用于管口接管的无颖钢管的许用应力值选取应符合表 5.3.2 的规定。
+
+R5.3.2 无缝钢管的许用应力
+室温强度指标          在下列温度CC)下的许用应力 (MPa) *
+
+注: 中间温度的许用应力值，可采用线性内插法求得。
+* Q345C、Q345D、Q345E 的力学性能按照 GB 6479 选取，许用应力按 GB/T 150.2-2011 的表 B.3 中 16Mn 的高
+温性能计算。
+
+5. 3. 3 饶壁开口用外径不小于 70mm, ABER 6.5 mm 的钢管，应按表 5.3.1 中许用温度下限逐批
+取样进行夏比 V 型缺口冲击试验，并应符合以下规定;
+a) 当选用现行国家标准《流体输送用无颖钢管》GBMT 8163 中 Q345E 钢管时，钢中的实际 S 含
+量为不大于 0.015%, 钢管应进行-40*C冲击试验, 3 个纵向标准试样的冲击功平均值不应小于
+27J。10 和 20 钢管应分别进行-10C和 0*C冲击试验， 3 个纵向标准试样的冲击吸收能量平
+均值不小于 34J
+b) 当选用现行国家标准《高压化肥设备用无颖钢管》GB/T 6479 中各钢号钢管时，10 和 20 钢
+管应分别进行-10"C和 0*C冲击试验，根据需方要求，经供需双方协商，并在合同中注明，10
+和 20 钢管可进行-20*C冲击试验，3 个纵向标准试样的冲击吸收能量平均值不小于 40J。
+Q345D 钢管应进行-20"C冲击试验，Q345E 钢管应进行-40*C冲击试验，3 个纵向标准试样的
+冲击吸收能量平均值不小于 40J。
+c) 当选用现行国家标准《石油裂化用无缝钢管》GB/T 9948 中 10 和 20 钢管时, 应分别进行-20*C
+和-10*C的冲击试验，3 个纵向标准试样的冲击功平均值不应小于 40 J.
+5.3.4 镀顶管口接管、浮顶支柱用钢管应符合现行国家标准《流体输送用无颖钢管)GB/T 8163 或《高
+压化肥设备用无颖钢管》GB/T 6479 或《石油裂化用无颖钢管》GB/T 9948 的有关规定。
+5.3.5 储饶梯子、平台等钢结构用钢管应符合现行国家标准《低压流体输送用焊接钢管》GB/T 3091
+或《直颖电焊钢管》GBAT 13793 的有关规定。
+5.3.6 当接管公称直径超过 400mm 时，可用钢板卷制。采用钢板卷制的大口径接管的材质应与管口
+处缸壁或缸顶板的材质相同。
+5.4 锻件
+5.4.1 饶壁管口用锻件的标准及使用范围，应符合表 5.4.1 的规定。
+
+表5.4.1_ 锻件的标准及使用范围
+锻件标准             热处理状态               许用温度 CC)
+NB/T 47008                正火或正火加回火                         三-20
+
+NB/T 47008       正火、正火加回火或调质
+
+
+SH/T 3046一2024
+
+NB/T 47009
+
+”16MnD 锻件公称厚度寺100mm 时许用温度三-4STC 。
+
+5.4.2 锻件的许用应力值选取应符合表 5.4.2 的规定。
+
+表5.4.2 锻件的许用应力值
+室温强度指标       在下列温度CC)下的许用应力 (MPa)
+
+锻件标准
+Rm (MPa)
+
+NB/T 47008        S100         410
+
+=100             480
+
+NB/T 47008      > 100~200       470
+
+>200~300         450
+
+=100             480
+
+NB/T 47009        >100~200          470
+
+> 200~300         450
+
+注: 中间温度的许用应力值，可采用线性内插法计算。
+
+a 采用其他材料时，其许用应力按 5. 2. 3 条确定。
+5.4.3 设计温度低于 0*C的 20 钢和 16Mn 钢锻件，应按现行行业标准《承压设备用碳素钢和合金钢
+锻件》NB/AT 47008 的规定进行-20*C冲击试验，并应在图样或有关技术文件中注明。
+5.5 螺栓、螺母
+5.5.1 螺栓、螺母组合用钢的使用范围，应符合表 $.5.1 的规定; 调质状态使用的螺母用钢，E
+度应高于组合使用的螺栓用钢的回火温度。
+
+表 .5.5.1 螺栓、螺母组合用钢的使用范围
+1        20        10                     iEK         -20
+
+» 15                GB/T 699
+
+>
+Bt
+
+WV
+
+Vv
+
+20, 25      |     GB/T 699     |
+40Mn, 45 “| GB/T 699
+30CrMoA             GB/T 3077
+40Mn, 45         GB/T 699
+35CrMoA             GB/T 3077
+
+5.5.2 螺栓的许用应力值选取应符合表 5.5.2 的规定。
+表5. 5.2 螺栓的许用应力值
+
+钢材标准“| 状态 | 。 规格
+
+<M22
+
+GB/T 699 | 正火 |
+|  M24~M27
+
+GB/T 699
+
+
+SH/T 3046一2024
+
+ee
+| swe | moo | sso fis [owe | |e |e
+调质
+
+| 30CrMoA  GB/T 3077 °°
+
+M24~M48
+
+ae
+
+aaa [os [os [ae fm fe [am |
+4      35CrMoA      GB/T 3077 | 调质
+parser ws [os [ee [oe [oe i
+
+可采用线性内插法求得。
+低合金钢螺栓和螺母应进行镀锌处理。
+
+注: 中间温度的许用应力值，
+5.5.3 Wee.
+5.6 ”结构型钢
+5.6.1
+GB/T 1591 的有关规定。
+
+储负所用结构型钢应符合现行国家标准《碳素结构钢》GB/T 700 和《低合金高强度结构钢》
+许用应力应符合本标准 8.2 节的规定。
+
+5.6.2 当建饶地区的最低日平均温度低于 0C时，梯子平台主要承重构件应采用镇静钢。
+
+5.7 焊接材料
+5.7.1
+
+焊接材料应与母材相匹配，且应具有良好的工艺性能。
+
+5.7.2 用于焊接缸底边缘板、缸壁板和缸壁管口锻件、接管的焊接材料，其技术要求、试验方法、检
+验规则以及质量管理等除应符合相应标准的规定外，还应符合现行行业标准《承压设备用焊接材料订
+货技术条件》NB/T 47018.1一47018.4 的有关规定。
+
+5.7.3 当设计温度低于-20C时，饶底边缘板、镀壁板和负壁管口锻件、接管的焊接，
+
+高韧性焊接材料。
+
+5.7.4 焊接材料可参照表 5.7.4 选用。
+
+表5.7.4常用钢号推荐的焊接材料表
+
+SGT
+
+Wide FA
+
+气电立焊型号/牌号
+
+S43A2 xx-SU08A
+S43A2 xx-SU26
+
+HJ431-HO8MnA
+
+焊 条 牌 | 焊剂焊丝型号      焊剂焊丝型号/牌号 | 示例
+示例
+$43A0 xx-SU08A | HJ431-HO8A
+
+T492TG-1C1A-GX
+T492TG-1C1A-GXU
+
+16Mn                                                 S49A0 xx-SU34 | HJ431-H10Mn2            T492TG-ICIA-GX
+Q345C                                          S49A2 xx-SU34 “| HJ350-H10Mn2          T492TG-1C1A-GXU
+Q345D                                                                              SJ101-H10Mn2
+
+Q345R
+
+Q345E           ES5016-NI | J507RH | S49A4xx-SU35 | JIOLHIOMn2Ni           z
+
+16MnD
+16MnDR
+
+12MnNiVR | E6215-NIM2 | J607RH
+
+ES015-N1        JS06RH
+
+S62A3U xx-SUM31
+
+SJ101-HO8Mn2MoA
+
+T622TG-1C1A-GX
+T622TG-1C1A-GXU
+
+
+SH/T 3046一2024
+
+5.8 其它材料
+
+5.8.1 储饶所用其它材料应符合现行国家有关标准规范的规定, 相关标准规范未作规定的材料, 应在
+图样或有关技术文件中明确技术要求。
+
+5.8.2 铝制内浮顶用铝材应符合现行国家标准《变形铝及铝合金化学成分》GB/T 3190、《一般工业
+用铝及铝合金板、带材》GBT 3880、 《铝及铝合金热挤压管第 1 部分: DCSE) GB/T 4437.1、
+《一般工业用铝及铝合金挤压型材》GB/T 6892 及 AREAS CFL) 制无缝管》GB/T 6893 的要
+5.8.3 储饶附件所用不锈钢板应符合现行国家标准《不锈钢冷轧钢板和钢带》GB/T 3280、《不锈钢
+热轧钢板和钢带》GBMT 4237 和《承压设备用不锈钢和耐热钢钢板和钢带》GB/T 24511 的要求。
+5.8.4 玻璃钢内浮项所用树脂应符合现行国家标准《纤维增强塑料用液体聚酯不饱和树脂》GBA
+8237、《双酚 A 型环氧树脂》GB/MT 13657 和《乙烯基酯树脂防腐蚀工程技术规范》GB/T 50590 的要
+求，玻璃纤维及其制品应符合现行国家标准《玻璃纤维短切原丝秸和连续原丝秸》GB/T 17470、《玻
+璃纤维无抢粗纱布》GB/MT 18370、《玻璃纤维颖编织物》GB/T 25040. CRA MAT RREFAE) GB/T 26752
+和《经编碳纤维增强材料》GB/T 30021 的要求。
+
+6 HEIR
+
+6.1 HRRRT
+6.1.1 不包括腐蚀裕量的饶底板厚度不应小于表 6. 1. 1 的规定。
+
+表6.1.1 RE
+
+D<10
+D>10
+6.1.2 不包括腐蚀裕量的饶底环形边缘板厚度不应小于表 6.1.2 的规定。
+6.1.2 环形边缘板厚度
+环形边缘板厚度 (mm)
+
+底圈负壁板名义厚度 (mmy)                           底圈负壁板标准届服强度下限值(MPa)
+<390
+
+6.1.3 FIBA, CEA P TE AEE Er PTE, DFE AB BER:
+a) SAR Ay A On) 8 He AG ST) Ee A DE, AN PSR SEL, AL
+不应小于 600mm;
+
+SH/T 3046一2024
+
+Lin = 2ty  —                               (6.1.3)
+
+式中，Zm一 ARRE PS Ze TT ENTE Ac AS A HEH HR AE ES, (mm);
+四一一饶底环形边缘板的名义厚度，(mm);
+及oo一一边缘板材料标准在室温下的最小屈服强度，(MPa);
+p一一储液相对密度，取不大于 1.0。
+G一一水的密度因数，取 9.81/1000, (MPa/m).
+A, 一一最高设计液位高度，(m);
+b) 底圈镑壁外表面沿径向至边缘板外缘的距离，不应小于 50mm，且不宜大于 100mm.
+6.1.4 饶底边缘板的厚度和宽度还应满足抗震的要求。
+
+6.1.5 鲜底中幅板的钢板宽度不宜小于 1600mm。
+6.2 aE
+
+6.2.1 fit A EF 12.5m WY, REET AN AIR: HEA EA BE 12.5m BY, GEER EL
+REAR, — AERA CA 6.2.1).
+
+Ca) ARATE CH BAR                   Co) BRIAR TELL RAL A ER
+
+图 6.2.1 Sab ei Hy sh aS Re PA
+1-中幅板; 2-非环形边缘板，3-环形边缘板
+
+6.2.2 环形边缘板外乡应为圆形，内缘可为正多边形或圆形; 内缘为正多边形时，其边数应与环形边
+缘板的块数相等。
+
+6.2.3 镑底板可采用搭接、对接或二者的组合〔〈图 6.2.3-1、图 6.2.3-2) 。
+a) “饶底环形边缘板之间应采用对接;
+
+b) 当负底中幅板的名义厚度小于或等于 10mm 时，可采用搭接或对接; “SH PRI
+度大于 10mm 时，宣采用对接;
+
+c) 当缸底不设置环形边缘板时，饶底边缘板外缘处应采用对接〈图 6.2.6-1)。
+
+SH/T 3046一2024
+
+Ca) 中幅板与边缘板拱接                 Co) 中幅板与中幅板搭接
+图 6.2.3-1 ARR AR A SPE HEHE,
+
+— 一 一一                 一一
+Ca) 中幅板与边缘板对接                  Cb) 中幅板与中幅板对接
+
+注1: 此处削边〈坡度 1:3~1:4);
+注 2: 此处不开坡口或 V 型坡口。
+图 6.2.3-2 MB Pee AR AY RE EE IL,
+
+6.2.4 ARIES PAAR SAIN, PASC Zz Ti] BD eR PRE EL SI, ELSI Ban Pe BE PE AN LF 25
+mm; 中幅板与边缘板拱接时，中幅板应搭接在环形边缘板的上面，实际搭接宽度不应小于 60mm.
+6.2.5 镑底板采用对接时，应在焊颖下面设置厚度不小于 4mm 的垫板，垫板应与镀底板贴紧并应采
+用定位焊与底板固定。
+
+6.2.6 厚度不大于 6mm 的负底边缘板对接焊颖可不开坡口，焊颖间隙不宜小于 6mm 〈图 6.2.6-1) ;
+厚度大于 6mm 的缸底边缘板对接焊缝应采用 V 型坡口〈图 6.2.6-2) 。
+
+7
+SS GL
+
+图 6.2.6-1 Se JER 12 2 BCH He Be,
+1-H; 2-H: 3-垫板
+
+SH/T 3046一2024
+
+~    a4          =
+~
+31: 焊后切除，
+
+注2: 此处为定位焊，也可位于坡口内。
+图 6.2.6-2 饶底边缘板对接接头
+1- HEBER: 2-饶底边缘板:3-垫板
+6.2.7 中幅板、边缘板自身的搭接焊缝以及中幅板与边缘板之间的搭接焊缝,应采用单面连续角焊缝，
+焊脚尺寸应等于两相焊件中较薄件的厚度。
+6.2.8 当边缘板与中幅板采用对接, 符合下列情况时, 应将与中幅板相邻的饶底边缘板端部做削边处
+理，削边坡度宜为1: 3~1: 4，见图 6.2.3-2。
+a) 中幅板厚度不大于 10mm，两板厚度差大于或等于 3mm
+b) 中幅板厚度大于 10mm，两板厚度差大于中幅板厚度的 30%。
+6.2.9 ”饶底板采用搭接时，三层底板重登处〈图 6.2.9) ，最上层搭接底板端部应做切角处理。
+
+注1: 焊接最上层 C 板角焊缝之前，应先焊接被 C 板覆盖的A板和B 板之间的角焊缝，
+注 2: 转角处应倒圆。
+图 6. 2. 9 三层底板重合处结构示意图
+6.2.10 拭底板任意相邻的三块板焊接接头之间，以及三块板焊接接头与边缘板对接接头之间的距离
+
+19
+
+SH/T 3046一2024
+
+都不应小于 300mm。边缘板对接焊缝至底圈负壁纵焊缝的距离不应小于 300mm。
+
+6.2.11 底圈镑壁板与缸底边缘板之间的T形接头〈图 6.2.11) ，应采用双面连续焊。镀壁外侧焊脚
+尺寸及镑壁内侧焊脚坚向尺寸, 应等于底圈镑壁板和边缘板两者中较薄件的厚度，且不应大于 13mm;
+饶壁内侧的角焊缝焊脚水平尺寸，宣取 1.0一1.35 倍焊脚竖向尺寸。当边缘板厚度大于 13mm it, fife
+壁内侧可开坡口〈图 6.2.11 (b) ) ，坡口深度与焊脚水平尺寸之和宣取边缘板厚度和不开坡口时的焊
+脚水平尺寸的较大值。
+
+[Ka =(1.0-1.35)h                         Ky=(1.0~1.35)h
+
+Ks=maxi ty Ke)
+
+(a) HERR ATF                 (b) ie Re AT IFS
+YE: Ki= min(tu 5 1), A Ki<13mm;h=min(t,, 6 ), A h< 13mm; K2=(1.0~1.35 h; Ks=max( ty, Ks ),K4=(1.0~1.35)h:
+图 6.2.11 Jax PEE RES AZ LAY T IE
+1-HE REAR: 2-2
+
+6.2.12 ER I2 A 0 5 JS i A AI ALT]
+
+6.2.13 Bi REDE WNL ST. D(H FY Wi Se aS PE FA «2 J TT PE
+SSEPBE MDS, SABE AR ee Hae UST Boe | PD JER AR PTZ 7
+
+6.2.14 BAR ILRI ea Ae 2 EE BG LE ZAC REA A AS ZT) EAS BG Ke, HR
+外缘连成整体的工 形金属挡雨榴、橡胶防水裙、耐候耐腐蚀防水弹性胶加弹力布密封覆盖层。当采用
+耐候耐腐蚀防水弹性胶加弹力布密封覆盖层时，应考虑储缸变形对防水结构完整性的影响。
+
+6.2.15 承受局部集中载荷的缸底板处应设置垫析，如饶内件的支撑件与饶底连接处等。垫板与饶底
+板间应采用连续焊。
+
+7 SS
+
+7.1 HERA SHAH
+
+7.1.1 GERAIS PS PL REAR AY TES ARIE, ERRAND) 300 mm.
+
+7.1.2 ERE BERRI REA EK FF Bel BE JERE
+
+7.1.3 GARBER ATM Dea RE, AS a ER, ALEK AY PYRE TE ETF
+
+7.1.4 GRBRA BEES CAN 7.1.4-1). BED ERE CPA 7.1.4-2) 应采用全焊透结构，焊接接
+头坡口的设计宜符合现行国家标准《气焊、焊条电弧焊、气体保护焊和高能束焊的推荐坡口yGB/T 985.1
+和《埋弧焊的推荐坡口》GB/T 985.2 的有关规定。
+
+一rr 二 AN
+
+20
+
+SH/T 3046一2024
+
+(a)工形坡口                             (b) V 形坡口                             (c) 带钝边 U 形坡口
+(d) 双面 V 形坡口                           (e) 双面U 形坡口
+
+图 7.1.4-1 饶壁纵向对接接头
+
+(a) I形坡口                    (b) 单面 V 形坡口                  (c) 双面 V 形坡口
+
+图 7.1.4-2 MERE ay RY Bede I.
+
+7.1.5 ARB AED A Tr RSE HEF 0 IT REY, REE AB AE NAL IT BE
+求。当板厚小于 23 mm 时，可采用单面坡口，当板厚大于或等于 23 mm 时，应采用双面坡口。
+
+7.1.6 直径不小于 25 m 的储饶的镀壁板宽度不宜小于 500 mm，直径大于或等于 25 m fe HE RE
+板宽度不宣小于 1000 mm，饶壁板的长度不宜小于 2000 mm.
+
+7.2 BEA Aw
+7.2.1 REESE Sik, Se EE La FLT SES ER, TR HE Pa Be Be HD,
+
+见图 7.2.1.
+
+(a) 对接                               (b) 措接
+
+图 7.2.1 包边角钢与镑壁连接结构
+7.2.2 包边角钢自身拼接接头应采用对接焊颖，且应全焊透。
+7.2.3 外浮项储缸负壁包边角钢的水平肢应朝向缸壁外侧; 固定项储缸和内浮顶储饶饶壁包边角钢的
+
+水平肢可朝向缸壁内侧或外侧。
+21
+
+SH/T 3046一2024
+
+7.2.4 固定顶储缸和内浮顶储饶饶壁包边角钢的截面尺寸应符合本标准第 8 章的强度条件要求, ALAS
+应小于表 7.2.4 规定的最小尺寸要求。
+表7.2.4_ BEANS eS AAR RR
+
+fit i AZ D Cm)                                包边角钢尺寸 mmy)
+D<10                                      L63x6
+
+10<D<20                                                    L75x8
+
+20<D<36                                                                   L.90x8
+
+36<DS60                                                    90x10
+
+D>60                                      -100x12
+
+7.2.5 外浮项储镑饶壁包边角钢的最小尺寸，应符合表 7.2.5 的规定。
+表7.2.5_外浮项储缸饶壁包边角钢的最小尺十
+
+D三20                                                 L75x8
+
+20<D<36                                                    L90x10
+
+D>36                                                                       120x12
+
+7.2.6 TEL sez TOU fis Gi AO FFT fs BE ELI A ST A A AT CLA HE 8.1.6 条)。
+7.2.7 Pe TD ie DOU ie BAR AO PA PT i EL FS eT EE SS EE I, LH FA PSH
+HAE TUTE SCA) A AT SL FE a AS HE: 8.1.7 条的有关要求。
+
+7.3 GSE
+7.3.1 DAPI AALIR 2 sie Ae BE HIN IE PE FE AE 7.3.1 的规定。
+
+R731 MERA RNS VE
+储角内径 (m)               负壁板的最小名义厚度 mm)
+
+DS15
+
+15<D<30
+
+30<D<60
+
+60<DS75
+
+D>75
+
+7.3.2 HEBEL ENOTES, “SHURA eb Fak 60m 时，宣采用定设计点法; “SERA ZEA 60 m
+BY, EXP AR th aa, Eh A MAE JE Ne FEA SU fy TG A JP i HE HEE) GB
+50341-2014 附录 G 的规定。
+
+7.3.3 当采用定设计点法时，饶壁厚度应按下列公式计算:
+
+22
+
+SH/T 3046一2024
+
+_ 4.9D(H -0.3)p
+
+ty                                                                (7.3.3-1)
+alop
+， 4.9D(H -0.3)                                          (7.3.3-2)
+ole
+
+式中: fy —— EPR PE FORSEALINHE SUE, (mm);
+ty; — DUK ACE FERRI TT SEIERE, (mm):
+Dp — iit 94%, (m)s
+HH 一“计算液位高度(m); 4H AA THE SAD AE ATTY
+度，或到溢流口下沿〈有溢流口时) 的高度，或到采取有效措施限定的设
+计液位高度;
+po 一“储液相对密度;
+[c], -设计温度下钢板的许用应力，(MPa);
+[>], — 试水条件下钢板的许用应力，取 20C时钢板的许用应力，(MPa);
+9 一“焊接接头系数，底圈负壁板取 0.85，其它各圈镀壁板取 0.9。
+
+7.3.4 缸壁板的名义厚度不应小于试水条件或设计条件下的计算厚度加各自厚度附加量的较大值。
+7.3.5 饶壁应进行风力稳定核算。当需要时，应采用设置中间抗风圈或/和增加负壁厚度的方式，使
+饶壁满足稳定要求。
+7.3.6，饶壁应进行抗震校核。当需要时，可采用增加饶壁厚度的方式，使饶壁满足抗震要求。
+7.4 负壁项部抗风力
+7.4.1 敞口储饶应在缸壁上部外侧设置顶部抗风圈，顶部抗风圈至缸壁上端的距离宜取 (1~1.1) m。
+7.4.2 项部抗风圈的最小截面模数应按下式计算:
+W, =0.083D" Ha                                                                   (7.4.2)
+
+式中: W,   顶部抗风圈的最小截面模数，(cma);
+
+H, —— fRRE ME, (m);
+
+D— iii A, (m);
+
+人 一一基本风压，(kPa)，取值应符合本标准第 7.5.10 条的规定。
+7.4.3 实际采用的顶部抗风圈的截面模数不应小于按式 (7.4.2) 的计算值。计算项部抗风圈的截面模
+数时,应计入顶部抗风圈上下两侧各 16 倍饶壁厚度范围内的饶壁截面积。当缸壁有厚度附加量时，计
+算时应扣除。
+7.4.4 当设置一道顶部抗风圈不能满足截面模数要求时，可设置多道，其间距不宣超过 2000 mm.
+多道顶部抗风圈截面模数总和不应小于按式〈7.4.2) 的计算值。
+7.4.5 顶部抗风圈的外周边缘可以是圆形或者多边形。抗风圈〈图 7.4.5) 可采用钢板、型钢或两者
+
+组合; 钢板最小名义厚度应为 Smm, 角钢的最小规格应为 63 mmX6 mm, 槽钢的最小规格应为 160 mm
+X60 mm X 6.5 mm.
+
+23
+
+SH/T 3046一2024
+
+‘
+16t
+‘35mm
+:                                                          】
+‘                                                 ‘
+
+16t                                                   16t                                                       16
+
+1                                                                           1                                                                                 ’
+
+t                                                                              ‘                                                                                t
+(a)
+
+(b)                          (ce)
+
+(d)                              (e)
+图 7.4.5 抗风圈截面型式示意图
+
+7.4.6 当项部抗风圈兼作走道时，其最小净宽度不应小于 650 mm，并应在外侧设置栏杆。抗风圈上
+表面不应存在影响人员行走的障碍物。
+7.4.7 顶部抗风圈水平铺板上应开设排液孔，孔径宜为 16mm~20mm。
+7.4.8 项部抗风圈自身部件的对接接头应采用带垫板的全焊透对接结构, 距饶壁纵焊缝的距离不应小
+于150mm。
+7.4.9 顶部抗风圈距缸壁环焊缝的距离不应小于 150 mm.
+7.4.10 顶部抗风力与缸壁的连接，上便应采用连续焊，下侧可采用间断焊。
+7.4.11 当盘梯穿过顶部抗风圈〈图 7.4.11) 时，抗风圈应开设盘梯洞口; 洞口处任意截面〈图 7.4.11
+中 A-A、B-B、C-C、D-D、E-E 截面等) 的截面模量不应小于按式〈7.4.2) 的计算值。
+
+24
+
+SH/T 3046一2024
+
+上                                  上
+了                                  1
+A                                  i
+1?                                  1
+--                        一一
+A-A                  D-D
+
+图 7.4.11 盘梯穿抗风圈示意图
+7.4.12 盘梯洞口处的缸壁应采用角钢加强，加强角钢两端伸出洞外的距离不应小于抗风圈的最小宽
+FE; 加强用角钢的尺寸不应小于负壁包边角钢的尺寸。
+7.4.13 顶部抗风圈腹板开洞边缘应进行加强,加强件有效截面积不应小于所在位置 32 AE PE
+围内的截面积。加强件之间、加强件与腹板之间及加强件与缸壁之间应进行双面连续满角焊。
+7.4.14 顶部抗风圈应设置垂直支撑。支撑间距应满足顶部抗风圈上活动荷载及项荷载的要求，且支
+撑间距不应超过顶部抗风圈外侧边缘构件竖向尺寸的 24 倍。支撑应避开饶壁纵焊缝。
+7.4.15 顶部抗风转盘梯洞口无防护侧应设置栏杆。
+7.5 镀壁中间抗风力
+7.5.1 固定项和内浮项储缸应将缸壁全高作为风力稳定核算区间;敞口储负应将顶部抗风圈以下的缸
+壁作为风力稳定核算区间。当设置多个顶部抗风圈时，应将最下部的抗风圈以下的缸壁作为风力稳定
+核算区间。
+7.5.2 核算区间的饶壁简体许用临界压力应按下列公式计算:
+
+25
+[p,]=1648-P {               (7.5.2-1)
+H;\D
+H,= Hg                                                 (7.5.2-2)
+25
+H, = af “a ]                                                                   (7.5.2-3)
+
+ste: [P,] 一一核算区间镀壁简体的许用临界压力，(kPa);
+Hy, 一“核算区间饶壁向体的当量高度，(m;
+{vin 一一核算区间最薄圈负壁板的有效厚度，(mm);
+第i圈弘壁板的有效厚度，(mm);
+太一一第i圈匀壁板的实际高度，(m);
+及; 一“第i圈锥壁板的当量高度，(m)。
+
+7.5.3 饶壁简体的设计外压应按下列公式计算:
+a) 对敞口的外浮顶储饶
+
+fi
+
+P, =3.375 1.0,                                          (753-1)
+b) AER AY PS iE
+25
+
+SH/T 3046一2024
+
+P,=2.254.0,                             (7.5.3-2)
+c]) FR CE PA a Sis eT Aa a
+P=2.25u.0,+q                                                (7.5.3-3)
+
+式中: P, 一一铅壁简体的设计外压，(kPa);
+Cu 一一基本风压，(kPa)，取值应符合本标准第 7.5.11 条的规定;
+
+/一一风压高度变化系数，取值应符合本标准第 7.5.12 条的规定;
+设计真空负压的绝对值，(kPa)，取储负负项部呼吸闪负压设定值的 1.2 倍，且不应超
+过 0.49 kPa.
+7.5.4 BRE (0 448 AA TAP i FPS 9 A BS FD AAD TST a hs AS EP TST AL
+Pad 2 WB BR 1) 6 00 TAP Ui RS 7} ED ATT Sh IY, REPEAL BCR, PTDL
+PAPEL CE HR SE (7.5.4) 计算。
+
+n=INT (P,/[P..])                            (7.5.4)
+StH: P, 一一饶壁简体的设计外压，(kPa);
+INT一一取整函数，
+n一一中间抗风圈数量。
+7.5.5 设有中间抗风圈的饶壁, 沿高度方向被分隔成(n+1)段, 每一段饶壁的当量高度应按照式(7.5.5)
+计算。
+He=HE/ (n+1)                             (7.5.5)
+式中:
+He----设置中间抗风圈后，每段缸壁简体的当量高度，(my);
+HeE----核算区间镀壁简体的当量高度，(m);
+7.5.6 中间抗风圈在尔壁上的实际位置，应符合下列规定:
+a) “当中间抗风圈位于最薄的饶壁板上时，其距离上面一个加强截面的实际距离应等于式〈7.5.5)
+的计算值。
+b) 当中间抗风圈不在最薄鲜壁板上时，其距离上面一个加强截面的实际距离，应采用式〈7.5.6)
+的计算方法进行换算，按照相邻两个中间抗风圈之间跨越的不同缸壁厚度分别换算后，合计
+得出实际距离。
+2.5
+fi                      (7.5.6)
+
+‘min
+
+h, = Hal
+
+式中，
+ja ----相邻两个中间抗风圈之间跨越的第i 圈负壁的实际高度，(mmy);
+及is----相邻两个中间抗风圈之间跨越的第 RARE BE HY ETRE, Cm);
+全---相邻两个中间抗风圈之间跨越的第i PB A TA IEE, Cm);
+imin----核算区间最薄圈饶壁板的有效厚度，(mm)。
+c) 中间抗风转距饶壁环焊颖的距离不应小于 150 mm。当需要调整中间抗风圈的实际位置时，应
+
+对调整后的相邻两个中间抗风圈之间的饶壁简体重新进行抗风稳定校核。
+
+7.5.7 中间抗风圈的最小截面尺寸应符合表 7.5.7 的规定。
+
+表7.5.7_中间抗风圈的最小截面尺十
+
+26
+
+SH/T 3046一2024
+
+20<DS<36                                           L125*80x8
+
+36<D<48                                 160*100*10
+
+48<D<60                                           .200«125*12
+            aaa
+
+7.5.8 FETT) 7c PRP yw 01) SE Be AC HE A NY a RL ZS FT SRP Ep BBE SK
+
+全熔透。
+
+中间抗风圈水平翼向外的排水坡度不宜小于 5/1000。
+
+7.5.9 当中间抗风围断面采用与顶部抗风圈类似结构时, 其结构设计还应符合顶部抗风圈的相关要求。
+
+7.5.10
+7.5.11
+a)
+
+b)
+c)
+
+7.5.12
+a)
+
+12MnNiVR dee EE AY TASB OR Q345R。
+
+基本风压取值应符合下列规定:
+
+基本风压应采用现行国家标准《建筑结构荷载规范》GB 50009 重现期为 50 年的风压值，但
+不应小于 0.3 kPa。此外，还应考虑建缸地区地理位置和当地气象条件的影响;
+
+当建设地点没有风荷载资料时，应根据附近地区规定的基本风压或长期资料，通过气象和地
+形条件的对比分析确定;
+
+当所设计储缸由于受狭管效应影响而导致风力增强时，应将基本风压乘以 1.2 的调整系数。
+风压高度变化系数 /应按下列规定选用:
+
+对于平坦或稍有起伏的地形，风压高度变化系数应根据储饶高度及地面粗糙度类别按表
+7.5.12-1 确定，中间值应采用插入法。地面粗糙度可分为A、B、C、D 四类: A 类指近海海
+面和海岛、海岸、湖岸及沙漠地区; B 类指田野、乡村、丛林、丘陵以及房屋比较稀疏的乡
+镇; C 类指有密集建筑群的城市市区，D 类指有密集建筑群且房屋较高的城市市区。
+
+27
+
+SH/T 3046一2024
+
+表7.5.12-1 风压高度变化系数 vw,
+地面粗糙度类别
+
+离地面或海平面高度 Cm)
+
+b) 对于建在山区的储缸，风压高度变化系数可按平坦地面的粗糙度类别，按表 7.5.12-1 确定后
+再乘以修正系数7 。修正系数可按照下列要求取值:
+1) 山间盆地、谷地等闭塞地形，7 =0.75~0.85;
+2) 对于与风向一致的谷口、山口，7 =1.20;
+3) 山峰和山坡等其它部位，可取刀=1.00一1.6。
+c) “对于远海海面和海岛的储饶，风压高度变化系数可按 A 类粗糙度类别，按表 7.5.12-1 确定外
+还应乘以表 7.5.12-2 中给出的修正系数。
+表7.5.12-2 ”远海海面和海岛的修正系数7
+
+8 固定项
+
+8.1 一般规定
+8.1.1 储饶的固定项结构可采用自支撑式锥项、柱支撑式锥顶或自支撑式拱项。
+28
+
+SH/T 3046一2024
+
+8.1.2 镀项板及其支撑构件的名义厚度不应小于 5 mm。
+8.1.3 固定项的计算内压应取设计内压与缸项单位面积的重力之差, 设计正压力不应低于 1. 2 倍呼吸
+阀的呼气开启压力。
+8.1.4 固定项的计算外压应取饶项单位面积的重力与附加载荷之和，且应符合下列要求
+
+a) “当饶项有隔热层时，镀项单位面积的重力应计入隔热层的重力，
+
+b) 当内浮顶采用饶顶悬挂式支撑时，鲜项单位面积的重力应计入内浮顶及其附件的重力;
+
+c) 附加载荷取值不应小于 1.25 kPa。当雪载荷超过 0.6 kPa 时，超过部分应额外计入;悬挂式内
+
+浮项上可能的积液载荷应计入。
+
+8.1.5 顶板问的连接可采用对接或搭接。采用搭接时，搭接宽度不应小于 5 倍板厚，且实际拱接宽度
+不应小于 25 mm; 项板外表面的搭接缝应采用连续满角焊，内表面的搭接缝可根据使用要求及结构受
+力情况确定焊接形式。缸项瓜皮板自身的拼接焊缝应为全焊透对接结构。
+8.1.6 饶顶与负壁的连接宣采用图 8.1.6 所示结构，结构件和壳板自身的拼接焊缝应为全焊透对接结
+构。
+
+29
+
+SH/T 3046一2024
+
+mo
+1
+'
+(g)                                  (h)                                   (i)
+符号;和一一角钢水平肢厚度;
+血一一加强扁钢厚度;
+大一一顶部壁板厚度;
+身一一镑顶板的厚度;
+一一匀壁上端加厚壁板厚度，
+Re      THRE RE EG:
+
+Ry ——ill Ti $5 WERE SE $e Sb HAE TTA OY HN EEE, Ro=Re/sinO;
+0 SB THT 5 SER SE 8 Aah OE TH SAK OF TH ZT BI IE Fs
+We   HAE AE FH ARAB AY IRA HELE, We=0.6(Rete)°> BR We=0.6(Rets)”:
+Wy, lilt HAFAN TL BG PAB FY HAC BEE, I W=0.3( Roth) 与 300 的较小值;
+Wor 一一宜取 0.6(Rztbj"%s，但不应大于 0.9(Rety)S
+注1: 图中长度单位为 mm，角度单位为";
+注2: 承受内压时为抗压环，承受外压时为抗拉环。
+图 8.1.6”饶顶与饶壁连接结构及其有效截面积示意图
+8.1.7 HET SHER SERA IN. DAE AP LE:
+a) 直径三15 m Hf, GLB BER:
+1) EREAD THETA IAF 1/6;
+2) JC PELE REE REA DY) 6 mm;
+3) BRETT SCHR EAS i 5 Ga TT HE es
+4) 顶板与包边角钢仅在外侧连续角焊，且焊脚尺寸不应大于 5 mm，内侧不应焊接;
+5) 连接结构仅限于图 8.1.6 PIER (a)、(b)、(c)、(d) 四种情况，且应满足式〈8.1.7) BR:
+ms
+~ 2nR‘,, tan
+
+(8.1.7)
+
+式中: 4 —— iif 15] 45 fe REE Be Ach Fy ALL TLR, (mm);
+
+m, 一一 SPREAD cH RE ETT SCO CALF ETI ATH, (kg);
+a 一一 圆周率，取 3.1415;
+
+30
+
+SH/T 3046一2024
+
+Ri, 一一 镀顶和缸壁连接处材料标准在设计温度下的屈服强度下限值，(MPa);
+8 一一 饶顶与饶壁连接处缸顶与水平面之间的夹角，(”);
+8 一一重力加速度，取 g=9.81, ( mAs2)。
+b) 直径过9m 但小于 15 m 且为自锚固的储饶，除应满足 8.1.7 条 a 款 2) ~5)的要求外，还应满
+足下列要求:
+1) 饶壁高度应大于或等于9 ml;
+2) 连接处的缸顶坡度不应大于 1/16;
+3) 与铅体连接的附件(包括接管、人和孔等)应能够满足缸体竖向位移 100mm 时不发生破坏;
+4) 缸底板应采用对接结构，且在储饶提离过程中镀底板不发生强度破坏。
+c) 与上述 b)款对应，对于直径小于 15 m 且为自锚固的储缸，应满足下列要求:
+1) 满足8.1.7条a款的全部要求;
+2) 应进行弹性分析，确认在空缸条件下缸壁与饶底连接接头处强度不应小于缸壁与缸顶连
+接接头处强度的 1.5 倍，满饶条件下铅壁与镑底连接接头处强度不应小于缸壁与缸项连接接头处强度
+的 2.5 倍;
+3) 与镀体连接的附件(包括接管、人和孔等)应能够满足缸体竖向位移 100mm 时不发生破坏;
+4) 饶底板应采用对接结构，且在储缸提离过程中饶底板不发生强度破坏。
+d) 除8.1.7条a)、b)、c) 款所述情况外，其他采用锚固的储饶，应满足下列要求
+1) 满足8.1.7条a款的全部要求;
+2) 锚固和配重应按照 3 倍缸顶破坏压力进行设计。缸项破坏压力按照附录 A.7 的规定确定。
+©) 除8.1.7条a)、b)、c)、d)款所述情况外，其他采用锚固的储缸，应满足下列要求:
+1) 应进行弹性分析确认，在空缸条件下饶壁与饶底连接接头处强度不应小于缸壁与负顶连
+接接头处强度的 1.5 倍，满缸条件下饶壁与饶底连接接头处强度不应小于饶壁与饶项连接接头处强度
+的 2.5 fi;
+2) 锚固和配重应按照 3 AE ARETE HEAT WT 5 A TL SAN AS Hy ae I AS aE BT EA 的
+规定确定，或采用弹性分析方法确定。
+8.1.8 密闭固定顶储饶通气装置的设置，应符合下列规定:
+a) “储饶应设置适当的通气装置，通气能力应满足正常操作的要求;
+b) 当镑项与缸壁连接结构不满足本标准第 8.1.7 条弱连接的规定，且所设置的通气装置不能满
+足紧急通气要求时，应设置紧急通气装置
+c) 紧急通气装置的设定压力，不应大于饶壁底部不被抬起的最大压力 PR ，且不应大于 0.8 售
+的计算破坏压力 P, 。
+HE: Pha» Py 见本标准附录 A.
+8.2 构件的许用应力
+8.2.1 许用拉应力不应大于 140 MPa.
+8.2.2 许用压应力应符合下列规定;
+a) “不考虑压杆侧向稳定时，不应大于 140 MPa;
+b) 考虑压杆侧向稳定时，受压构件的许用压应力计算应符合下列要求:
+1) 4 Lr 小于或等于 120 时，受压构件的许用压应力应按下式计算:
+
+31
+
+SH/T 3046一2024
+
+Ly
+lol, -  Ls)
+
+24                                     (8.2.2-1)
+到
+
+2) 当Lr大于120，且小于或等于 130 时，受压构件的许用压应力应按下式计算;
+
+LY
+ae 232 .7
+34700 | F,
+
+[o], = -一一一一                                (8.2.22)
+
+16-15 <}
+200\.r
+
+3) 当Lr大于 130时，受压构件的许用压应力应按下式计算:
+
+[o], ee                        (8.2.2-3)
+gg
+y rte |e (|                                 (8.2.2-4)
+
+3
+p-5 Gi) eid                (8.2.2-5)
+eh: [c]。_“受压构件的许用压应力(MPa);
+ 一一受压构件的无支撑长度(mm);
+7一一受压构件截面的最小回转半径(mm);
+玉一一安全系数;
+7y 一受压构件类型系数: 型钢及型钢组合件，斑1.0;， 钢管，当 tyRo>0.015 I, Y=1.0;
+当 to/Ro<O.015 时，按式 (8.2.2-4) 计算;
+和一一钢管有效厚度 mm)，不应小于 4.5 mm，当用作无侧向支撑的重要受压构件时，不应
+小于6 mm;
+R, 一一钢管外半径(mm)。
+主要受压构件，Z/ 不应大于 150; 斜撑等次要受压构件，Z/值不应大于 200。
+
+8.2.3 许用弯曲应力应符合下列规定:
+a) 荷载作用面内有对称轴的型钢或组合构件(图 8.2.3)，许用弯曲应力不应大于 1S4MPa,，侧向无
+支撑长度不应大于翼缘宽度访 的 13 倍; 并应满足下列公式的要求:
+& S17                    (8.2.3-1)
+
+t
+
+32
+
+SH/T 3046—2024
+“y <70                                                    (8.2.3-2)
+
+TA: b, —— REE EC mm);
+t, —— RAG RFE (mm);
+hy      BR PY fd LAR Heh Emm);
+ty —— RAY UE BE (mm).
+
+IL |   I |    I |     [ |
+1             '              '             '
+(a) H 型钢         Cb) 薄腹梁          (c) 工字型钢         (d) 模型钢
+图 8.2.3 常用抗膏曲构件尺寸示意图
+b) 非对称构件〈角钢、模钢) 的许用弯曲应力为 140MPa，且侧向无支撑长度不应大于受压避
+缘宽度的 13 倍。
+8.2.4 许用剪应力应满足下列要求:
+
+a) “hy 小于或等于 600, ，或腹板上有加强肋时，许用剪应力不应大于 91 MPa;
+b) SAL AF 60t, ，或腹板上无加强肋时，许用前应力应满足下式要求;
+
+V,
+Ke 3?                                    8.2.4
+A                                                                     人
+
+式中: 扩一一 总前切力(N);
+
+A,        腹板的总截面积mm2);
+
+hy      HE AY fi SEAR Te EE (mm);
+
+ty 一一 REA WR AEE (mm).
+8.3 自支撑式锥项
+
+8.3.1 饶顶水平倾角 0 应满足，9.3S <O<37 。
+8.3.2 缸顶板的计算厚度应按式 8.3.2 计算，且不含腐蚀容量的饶顶板厚度不应大于 13mm。
+
+1, = 70? |                  (83.2)
+sind \1000E'
+
+式中:   tu 一一饶顶板的计算厚度mm);
+
+33
+
+SH/T 3046一2024
+
+7 一一负顶的计算外压，(kPa)，取值见本标准 8.1.4 条;
+D 一一储馆内径，(m);
+已: 一一镑顶材料在设计温度下弹性模量，(MPa);
+O 一一镑顶与饶壁连接处缸顶与水平面之间的夹角(”)。
+8.3.3 饶顶与缸壁板连接处承压环有效截面积应满足式 8.3.3 的要求:
+TD? x10°
+之
+8[cjtan0
+
+(8.3.3)
+
+式中，4 一一按图 8.1.6 确定的有效面积，(mm2);
+[o] 一一材料许用应力，(MPa)，取设计温度下 1/1.6 材料标准届服强度下限值;
+7 — 饶顶的计算外压，(kPa) ，取值见本标准 8.1.4条，
+D 一一储饶内径，(m);
+0 一一镑顶与饶壁连接处缸顶与水平面之间的夹角，(” )。
+8.4 柱支撑式锥顶
+8.4.1 饶顶的坡度不应小于 1/16。
+8.4.2 镀顶主要支撑构件包括栋条，可为型钢、钢管、焊接组合件或枯架，强度及稳定性计算的许用
+应力应符合本标准第 8.2 节的规定。
+8.4.3 与饶顶板直接接触的述条，属于下列情况时，应设置侧向支撑;
+a) MPRA MIRAGE:
+b) 高度大于 380mm MHA;
+c) 饶项坡度大于 1/6 时的栋条。
+8.4.4 饶顶支柱的柱脚应采用导向支座限位，且不应与支座相焊。当采用钢管制作缸项支柱时，支柱
+上应设置排气孔、排液孔或制成密闭式支柱。
+8.4.5 导向支座结构型式〈图 8.4.5)，应满足下列要求:
+a) 图8.4.5 (a) 所示结构，当承载板厚度不小于 12mm 时，可兼做垫板，不另设垫板;
+b) 图8.4.5 (b)、(c) 所示结构应设置厚度不小于 6mm 的垫板;
+c) 支柱应能沿导向套垂直方向自由移动;
+d) 导向套与饶底板不应直接相焊。当支柱与缸底板相对位移达到 75mm 时，导向套应能有效阻
+止支柱沿横向滑移。
+
+(a)
+
+34
+
+SH/T 3046一2024
+
+(b)
+
+(c)
+TE: 1 此处不焊。
+图 8.4.5 导向支座结构示意图
+1-支柱，2-导向套， 3-7RRRR: 4TH: 5-H
+
+8.4.6 缸顶板及其加强构件不应与缸顶板的支撑构件固定连接。
+8.4.7 相邻栋条中心的间距, 按外圆弧计算时,最外圈不应大于 2000mm, 其余各圈不应大于 1700mm。
+8.4.8 地震设防地区，述条之间设置联结拉杆应符合下列规定;
+
+a) 最外圈相邻栋条〈工字钢除外) 之间均应设置联结拉杆;
+
+b) 联结拉杆应采用直径不小于 20mm 的圆钢或同等强度的构件制成。
+
+8.5 自支撑式拱项
+8.5.1 自支撑式拱项包括光面球壳、带肋球壳和单层球面网克，拱项球面的曲率半径宜为 0.8一1.2
+fei FL»
+
+8.5.2 交面球壳项板的计算厚度应按式 8.5.2 Th, AN RR oe EE TA EAN 13mm.
+
+t,, =4000R,, [7                                         (8.5.2)
+*V 1000"
+
+35
+
+SH/T 3046一2024
+
+式中: 6 一一负顶板的计算厚度，(mm);
+
+R, 一一负顶球面的曲率半径，(m);
+
+7 一一镑项的计算外压，(kPa) ，取值见本标准 8.1.4条。
+8.5.3 饶顶与饶壁连接处承压环的有效截面积应满足式 8.5.3 BOK:
+
+42 TD? x10°
+glcjsgo
+sth: A 一图 8.1.6 所示结构的有效面积，(mm32);
+[c] 一材料许用应力，(MPaj，取设计温度下 1/1.6 材料标准屈服强度下限值
+7 一“外顶的计算外压，(kPa);
+D 一储饶内径，(m);
+6 ET SWRA RMT SZ AICS, C+)
+8.5.4，带肋球壳的曲率半径不宜大于 40m, ELGRMER EAR ELA 40m. APU BRIEAY Boe EEL MT
+应符合本标准附录 D 的规定。
+8.5.5 钢制单层球面网壳的设计应符合《空间网格结构技术规程》JGJ 7 的相关规定。采用单层球面
+网壳的储缸直径不宜大于 80m，并同时应满足下列规定，
+a) 球面网壳应采用刚接节点，相邻节点之间的网杆长细比不应大于 1503
+b) 球面网壳的边环梁应满足强度与刚度要求，并应与网壳结构一起进行整体计算;
+c) 球面网壳应采用空间梁系有限元进行计算，结构内力与位移可按弹性理论进行计算;网壳结
+构的整体稳定性计算应考虑结构非线性的影响，进行荷载一位移全过程分析
+d) 球面网壳鲜项在外压设计荷载作用下，应符合下列规定;
+1) 网壳许用挠度不应大于储饶内径的 0.0025 倍;
+2) 网壳任意部位的应力不应超过相应材料的许用应力，许用应力值取 U1.6 网过所用材料在
+设计温度下标准届服强度下限值;
+3) 网壳各元件不应发生局部失稳;
+4) 网壳整体稳定的安全系数不应低于 1.65。
+e) 当设计基本地震加速度大于或等于 0.2g 时, 直径大于 50m 的单层球面网壳应进行竖向及水
+向抗震计算;
+f)，对于常压储弘，网壳上表面的蒙皮与网壳结构之间不应有任何焊接，蒙皮周边与边环梁之间，
+外表面应连续角焊，焊脚高度不应超过 Smm，内表面不应进行焊接。
+
+9 外浮项
+
+9.1 一般规定
+
+9.1.1 本章适用于单盘式外浮项和双盘式外浮顶及其附件的设计。
+
+9.1.2 隔舱的结构设计，在满足强度、稳定性和抗沉性能的前提下，应方便施工,减少在隔舱内的焊
+接工作量。
+
+9.1.3 浮顶应能够在最高液位和最低液位之间自由浮动, 并在此期间不应损伤浮项、缸体及附件的任
+何部分，有互相摩擦的元件，应选用摩擦不会产生火花的材料。
+
+9.1.4 除自动通气阅和边缘呼吸阀外, 浮顶上的所有穿透浮顶的贯穿件下部应插入液面, 与液体接触
+的贯穿件壁厚不应小于 6mm。贯穿件在浮项上部如存在间隙时应采取密封措施 在正常设计条件下贯
+
+36
+
+(8.5.3)
+
+=
+
+
+SH/T 3046一2024
+
+穿件不应使储液倒流到浮项上。
+9.1.5 浮顶在操作中不应与缸内附件相碰，并应有足够的距离。
+9.1.6 浮项上的所有金属部件与浮顶均应互相电气连通; 浮项上开口附件的活动盖板应与浮顶进行电
+气连接。
+9.1.7 浮顶处于漂浮状态时，下表面应与储液全面接触。
+9.1.8 浮顶浮力计算应符合下列规定:
+) 当储存液体的密度大于或等于 700kg/m3 时，应按 700 kg/m? it Sf;
+b) 当储存液体的密度小于 700 kg/m3 时，应按实际密度计算;
+c) 设计单盘安装高度时，应按储液实际密度进行计算。
+9.1.9 单盘式浮顶的设计应满足下列要求，
+a) “当排水管失效时，浮顶应能承受 24h 内降水量为 230mm 的雨水荷载而不沉没;
+b) 在浮顶上没有雨水荷载和活荷载的情况下，单盘板和任意两个隔舱同时泄漏时，浮项应能漂
+浮在液面上不沉没;
+c) 在上述两种情况下，浮项不应发生强度和稳定性破坏。
+9.1.10 双盘式浮项的设计应满足下列要求:
+a) “当排水管失效时, 浮项应能承受 24h 内降水量为 230mm 的雨水荷载而不沉没; 对设置紧急排
+水设施的浮项，可不受此条件限制，但紧急排水设施的排水能力应使浮项上存留的积水荷载
+小于浮顶设计所人允许的积水荷载;
+b) 在浮项上没有雨水荷载和活荷载的情况下，浮项任意两个隔舱同时泄漏时，浮项应能漂浮在
+液面上不沉没;
+c) 在上述两种情况下，浮顶不应发生强度和稳定性破坏。
+9.1.11 浮项上管口直径大于 80 mm 时应补强。
+9.1.12 单盘式浮项的单盘板设计应考虑风载荷产生的疲劳影响，必要时应设置加强筋。
+9.1.13 在寒冷多雪地区，浮项的设计应考虑冰雪载荷的影响，必要时应设置去除冰雪设施或采取防
+止冰雪不均匀集聚的措施。
+9.1.14 在台风暴雨多发地区，浮顶的设计应考虑台风和暴雨的县加影响，必要时应采取减轻雨水不
+均匀集聚的措施。
+9.2 浮顶的结构与连接
+9.2.1 浮顶的隔舱顶板、隔舱底板和单盘板的名义厚度不应小于 Smm, 实际搭接宽度不应小于25mm;
+隔舱顶板应有不小于 15/1000 的排水坡度，最外圈隔舱顶板的排水坡度应指向浮顶中心。
+9.2.2 隔舱底板、隔舱顶板以及单盘板的搭接焊颖，上表面应采用连续满角焊，下表面可采用间断焊
+或密封焊， 支柱和其它刚性较大的构件周围 300mm 范围内，单盘板上下表面的搭接焊缝侧均应采用
+连续满角焊。对于储存腐蚀性介质如高含硫原油的储缸，浮项底板和单盘板下表面搭接焊颖间断焊的
+未焊接处亦应采用密封焊或其他可靠密封措施。
+9.2.3 单盘式浮顶的所有隔舱, 应分别满足气密性要求。单盘式浮顶浮舱底板的搭接焊缝在内外边缘
+板处应改为对接焊颖〈参见图 6.2.6-1)。单盘式浮顶浮舱径向隔板与浮舱底板的角焊缝宜在浮舱同一
+侧采用连续满角焊，另一侧采用间断焊。
+9.2.4 双盘式浮顶密封隔舱的数量应符合本标准第 9.1.10 条中有关浮力的规定, 且至少最外圈隔舱应
+为密封隔舱，每个密封隔舱应分别满足气密性要求。双盘式浮项隔舱的环向隔板、径向隔板与浮舱底
+板的角焊缝宜在浮舱同一侧采用连续满角焊，另一侧采用间断焊，且连续角焊缝在环向隔板与径向隔
+板相交处沿环向隔板或径向隔板厚度方向应全焊透。
+9.2.5 外边缘板与浮项底板之间的焊缝应采用双面连续焊;单盘式浮项的内边缘板与浮顶底板之间的
+
+37
+
+SH/T 3046一2024
+
+焊缝应采用双面连续焊。
+9.2.6 浮舱内、外边缘板和环形隔板本身的拼接，应采用全熔透对接焊缝。
+9.3 浮顶支柱
+9.3.1 浮顶支柱应能承受浮项自重和作用于浮项上 1.2 kPa 的均布附加荷载。计算支柱稳定性时，应
+考虑单个支柱承载的不均匀性影响。
+9.3.2 浮顶支柱的最小安装高度应满足施工和检维修的需求,浮项外边缘底部距饶底上表面的垂直距
+离不宜小于 1.8 m。
+9.3.3 浮顶支柱的长细比不应大于 150。当用钢管制作支柱时, 单盘支柱的规格不宜小于中70x6 mm,
+浮舱支柱规格不宜小于中89x6 mm。
+9.3.4 支柱套管伸出浮项上表面的高度, 应高于浮项最大允许积水量时的积水液面, 且不应使储液游
+流到浮项上。支柱套管浸入储液的深度不应小于 100mm.
+9.3.5 支柱套管通过浮项处应局部加强。支柱套管与单盘板连接处应设置筋板;支柱套管通过浮舱时，
+应设置连接板将支柱套管与术架或浮舱隔板相连接。
+9.3.6 支柱正下方的缸底板上，应设置厚度不小于 8 mm，直径不小于 500 mm 的垫板，垫板周边与
+饶底板之间应采用连续角焊缝。
+9.3.7 用钢管制作的支柱上端应盲死，下端言死或开设排油口。支柱与套管上端的间隙处应密封。
+9.4 浮项排水系统
+9.4.1 浮顶应设置浮项排水系统。排水管规格及数量应根据建缸地区的降雨强度按浮项处于支撑状态
+确定，且不宣小于表 9.4.1 的要求。
+
+表9.4.1 浮项排水管的规格和数量
+
+FRI
+2
+
+40 <D<80                               DN100
+
+D>80                        DN150           |
+
+9.4.2 浮项排水系统应能够在浮项浮动全行程内正常工作。当浮顶由于意外事故原因处于可能的最高
+位时，浮项排水系统不应发生破坏。
+9.4.3 浮项排水管可选用下列结构形式，
+a) ”旋转接头连接刚性管式;
+b) 挠性接头连接刚性管式;
+c) 整根带保护外套挠性软管式，
+9.4.4 浮项排水管出水口应设置切断闪，单盘式浮顶排水管进水口应设置单向阀。
+9.4.5 UHRA I, RRL RMA, WAM RABE.
+9.4.6 单向阀应设置在集水坑内，阀前应有过滤装置。
+9.4.7 旋转接头应有良好的密封性能和足够的强度，且转动灵活。
+9.4.8 用于浮顶排水管的整根搁性软管或局部挠性接头应具有足够的抗外压能力。
+9.4.9 整根带保护外套挠性软管应具有适宜的刚度, 保护外套可采用不锈钢铠装结构或其他经验证的
+可靠形式。整根带保护外套挠性软管在浮项上下浮动过程中保持稳定的运动轨迹，并经过可靠的运动
+轨迹稳定性试验验证，运行轨迹变动差值不宜大于 Im.
+9.4.10 浮项排水管在任何位置，均不应与缸内部件相碰撞，当采用整根搁性软管时，应采取有效保
+护措施。
+9.4.11 双盘式浮顶集水坑应设置在浮顶项板坡度的最低点;当浮项顶板坡度具有多个坡向时，每个
+
+38
+
+SH/T 3046一2024
+
+坡向的低点均应设置集水坑。单盘式浮顶集水坑位置应考虑转动扶梯等不均匀载荷的影响。当设置多
+个集水坑时，集水坑宣在浮项上均布。当设置辅助集水坑将雨水导向主集水坑时，连接管道不应穿过
+浮舱隔板，且应在连接主辅集水坑的连接管道上设置单向闪，单向赣应能防止雨水从主集水坑排向辅
+集水坑。
+
+9.4.12 浮顶排水管设计时应考虑介质进出储饶及搅拌设施带来的液体扰动影响。当采用旋转接头结
+构形式时，浮顶排水管宜采用双排管平行布置方式。
+
+9.4.13 浮顶排水管在缸壁引出管及其负底上连接管道的设计应考虑储负充液后缸壁变形和基础不均
+匀沉降或饶底变形的影响，浮项下部的连接管道应考虑单盘板变形的影响。
+
+9.5 浮项紧急排水装置
+
+9.5.1 有暴雨的地区，双盘式浮项上应设置紧急排水装置。紧急排水装置的规格及数量，应根据建饶
+地区的降雨强度和浮项设计时考虑的雨水载荷大小确定。
+
+9.5.2 紧急排水装置应具有水封及防止储液倒流到浮项上的功能, 并应能够在操作中维护更换易损件。
+9.5.3 双盘式浮顶紧急排水装置的安装高度，应保证外边缘板至少高出浮顶最高积水液面 30 mm.
+9.5.4 紧急排水装置的材质宣采用奥氏体不锈钢。
+
+9.6 转动扶梯及轨道
+
+9.6.1 浮项与缸壁顶部平台之问应设置转动扶梯，转动扶梯通道净宽度不应小于 650 mm.
+
+9.6.2 当浮项处于最低位置时，转动扶梯的仰角不宜大于 55"。
+
+9.6.3 扶梯应有足够的强度和刚度。当扶梯处于任何位置时，应能承受 5 kN 的集中荷载。
+
+9.6.4 沿扶梯全长两侧应装设栏杆和扶手。在浮顶升降过程中,踏步板应能自动保持水平，且应有足
+够的强度和刚度。踏步板可采用镀锌钢格栅板或花纹钢板制作 。
+
+9.6.5 扶梯滚轮外缘，应采用摩擦或碰撞时不产生火花的材料，并应考虑滑动副的润滑要求。
+9.6.6 当扶梯在最低位置和最高位置时，轨道两端必须有足够的富余长度。
+
+9.6.7 扶梯设计时应考虑风载荷带来的震动和倾覆影响，轨道结构应能防止滚轮脱轨。
+
+9.6.8 扶梯轨道应有足够的刚度,支撑应有适当的高度。当设置轨道铺板时，应采取适宣的防止雨水
+积存的措施。
+
+9.7 自动通气阀
+
+9.7.1 浮顶上应设置自动通气阀。自动通气阁数量和流通面积应按介质收发时的最大流量和介质特性
+确定; 当浮顶从漂浮状态回到支撑状态时，通气阀应能自动开启; 当浮顶从支撑状态回到漂浮状态时，
+通气阀应能自动关闭。
+
+9.7.2 自动通气阀阀盖的开启高度，应使闪盖和间体之间的流通面积大于闪体通径的流通面积。
+9.7.3 用钢管制作的自动通气阀闽杆应两端言死,或上端盲死、下端开设能排除积液的缺口。闽杆正
+下方的饶底板上，应设置厚度不小于 8 mm 的垫板，垫板周边与饶底板之间应采用连续角焊缝。
+9.7.4 浮顶处于漂浮状态下, 自动通气阀阀盖和阀体之间应密封良好, 阀盖与闪体之间应设置柔性垫
+片。
+
+9.7.5 在有相对摩擦运动的两零件中，至少应有一个零件采用摩擦、碰撞时不产生火花的材料制作。
+9.7.6 自动通气阀阀盖和阁体之问应采用截面积不小于 10 mame? 的导线进行电气连接。
+
+9.7.7 当密封环形空间处单独设置非自动启闭的通气设施时，应配置带阻火功能的呼吸阀。
+
+9.7.8 单盘式浮项应采取措施，防止在浮项处于漂浮状态下由于单盘板变形造成其下部积存油气。可
+采用设置单盘呼吸闪或设置单盘加强筋等措施。
+
+9.8 导向及限位装置
+
+9.8.1 浮项上应设置能保持其与储饶体同心位置并防止其转动的导向及限位装置。
+
+9.8.2 当采用导向管为导向及限位装置时,数量宜为 2 根, 均匀布置在浮顶周边。导向装置底座与导
+
+39
+
+SH/T 3046一2024
+
+向管之间宜采用滚动摩擦的滚轮结构，每根导向管的滚轮数量应为2组。
+9.8.3 导向管应能够承受浮项转动扶梯、浮顶排水系统、不均匀冰雪载荷、风载荷、液体进出储饶造
+成的水平侧向力，并应考虑饶壁圆度、基础沉降、温差、浮项积水变形的因素的影响。
+9.8.4 浮顶外边缘应设置具有限位功能的装置。当浮顶配置机械式乔蜡装置时,其结构设计可一同考
+虑。
+9.8.5 导向管兼具量油管或雷达液位计导波管的功能时, 其结构设计尚应满足量油、仪表设置的相应
+要求。
+9.8.6 当储饶需要进行抗震设计时，导向管的结构设计还应计入浮项晃动倾斜的影响。
+9.9 边缘密封及静电导出装置
+9.9.1 浮顶与缸壁之间的环形空间, 应装设密封装置。 在浮项外边缘板与负壁之间的环形空间径向间
+距偏差为+100 mm 时，密封装置应仍能保持良好密封效果。
+9.9.2 浮顶与饶壁之问的环形空间水平密封间距选取应以边缘密封具有良好的密封效果为原则,按照
+所选取的密封结构特点和对环形空间间距偏差的适应能力确定，一般宜取 200~300 mm。
+9.9.3 储存对环境有害的挥发性液体时，浮项边缘密封应采用一次密封加二次密封结构。
+9.9.4 一次密封结构宜采用以下密封型式:
+
+a) “软泡沫密封;
+
+b) 充液管式密封;
+
+c) “机械式密封;
+
+d 弹力板式密封;
+9.9.5 当采用钢滑板机械式一次密封时，在浮项正常漂浮状态下，钢滑板应插入液面 100 mm 以上;
+钢滑板宜采用 1.5 mm一2 mm 的镀锌薄钢板或 1.0 mm一1.5 mm 不锈钢沙钢板制作。钢滑板与浮顶之间
+应采用截面积不小于 10 mm? 的软铜电缆线进行连接，沿内壁间距不宜大于 3 m。镀锌薄钢板应符合
+现行国家标准《连续热镀锌和锌合金镀层钢板及钢带》GB/T 2518 的要求，不锈钢钢板应符合现行国
+家标准《不锈钢冷轧钢板和钢带》GB/T 3280 的要求。
+9.9.6 当一次密封采用非金属材料制成的软泡沫密封时，应采用浸液式安装结构。
+9.9.7 当一次密封采用充液管式密封时，所采用的密封液应不污染所储存介质。
+9.9.8 浮顶与饶壁之间应采用至少两条截面积不小于 50 mam? 的带护套软铜电缆线进行连接，导线与
+金属件连接处应牢固可靠，并应具有和良好的导电性能。
+9.9.9 二次密封应配设能密闭密封环形空间连续分布的油气隔膜.二次密封的紧固件应采用奥氏体不
+锈钢; 在腐蚀较严重的场合，二次密封的支撑板也应采用奥氏体不锈钢。
+9.9.10 密封装置采用的材料应耐油、耐腐蚀且不污染介质。
+9.9.11 一次密封的丁且橡胶包袋应符合现行行业标准《浮项油缸软密封装置橡胶密封带》 HG/T 2809
+的相关要求; 泡沫塑料应符合现行国家标准《通用软质聚氨酯泡沫塑料》GB/T 10802 的相关要求，并
+应在设计文件中明确类别和等级。当采用氟橡胶材质的包袋时，应在设计文件中规定其技术指标。
+9.9.12 密封带的接头应采用与本体等强度的连接，接头应粘结可靠，搭接宽度不应小于 300mm.
+
+9.10 浮项人孔
+
+9.10.1 浮项上应设置能进入储饶内部的浮项人孔。确定人孔直径时，应考虑检维修人员和设备的进
+出，任何情况下其内直径不应小于 600 mm。
+
+9.10.2 浮顶人孔的数量可按照表 9.10.2 选取。设置多个人孔时，宣均匀分布。
+
+二
+
+40
+
+SH/T 3046一2024
+
+表9.10.2 “浮项人孔的数量
+fit ELE Cm)
+
+D三40
+
+40 <DS80
+
+D>80
+
+9.10.3 浮顶人孔的法兰和法兰盖之间应设置密封垫片，采用螺栓进行紧固。
+
+9.10.4 人和孔的安装高度不宜小于 300 mm，人和孔内应设置直梯，直梯下端距饶底板之间应留有足够
+的距离。
+
+9. 10.5 人扎法兰盖与人孔简体或法兰之间应采用截面积不小于 10 mm? 的导线进行电气连接。
+
+9.11 浮舱人和孔
+
+9.11.1 每个浮舱应至少设置 1 个公称直径不小于 600 mm ft AFL.
+
+9.11.2 当人和孔无防水密封时，人和孔径的高度应高于浮项上允许积水的液面高度。
+
+9.11.3 人孔盖应采用防风和防止消防水冲开的结构。
+
+9.11.4 人和孔盖采用气密结构时，浮舱应设置排气孔，排气孔结构应能防止在正常设计条件下储液进
+入浮舱，且应能防止消防水进入浮舱。
+
+11.5 人孔盖与人孔简体或法兰之间应采用截面积不小于 10 mmz 的导线进行电气连接。
+
+12 刊蜡装置
+
+12.1 对缸壁上可能产生凝油的储负，浮项外缘处应设置刊蜡装置。刊蜡装置可采用机械刮蜡。
+12.2 刊蜡装置不应影响浮顶的正常运行，且不应与缸内任何附件相碰。
+
+12.3 刊蜡装置重锤的方位应避开饶壁人孔。
+
+13 ”泡沫挡板
+
+13.1 浮项上部边缘应沿圆周设置泡沫挡板。泡沫挡板距离缸壁的距离宜为 1000 mm，高度应高于
+边缘密封顶部 200 mm.
+
+9.13.2 泡沫挡板可采用厚度 3~4 mm 钢板制作，顶部宣设置角钢加强，沿圆周应设置筋板加强; 泡
+沫挡板底部沿圆周应开设排水槽，排水槽大小宜为 253 mmx12 mm，间距宜不大于 1 me
+
+9.13.3 泡沫挡板沿圆周宣设置 2 处跨越挡板的踏步及扶手。
+
+9.13.4 位于转动扶梯下侧的泡沫挡板材质宣采用铝材制作。
+
+9.13.5 在浮顶处于最高设计液位的条件下，泡沫挡板项部不应与转动扶梯底部相碰。
+
+10 内浮顶
+
+10.1 一般规定
+
+10.1.1 本部分规定适用于单盘式内浮项、双盘式内浮项、浮简式内浮项、浮箱式内浮项、金属峰策
+式内浮顶、整体加强模块式不锈钢双盘内浮项和玻璃钢内浮顶。
+
+10.1.2 内浮顶在全行程上应能无阻碍地正常运行，在升降和静止时应处于水平漂浮状态。
+
+10.1.3 内浮项及其附件所选用的材料应与所存储介质相适应。
+
+10.1.4 内浮项上所有直接与介质液相或气相接触的接缝应具有气密性，并应检验其严密性。
+10.1.5 非全液面接触式内浮项外边缘板、浮项支柱及浮项上的所有贯穿性管口接管，伸入液面的深
+度不应小于 100 mm; 自动通气阀伸入液面的深度宜为 20 mm.
+
+10.1.6 内浮顶外边缘板、浮项支柱及浮顶上的所有贯穿性管口接管，应至少高出设计液面 150mm 。
+10.1.7 内浮顶上的所有金属件均应相互电气连通，并通过缸体与缸外部接地件相连。静电导出线还
+应符合下列规定;
+
+oo
+
+41
+
+SH/T 3046一2024
+
+a) “静电导出线通过环形密封区与缸壁相连时，不应少于4组;
+
+b) 静电导出线与固定顶相连时，不应少于2 组，且应均匀分布。静电导出线应采用截面积不小
+
+于 25mm? 的软铜电费线，但对于装配式内浮顶，静电导出线可采用直径不小于中5 mm 的不锈钢
+
+钢丝绳。
+
+c) “静电导线应满足强度、挠人性、电阻、耐腐蚀性、连接的可靠性以及使用寿命的要求。
+10.1.8 内浮项上的所有可移动的金属盖板，如人孔、通气孔、呼吸阀等管口盖板，应分别与内浮顶
+进行电气连通。
+
+10.1.9 除蜂梨式内浮项和玻璃钢内浮项外，本标准中提及的其它型式内浮项的任一密闭浮力元件可
+设置可燃气体检查孔。
+10.1.10 内浮项应设浮项支柱或缸项悬挂式支撑, 浮项支柱可为固定高度式或可调高度式。当内浮项
+处于最低支撑高度时，浮顶及其下部附件不应与储缸相碰撞; 当浮项处于最高设计液位高度时，浮项
+及其上部附件不应与固定项相碰撞。
+10.1.11 单盘式浮项应采取措施，防止在浮项处于漂浮状态下由于单盘板变形造成其下部积存油气。
+10.1.12 在支撑状态和漂浮状态下，内浮项上任何部位均应能承受在 0.1 m? 范围内不小于 2.2 kN 的
+集中活荷载。对于直径小于 10 m 的内浮项，集中活载荷可根据操作工况适当减小。
+10.1.13 进行浮力计算时，设计储液密度应按本标准第 9.1.8 条规定选取。
+10.1.14 内浮顶的设计浮力不应小于其自重的 2 倍外加边缘密封装置等与负壁的摩擦力。
+10.1.15 支柱、导向装置等穿过内浮顶时，在通过内浮项处应加设密封。
+10.1.16 当内浮项上部可能积液而需要排液时，内浮顶上应设置排液装置，将积液导入镀内。
+10.1.17 内浮顶材料及部件最小名义厚度应符合表 10.1.17 的规定。
+表10. 1.17 内浮项材料及部件最小名义厚度
+
+部位                   最小名义厚度
+
+(mm)
+全
+oe         其它部位
+蒙皮板
+浮力元件"
+
+与储液蒸汽或储液接触的部位
+连接部位
+
+8: 不锈钢和铝合金浮箱式内浮项箱体项盖板最小名义厚度可为 0. 6mm;
+
+10.1.18 内浮顶元件的连接设计应符合下列规定
+a) ”内浮项的连接可采用焊接、螺栓连接、螺纹连接、钾接、压接或粘接，粘接仅适用于玻璃钢
+内浮项，所有的连接方式和连接工艺均应经工艺评定验证其可靠性，
+
+42
+
+SH/T 3046一2024
+
+b) 不同材质元件之间的焊接应符合现行国家相关标准的规定
+c) ”不锈钢元件之间连接、不锈钢元件与非不锈钢元件之问连接应采用奥氏体不锈钢工具进行紧
+固，铝合金元件之间连接应采用铝合金工具或奥氏体不锈钢工具进行紧固
+
+d)，铝合金元件和碳钢之间应采用奥氏体不锈钢垫圈或橡胶板等类似材料进行隔离。
+
+©) 金属浮简、浮箱等浮力元件有气密性要求的接缝连接方式应采用焊接。
+10.1. 19 在支撑状态下，内浮项本体及支柱应能支撑浮项自重和 1.0 kPa 均布附加荷载; 均布附加荷
+载不应与本标准 10.1.12 条的集中载荷须加。
+10.1.20 内浮顶支柱的长细比不应大于 150。
+10.1.21 当内浮顶采用具有气密性的弹力板式密封时, 应在边缘密封气相空间和内浮项上方气相空间
+之间设置气相压力平衡设施，控制二者之间的压差低于设定值。
+10.1.22 密闭式内浮顶储缸〈即不设置通气孔时)，内浮顶结构设计时应考虑饶内浮项上部气相空间
+压力对内浮项的作用。
+10.1. 23 内浮顶储饶应采取高液位保护措施如设置高液位报警。
+10. 1. 24 全液面接触式内浮顶应将浮顶下方可能存在的局部油气空间做最小化处理。
+10.2 单盘式和双盘式内浮项
+10.2.1 单盘式内浮顶任何两个隔舱和单盘同时泄漏后，双盘式内浮项任何两个隔舱泄漏后，内浮项
+应能保持结构的完整性，仍能漂浮在液面上，且不应发生强度和稳定性破坏 。
+10.2.2 单盘式内浮顶设计单盘安装高度时，应按储液实际密度进行计算。
+10.2.3 隔舱底板、隔舱顶板以及单盘板的搭接焊终，上表面应采用连续满角焊，下表面可采用间断
+焊或密封焊; 支柱和其它刚性较大的构件周围 300 mm 范围内，上下表面的搭接焊缝侧均应采用连续
+满角焊。对于储存腐蚀性介质的储缸，浮项底板和单盘板的搭接焊颖下表面间断焊的未焊接处尚应采
+用密封焊或其他可靠措施进行密封。
+10.2.4 单盘式内浮顶的所有隔舱，应分别满足气密性要求。单盘式内浮项浮舱底板的搭接焊颖在内
+外边缘板处应改为对接焊缝〈参见图 6.2.6-1)。单盘式内浮顶浮舱径向隔板与浮舱底板的角焊缝宜在
+浮舱同一侧采用连续满角焊，另一侧采用间断焊。
+10.2.5 双盘式内浮顶密封隔舱的数量应符合本标准第 10.2.1 条中有关浮力的规定，且至少最外圈隔
+舱应为密封隔舱，密封隔舱应分别满足气密性要求。双盘式内浮顶隔舱环向隔板、径向隔板与浮舱底
+板的角焊缝宜一侧采用连续满角焊，另一侧采用间断焊，且连续角焊颖在环向隔板与径向隔板相交处
+沿环向隔板或径向隔板厚度方向应全焊透。
+10.2.6 ”外边缘板与浮顶底板之间的焊缝应采用双面连续焊;， 单盘式内浮顶的内边缘板与浮顶底板之
+间的焊缝应采用双面连续焊。
+10.2.7 浮舱内、外边缘板和环形隔板本身的拼接，应采用全熔透对接焊缝。
+10.2.8 内浮顶支柱的最低安装高度应满足施工和检维修的需求。当内浮项处于检维修支撑状态下，
+内浮顶外边缘底部距饶底上表面的垂直距离不宜小于 1.8 m。
+10. 2.9”碳素钢支柱的规格不宜小于中70x6 mm; 不锈钢支柱的规格不宜小于中70x4 mm.
+10.2. 10 支柱套管通过的浮项处应局部加强。
+10.2.11 支柱正下方的缸底板上，应设置厚度不小于 8 mm，直径不小于 500 mm 的垫板; 垫板周边
+与镑底板之间应采用连续角焊缝。
+10.2.12 钢管制作的支柱上端应盲死，下端言死或开设排油口。支柱与套管上端的间隙处应密封。
+10.2.13 支柱套管与单盘板连接处应设置筋板; 支柱套管通过浮舱时, 应设置连接板将支柱套管与析
+架或浮舱隔板相连接。
+10.2.14 单盘式内浮顶应采取措施, 防止在内浮项处于漂浮状态下由于单盘板变形造成其下部积存油
+
+43
+
+SH/T 3046一2024
+
+气。
+
+10.3 ”装配式内浮项
+10.3.1
+
+a)
+b)
+
+c)
+d)
+
+e)
+f)
+
+g)
+
+h)
+
+10. 3.2
+
+a)
+
+b)
+
+c)
+d)
+e)
+
+g)
+h)
+i)
+j)
+
+k)
+
+10.3.3
+
+44
+
+a)
+
+b)
+
+c)
+
+d)
+
+通用要求
+
+储饶进液扩散管出口流速不应大于 1 m/s;
+
+可调式支柱应能够在内浮项上方调整支撑高度，采用饶顶悬挂时，应能在饶顶调整内浮项的
+最低悬挂高度。
+
+采用可调式支柱时缸壁上应设置高位带芯人和孔;
+
+支柱应按其承受的各种荷载工况校核轴向压应力、稳定性、连接螺栓的前切强度和连接件的
+强度;
+
+内浮顶支柱宣采用铝管、不锈钢管或玻璃钢材质制做，支柱的外径不应小于 40 mm;
+
+铝制内浮项支柱厚度不应小于 3 mm，不锈钢内浮顶支柱厚度不应小于 2.5 mm，玻璃钢浮项
+支柱厚度不应小于 10 mm;
+
+支柱连接处或穿过内浮顶处应局部加强。支柱的下端应开设排液口，并设置绝缘的非金属脚
+垫; 支柱上端应盲死;
+
+当对内浮项有防火等性能要求时，内浮项尚应满足规定条件下的防火性能要求。
+
+浮简式内浮顶
+
+浮简式内浮顶本体应至少包括分散布置的浮简、梁、支撑和连续的密封盖板、边缘构件等组
+件。内浮顶的浮力应由浮简提供，密封性应由密封盖板提供，浮简式内浮顶应符合非全液面
+接触式内浮顶特征;
+
+任意两个浮筒泄漏后，内浮顶应仍能漂浮在液面上，不应发生强度和稳定性破坏，且不应产
+生附加危害;
+
+浮简式内浮项的每一个浮简应分别满足气密性要求，并应对产品进行严密性检验;
+
+浮简布置宣均匀，但在有集中载荷的部位应增加浮管数量，使所有浮管的浸液深度宜一致;
+浮简的直径应与边缘构件的高度相匹配。浮简的浸液深度不应小于 50 mm;
+
+铝制浮简的直径宜取 200~250 mm，不锈钢制浮简的直径宜取 200~320 mm;
+
+铝制浮简封头的厚度不应小于 2.0 mm; 不锈钢浮简封头的厚度不应小于 1.8 mm;
+
+井字形内浮顶主梁间距不应大于 1500 mm，副梁间距不宜大于 4000 mm;
+
+三角形内浮顶主梁夹角不应大于 60 度，副梁间距不宜大于 1600 mm;
+
+铝制边缘构件宜采用型材断面或型材断面与板材组合，不锈钢边缘构件宜采用由板材制成的
+型材，
+
+内浮顶边缘构件处应设置支柱，支柱沿圆周方向的间距不宜大于 3500 mm，内浮顶内部支柱
+间距不宜大于 5000 mm。人和孔附近的支柱宜加密;，
+
+所有连接部位的螺栓和螺母材质均应为奥氏体不锈钢。
+
+浮箱式内浮顶
+
+浮箱式内浮顶本体应至少包括分散布置的支撑、连续布置的浮箱模块单元 〈或浮箱模块单元
+与梁) 和边缘构件等组件，内浮项的浮力和密封性均应由连续布置的浮箱模块单元或浮箱
+模块单元与梁) 提供，浮箱式内浮项应符合全液面接触式内浮顶特征;
+
+任意两个浮箱模块单元泄漏后，内浮顶应仍能漂浮在液面上，不应发生强度和稳定性破坏，
+且不应产生附加危害;
+
+浮箱式内浮顶的每一个浮箱模块单元应分别满足气密性要求，并应对产品进行严密性检验。
+当一个浮箱模块单元内设有数个独立的浮力单元时，每个独立的浮力单元应分别满足气密性
+BER;
+
+浮箱模块单元之间的连接应严密可靠, 箱体结构和连接结构设计应能防止内浮顶在使用中浮
+
+
+g)
+
+h)
+
+j
+10.3.4
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+iD
+jd
+
+k)
+
+10.3.5
+
+a)
+
+b)
+
+c)
+
+d)
+
+SH/T 3046一2024
+
+箱模块单元之间的密封性能降低或失效;
+
+浮箱模块单元可采用整体挤压成形、焊接成形或二者的组合;
+
+浮箱式内浮项的支柱应与浮箱梁连接;
+
+浮箱式内浮项箱体模块单元结构和尺寸确定时，除应满足自身和内浮顶整体强度、刚度的要
+求外，尚应考虑方便安装等因素，当箱体模块单元尺寸超过饶壁人孔尺寸时，宣在饶项设置
+料孔;
+
+浮箱式内浮顶箱体模块内部可采用筋板等构件加强，且加强件的设置不应妨碍对箱体模块自
+身拼颖严密性的检验，加强构件与箱体形成的空间不应被认为是独立的浮力单元;
+
+所有连接部位的螺栓和螺母材质均应为奥氏体不锈钢;
+
+浮箱模块的厚度不宜小于 90mm。
+
+金属蜂划式内浮项
+
+金属蜂梨式内浮顶本体应至少包括分散布置的支撑、连续布置的上下层金属壳体与金属峰梨
+芯共同形成蜂梨浮力单元模块和边缘构件等组件。金属蜂梨式内浮顶应符合全液面接触式内
+浮顶特征
+
+金属蜂巢芯自身单元之间应采用焊接连接方式，蜂梨芯单元之间应具有气密性，泄漏率不应
+高于 5%;
+
+金属蜂划芯与上下表层金属壳体应采用焊接连接方式，焊接后应形成相互间密闭的蜂划浮力
+单元，蜂梨浮力单元的闭孔率不应低于 95%
+
+蜂梨芯与蜂巢上下表层壳体焊接后形成的蜂梨浮力单元模块不需进行气密试验;
+
+蜂虽浮力单元模块的闭孔率可采用超声检测或解剖试验等可靠的方式进行验证;
+
+金属蜂梨芯自身单元之间的连接方式、金属蜂昌芯与上下表层金属碗体之间的连接方式都应
+进行连接工艺可靠性评定验证;
+
+金属蜂划浮力单元模块应进行夹层材料滚简剥离强度试验、弯曲强度试验、弯曲疲劳试验、
+平拉强度试验、平压强度试验。弯曲疲劳试验结果以连接处不应发生疲劳开裂为合格，平压
+强度试验结果应满足浮项承受局部载荷和储缸内压载荷的要求;
+
+金属峰梨式内浮顶结构强度设计应以本条 h) 款的测试数据为依据，安全系数不低于 1.5;
+金属蜂梨浮力单元模块之问的连接应严密可靠，模块结构和连接结构设计应能防止内浮项在
+使用中模块单元之间的密封性能降低或失效
+
+金属蜂梨式内浮项的支柱应与梁连接;
+
+金属蜂划浮力单元结构和尺寸确定时，除应满足自身和内浮顶整体强度、刚度的要求外，尚
+应考虑方便安装等因素，当箱体模块单元尺寸超过缸壁人孔尺寸时，宣在缸顶设置料孔;
+金属蜂梨浮力单元模块的厚度不宜小于 90mm。
+
+整体加强模块式不锈钢双盘内浮项
+
+整体加强模块式不锈钢双盘内浮顶应至少包括分散布置的支撑、连续布置的整体加强浮力元
+件和承力结构一体化模块和边缘构件等组件，整体加强模块式不锈钢双盘内浮顶应符合全液
+面接触式内浮顶特征;
+
+整体加强浮力元件和承力结构一体化模块外部由不锈钢板包覆焊接形成密闭箱体，内部应布
+满起加强作用的连通蜂划芯等加强件，加强件应与箱体面板连接牢固;
+
+整体加强模块式不锈钢双盘内浮顶不设置单独加强梁。一体化模块及其相互之间的连接应具
+有足够的强度和刚度，承受并传递规定的载荷，必要时应对支柱处模块进行局部加强;
+整体加强浮力元件和承力结构一体化模块单元之间的连接应严密可靠，一体化模块单元结构
+和连接结构设计应能防止内浮项在使用中一体化模块单元之间的密封性能降低或失效;
+
+45
+
+SH/T 3046一2024
+
+e)
+
+c)
+d)
+
+e)
+f)
+
+g)
+h)
+
+a
+
+P)
+
+q)
+
+任意两个整体加强浮力元件和承力结构一体化模块单元泄漏后, 内浮项应仍能漂浮在液面上，
+不应发生强度和稳定性破坏，且不应产生附加危害;
+
+整体加强浮力元件和承力结构一体化模块单元应满足气密性要求，并应对产品进行严密性检
+验;
+
+一体化模块单元结构和尺寸确定时，除应满足自身和内浮顶整体强度、刚度的要求外，尚应
+考虑方便安装等因素; 当一体化模块单元尺寸超过缸壁人孔尺寸时，宣在缸顶设置进料孔;
+整体加强模块式不锈钢双盘内浮项的一体化模块厚度不宜小于 120mm。
+
+玻璃钢内浮项
+
+玻璃钢内浮项应采用蜂划式内浮顶结构
+
+玻璃钢内浮顶本体应至少包括分散布置的支撑、连续布置的上下层复合材料壳体与蜂梨芯共
+同形成浮力单元和边缘构件等组件，玻璃钢内浮项应符合全液面接触式内浮顶特征，内浮顶
+浮力单元结构从上至下依次为导静电阻燃层、上层玻璃钢结构层、蜂窝芯层、下层玻璃钢结
+构层、导静电防腐层;
+
+玻璃钢蜂巢式内浮项的蜂梨上下表层壳体应具有气密性和液密性;
+
+蜂巢芯自身单元之间应采用粘接等可靠连接方式，蜂梨芯单元之间应具有气密性，泄漏率不
+应高于 5%:
+
+蜂巢芯与上下表层复合材料壳体应采用粘接等可靠连接方式，连接后应形成相互间密闭的蜂
+巢浮力单元，蜂某浮力单元的闭孔率不应低于 95%;
+
+蜂巢芯与蜂巢上下表层壳体连接后形成的蜂梨浮力单元玻璃钢模块不需进行气密试验;
+玻璃钢蜂巢浮力单元模块的闭孔率可采用解剖试验等可靠的方式进行验证;
+
+蜂梨芯自身单元之间的连接方式、蜂梨芯与上下表层复合材料壳体之间的连接方式都应进行
+连接工艺可靠性评定验证;
+
+玻璃钢浮力单元模块应进行弯曲强度试验、平压强度试验。平压强度试验结果应满足浮顶承
+受局部载荷和储饶内压载荷的要求;
+
+玻璃钢内浮项结构强度设计应以本条 i) 款的测试数据为依据;
+
+当采用玻璃钢浮力单元模块现场组装时，模块之间应采用粘接工艺进行连接，并应进行连接
+工艺可靠性评定验证，连接接头强度和刚度不应低于模块自身的强度和刚度;
+
+玻璃钢蜂巢式内浮顶盘板的表面电阻宜为 10"一10?9 ;
+
+玻璃钢浮力元件模块的厚度不宜小于 80 mm;
+
+玻璃钢内浮项的支柱与内浮项的连接宣采用分体式结构，并应采用恰当的结构确保载荷分布
+aH,
+
+BOA A RATERS, AES AE ERR RA RS, FE EAT fe
+加强。
+
+玻璃钢内浮顶所用树脂的热变形温度应高于储饶设计温度 20°C DAL; 所选用树脂的引发剂、
+促进剂、固化剂等助剂应与树脂匹配;，当内浮项有阻燃性能要求时，外保护层应采用阻燃树
+脂或添加阻燃剂。
+
+玻璃钢内浮项的制造、 检验和试验可按照《纤维增强塑料设备和管道工程技术规范》GB 51160
+的有关规定执行。
+
+10.4 环形空间的密封
+
+10.4.1
+
+PANT Ti hea 5 BME RE ISA FEZ 2 i che, LL SAR AD EAP Uh SBT ET 28
+
+间径向间距偏差为+100mm 时，密封装置应仍能保持良好密封效果。饶壁内表面应清除可能会损伤密
+封或影响浮顶升降的凸起物。
+
+10.4.2
+
+46
+
+ASP Td aE ZT] SA TG 8 Vi) ka TD BB WI a A BEA ST BR
+
+SH/T 3046一2024
+
+按照所选取的密封结构特点和对环形空间间距偏差的适应能力确定，一般宜取 150~250 mm.
+10.4.3 密封材料应满足耐温、耐磨、耐腐蚀、阻燃、抗渗透、抗老化、抗静电等性能要求。
+10.4.4 密封宜采用以下密封型式:
+
+a) “软泡沫密封;
+
+b) 充液管式密封
+
+c) “机械式密封;
+
+d) 弹力板式密封。
+10.4.5 当采用钢滑板机械式一次密封时，在内浮项正常漂浮状态下，钢滑板应插入液面 100 mm 以
+上:; 钢滑板宣采用 1.0mm一1.5 mm 奥氏体不锈钢薄钢板制作。钢滑板与浮项之间应采用截面积不小于
+10 mm? 的软铜电缆线进行连接，沿内壁间距不宜大于 3 m。不锈钢钢板应符合《不锈钢冷轧钢板和钢
+带》GBMT 3280 的相关要求。
+10.4.6 当一次密封采用非金属材料制成的软泡沫密封时，宣采用浸液式结构。一次密封的丁且橡胶
+包袋应符合《浮顶油饶软密封装置橡胶密封带》HG/T 2809 的相关要求，泡沫塑料应符合《通用软质
+聚氨酯泡沫塑料》GB/T 10802 的相关要求，并应在设计文件中明确类别和等级。当采用氟橡胶及其他
+材质的包袋时，应在设计文件中规定其具体技术指标。
+10.4.7 当采用充液管式密封时，所采用的密封液应不污染所储存介质。
+10.4.8 当采用弹力板式一次密封时，滑动弹力板宣采用厚度为 0.5一1.0 mm 的 S30110 全硬化 CHD
+状态不锈钢制作，S30110 材料应符合《不锈钢冷轧钢板和钢带》GB/T 3280 要求。内浮顶正常漂浮状
+态下，滑动弹力板应插入液面不小于 100 mm。滑动弹力板与内浮顶之间应有可靠的电气连接。
+10.4.9 密封带的接头应采用与本体等强度的连接，接头应粘结可靠，搭接宽度不应小于 300 mm.
+接头连接方式宜采用热熔连接，当采用胶水粘接时，应对粘接工艺进行评定试验，试验内容至少包括
+粘接强度和粘接接头在介质中的耐久性试验。
+10.4.10 当设置二次密封时，二次密封结构可采用舌形密封。
+10.5 自动通气阀
+10. 5.1 内浮顶上应设置自动通气阀。自动通气阀数量和流通面积应按介质收发时的最大流量和介质
+特性确定，当浮顶从漂浮状态回到支撑状态时，通气阀应能自动开启; 当浮项从支撑状态回到漂浮状
+态时，通气阀应能自动关闭。
+10.5.2 自动通气阀阀盖的开启高度，应使闪盖和闪体之间的流通面积大于闪体通径的流通面积。
+10. 5.3 用钢管制作的自动通气阀闪杆应两端言死，或上端盲死、下端开设能排除积液的缺口。阀杆
+正下方的缸底板上，应设置厚度不小于 8 mm 的垫板，垫板周边与负底板之间应采用连续角焊缝。
+10.5.4 内浮顶处于漂浮状态下，自动通气阀阀盖和闪体之间应密封良好，阀盖与阀体接触处应设置
+密封热片。
+10. 5.5 在有相对摩擦运动的两零件中, 至少应有一个零件采用摩擦、碰撞时不产生火花的材料制作。
+10.5.6 自动通气阀阀盖和闽体之间应采用截面积不小于 10 mmz 的导线进行电气连接。
+10.5.7 当密封环形空间处单独设置非自动启闭的通气设施时，应配置带阻火功能的呼吸阀。
+10.6，通气孔
+10.6.1 无密闭要求的内浮顶储缸，应设置环向通气孔。环向通气孔应设置在设计液位以上的缸壁或
+固定项上。当环向通气孔设置在固定项上时，应不被积雪等杂物堵塞。通气孔应沿圆周均匀分布，间
+距应不大于 10m，且不应少于 4 个。通气孔的总有效通气面积应满足下式要求;
+10.6.2 无密闭要求的内浮顶储缸，应在固定顶中心最高位置设置缸项通气孔，其有效通风面积不应
+小于 0.03m2。
+10.6.3 环向通气孔和镀项通气孔上应设置防雨雪壮，并配备 3 目/寸或 4 目/寸不锈钢丝网。
+
+47
+
+SH/T 3046—2024
+
+10.6.4 4 fie REF 1] FLA LARD, FP PL A CE BLE A ae
+10.6.5 Se UALR APF Ti fi LH FER TOR LL.
+10.7 导向及防旋转装置
+10.7.1 内浮顶应设置能保持其与储饶体同心位置并防止其转动的导向及限位装置。导向装置可采用
+钢管、缆绳或其它适当机构。
+10.7.2 导向装置穿过内浮顶处，应在内浮项上设置通过装置，通过处应密封良好。
+10.7.3 当采用导向管为导向及防旋转装置时，导向装置底座与导向管之间宣采用滚动摩擦的滚轮结
+构。导向管数量为 2 根时，均匀布置在内浮项的周缘附近，每根导向管的滚轮数量应为2 组，导向管
+数量为 1 根时，导向管的滚轮数量应为 3 组，成 120" 均匀布置。
+10.7.4 导向管可兼具量油管或雷达液位计导波管的功能。当兼具上述功能时，其结构设计尚应满足
+仪表设置的相应要求。
+10.7.5 当储饶需要进行抗震设计时，导向管的结构设计还应按照抗震要求进行校核。
+10.7.6 ”装配式内浮顶可采用钢缆绳作为导向及防旋装置。
+10.7.7 钢缆绳导向及防旋转装置应采用直径不小于中7 mm 的不锈钢丝绳，每台饶可设置2 ~4根。不
+锈钢丝绳应符合《不锈钢丝绳》GB/T 9944 的规定。
+10. 7. & 钢缆绳导向及防旋转装置靠近饶底板处应有弹答张紧装置，固定件的焊接应避开饶底板任意
+焊缝。弹簧张紧装置宜采用奥氏体不锈钢材质构件。
+10.7.9 钢缆绳导向及防旋转装置顶部应设有调节螺栓。
+10.7.10 导向及防旋转装置的钢丝绳穿过浮项处应在浮项上设置套管，套管应选用厚度不小于4 mm
+的铜管或不锈钢管、厚度不小于5 mm的铝管或厚度不小于8 mm的特氟龙管制造。
+10.7.11 侧壁开孔的导向管宜设置防止油气逸出的密闭保护措施, 可选用伸缩囊套、浮球止气阀等可
+靠措施。
+10.8 人孔和检查孔
+10. 8.1 内浮顶储饶浮项人和孔的设置应符合下列要求:
+
+a) ”内浮顶上应设置能进入储缸内部的浮项人孔。确定人孔尺寸大小时，应考虑检修人员和设备
+
+的进出，其公称直径不应小于 600 mm，采用方孔时不应小于 600 mmx500 mm.
+b) 内浮项人和孔的数量可按照表 10.8.1 选取。设置多个人孔时，宣均匀分布;
+表10.8.1 ”内浮项人和孔的数量
+ft Cm)
+
+D<40
+
+40 <D<80
+
+D>80
+
+c) 内浮项人和孔的法兰和法兰盖之间应设置密封热片，采用螺栓进行紧固;
+
+d) 人和孔应设置直梯，直梯下端距饶底板之间的距离宜为 200~300 mm。
+10.8.2 单盘式内浮项和双盘式内浮顶的每个浮舱应至少设置 1 个公称直径不小于 600 mm 且能从浮
+顶上方进入并检查浮舱内部并具有密封性的浮舱人孔，人和孔盖板上应设置适当的通气设施。
+10. 8. 3 人和孔法兰盖与人孔简体或法兰之间应采用和截面积不小于 10 mm? 的导线进行电气连接。
+10.8.4 内浮顶储缸的固定项上应设置人孔。用于检修时通风用人孔公称直径不应小于 600 mm; 当
+人员需要从固定项人孔进入储缸内时，人和孔公称直径不应小于 750 mm，且宣在人孔处设置牢固的软
+梯挂钩。当此人孔兼做检查孔时，设置位置与数量应符合 10.9.6 的要求。
+10.8.5 内浮顶储饶饶壁上应至少设置一个低位人孔，并宣设置 1 个高位带芯人和孔，内径均不应小于
+600 mm。高位带芯人孔应高于内浮顶最大支撑高度并不应妨碍浮顶运行。低位人和孔应位于内浮顶最小
+支撑高度以下。
+
+48
+
+
+SH/T 3046一2024
+
+10.8.6 固定项上宜设置目视检查孔。目视检查孔最大间距不应大于 20 m，沿圆周均布，且不宜少于
+2个。
+
+10.8.7 固定项上应设置采光孔，采光孔的尺寸不宜小于 DN750 mm，采光孔数量至少为2 个。采光
+孔可以兼做检查孔。
+
+10.9 量油取样设施
+
+10.9.1 内浮项上量油取样口的位置应与固定顶上的量油取样口的位置对中。内浮项上量油采样口的
+中心和固定顶量油孔的中心偏差不应大于 5 mm。
+
+10.9.2 内浮顶上的量油采样口宜采用侧壁密闭形式或顶部带密封的启闭结构。
+
+10. 10 ”入口扩散管
+
+10. 10.1 对于装配式式内浮顶储缸, 当储饶进液管内流速大于 lm/s 时, 应在进液管设置入口扩散管。
+10.10.2 入口扩散管端部宜斜切。
+
+10.11 泡沫挡板
+
+10.11.1 单盘式内浮顶和双盘式内浮顶项上部边缘应沿圆周设置泡沫挡板。泡沫挡板距离缸壁的距离
+宣为 800~1000 mm，高度应高于边缘密封顶部 200 mm.
+
+10.11.2 泡沫挡板可采用厚度 2~4 mm 钢板制作，项部宜设置角钢加强，沿圆周应设置筋板加强。
+10.11.3 当泡沫挡板高度超过 700 mm 时，沿泡沫挡板圆周宜设置 2 处跨越挡板的踏步及扶手。
+10.12.4 浮筒式内浮顶和不满足耐火要求的内浮项不应设置泡沫挡板 。
+
+11 附件
+
+11.1 一般规定
+11.1.1 承受外部管道或设备较大附加荷载的开孔接管，除应符合本部分规定外，还应采取减小局部
+附加荷载的措施。
+11.1.2 镑壁开孔补强圈应与开孔处镑壁板的材质相同。采用钢板卷制的大口径接管应与开孔处饶壁
+板的材质相同;采用无缝钢管的开孔接管宜与开孔处镀壁板的材质相近。
+11.1.3 接管法兰的公称压力及规格，应与所连接的管道或附件法兰相匹配。饶壁开孔接管用钢制法
+兰的压力等级，不宣低于 1.0MPa;， 饶顶开孔接管用钢制法兰的压力等级，不应低于 0.25 MPa; EE
+人和孔的压力等级，不宜低于 0.6MPa。
+11.1.4 所有开孔、接管和补强圈上的切割表面，应光滑平整并将棱角倒圆。
+11.1.5 补强圈应有信号孔，信号孔的设置应符合下列规定:
+
+a) “整块钢板制造的补强圈应有一个信号孔;
+
+b) 拼接的补强圈，每一拼接段上，应有 1 个信号孔;
+
+c) 信号孔宣为 M6~-M10 螺孔，宣位于开孔水平中心线上。
+11.1.6，采用焊接方法与饶体连接的附件，连接处宜加设垫板。垫板周边焊缝距饶壁环焊颖不应小于
+75mm，上距缸壁纵焊缝不应小于 150mm, 距开孔接管的补强圈角焊缝外缘不应小于 150mm。
+11.1.7 法兰密封垫片应选用耐温、阻燃的材料，并与储存介质相适应。垫片不应采用石棉或含有石
+棉的垫片。
+11.1.8 消防管道、仪表等附件的设置应避开人孔、平台梯子通道。
+11.1.9 当采用标准《补强圈》NB/AT 11025 的开孔补强圈时，其厚度应采用等面积补强法通过计算确
+定。
+
+11.2 PATER
+11.2.1 接管公称直径大于 50mm 的开孔应补强。
+
+49
+
+SH/T 3046一2024
+
+11.2.2
+a)
+
+开孔补强应按照等面积补强法进行设计，有效补强面积不应超出下列规定的范围,
+沿镑壁纵向，不应超出开孔中心线上、下各 1 倍开孔直径;
+
+b) 沿接管轴线方向，不应超出镑壁表面内、外两侧各 4 倍的管壁厚度。
+
+11. 2. 3 ”有效补强面积应乘以补强材料与饶壁材料许用应力之比，当比值大于 1.0 时应取 1.0，接管与
+饶壁材料标准屈服强度下限值之比小于 0.7 或抗拉强度之比小于 0.8 时,接管的富余壁厚不应作为补强
+面积。
+11. 2.4 两开孔之间的距离应满足下列要求;
+a) “两开孔至少 1 个有补强圈时，其最近角焊颖边缘之间的距离，不应小于较大焊脚尺寸的 8 倍
+且不应小于 150mm;
+b) 两开孔均无补强圈时，角焊缝边缘之间的距离不应小于 75mm。
+11.2.5 当任意两开孔之间的距离不能满足本标准第 11.2.4 条要求时，应采用联合补强，并应满足下
+列要求;
+a) “联合补强圈应能覆盖各开孔单独设置时的补强圈，且外缘平滑;
+b) 当任一开孔竖向中心线与其它开孔相交时，则联合补强圈在竖向中心线所在平面内的有效补
+强面积不应小于该平面内各孔单独开孔时所需补强面积的总和。
+11.2.6 缸壁开孔角焊颖外缘(当设有补强圈时，为补强圈角焊缝外缘)到缸壁纵环焊颖中心线的距离，
+应满足下列要求:
+a) HEAR JP ASF 12 mm，或接管与缸壁板焊后进行消除应力热处理时: 距纵焊缝不应小于
+150mm; 距环向焊缝不应小于壁板名义厚度的 2.5 倍，且不应小于 75mm;
+b) 当饶壁厚度大于 12mm，且接管与饶壁板焊后不进行消除应力热处理时: 应大于较大焊脚尺
+十的8 倍，且不应小于 250mm.
+11.2.7 负壁开孔到饶壁最下端角焊颖边缘的距离应满足下列要求:
+a) ”饶壁板材料标准屈服强度下限值小于或等于 390MPa BY, HERE A FLA A AS RES 11.3 节的
+规定，饶壁开孔应符合本标准 11.4 节的规定。
+b) ERR ane EIR GRE FBR AE 390MPa 时，饶壁开孔角焊颖外缘(当设有补强圈时，为
+补强圈角焊缝外缘)到缸壁最下端角焊颖边缘的距离，不应小于壁板名义厚度的 2.5 倍，且不
+应小于 75mm.
+11.2.8 负壁开孔接管与饶壁板、补强圈焊接完毕并检验合格后，属下列情况的应进行消除应力热处
+理:
+a) “标准屈服强度下限值小于或等于 390MPa, 饶壁板厚大于 32mm 且接管公称直径大于 300mm;
+b) “标准屈服强度下限值大于 390MPa，负壁板厚大于 12mm 且接管公称直径大于 5S0mm;
+c) 饶壁板厚大于 2Smm 的 16MnDR;
+d) FF MAIL.
+11.3 BBSEAFL
+11.3.1 GEREAGL CPA 11.3.1) 法兰盖、法兰及补强圈尺寸可按表 11.3.1 的规定选取。
+
+50
+
+i
+it
+1
+'
+’
+1
+1
+A
+i
+A
+详图I
+i]
+4
+详图 I                      详图 Ul
+
+注1: 补强圈应与饶壁曲率一致，
+
+注2: 可采用圆形补强圈
+
+注3: 此处倒圆角;
+
+注4: 当补强圈与缸壁角焊缝尺寸小于补强圈厚度时
+
+，在不影响焊缝的情况下倒成圆角;
+
+SH/T 3046一2024
+
+51
+
+SH/T 3046一2024
+
+注 5: 焊脚高度与较薄件厚度相等;
+注6: 法兰密封面最小宽度 20mm;
+注7: 焊颖形式及尺寸仅供参考。
+图 11.3.1 RREAGL
+
+表11.3.1 ”钒壁人孔法兰盖、法兰及补强圈尺寸 mm)
+螺栓孔中心 | 人和孔法兰盖                                    补强圈
+WIE | 及法兰直径 | 纵向长度或直径       横向宽度          圆角半径
+
+Ly                 Ww
+
+1370
+1675
+1980
+
+11.3.2 GRREAGL CPI 11.3.1) 法兰盖及法兰最小厚度宣符合表 11.3.2 的规定。
+表11. 3.2 MEARE BRAE RH) SE
+最高设计液位高度    人孔法兰盖最小厚度w Cmm)            法兰最小厚度f (mm)
+
+Hy
+(m)                           DN=600 | DN=750 | DN=900              DN=600                   DN=750                  DN=900
+%                                 10                    12                    14                        7                             10                           12
+
+注1: 当储液相对密度大于 1.0 时，设计液位高度应乘以储液相对密度;
+注2: 中间数值可用线性内插法计算，
+注3: 厚度尺寸不含厚度附加量。
+11.3.3 HR RE AGL CA RAEPA 11.3.1) 角焊缝尺寸、缸壁板开孔直径及接管厚度宣符合表 11.3.3 的规
+
+定。
+
+表11.3.3 ”铅壁人孔角焊缝尺寸、钒壁板开孔直径及接管厚度 (mm)
+fa RE FR ASR LE   MP REARTFIL ELS         接管最小厚度
+
+当 2Ay 小于或等于 12mm
+时,为接管外径加 12mm;
+当2Ah大于12mm时，最小
+值为接管外径加 12mm,
+最大值为接管外径加 2An
+
+nw
+nw
+
+5
+6
+6
+6
+6
+6
+6
+8
+8
+
+ooooooo aon
+oo oo ooooo oo oo中
+
+
+SH/T 3046一2024
+
+当 2Ai 小于或等于 12mm
+时,为接管外径加 12mm;
+
+当2Ah大于12mm时，最小
+值为接管外径加 12mm, 最
+
+大值为接管外径加 2An
+
+注1: 中间数值，可用线性内插法计算;
+注2: 厚度尺寸不含厚度附加量。
+
+11.3.4 饶壁人孔紧固件的尺寸宜符合表 11.3.4 的规定
+表11.3.4    ESE A FLA (mm)
+aaa 直径             tt
+
+M20                               7               610
+M20                          22
+ia
+
+11.3.5 PRES PEL aA BR Ai Sy ity Re BZ Nia) SY TPES EP A ea PE RE AFL te 3 BY A EY Be 7] FED
+符合表 11.3.5 的规定。
+表11.3.5    SE AFL pil eB ee EAR A) BE (rm)
+
+人孔公称直径 DN                                 饶壁人孔中心线到缸底板的最小高度
+
+注 1: 尚应满足本标准 11.2.7 条的要求。
+
+11. 3.6 选用其它结构和尺寸的缸壁人孔时，应符合本标准第 11.1 节和第 11.2 节的规定。
+
+11.3.7 当在浮顶支撑高度以上的缸壁设置人孔时,人和孔应采用可防止损伤浮项边缘密封的带芯人孔。
+11.4 BEALS
+
+11.4.1 WEBEIPILPEE CPS 11.4.1-1、图 11.4.1-2) 及补强圈尺寸宣符合表 11.4.1 的规定。
+
+53
+
+SH/T 3046一2024
+
+’
+4
+i
+_
+'
+'
+IG                                             AE
+(a) 补强转
+
+村志江
+
+(b) 开孔接管图
+
+7 OT
+
+详图I
+
+SH/T 3046一2024
+
+1
+if PA
+ve PA
+
+(c) 焊接详图
+注1: 补强圈应与饶壁板曲率半径一致，
+注2: 低型补强圈，
+注3: 此处倒圆角;
+注4: 当补强圈与饶壁角焊颖尺寸小于补强围厚度时，在不影响焊颖的情况下倒成圆角;
+注5: 此处削边。
+图 11.4.1-1 ”公称直径不小于 50mm 的法兰连接饶壁开孔接管
+1-接管，2-补强圈，3-饶壁
+
+注1: C, 取两相焊件厚度的较小值，但不应大于 19mm
+注2: 焊颖型式及尺寸仅供参考。
+图 11.4.1-2 ”公称直径不大于 SOmm fyi REIT FL Be
+
+55
+
+SH/T 3046一2024
+
+表11.4.1 ”负壁开孔接管及补强圈尺十
+
+FEAL ty BE
+补强圈水 | ess) | 底的最小高度
+平方向展 | 法兰面最 | Hw Cmm)
+FEW] 小尺寸/
+(mm)
+
+补强圈孔 | 补强圈
+径 Dr       尺寸
+
+(mm)   ZiCmmy)
+
+Se        3
+
+内
+S
+
+接管外径
+加 3一
+4mm
+
+>
+
+38 WIE 2
+47 见注2
+
+[on]
+
+350
+[|
+[加
+ao
+re
+a
+Pwo
+| 20 | 3/4
+
+67 SRE 2
+
+79 WIE 2
+
+注1: 接管厚度见本标准表 11. 4. 2;
+
+注 2: 开孔直径小于或等于 50mm 时，不需补强，此时 DR 表示饶壁开孔直径，
+
+注3: 开孔中心到缸底的最小高度为材料标准最低屈服强度小于或等于 390MPa HEBEL 4
+壁材料标准最低届服强度大于 390MPa 时，不应采用低型缸壁开孔，标准型缸壁开孔应符合
+本标准 11. 2.7 条的规定;
+
+11.4.2 负壁开孔接管〈图 11.4.1-1、图 11.4.1-2 ) 及焊缝尺寸宜符合表 11.4.2 的规定。
+
+
+SH/T 3046一2024
+
+表11.4.2 ”镀壁开孔接管及焊缝尺寸 mm)
+
+饶壁板及补强圈 | DN700一DN1000 FF          弃壁板开孔直径                           开口公称直径 | 焊脚
+厚度          FLEE BIE ty                       ee          WORT By | 20一50 的焊颖 | 尺寸
+hk                                     Dp                              RF An        By
+
+1
+
+wn
+
+有补强圈时, 开口接管外径加
+
+12mm 为最小值,加焊缝尺寸
+
+Ey ft) 2 倍为最大值无补强圈
+时，见表 11.4.1注2
+
+oo 0中品Dea
+
+6
+6
+6
+6
+8
+8
+8
+8
+8          10
+8
+8
+8
+8
+8
+8
+8
+8
+
+注1: 公称直径 80mm~600mm, Eh 值不应大于 tn (tn 见本标准表 11.4. 1).
+
+11.4.3 选用其它结构及尺寸的缸壁开孔接管，应符合本标准第 11.1 节和第 11.2 节的规定。
+
+11.4.4 当开孔接管中心线不垂直于饶壁时，补强圈尺寸应加大，加大量应等于饶壁上所开椭圆孔的
+长径与本标准表 11.4.2 中规定尺寸 De之差，且在铅垂面内倾角不应大于 15。。
+
+11.5 齐平型清扫孔
+
+11.5.1 “fie FATAL (图 11.5.1) 时，清扫孔法兰、法兰盖和加强底板的厚度宜符合表 11.5.1-1
+的规定,清扫孔的结构尺寸宜符合表 11.5.1-2 的规定, 清扫孔所在饶壁板及补强板尺寸宜符合表 11.5.1-3
+的规定。
+
+57
+
+SH/T 3046一2024
+
+i
+了
+i
+i
+1
+'          4
+                           一二:一
+|        ，
+1                                一 王
+
+注1: 信号孔位置居中;
+
+注 2: 螺栓孔径应为螺栓直径加上 3mm;
+
+注3: 焊脚尺寸应符合本标准第 6.2.11 条的规定;
+
+注4: 当焊脚尺寸小于 te时此处倒圆角
+
+注 5: 设有环形边缘板时，底部加强板应成为环形边缘板的一部分并与边缘板等宽。
+注 6: 焊脚尺寸应等于较薄板的厚度，最大 13mm;
+
+注7: 接管上开 10”坡口，
+
+注8: 此处倒圆角;
+
+58
+
+SH/T 3046一2024
+
+注9: 此处为全焊透结构，负壁处焊缝麻平，
+注 10: 此处为全焊透结构;
+注11: 焊颖型式和尺寸仅供参考。
+图 11.5.1 清扫和孔
+1-鲜壁板，2-补强板，3-吊耳，4-缸底板，5-垫片，6-加强底板，7-法兰盖
+
+表 11.5.1-1 清扫孔法兰、法兰盖和加强底板的厚度 (mm)
+最高设计液位高度              203x406                        610x610
+bn          Paya a         加强底板         法兰及盖板         加强底板
+最小厚度          最小厚度         最小厚度         最小厚度
+
+ty by                                 foe                                  5                                    bee
+
+注1: 当储液相对密度大于 1.0时，设计液位高度应乘以储液相对密度，
+#2: 厚度尺寸不含厚度附加量。
+
+表11.5.1-2 ”清扫和孔的结构尺寸mm)
+
+SAE Fb a                 Z      _
+GRRE sha | 螺栓孔中| 、、   _
+开孔宽 | peg | 开孔上部         en      :      =    ci    特殊“| 螺栓数
+上     板展开长   mf 径   上部圆角半 | 心至边缘      | 法兰 | 螺孔间     螺栓
+度                机       am               Hi ge
+
+1168
+1828
+
+注: 当调整螺栓数量时，法兰及盖板尺寸应相应调整。
+
+11. 5. 2 ”采用其它结构与尺寸的清扫孔应符合下列规定:
+a) “开孔高度不宜大于 610mm;
+b) 开孔宽度不宜大于 900mm;
+c) 清扫孔上部的圆角半径应等于开和孔高度的 1/2。
+11. 5. 3 开孔上部需补强的面积应满足下式要求:
+4 > flit                 (11.5.3)
+2
+
+式中 仅一“开孔上部需补强的面积 〈不含壁厚附加量) Cmm2);
+按图 11.5.3 AMR;
+h 一一清扫孔高度 (mm);
+
+59
+
+SH/T 3046一2024
+
+表11.5.1-3 清扫孔所在缸壁板及补强板尺寸 mm)
+        设计该
+
+位高度
+
+(m)
+
+设计液位高度应乘以储液相对密度;
+
+60
+
+11.5.4
+11.5.5
+11.5.6
+
+式中:
+11.5.7
+11.5.8
+a)
+b)
+11.5.9
+
+SH/T 3046—2024
+
+as
+
+1.00
+
+123
+49D(H«-03)
+
+0.75
+
+0.50
+
+(HA8.8) D¥71.5
+1408h
+
+ki
+
+图 11.5.3 章平型清扫和孔补强面积系数捐
+补强板及孔颈厚度应与开孔处饶壁板厚度相同。
+清扫孔加强底板的最小宽度应为 2355mm 加上饶壁厚度和补强板厚度之和。
+清扫孔加强底板的计算厚度应按下式计算:
+
+h?      b
+=        — JH ，                              11.5.6
+‘» = 360000 1700                 cre)
+太一一加强底板的计算厚度mm);
+
+沿饶壁竖向有效补强范围不应大于 0.5 倍的清扫孔高度。
+有效补强金属应包括:
+饶壁补强板;
+
+长度等于饶壁及补强板厚度之和的孔颈板。
+清扫孔组合件上的缸壁板、补强板、加强底板及和孔颈板材质，应与底圈饶壁板相同。
+
+11. 5. 10 ”清扫孔盖板上不应连接有附加荷载的接管。
+
+11.5.11
+
+清扫和孔组合件〈可不含法兰) 全部焊接完毕并检验合格后，应进行消除应力热处理。
+
+11.5.12 清扫孔加强底板上表面应与相邻的缸底边缘板上表面齐平，清扫孔加强底板下面的饶基础，
+应根据加强底板下表面的形状进行局部开槽处理。
+11.6 固定项人和孔
+固定项人孔〈图 11.6.2) 尺寸宜符合表 11.6.1 的规定。
+oe  一一一
+
+螺栓孔中心 | 人和孔盖                           垫片内外    补强圈内
+“a         me                      A _* __|        孔径         直径           外径
+(个)                                    Dr/Li
+
+11.6.1
+
+人和孔
+ae
+
+11.6.2
+
+500/660             3515/1070
+610/760          625/1170
+760/910          1775/1370
+
+固定顶人孔〈图 11.6.2) 中心线应垂直于水平面。
+
+61
+
+SH/T 3046一2024
+
+了
+,全本   二|
+上
+CC )
+|
+©
+i )
+
+注 1: 缸顶人孔中心线应垂直于水平面。
+ 11.6.2 ETL AFL
+1-补强圈; 2-H THAR
+
+11.6.3 当固定顶与缸壁包边角钢连接处坡度大于 10 PERT, TET AFL CPS 11.6.2) 处应设置平台。
+
+11.7 固定顶开孔接管
+11.7.1 法兰连接固定顶开孔接管〈图 11.7. 1) 宣符合表 11.7.1 的规定。
+
+62
+
+SH/T 3046一2024
+
+Ca) 带补强圈
+,
+
+Cb) AMF eh ahh
+SE: 接管中心线应垂直于水平面。
+图 11.7.1 法兰连接饶顶开孔接管
+1-补强圈，2-镀顶板
+表11.7.1 ”法兰连接缸顶开孔接管 (mm)
+
+接管高度      顶板开孔直径     补强圈内径       补强圈外径
+J                   Dp                  Dr
+
+150
+150
+150
+
+150               接管外径加 3         接管外径加
+150                      mm                    3mm
+150
+
+200
+
+200
+
+11.7.2 螺纹连接饶顶开孔接管〈图 11.7.2) 宣符合表 11.7.2 的规定。
+
+63
+
+SH/T 3046一2024
+
+4             -s
+
+一               -
+一               一
+
+Ca) 带补强圈
+
+Cb) 不带补强圈
+注: 接管中心线应垂直于水平面。
+图 11.7.2 ”螺纹连接饶顶开和孔接管
+
+1-补强圈:2-负顶板
+表11.7.2 ”螺纹连接缸顶开孔接管 (mm)
+
+公称直径               METH FLL              补强圈内径                补强圈外径
+DN                            Dp                           Dr                              Li
+
+接管外径加                  接管外径加
+3 mm                         3 mm
+
+11.7.3 公称直径不大于 150mm 的开孔可不补强。
+11.8 固定式放水管
+11.8.1 固定式放水管〈《图 11.8.1) 与缸壁开孔接管之间可采用焊接或法兰连接结构。
+
+64
+
+SH/T 3046一2024
+
+注: 此处可采用法兰连接。
+图 11.8.1 固定式放水管
+1-90° 255k; 2-H JER: 3 ~t BE
+
+11.8.2 固定式放水管的开孔接管及补强圈的结构和尺寸应符合本标准第 11.2 条和第 11.4 条的规定。
+11.9 排水模
+11.9.1 深型排水槽〈图 11.9.1) 的结构及尺寸宜符合表 11.9.1 的要求。
+
+表11.9.1 ”深型排水槽 (mm)
+
+pes                                            tha
+
+最小厚度         最小壁厚          径
+
+by                t              Li
+
+GE 1: 尺寸 Ad应满足本标准第 11.9.4 条的要求;
+注2: 厚度尺寸不含厚度附加量。
+
+65
+
+SH/T 3046一2024
+
+注1: 此处可采用焊接连接
+注 2: 此处为不等边角焊缝。
+
+图 11.9.1 ”深型排水槽
+
+1-缸壁板，2-饶底板
+11.9.2 对于有滑移可能的储缸宜采用浅型排水槽〈图 11.9.2)。浅型排水槽应满足下列要求;
+a) “不包含厚度附加量在内的排水槽钢板厚度 iu不应小于 8mm，槽深度 Ea AAA 150mm;
+b) “排水模与缸底连接的焊脚尺寸 B，应取两相焊件中较薄件的厚度。
+
+一
+
+m 一
+
+注1: 此处可采用焊接连接。
+图 11.9.2 ”浅型排水槽
+1-镀壁板，2-边缘板;3-中幅板
+
+66
+
+SH/T 3046一2024
+
+11.9.3 缸壁开孔接管的结构和尺寸，应符合本标准第 11.2 节和第 11.4 节的要求。
+
+11.9.4 负底排水槽不应开设在镀底边缘板上，其中心线至缸壁的距离 44 ，应满足排水槽周边焊缝
+到边缘板内缘与中幅板连接焊颖的距离不小于 300mm 的要求。
+
+11.9.5 当排水槽饶内接管悬臂较长时，应采取适当的支撑措施，支撑设置应考虑饶底和饶壁变形的
+影响。
+
+11.9.6 排水槽的材质应与缸底中幅板材质相同或相近。
+
+11.
+11.
+
+11
+
+11.
+11.
+11.
+11.
+11.
+
+10 iB. FARE
+
+10.1 盘梯的设计应符合下列要求;
+
+a) “盘梯的净宽度不应小于 650mm;
+
+b) 盘梯的升角宣为 45 度，且最大升角不应超过 50 度，同一饶组内盘梯升角宜相同;
+
+c) 踏步的宽度不应小于 200mm;
+
+d) 。相邻两踏步的水平距离与两踏步之间高度的 2 倍之和，不应小于 600mm 且不大于 660mm;
+整个盘梯踏步之间的高度应保持一致;
+
+ej 踏步应采用格栅板或防滑板制作;
+
+作“盘梯外侧应设置栏杆，当盘梯内侧与饶壁的距离大于 1S0mm 时，内侧也应设置栏杆
+
+g)，盘梯栏杆上部扶手应与平台栏杆扶手对中连接;
+
+hb) 沿栏杆扶手轴线测量，栏杆立柱的最大间距为 2400mm;
+
+i) 盘梯应能承受 SKN 集中活荷载， 栏杆上部任意点应能承受任意方向 1kN 的集中荷载;
+
+ij) 盘梯应全部支承在饶壁上，盘梯侧板的下端与饶基础上表面应留有适当距离。
+
+-10.2 当项部平台距地面的高度超过 10m 时，应设置中间休息平台。
+11.
+
+10.3 平台及栏杆的设计应符合下列规定:
+
+a) “平台和走道的净宽度不应小于 650mm;
+
+b) 。铺板应采用格栅板或防滑板。当采用防滑板时，应开设排水孔;
+
+c) “当平台、走道距地面高度小于 20m 时，铺板上表面至栏杆顶端的高度不应小于 1050mm; 当
+平台、 走道距地面高度大于或等于 20m 时, 铺板上表面至栏杆顶端的高度不应小于 1200mm;
+
+d) ”踢脚板的宽度不应小于 75mm;
+
+ej。铺板与踢脚板之间的最大间隐为 mm
+
+驴”栏杆护腰间距不应大于 500mm;
+
+g) 栏杆立柱间距不应大于 2400mm;
+
+h) 平台及走道应能承受 SKN 的集中活荷载, 栏杆上部任意点, 应能承受任意方向 1kN 的集中荷
+载。
+
+i) ， 通往缸项中心区域的通道应设置扶手栏杆。
+
+10.4 当到固定项上操作时，必须在固定项上设置栏杆，通道上应设置防滑条或踏步板。
+
+10.5 当抗风圈作为操作平台及走道使用时，在其周围必须设置栏杆。
+
+11 BEER
+
+11.1 固定项储饶可在饶顶中心附近位置设置吊挂支柱。
+
+11.2 吊挂支柱可按图 11.11.2 所示结构进行设计。
+
+67
+
+SH/T 3046一2024
+
+11.
+11.
+
+11
+
+11.
+11.
+11.
+11.
+11.
+11.
+
+11
+
+11.
+11.
+
+1
+1
+
+图 11.11.2”吊挂支柱
+12 ”搅拌设施接口
+12.1 储饶设置搅拌器时，饶内附件应避开搅拌器。
+.12.2 搅拌器接管与负壁之间应设置筋板进行加强。
+12.3 当搅拌器电机需要在饶壁上支撑时，宣采用悬挂方式支撑。
+13 “加热器
+13.1 储缸加热器可采用盘管式、无水击立式列管式等结构，不宣采用水平列管式结构。
+13.2 加热器的结构设计应避免产生低点积水现象，否则应在积水处设置疏水器引出管。
+13.3 ”加热器的结构设计应考虑热应力的影响，并应考虑温度变化带来的结构或焊颖的疲劳问题。
+13.4 加热管的支撑、固定结构设计应考虑热膨胀的影响。
+.13.5 加热管蒸汽入口接管在缸内应采取加强措施。
+14 防雷、防静电接地及其它
+14.1 储饶应按照现行国家有关标准规定设置防雷、防静电接地装置连接件。
+.14.2 在饶壁下部可设置沉降观测件，沉降观测件数量及布置应符合土建专业的要求。
+.14. 3 在镀壁上盘梯入口附近等易观察处，应设置铝制或不锈钢制铭牌，铭牌座与饶壁之间连接可
+
+采用焊接，铭牌与铭牌座之间可采用螺栓连接。铭牌上的文字及数字高度不宜低于4 mm。铭牌内容
+应至少包含下列内容:
+
+a) fifi LS
+
+b) fit IT TRF Pat 2 RAS
+
+c) fifi BR AEE
+
+d) fb Ce TLR. OPTS BE. AP US A HE:
+e) 浮顶形式，
+
+信“”储饶公称直径和饶壁高度;
+
+g) TNE GREATS;
+
+h) 储存介质名称和密度;
+
+iD最高设计液位;
+
+j)， 设计温度和最高操作温度;
+
+k) 设计压力，
+
+D 竣工日期
+
+m) 设计单位名称、安装单位名称及监理单位名称。
+
+11.14.4 储饶的防腐蚀工程应按照《钢质石油储饶防腐蚀工程技术标准》GB/T 50393 的有关规定执
+行。
+
+68
+
+SH/T 3046一2024
+
+12 ”储负抗风倾倒稳定计算及锚固设计
+
+12.1 抗风倾倒稳定计算
+
+12.1.1 在风载荷作用下，储缸不应发生倾倒或滑移，局部提离应在限定范围内。
+
+12.1.2 自锚固的自支撑固定项储缸在风载荷和内压共同作用下造成的倾倒和局部提离〈图 12.1.2)
+应满足下列要求:
+
+0.6M,,+M ,<Mp,/1.5+M pip                (12.1.2-1)
+Mw + FpMpi< (Mp + Mr)/2 + Moir                             (12.1.2-2)
+Mws + FpMpi < Mp1 /1.5 + Moir                     (12.1.2-3)
+
+SUM, 一一 RRR AA MAR Re A ATE JHB. (Nm);
+M py, 一一 Weick PA Fis CE RE TOU YD (FAN 7a ti A I Be A AY ASL TH, (Nm);
+Mo 一一 SE RECREATE TSC HEE HEE CAS ELT GE TOUS) HAE BE AE ER Be oS HAIR AHL
+(8) 7058, (N.m);
+M pa 一一 SAR THU ARIE EBA BE Ba HAE ARE A IR AB 0 HE, (Nm);
+MF —— Fy P54 TB SEARS Ge BE BE ARE A HRT 7 BN);
+AM, —— ARV PAR HER BEE GAR JR BEE TY ALB THE, (Nm);
+Fy 一一操作压力和设计压力的比值，且不小于 0.4;
+12.1.3 自锚固柱支撑储饶在风载荷和内压共同作用下造成的倾倒和局部提离应满足下列要求:
+
+Muws + FpMpi< Moz /1.5 + Morr                   (12.1.3)
+
+ta Late
+| Eee AA
+u2
+
++        _
+
+|
+
+V pagameeness
+poate
+janes ha
+
+图 12.1.2 BAAR AF AAD PA FI SE Td PD id A Jd PA HE BEAK Aas EF
+12.1.4 FiO HEC RR Ba EE ERG yok TERT AB] 79 HE MF
+
+69
+
+SH/T 3046一2024
+
+12.1.4.1 MF应按下列式子计算:
+
+Mp = 22                     (12.1.4.1-1)
+ol = 70(ty 一COVREDE                            (12.1.4.1-2)
+当@l > 704DH, Kit, Hw, = 70.4DH,                     (12.1.4.1.3)
+
+式中: wi一一沿储负圆周单位长度抵抗倾倒的有效储液重量，(Nm) ;
+一一储液计算比重，取储液实际比重和 0.7 的较小值;
+及7一一饼底边缘板材料标准屈服强度下限值，(MPa) ;
+Hv一一设计液位高度，(my);
+C 一一饶底边缘板材料厚度附加量，Cmm )。
+tb-C一一计算抵抗倾倒的有效储液重量的饶底边缘板厚度，其值不应大于底圈经壁板厚度减
+去饶壁的厚度附加量。
+12.1.4.2 饶底边缘板的最小宽度
+当缸底边缘板厚度大于中幅板时, 边缘板在缸内的最小宽度工 应取按下式计算的 Lb 和 0.45 米的较
+大值，但不需超过 0.035D。
+
+L, = 0.0291(t, 一 c [ie                          (12.1.4.2-1)
+Ss Lyte fi PY 0 DH Ae 7] BE RE, (m)o0
+
+12.1.5 fit ees Px in 38s SGP ZA 7) i A GE HH ZT) FAR
+12.1.6 “fittest TTP AS BORA INL AR AS TERRE Le tt IE ES EB ABT HL 0.4。当采用专门的抗滑移
+结构时，滑移摩擦系数应按实测值选取。
+12.2 锚固设计
+12.2.1 当储饶不能满足本标准第 12.1 节的规定或由于其它原因需要锚固时，应进行锚固设计。
+12.2.2 锚固型式可采用锚栓〈图 12.2.2-1、图 12.2.2-2) 或锚带结构〈图 12.2.2-3)，且应满足锚固设
+计强度要求。
+
+70
+
+SH/T 3046一2024
+
+图 12.2.2-1 “分块盖板组件示意图         图 12.2.2-2 整圈盖板组件示意图
+1-馆壁，2-馆底，3-铅基础，4-锚固螺栓        1-负壁，2-饶底:3-镑基础，4-锚固螺栓
+5-垫圈; 6-螺母; 7-固定螺母; 8-分块盖板       5-垫圈， 6-螺母; 7-固定螺母，8- MENA THAR
+
+图 12.2.2-3”锚带示意图
+1-饶壁板，2-下段锚带， 3-上段锚带:4-饶底板，5-饶壁垫板，6-基础; 7-连接板
+
+12.2.3 锚固螺栓的许用应力符合表 12.2.3 的规定。单个锚固螺栓承受的举升力应按下式计算:
+
+U
+F,=—                                     12.2.3
+b=                                     (     )
+
+Hs U—# 12.2.3 中所列举升力的最大值(ON);
+已一一单个锚固螺栓应能承受的举升力QN);
+N--一锚固螺栓数量。
+
+71
+
+SH/T 3046一2024
+
+表 12.2.3_不同设计工况下的举升力及锚固螺栓/锚带许用应力
+
+锚固螺栓/锚 | 锚固座处缸壁
+设计工况                    举升力U，N                  带许用应力    板许用应力
+MPa        MPa
+
+设计压力                         (P; x D? x 785) — W,     % Row
+We        (P, xD? 785) — Ws
+风荷载                (Pwr X D? x 785) + (4X Mys/D) — W2
+6 Reis
+
+设计压力+                         2                    -          3
+i          ((FpPi+ Pwr) x D? x 785] + (4 x Mys/D) — Wi    oA  a
+
+Bitte      (FP; x D? x 785) + (4 x M,/D) — W,(1 — 0.4Ay)    SK Rern
+
+ETA MBER              ，
+用弱连接结构时                    (3 x Py x D? x 785) — W3                      Ret            Row
+的破坏压力荷载
+
+符号说明:
+
+4v一一垂直地震影响系数，对设计基本地震加速度为0.20g~0.40g,， 或抗震设防烈度为不低于8度时计入垂直地震影响，
+取Av为水平地震影响系数最大值的65%;
+
+万一一储鲜内径，(m);
+
+P—iit EW, (kPa);
+
+Fe一一操作压力和设计压力的比值，并不小于0.4;
+
+刁一一试验压力，(kPa);
+
+P, 一一破坏压力，(kPa)，按照附录A确定;
+
+Pays 一一作用于镀壁上的水平风荷载，(kPa);
+
+有zx 一一作用于镀顶部的向上风荷载，(kPa);
+
+M, 一一地震这和矩，GN.m)，按照GB/TS0761确定;
+
+Myst Pry 引起的对镀壁和锚底接合点的倾倒力矩，(N.m)，Mws =
+W, 一一由有效厚度确定的镀壁、镑顶板 (按附录D设计的带助扶项包括加强助 重量和其他作用在负壁上的永久性附
+件重量之和，(N);
+
+Pratt
+
+aA: BE BE (2, OETA AEDS BR HG EY
+awn, (N);
+We, 一 由名义厚度确定的罐壁、缸顶板 (按附录D设计的带肋拱项包括加强肋) 重量和其他作用在馆壁上的永久性附
+件重量之和，(N);
+R ero 一一锚固螺栓或锚带材料的标准届服强度下限值。对螺栓，取螺栓材料标准届服强度的下限值，并不超过380
+MPa 锚带材料的标准届服强度下限值不应超过饶壁材料的标准届服强度下限值，(MPa);
+Resch 一一底轿饶壁材料标准届服强度下限值，(MPa)。
+
+12.2.4 锚固螺栓的最小规格为 M24。锚固螺栓直径上的腐蚀裕量不应小于 3mm。
+
+72
+
+SH/T 3046一2024
+
+12.2.5 锚固螺栓应通过与缸壁、缸底焊为一体的锚栓座进行锚固，并应对锚栓座的强度、负壁的局
+部应力进行校核。锚栓座的许用应力按本标准 8.2 确定。
+
+12.2.6，储饶直径小于 15m 时，锚固螺栓间距不应大于 2m;， 储饶直径大于或等于 15m 时，锚固螺栓
+间距不应大于 3m。
+
+12.2.7 锚带应在饶内充满水、水面上未加压前焊接在饶壁上, 如果采用锚固螺栓,应在饶内充满水、
+水面上未加压前均匀上紧所有螺栓，且松紧适度。
+
+12.2.8 当储饶设计温度大于 90C时，锚固设计应考虑热膨胀影响。
+
+13 ”预制
+
+13.1 材料检查及复验
+13.1.1 在预制加工前， 应对照钢厂的材料质量证明书,检查钢材的尺寸、数量、炉号、钢板编号等，
+并确认与材料质量证明书相符。采用目视方法逐张对钢板表面进行外观检查，不允许有有裂纹、气孔、
+重皮、结辣、夹渣、划伤、表面伤疤、损伤等缺陷，当目视判断有困难时，应采用渗透检测或磁粉检
+测。
+13.1.2 无出厂质量证明书或对材料的质量有疑义时，应进行复验，复验合格后方可预制。
+13.1.3 符合下列要求之一的钢板材料，在预制加工前，应进行复验，复验比例和复验项目应在设计
+文件中明确:
+
+a) “新研制的材料
+
+b) “标准屈服强度下限值大于 390MPa 的材料;
+
+c) ，调质状态供货的材料。
+13.1.4 用于焊接 12MnNiVR 钢板的焊接材料，使用前应进行复验，复验合格后方可进行焊接施工。
+13.1.5 钢板表面的划痕应打磨平滑，必要时打磨表面应进行渗透检测或磁粉检测。
+13.1.6 材料代用应取得原设计单位的书面同意。
+13.2 ”预制一般要求
+13. 2.1 预制加工过程中，所采用的加工方法不应使材料性能下降，组织改变。调质状态供货的材料
+不应采用热加工方法成形。
+13.2.2 坡口加工采用火焰切割或机械切割，火焰切割坡口表面粗糙度 Ra<50 um; 平面度 B<0.041
+(t为厚度)，且小于 lmm。坡口处的熔洼、氧化皮、硬化层应清除干净。坡口表面不应有夹酒、分层、
+裂纹等缺陷存在。
+13.2.3 镀底边缘板之间的对接焊颖坡口表面、所有 12MnNiVR 饶壁板的坡口表面应按照 NB/T
+47013.4或NBIT 47013.5 进行磁粉检测或渗透检测，I级为合格。
+13. 2.4 坡口检查合格后，宣在坡口表面涂刷不影响焊接质量的防锈漆。
+13.2.5 储缸的材料、构件在保管、运输、现场堆放及吊装时，应防止变形、损伤和锈蚀。
+13.2.6 普通碳素钢在作业环境温度低于-16C时，不应进行剪切加工、冷成形或矫形; 低合金钢在作
+业环境温度低于-12C时，不应进行剪切加工、冷成形或矫形。
+13.2.7 储缸的所有预制构件完成后应进行编号，并应采用油漆或其他方法作出清晰的标识。
+13.2.8 储缸预制和安装检验用样板，应符合下列规定:
+
+a) “当曲率半径小于或等于 12. 5m 时, 弧形样板的弦长不应小于 1. Sms 当曲率半径大于 12. 5m 时，
+
+弧形样板的弦长不应小于 2m。
+b) 直线样板长度不应小于 lm;
+c) “测量焊缝棱角度的弧形样板，其弦长不应小于 lm。
+
+73
+
+SH/T 3046—2024
+
+13.3 SESE
+
+13.3.1
+13.3.2
+13. 3.3
+
+13.3.4
+
+fide Ge EAR FHA lB 22 HAR FA
+He EAB LYRIS TE | ANTE JF a YE FCO CE ERE:
+ie EAB ST It VF tha 2 LFF oP 13.3.3 和表 13.3.3 的要求。
+
+图 13.3.3 dae REA IR YO tae 7
+
+H13.3.3GSRRT RS
+
+测量部位
+
+宽度方向AC BD EF
+
+长度方向 AB CD
+对有角线差 | AD-BC |
+直线度宽度方向 AC
+直线度长度方向 AB
+
+REE RRM, 立置在平台上用样板检查。 垂直方向上用直线样板检查,间隙不应大于 Imm;
+
+ACP Aa TEI EAE, FABRA DAF 3mm。
+
+13.3.5
+
+需要进行消除应力热处理的镀壁组件，应在预制厂进行预制、组焊、检验及热处理，且应符
+
+合下列要求
+
+a)
+b)
+c)
+d)
+e)
+f)
+
+g)
+
+74
+
+FE FL Fb 9 PE PS A 9 el GA HC, TRE EI
+
+开孔接管的中心位置偏差不应大于 Smm，接管外伸长度的允许偏差为十smml
+
+开孔接管法兰的密封面应平整，不应有焊癌和划痕，法兰密封面应与接管的轴线垂直，倾斜
+不应大于法兰外径的 1%，且不应大于 3mm，法兰的螺栓孔应跨中均布〈另有规定者除外)
+用钢板卷制的接管，其对接焊缝应进行 100%射线检测。检测标准按《承压设备无损检测”第
+2 部分;射线检测》NBAMT 47013.2-2015 执行，不低于 RAH:
+
+开口接管与匀壁板的初层焊道焊接前应预热 100C以上，且初层焊道应进行渗透检测。检测
+标准按《承压设备无损检测 ”第5 部分: 渗透检测》NB/T 47013.5-2015 执行，I级为合格。
+热处理应符合现行标准《压力容器焊接规程》NB/T47015 和《承压设备焊后热处理规程》GB/T
+30583 的有关规定;
+
+热处理前后的镀壁组件，均应立置在平台上用样板检查。垂直方向上用直线样板检查，其间
+
+SH/T 3046一2024
+
+BRA DARE Imm (开口部位为 2.Smm); 水平方向上用弧形样板检查,其间隙不应大于 3mm;
+h) 负壁组件上的所有焊缝〈其中接管角焊缝为内外表面) 在焊后和消除应力热处理后，分别进
+行磁粉检测。检测标准按 《承压设备无损检测 ”第 4 部分; 磁粉检测》NB/T 47013.4-2015
+执行，I级为合格;
+让”热处理前, 应向补强圈信号孔里通入压力为 0.2MPa 的压缩空气, 进行气密性试验。 热处理后，
+应向补强圈信号孔涂润滑油，拧紧丝堵;
+j) 当饶壁材料采用 12MnNiVR 时，饶壁组件预制厂应提供厚度等于底圈缸壁厚度的随炉热处理
+对接焊接试件力学性能试验数据，结果应符合本标准 5.2 条的要求。
+13.3.6 单面倾斜式基础储饶的底圈镑壁板应按照实测的基础斜度计算尺寸并下料预制。
+13.3.7 ”饶壁板预制时可预留一块调整板，调整板的长度宜留 100~200mm 余量。
+13.4 锥底板预制
+13.4.1 负底板预制前应绘制排板图。饶底板下料时应考虑直径适当放大，与缸底环形边缘板相邻处
+的中幅板在径向适当放大《〈见图 13.4.1-1)。负底边缘板对接接头宜采用不等间险，内侧间隙比外侧间
+隙稍大〈见图 13.4.1-2).
+
+-
+
+图 13.4.1-1 中幅板直径放大示意图          图 13.4.1-2 饶底边缘板对接坡口示意图
+
+13.4.2 底板中幅板的宽度不应小于 1000mm, 长度不应小于 2000mm; 与环形边缘板连接的不规则中幅
+板最小直边尺寸，长度不应小于 700mm。
+13.4.3 饶底边缘板尺寸允许偏差应符合图 13.4.3 和表 13.4.3 的要求。
+
+表13. 4. 3 负底边缘板尺寸允许偏差
+
+测量部位                                   人允许偏差 (mmy)
+
+宽度方向 AC BD EF
+
+长度方向      AB CD
+对角线差 “| AD-BC |
+
+75
+
+SH/T 3046一2024
+
+图 13.4.3 饶底边缘板尺寸测量位置
+
+13.4.4 厚度大于或等于 12mm 的饶底环形边缘板, 应在坡口两侧各 100mm 范围内(图 13.4.3 示 AC.
+BD, CD) 按照《承压设备无损检测 ”第3 部分: 超声检测》NBMT 47013.3 进行超声检测，检查结果
+应不低于钢板合格级别，如果钢板未进行过超声检测，合格级别不应低于 II 级。
+13.4.5 当储缸设置清扫孔时，锚底板预制排板应与清扫孔加强底板同时考虑。
+13.4.6 边缘板预制时可预留一块调整板，调整板的长度宣留 100~200mm 余量。
+13.4.7 当负底中幅板需要预制成形时，尺寸允许偏差应符合本标准 13.3.3 条的要求。
+13.5 钢制焊接浮项预制
+13.5.1 浮顶板及构件预制前应绘制浮项排板图。浮顶板下料时应考虑直径适当放大，浮顶板排板时
+采用的不规则钢板最小直边尺寸，不应小于 700mm。
+13.5.2 浮顶内边缘板、外边缘板、径向隔板、环向隔板尺寸允许偏差应符合 13.3.3 条的规定。
+13.5.3 浮顶浮舱顶板、浮舱底板的长度偏差为土2nm, 宽度偏差为十2nm, 对角线之差应小于 3mm。
+13.5.4 成形后的浮顶内、外边缘板和环向隔板用弧形样板检查，间隙不应大于 Smm。径向隔板用直
+线样板检查，间隙不应大于 4mm。
+13.5.5 术架横梁的长度偏差为十mm; 术架立筋和加强筋的长度偏差为土2mm。预制时析架立筋宜
+与横梁点焊固定。术架制作完毕后的长度和高度偏差为十2mm，平面普曲度不大于 10mm。
+13.5.6 浮顶杭架预制宜在胎具上进行，焊接时可采用反变形措施。
+13.5.7 单盘式浮顶的浮舱进行分段预制时，应符合下列规定:
+
+a) 浮舱底板、项板的平面度用直线样板检查，间隙不应大于 5mm;
+
+b) 浮舱内、外边缘板用弧形样板检查，间隙不应大于 10mm;
+
+c) 浮舱的几何尺寸允许偏差，应符合表 13. 5. 7 的规定 (图 13. 5. 7) ;
+
+表13..5.7_分段预制浮舱几何尺寸的允许偏差
+
+测量部位                          人允许偏差 Comm )
+
+高度 AE. BF. CG. DH
+
+S246 AB, EF. CD. GH
+
+对角线之差 |AD-BC|. |CH-DG|, |EH-FG| #il| AF-BE
+
+图13. 5.7 分段预制浮舱几何尺寸测量部位
+
+76
+
+SH/T 3046一2024
+
+d) 分段预制的浮舱, 宜留出两个舱位待浮舱其它舱位在现场组装完毕后按照实测尺寸进行制作。
+13.6 固定项预制
+13.6.1 固定顶顶板预制前应绘制排板图。
+13.6.2 带肋壳饶顶板预制应符合下列要求:
+
+a) “单块项板本身的拼接，应采用对接;
+
+b) 加强肋加工成形后，用弧形样板检查，其间隙不应大于 2mm;
+
+c) 每块项板应在胎具上与加强肋拼装成型，焊接时应采取防变形措施
+
+d) 顶板与加强肋拼装成型脱胎后，用弧形样板检查，其间隙不应大于 10mm。
+13.6.3 单层球面网壳饶项预制应符合下列要求:
+
+a) ，”镑顶蒙皮板下料时应考虑直径适当放大，蒙皮板排板时采用的不规则钢板最小直边尺寸，不
+
+应小于 700mm;
+b) “弧形梁加工成形后，用弧形样板检查，其间隙不应大于 2mm;
+c) “弧形梁自身需要拼接时，应采用等强度对接焊接，对接焊缝应进行 100%超声检测，检测标
+准按《承压设备无损检测 ”第 3 部分: 超声检测》NB/T 47013.3-2015 执行， 工级为合格;
+
+d) 弧形梁焊接时应采取防变形措施。必要时，拼接后应矫形。
+13.7 其它部件预制
+13.7.1 SiR, IRR. is CRE) 等弧形构件加工成型后，用弧形样板检查弧度，其
+间隙不应大于 mm; 放在平台上检查其翘曲变形, 变形量不应超过构件长度的 0.1%, 且不应大于 6mm。
+13.7.2 抗风圈、加强圈、包边角钢〈饶顶边梁) 等部件宣进行分段预制。分段预制时，每圈宜预留
+1 节`2 节作为调整段，调整段的长度宜留 100~200mm 余量。
+13.7.3 抗风圈、加强圈、包边角钢〈负顶边梁) 等部件预制段的尺寸偏差应符合下列要求:
+
+a) ”长度偏差应小于土3mm，宽度偏差应小于土2mm，接触镑壁侧的矢高偏差应小于 3mm;
+
+b) 普曲变形量不应超过构件长度的 0.1%，且不应大于 6mm。
+13.7.4 采用直角旋转接头的双排管结构的浮顶排水管预制时，处于同一直管段的两个旋转接头的轴
+线应同心，位置偏差应小于 0. 5mm，角度偏差应小于 0.5 度: 其他相互平行的旋转接头的轴线角度偏
+差应小于0.5度。
+13.7.5 采用直角旋转接头结构的浮项排水管预制完成后，应进行模拟浮项升降的动态试验，升降高
+度不宜小于浮顶浮动的最大行程。试验过程中，旋转接头应转动灵活。
+13.7.6 采用直角旋转接头或局部挠性接头结构的浮顶排水管组件预制完成后，应进行耐压试验，试
+验压力不宜低于 390kPa，保压时间不宣低于 15min. ，并进行严密性检查，以无异常变形、无渗漏为合
+格。
+13.7.7 量油管、导向管的拼长接头应采用全焊透的对接焊缝。制作完毕的量油管、导向管长度偏差
+应小于土3mm;， 直线度不应大于长度的 1/1000，且不应大于 10mm;，上口平面度不应大于 2mm。
+13.7.8 雷达液位计导波管内表面应光滑。
+13.7.9 浮顶支柱的直线度不应大于 1.Smm，浮顶支柱预制时宜加长 100mm 以上,支柱套管的长度
+偏差应小于士3mm。
+13.7.10 铅壁、缸项接管的预制应符合 13.3.5 条的相关要求。
+13.7.11 盘梯、平台等钢结构的预制应符合《石油化工钢结构工程施工技术规程》SH3607 的相关要
+求。
+13.7. 12 ”转动扶梯的预制应符合下列要求:
+
+a) “主梁长度方向拼接应采用全熔透的对接接头;
+
+b) 各级踏步轴和顶部主转动轴应相互平行，不平行度小于 0.5 度;
+
+77
+
+SH/T 3046一2024
+
+c) “拉杆的轴孔距偏差应符合设计文件的要求;
+d) “转动扶梯预制完毕后，宣进行部分行程转动试验，试验过程中各级踏步板应保持水平或前端
+稍高，各活动部件转动应灵活平稳。
+13.8 预制件出厂要求
+13.8.1 预制件应按储缸位号、排板图进行编号，并用记号笔作出明显的标记。
+13. 8.2 预制件应按照施工技术文件规定包装、运输和存放。
+13. 8. 3 ”当预制件为委托厂预制时，预制厂应提供预制件质量证明等文件。
+
+14 组装
+
+14.1 ”一般要求
+
+14.1.1 储饶组装前，应将构件的坡口和搭接部位的铁锈、水分及污物清理干净。
+
+14.1.2 拆除组装工卡具时，不应损伤母材。钢板表面的焊疤应打麻平滑，如果母材有损伤，应按本
+标准第 15. 6 节的要求进行修补。
+
+14.1.3 储负组装过程中应采取符合组装工艺的安全措施, 防止大风等恶劣气候条件对储饶造成破坏。
+14.1.4 ”储饶不应采用锤击等强力手段组装。设计温度低于-20C 和标准届服强度下限值大于 390MPa
+的饶壁板、边缘板及缸壁开孔元件，不应在其上硬印标记。
+
+14.1.5 组装过程中不应损坏储缸基础，如有损坏，应进行修补。
+
+14.1.6，储饶组装前，应对预制件外形尺寸进行复验，合格后方可用于组装。
+
+14.2 ”基础复查
+14.2.1 基础交付安装时，应提交与安装有关的技术资料。基础上应有明显的中心位置、方位、标高
+等标识。
+
+14.2.2 ”基础交接时，应对基础外观及尺寸进行复查，合格后方可进行储饶安装。
+14.2.3 基础外观及尺寸复查结果应符合土建专业设计文件和本标准附录 B 的规定。如储缸设置清扫
+孔、排污孔、排水槽等附件，储尔基础的局部处理应符合上述附件的安装要求。
+14.3 SBR ARE
+14.3.1 GRC RCHB UE AT, FESK IEC HAY B22 a LH Mil > PLT RL, ET REE AI 50mm 范围内
+不宜刷涂料。涂料涂刷应按照设计文件要求进行。
+14.3.2 ”缸底板铺设前，应按照排板图和平面方位图的要求，在基础表面进行划线和标记，标出中心
+线等重要定位线。
+14. 3. 3 ”饶底中幅板应从储缸中心向外铺设，饶底边缘板的铺设在储缸中心附近的中幅板铺设完后进
+行。铺设镀底时，应考虑焊接收缩的影响，将直径适当放大。
+14.3.4 ”饶底弓形边缘板铺设前，应在基础环墙上确定垫板的铺设位置，并以此位置在基础环墙上开
+槽, 开模深度应为垫板厚度。垫板长度方向中心线应与缸底边缘板对接焊缝平行, 不平行度应小于 3mm。
+14.3.5 ”负底边缘板铺设时，与垫板应进行点焊定位。
+14.3.6 ”采用搭接的缸底中幅板搭接宽度偏差应小于-3mm。
+14.3.7 采用对接的饶底中幅板铺设时，应符合下列规定;
+a) ”垫板长度方向中心线与缸底板对接焊缝长度方向中心线之间的距离偏差应小于 3mml
+b) “当垫板需对接拼长时，应采用带垫板的结构，对接接头应全熔透，上表面应打磨平滑;
+c) “垫板铺设时，应留有足够数量的收缩活口;
+dj)中幅板与垫板点焊定位时，宣将每张钢板的相邻两边与垫板点焊定位，另外两边自由收缩;
+e) “对接接头组对间隙宣按照表 14.3.7 选取。
+
+78
+
+SH/T 3046一2024
+
+表14. 3.7”负底对接接头组对间隙
+
+埋 接方法         wee        间 Ba
+mm)                   (mm)
+不开坡口            5 <6                7+1
+焊条电弧焊
+开坡口         5 >6          4士1
+焊条电弧焊打底，
+埋弧焊填充          开坡口             5 >10               8土2
+5 <6           341
+熔化极气保焊    不开坡口
+6<5 <10         4+1
+熔化极气保焊打底、
+埋弧埋填充     开坡口      5>10        441
+
+14.3.8 GRABLE, 底板与垫板定位焊后, 垫板应与对接的两块底板贴紧, 其间隙不应大于 Imm.
+14.3.9 ”与弓形边缘板连接处的缸底中幅板切割前，缸底中幅板焊丝、弓形边缘板对接焊缝、缸壁与
+缸底边缘板之间的T形角焊缝应焊接完毕。
+14. 3. 10 “与弓形边缘板连接处的饶底中幅板切割后, 应及时进行饶底中幅板与弓形边缘板的组对、定
+位焊及正式焊接。
+14.4 Seti se
+14.4.1 HERE RT, NCH HEAR PAE ER, CE Ae E AT Ze Ai, be
+HAF HE BEE AAR, FPR ME REIT CBee iLL
+14.4.2 REACH HT, UT ee PY PE AR PS READE 2, SHC AR eR HL PT J 2 AE AY JA BG
+和每张壁板的安装位置线。
+14.4.3 确定首圈缸壁板内装圆半径时，应考虑首圈饶壁纵焊终数量、纵焊颖对口间隙、饶底坡度等
+因素的影响。
+14.4.4 GENER IDL 300mm 对接焊缝焊接完毕并检验合格后，方可进行组装圆周线的划设。
+14. 4.5 ”正装法的底圈饶壁或倒装法的顶圈饶壁组装应符合下列要求:
+
+a) ”壁板上口的水平允许偏差在圆周 10m 范围内 2mm，在整个圆周上任意两点为 mm
+
+b) ”壁板的垂直人允许偏差不应大于 3mm;
+
+c) 组装后，首圈缸壁任意点半径的允许偏差应符合表 14.4.5 的规定。
+
+表. 14. 4.5“负壁内表面任意点半径的允许偏差
+
+储 i 直径D(m    半径允许偏差 (mm)
+
+12.5<D<45
+
+45<DS75
+
+D>75
+
+14.4.6 其它各圈壁板的垂直度允许偏差不应大于该圈壁板高度的 0. 3%。
+14.4.7 ”负壁板组装时，应保证内表面齐平。错边量应符合下列要求，
+a) AIS: 采用焊条电弧焊，当壁板厚度小于或等于 10mm 时，错边量不应大于 lmm，当壁板
+
+79
+
+SH/T 3046一2024
+厚度大于 10mm 时，错边量不应大于板厚的 10%，且不应大于 1. 5mm，采用自动焊时，错边量
+
+b) 环向焊缝: 采用焊条电弧焊时，当上圈壁板厚度小于或等于 8mm 时，任何一点的错边量均不
+应大于 1. 5mm; 当上圈壁板厚度大于 8mm 时，任何一点的错边量均不应大于板厚的 20%，且不
+应大于 2mm; 采用自动焊时，错边量不应大于 1. 5mm。沿环向焊颖每三米间距测一点，每块板
+最少测 3 点。
+14.4.8 ”壁板对接接头的组装间隙，应符合下列要求;
+a) “纵向焊缝， 采用焊条电弧焊时，间隙宜为 1一3 mom; 采用气电立焊时，间隙宜为 3一mm。每
+条纵向焊缝最少测量 3 点;
+b) “环向焊颖，采用焊条电弧焊时，间隙宣为 2一3 mm，采用埋弧焊时，间隙宣为 0一Imm。沿环
+向焊缝每三米间距测一点，每块板最少测 3 点。
+14.4.9 ”采用气电立焊时，12MnNiVR 饶壁纵向焊缝的坡口间隙不应大于 6mm，坡口间隙检查记录应在
+焊缝施焊前报施工管理部门，同意后方可施焊。
+14.5 钢制焊接浮项组装
+14.5.1 浮顶组装应在缸底中幅板焊接完成并检验合格后进行。
+14.5.2 浮顶应在临时支架上进行组装。
+14.5.3 浮顶板的搭接长度允许偏差应为士5mm。
+14. 5.4 浮顶应与底圈负壁板同心，浮顶外边缘板与底圈铅壁间距允许偏差为士13mm。
+14.5.5 浮顶内边缘板、外边缘板及环向隔板的组装，应符合下列要求:
+a) “对接接头的错边量不应大于板厚的 0. 15 倍，且不应大于 1. 5mm;
+b) “垂直允许偏差，不应大于 3mm;
+c) 用弧形样板检查浮项内边缘板、外边缘板及环向隔板的凹凸变形，弧形样板与实物的局部间
+隙不应大于 5mm。
+14.5.6 径向隔板的垂直允许偏差，不应大于 3mm，用直线样板检查径向隔板的不平度，直线样板与
+实物的局部间隙不应大于 5mm。
+14.5.7 枯架的垂直允许偏差，不应大于 3mm。
+14.5.8 浮顶的组装顺序，应方便焊接施工，减少浮舱内的焊接作业。
+14.5.9 ”单盘式浮顶浮舱和单盘组装应分别进行，浮舱组装、焊接完毕后再进行浮舱和单盘的组装和
+焊接。
+14. 5. 10”双盘式浮顶组装还应符合下列要求:
+a) 浮项应按照先底板，依次外边缘板、隔板、析架，最后项板的顺序进行组装;
+b) ”同一圈浮舱的组装宜先环向隔板，再径向隔板，然后析架的顺序进行;
+c) 。除底板搭接处附近外，隔板与底板间隙应小于 Imm，术架与底板间辽应小于 2mm;
+d) 被隔板、检架覆盖的底板焊颖应在安装隔板、术架前焊接完毕并检验合格;
+14.5.11 浮顶组装焊接过程中应设置临时雨水排出设施。
+14.6 ”装配式内浮项安装
+14.6.1 内浮顶安装前，应根据设计文件要求和内浮项预制厂的安装说明书编制安装技术方案，并应
+经业主或其代表审批。
+14.6.2 内浮顶安装前，应核对储饶内部附件位置、缸壁开口位置和内浮项上开口附件的位置，在此
+基础上确定内浮项的安装方位基准线。
+14.6.3 ”装配式内浮顶的安装应先进行边缘构件、边缘支柱、主梁和副梁的安装，然后进行浮力元件
+模块、内部支柱的安装，最后进行内浮顶附件的安装。
+14. 6.4 内浮顶应与底图镑壁同心，偏差应小于 10mm。
+
+80
+
+SH/T 3046一2024
+
+14. 6.5 ”内浮顶边缘构件与缸内壁的密封间距偏差应小于 10mm。
+14.6.6 内浮顶边缘构件项面水平度偏差应小于其长度的 0. 1%，且不应大于 Sm; 垂直度应小于其高
+度的 3/1000。
+14. 6.7 内浮顶骨架的水平度偏差应小于其长度的 0. 1%，且不应大于 10mm。
+14.6.8 内浮顶支柱的垂直度偏差应小于 2mm。
+14.6.9 浮简式内浮顶盖板的搭接宽度偏差应小于 3mm。
+14. 6.10 内浮顶浮简安装时应将其纵向对接焊缝置于项部。
+14. 6.11 内浮项上所有与饶顶开口有关联的附件, 如量油采样口和导向及防旋转装置等, 均应与缸顶
+开口完全对应。量油采样口中心偏差不应大于10mm。
+14.6.12 防旋转缆绳安装后垂直偏差不应大于其长度的0. 1%，且不应大于10mm。
+14.6.13 玻璃钢内浮顶组装应在临时台架上进行。临时台架项面应平整，水平度偏差应小于 3mm.
+14.7 固定项组装
+14.7.1 自支撑固定顶组装宜在项圈镑壁板及包边角钢〈饶顶边梁) 组装、焊接完成并对尺寸偏差检
+验合格后进行。
+14.7.2，柱支撑锥顶组装应在全部饶壁板及包边角钢〈镀顶边梁) 组装、焊接完成并对尺寸偏差检验
+合格后进行。
+14.7.3 负顶板的拱接宽度允许偏差应为士5mm。
+14.7.4 自支撑拱项的组装，还应符合下列要求:
+a) “拱项组装时，应在镑内设置中心支架，中心支架项面标高宣比理论计算值预抬高，不含预抬
+高量的中心支架顶面标高偏差应小于 Smm。当储饶直径较大时，可在中心支架和饶壁之间设
+置临时支撑，临时支撑宜具有高度调节功能;
+b) 预制好的瓜皮板应按画好的等分线分 2 组或 4组对称组装;
+c) 拱项组装完毕后，用弧形样板检查顶板曲率，弧形样板与顶板的局部间隙不应大于 5mm。
+14.7.5 柱支撑锥项的组装，还应符合下列要求:
+a) ，”饶顶支撑柱的垂直度允许偏差不应大于支柱高度的 0. 1%，且不应大于 10mm;
+b) “所有支柱的顶面标高偏差应小于 Smm，同一圆周上的相邻支柱项面标高差应小于 Smm;
+14.7.6 自支撑网壳顶组装，还应符合下列要求;
+a) ”网壳项组装前，应计算各节点坐标值，并确定安装过程中坐标偏差控制值。
+b) “预制好的弧形主梁构件需要现场接长拼接时, 接头应采用对接焊缝, 焊接完毕后应按照 NB人
+47013.3 进行超声检测，质量等级不应低于 I 级标准为合格;
+c) 弧形构件组装完毕后，用绝形样板检查其曲率，弧形样板与构件的局部间隙不应大于 5mnm。
+d) 网壳顶的组装还应符合《空间网格结构技术规程》JGJ 7 的相关规定。
+14.8 附件安装
+14. 8.1 ”负体开孔接管的安装应符合本标准 13.3.5 的相关要求。
+14. 8.2 抗风圈、加强圈的安装应符合下列要求:
+a) “抗风圈、加强圈安装前，应核对与缸壁环焊缝之间的间距，支撑应避开饶壁纵焊缝;
+b) 抗风圈、加强圈安装时可分段预制在每张缸壁板上;
+14.8.3 盘梯、平台的安装应符合下列要求:
+a) “盘梯、平台安装前，应核对三角架与饶壁纵、环焊颖之间的间距,三角架支撑应避开饶壁纵、
+IESE:
+b) FRAP ANU ARG IVA EE Sy Eh RS INR AHR Da eH, TO Te Sd NZ HF PH
+c) “栏杆高度允许偏差应小于 Smm，栏杆间距允许偏差应小于 10mm; 踏步板应保持水平，踏步
+板间距偏差应小于 Smm，
+81
+
+SH/T 3046一2024
+
+d)
+14.8.4
+a)
+b)
+c)
+d)
+
+f)
+
+14.8.5
+a)
+
+b)
+c)
+d)
+14.8.6
+a)
+
+b)
+c)
+
+d)
+
+e)
+
+h)
+14.8.7
+a)
+
+b)
+
+c)
+
+d)
+
+14.8.8
+14.8.9
+
+平台铺板应保持水平，水平度偏差应小于长度的 0.1%，且不大于 Smm。
+
+转动扶梯及轨道的安装应符合下列要求:
+
+转动扶梯安装前，应先在顶平台上确定安装基准点;
+
+转动扶梯中心线的投影应与转动扶梯轨道中心线和储缸径向线重合，偏差不应大于 10mm;
+转动扶梯轨道梁应保持平行，人允许偏差应小于 2mm;
+
+转动扶梯安装完毕后，扶梯梁不应有侧向弯曲现象和扭曲现象，踏步板水平度偏差应小于
+2mm.
+
+在浮顶升降过程中，转动扶梯滚轮应始终处于轨道上，且无卡涩现象，扶梯梁不应有侧向弯
+曲现象和扭曲现象，踏步板应始终保持水平，转轴应转动灵活，扶梯升降自如。
+
+量油、导向管的安装应符合下列要求:
+
+量油、导向管滚轮轴支座安装定位前，量油导向管的垂直允许偏差应调整合格，滚轮轴支座
+定位时，应调整滚轮轴与量油、导向管的间距，
+
+量油、导向管的垂直允许偏差不应大于管长的 0.1%，且不大于 10mm;
+
+套管的开口中心位置偏差应小于 10mm，套管的垂直度偏差应小于 lmmi
+
+量油、导向管自身对接接头余高应小于 Imm.
+
+密封装置的安装应符合下列要求;
+
+密封装置安装前，应打磨相关焊丝，清除有可能损伤或阻碍密封装置运行的焊瘤、焊疤、毛
+刺等缺陷，并复核密封间隙偏差符合要求，
+
+密封装置在运输和安装过程中应注意保护，不应损伤。橡胶制品安装时，应注意防火;
+泡沫密封弹性元件安装不应扭曲，下部突出应规则，上部应平整，与镀壁和浮顶外边缘板有
+良好的面接触
+
+密封带现场搭接接头应牢固可靠，搭接宽度不宜小于 600mm，接头强度应不低于母材
+
+一次密封安装完毕后，密封元件与负壁之间应接触紧密，不应存在间隙;
+
+二次密封应在一次密封安装完毕，检验合格后进行;
+
+二次密封安装过程中，承压板不应发生塑性变形;
+
+二次密封安装完毕后，密封元件与饶壁之间应贴合严密，无缝隙。
+
+浮项排水系统的安装应符合下列要求
+
+浮顶排水系统安装完毕后，在储饶充水试验前，应进行水压试验，试验压力应按照排水管产
+品说明确定，持压 30 分钟无渗漏为合格。当排水管采用回转接头结构形式时，试验压力应为
+390kPa;
+
+DSA AK PER FA EL FPS TRS, PEREZ TIME AT ASRS, RB REAR AEC fit HE 9 AK
+试验液位高度;
+
+当排水管采用回转接头结构形式时，其中心线的水平投影，应与储负径向线重合，其偏差不
+应大于 10mm;
+
+浮顶排水管的任何部件，与镑内部件之间应留有足够的安全距离。
+
+刊蜡板应紧贴缸壁，局部最大间隙不应超过 Smm。
+
+转动扶梯中心线的投影应与轨道中心线重合，偏差不应大于 10mm.
+
+14. 8.10 在储饶试水合格后，饶内液面降至 2400mm 左右，浮项仍处于漂浮状态时，应调整浮顶支
+柱的高度，使浮项各支柱能够同时落地。
+
+14. 8.11
+
+82
+
+外购的附件，应按照设计文件和供应商的说明书进行安装。
+
+SH/T 3046一2024
+
+15 焊接
+
+15.1 一般要求
+
+15.1.1 从事储饶焊接的焊工，应按《特种设备焊接操作人员考核细则》TSG Z6002 的要求取得焊工
+资格证，且在有效期内，方可担任相应资格范围内的焊接工作。
+
+15.1.2 选用的焊接设备应符合焊接工艺的要求。
+
+15.1.3 焊接环境条件如气温、湿度、风速等应符合相关标准规范的要求。
+
+15.2 焊接工艺评定
+
+15.2.1 储缸施工前，施工单位首次使用的钢种应根据母材材质、规格、焊接方法及焊接材料等，按
+照现行国家的焊接性试验标准进行焊接性试验，为确定合适的焊接工艺提供依据。不应采用焊接工艺
+评定试验代替焊接性试验。
+
+15.2.2 ”正式焊接前，施工单位必须有评定合格的焊接工艺支持。
+
+15.2.3 焊接工艺评定除应符合现行行业标准《承压设备焊接工艺评定》NB/T47014 的有关规定外，
+还应符合下列要求:
+
+a) “焊接工艺评定范围应覆盖储饶焊接施工中涉及的所有焊接方法、所有焊接接头形式、所有和母
+材材料及所有焊接材料
+
+b) 对接焊终工艺评定应包括底圈饶壁的纵焊缝及底圈饶壁与第二圈饶壁的环焊缝焊接工艺评定。
+纵焊缝气电立焊工艺评定还应包括缸壁最薄壁板的纵焊丝和采用单面坡口焊接的最厚壁板纵焊颖焊接
+工艺评定，当单道焊厚度大于 19mm 时，应对每种厚度的焊接接头单独进行评定;
+
+c) “角焊颖焊接工艺评定应包括饶底板与底圈负壁板组成的T形接头角焊颖焊接工艺评定。T 形
+接头角焊颖焊接工艺评定除了包括《承压设备焊接工艺评定》NB/T47014 对角焊颖焊接工艺评定规定
+的内容外，还应进行弯曲试验，弯曲试件的制备和检验应符合《立式圆简形钢制焊接储缸施工规范》
+GB50128-2014 附录 A 的规定;
+
+15. 2.4 ”对接焊缝的试件，应作拉伸、横向弯曲及冲击试验。拉伸、冲击试验合格指标符合表 15. 2. 4
+的规定; 横向弯曲试验按《承压设备焊接工艺评定》NB/T 47014-2011 的规定进行
+表 15. 2. 4 对接焊缝试件拉伸、冲击试验合格指标
+、    抗拉强度
+ (Pa)
+15.2.5 对接焊颖的横向弯曲试验，合格指标规定如下
+
+a) ”试样弯曲到规定的角度后，其拉伸面上不应有单条长度大于 3mm 的裂纹或缺陷。试样的棱
+角开裂一般不计，但由夹漂或其他焊接缺陷引起的棱角开裂长度应计入;
+
+b) 若采用两片或多片试样时，每片试样都应符合上述要求。
+
+15.2.6 施工单位应根据合格的焊接工艺评定报告编制焊接工艺规程或焊接作业指导书，焊接工艺规
+程或焊接作业指导书应覆盖焊接施工的全部焊接接头。
+
+15.2.7 定位焊及工卡具等临时焊缝的焊接作业指导书，应包括焊前预热、焊后缓冷、焊颖最小长度、
+引弧炸弧等具体细节要求。
+
+15.2.8 焊接返修作业指导书，应包括缺陷清除工艺、无损检测要求、焊前预热、焊后缓冷、焊颖最
+小长度和深度等具体细节要求。
+
+83
+
+SH/T 3046一2024
+
+15.3 ”焊接材料
+
+15.3.1 储饶焊接施工前应对焊接材料进行验收。
+
+15. 3.2 ”施工单位应制订现场焊接材料管理制度，并应结合具体工程项目制订细则，内容应至少包括
+焊接材料的存放、保管、烘干、发放等过程要求。
+
+15. 3.3 焊接作业前应对焊接材料品种和尺寸进行确认，对焊接材料的外观完整性进行检查。
+
+15.4 焊接施工
+
+15.4.1 焊接施工应按照批准的焊接工艺规程进行。
+
+15. 4.2 焊接前应检查组装质量，清除焊接区域影响焊接质量的铁锈、水份和污物等，并应充分干燥;
+必要时应采用加热方式进行强制干燥。
+
+15.4.3 定位焊及工卡具等临时焊颖的长度不宜小于 5S0mm。
+
+15.4.4 负壁纵焊颖采用气电立焊时，宣设置引弧板和熄弧板。多层焊的层间接头应错开至少 50mm。
+15.4.5 焊脚高度大于或等于 6mm 的搭接角焊终，应至少焊两遍。
+
+15.4.6 双面焊全熔透焊缝先焊侧背部应清根。当采用碳弧气蚀时，清根后应修整蚀槽，磨除渗碳层。
+15.4.7 负体钢板的标准届服强度下限值大于 390MPa 时，清根后应进行渗透检测。
+
+15.4.8 预热温度应根据相关规范确定。当规范无规定时，应进行焊接性试验确定预热温度范围。预
+热时应均匀加热，预热范围不应小于焊颖中心线两侧各三倍板厚，且不应小于 100mm。焊前预热的焊
+颖，其焊接道间温度不应低于预热温度。
+
+15.4.9 焊接线能量应由焊接性试验和焊接工艺评定确定。焊接操作中焊接线能量上限值不应超过焊
+接工艺规程中规定的上限值。
+
+15. 4. 10 采用气电立焊时，12MnNiVR 饶壁纵向焊缝的焊接线能量不应超过 100kJ/cm。
+
+15.4.11 需后热消氧处理的焊缝应在焊接完毕后立即进行。消氨处理温度宜为 250C~350C，保温
+时间不宜小于 0. She
+
+15. 4. 12 采用标准屈服强度下限值大于 390MPa 的低合金钢的缸壁板，当板厚大于 25mm 时, 采用碳弧
+气刨清根前应进行预热，预热温度宜为 100C一150'C 。
+
+15.4.13 设计文件未明确规定时,由不同强度的钢材组成的缸底和缸壁的焊缝焊接时, 焊接材料应采
+用与强度较低侧钢材相匹配的焊接材料，焊接工艺应与强度较高侧钢材的焊接工艺相同。
+
+15. 4.14 焊接操作中，应采取有效措施避免咬边。
+
+15.5 焊接顺序
+
+15.5.1 储饶饶体的焊接，应采用收缩变形最小的焊接工艺及焊接顺序。
+
+15.5.2 较长的焊颖初层焊道宜采用分段退焊或跳焊法。
+
+15.5.3 负底中幅板、浮项板等由多张钢板拼接的部件，宣采用分区焊接的顺序，其拼接焊颖，应先
+焊短焊缝，后焊长焊缝。
+
+15. 5.4 环形边缘板对接焊终、缸壁纵向焊终、固定顶顶板径向长焊缝等具有对称性的焊颖焊接，数
+组焊工应沿圆周均匀分布并沿同一方向施焊。
+
+15.5.5 负底与负壁连接的环形角焊终、缸壁环向焊缝、边缘板与中幅板之间的环形焊颖焊接时，焊
+工应沿圆周均匀分布，并沿同一方向施焊。
+
+15.5.6 单条饶底环形边缘板对接焊缝应先完成靠外缘至少 300mm 的焊丝，在饶底与饶壁连接的角焊
+缝焊完后且边缘板与中幅板之间的收缩缝焊接前，完成剩余边缘板的对接焊缝。缸底与缸壁连接的角
+焊缝宜在底圈饶壁与第二圈负壁之问的环焊缝焊接完成后再进行焊接。
+
+15.5.7 负壁的焊颖应先焊纵向焊缝，后焊环向焊缝。当焊完相邻两圈壁板的纵向焊缝后，再焊其间
+的环向焊缝。
+
+15.5.8 采用搭接的浮项板焊缝，宣先焊下侧的焊缝，后焊浮顶板上面的焊缝。
+
+15.5.9 ”单盘式浮顶浮舱与单盘板连接的焊缝，应在浮舱与单盘板分别焊接完成后再施焊。
+
+84
+
+
+SH/T 3046一2024
+
+15.5.10 被构件遮蔽的焊缝应先焊接，检查合格后方可焊接隐蔽构件。
+15.6 修补与返修
+15.6.1 施工过程中产生的各种钢板表面缺陷应进行修补，且应符合下列规定:
+
+a) 深度不超过 1. 0mm 划伤、电弧探伤以及去除工卡具形成的痕迹、焊疤等的缺陷，应打磨平滑。
+必要时打磨处应进行表面检测。
+
+b) 缺陷深度或打磨深度超过 lmm 时，宜进行补焊，补焊前应对打磨处进行表面检测，补焊后其
+表面应打磨平滑，必要时打磨处应进行表面检测。
+
+15.6.2 焊缝表面缺陷的修补，应符合下列规定:
+
+a) 焊缝表面缺陷超过本标准第 16. 1. 2 条规定时，应进行打磨或补焊，
+
+b) 焊缝表面缺陷应采用砂轮磨除，缺陷磨除后的焊缝表面若低于母材，则应进行焊接修补;
+
+c) 焊缝两侧的咬边和焊趾裂纹应采用砂轮磨除，并应打磨平滑，磨除深度不应大于 0. 5mm，当不
+符合要求时应进行焊接修补。
+
+15.6.3 焊缝内部缺陷的修补，应符合下列规定:
+
+aa) 焊接修补应按照焊接返修作业指导书进行
+
+b) 焊颖内部的超标缺陷在焊接修补前，应探测缺陷的埋置深度，确定缺陷的清除范围;
+
+c) 缺陷清除长度不应小于 50mm，清除的深度不宜大于板厚的 203。当清除深度超过板厚的 2/3
+宣采用双面修补法;
+
+d) 当采用碳弧气刨时，缺陷清除后应修磨刨槽;
+
+e) 补焊前，应对清理表面进行渗透检测，确认缺陷已被清除干净;
+
+f) 返修后的焊丝，修补后应打磨平滑，并应作渗透或磁粉检测; 当焊接修补深度超过 3mm 时，应
+按原规定的方法进行无损检测，并应达到原合格标准要求;
+
+g) 对标准屈服强度大于 390MPa 的低合金钢的焊接修补，应在修补焊道上增加一道凸起的回火焊
+道，回火焊道焊后应修整与原焊道圆滑过渡。
+
+h) 同一部位进行第二次或更多次修补前，业主、监理、施工、设计等相关单位应进行原因分析。
+返修方案应经施工单位技术负责人批准。返修次数、返修部位和返修情况应计入质量证明文件。
+15.6.4 负体充水试验中发现的饶壁焊缝缺陷，应放水使水面低于该缺陷部位至少 300mm，并应将需
+修补处充分干燥后再进行修补。
+
+16 ”检验与试验
+
+16.1 焊缝外观
+16.1.1 焊缝应进行外观目视检查，检查前应将熔渣、飞溅清理干净。
+16.1.2 焊颖表面质量应符合下列规定;
+
+a) 焊接接头表面，不应有表面裂纹、未焊透、未熔合、表面气孔、弧坑、未焊满、夹河和飞泪
+物等缺陷，焊颖与母材应圆滑过渡，角焊缝的外形应凹形圆滑过渡;
+
+b) 焊缝的咬边深度，不应大于 0. 5mm;，咬边的连续长度，不应大于 100mm; 焊颖两侧咬边的总长
+度，不应超过该焊缝长度的 10%;
+
+c) 钢板最低标准屈服强度大于 390MPa 的焊缝或厚度大于 25mm 的低合金钢的壁板纵缝的咬边应
+打磨圆滑;
+
+d) 边缘板的厚度大于或等于 10mm 时，底圈壁板与边缘板的 T 形接头缸内角焊缝靠饶底一侧的边
+缘，应平缓过渡，咬边应打磨圆滑
+
+e) 镑壁纵向对接焊缝不应有低于母材表面的凹陷。负壁环向对接焊终和饶底对接焊缝低于母材
+表面的凹陷深度，不应大于 0. 5mm。止陷的连续长度，不应大于 100mm。四陷的总长度，不应大于该焊
+
+a
+
+85
+
+SH/T 3046一2024
+
+缝长度的 10%;
+£) 外浮顶及内浮顶储镀缸壁内侧焊颖的余高，不应大于 lmm。其他对接焊缝的余高，除应符合表
+16. 1. 2 的规定外，还应满足焊终无损检测的要求;
+表16.1.2 ”对接焊缝的余高 (mm)
+
+SAE AE 9 A
+饶底焊颖的余高
+
+5 >25
+
+6 <12
+12< 6 <25
+
+g) 对接接头的错边量应符合本标准第 14. 4. 7 条的规定;
+h) 采用最低标准屈服强度下限值大于 390MPa 的钢板表面的焊疤应在磨平后进行渗透检测或磁粉
+检测，无裂纹、夹河和气孔为合格 。
+16.1.3 焊缝的尺寸应符合设计文件的要求。
+16.2 焊缝无损检测
+16.2.1 从事储负无损检测的人员，应按《特种设备无损检测人员考核与监督管理规则》TSG
+26001-2013 的规定考核合格，并应取得相应项目的资格后，方可在有效期间内担任合格项目范围内的
+无损检测工作。
+16.2.2 采用最低标准屈服强度下限值大于 390MPa 钢板的焊缝, 焊接完毕应至少经过 24h 后方可进行
+无损检测 。
+16.2.3 负底的焊颖检测应符合下列规定:
+a) 镑底板搭接焊颖和对接焊颖的根部焊道焊完后，应进行渗透检测，全部焊完后，应进行渗透
+检测或磁粉检测;
+b) 饶底所有焊颖应采用真空箱法进行严密性试验，试验真空度不应低于 53kPa，无渗漏为合格;
+c) 厚度大于或等于 10mm 的饶底边缘板，每条对接焊缝的外端 300mm 应进行射线检测，厚度小于
+10mm 的缸底边缘板，每个焊工施焊的焊丝，应至少对一条焊缝的外端 300mm 进行射线检测 。
+16.2.4 饶壁的焊颖检测应符合下列规定:
+a) 纵向焊缝检测应符合下列规定;
+1 底圈壁板厚度小于或等于10mm时,应从每条焊颖中任取 300mm 进行射线检测(图16.2.4a));
+底圈壁板厚度大于 10mm 且小于 25mm 时，应从每条焊颖中任取 2 个 300mm 进行射线检测，其中一个位
+置应靠近底板〈图 16. 2. 4b)); 底圈壁板厚度大于或等于 25mm 时，每条焊缝应进行 100%射线检测〈图
+16.2.4 c));
+2 其它各圈壁板，当板厚小于 25mm 时，每一焊工焊接的每种板厚〈板厚差不大于 lmm 时可视
+为同等厚度)，应在最初焊接的 Sm 焊颖的任意部位取 300mm 进行射线检测。以后不考虑焊工人数，应
+对每种板厚在每 30m 焊缝及其尾数内的任意部位取 300mm 进行射线检测〈图 16.2.4b)); 当板厚大于
+或等于 25mm 时，每条焊缝应 100%射线检测 CPA 16.2.4 c))
+b) 环向焊颖检测，每一焊工焊接的每种板厚〈以较薄的板厚为准) 应在最初焊接的 3m RSE NEE
+意部位取 300mm 进行射线检测，以后对于每种板厚应在每 60m 焊缝及其尾数内的任意部位取 300mm
+进行射线检测 〈图 16.2.4)。
+c) T字焊颖检测应符合下列规定:
+1 当板厚〈以T字焊缝较薄板厚为准) 小于或等于 10mm 时，底圈壁板除本条第 a 款 1) 项规定
+
+86
+
+SH/T 3046—2024
+外，25%的T字颖应进行射线检测〈图 16.2.4 ad); 其它各圈壁板，按本条第 a 款 2) 项中射线检测部
+
+位的 25%应位于T字颖处，当板厚度大于 10mm 时，全部T字缝应进行射线检测;
+2 饶壁T字焊缝检测位置应包括纵向和环向焊缝各 300mm 的区域。
+
+— 7
+
+a)
+板厚二10mm
+|                 |
+1                 1                 1
+'                 '                 1
+b) 10mm< {i$ <25mm
+|                 |                  |
+1
+|
+一一一
+c)
+25< IE <45
+FE 1: SEM TA AE (tS 10mm).
+注 2: MAEM NATE.
+注3: RMA bE HY AT AR Ho FE (t<25mm).
+
+HE 4: 板厚大于 10mm 的所有 T 型接头上的射线检查点。
+注5: 最底圈壁板厚度大于 10mm 的每条纵焊缝底部的射线检查点。
+
+87
+
+SH/T 3046一2024
+
+注6: 板厚大于 25mm 的所有纵焊颖要求 100%射线探测。
+ 16.2.4 ”负壁焊缝射线检测的位置和数量
+1-饶壁顶部，2-镀底
+
+d) 缸壁开孔接管焊颖检测应符合下列规定;
+1) 齐平型清扫孔组合件所在缸壁板与相邻缸壁板的对接焊缝，应进行 100%射线检测;
+2) 最低标准屈服强度下限值大于 390MPa, 或厚度大于 25mm 的负壁板上的开孔焊缝及补强圈焊
+颖的初层焊道，应进行渗透检测; 在焊缝焊完 (对有延迟裂纹倾向的钢材至少要经过 24 小时) 后和储
+饶充水试验后，应进行渗透或磁粉检测。有消除应力热处理要求时，焊缝焊完后的渗透或磁粉检测应
+在热处理后、充水试验前进行。
+3) 开孔的补强圈焊完后，由信号孔通入 0. 2MPa 压缩空气，检查焊缝严密性，无泄漏为合格。
+
+e) 充水试验时液位之上的缸壁焊缝应采用煤油试漏法或真空箱法进行密封性检测，以无渗漏为
+
+合格。
+16.2.5 底圈镑壁与饶底板的了T形接头角焊缝的检测应符合下列规定:
+
+a) “当负底边缘板的厚度大于或等于 8mm，且底圈壁板的厚度大于或等于 16mm，在缸内及镀外角
+焊缝焊完后，应对缸内角焊缝进行磁粉检测或渗透检测，在储缸充水试验后,应用同样方法进行复验;
+
+b) 底圈饶壁和镑底板采用最低标准屈服强度下限值大于 390MPa 钢板时，镀内、外角焊缝的初
+层焊道，应进行渗透检测，在缸内及缸外角焊缝焊完后，应对缸内、外角焊颖进行磁粉检测或渗透检
+测，在储饶充水试验后，应用同样方法对缸内角焊颖进行复验。
+
+16.2.6 浮顶焊颖的检测应符合下列规定:
+
+a) “当浮项底板、单盘板采用单面连续焊颖时，应采用真空箱法进行密封性试验，试验真空度不
+应低于 53kPa，保持时间不应低于 5s，以无泄漏为合格;
+
+b) “当浮项底板、单盘板采用双面连续焊颖时，应在上部焊缝焊完按本条 a) 款的要求检查合格
+后再焊接下部的连续焊颖;全部焊完后应采用煤油试漏法进行检测，以无渗漏为合格;
+
+c) ”隔舱的环向隔板、径向隔板与隔舱底板的角焊缝，应采用煤油试漏法进行检测。隔舱项板的
+焊缝，应采用真空箱法进行密封性试验，试验真空度不应低于 53kPa，保持时间不应低于 5s，以无汇
+漏为合格;
+
+d) 单盘式浮顶的所有隔舱和双表式浮顶具有和气密性要求的隔舱，均应进行气密性试验，气密试
+验的压力不低于 785Pa，稳压时间不应小于 5min，均以无泄漏为合格;
+
+e) “当受结构限制不能采用真空箱法进行密封性试验时，可采用煤油试漏法检测，以无泄漏为合
+格。
+
+16.2.7 焊绻无损检测的方法和合格标准，应符合下列规定:
+
+a) “射线检测应按现行行业标准《承压设备无损检测 ”第 2 部分: 射线检测》NB/T 47013. 2 的规
+定执行，检测技术等级不应低于 AB 级; 采用钢板最低标准屈服强度下限值大于 390MPa 的壁板、厚度
+不小于 25mm 的碳素钢壁板或厚度不小于 16mm 的低合金钢壁板的焊缝，检测结果不低于开级为合格
+其它焊缝检测结果不低于蕙级为合格;
+
+b) “超声检测应按现行行业标准《承压设备无损检测 ”第 3 部分: 超声检测》NB/T 47013. 3 的规
+定执行，检测技术等级不应低于 B 级;检测结果不低于开级为合格;
+
+c) “磁粉检测应按现行行业标准《承压设备无损检测 ”第 4部分: 磁粉检测》NB/T 47013. 4 的规
+定执行，检测结果 I 级为合格;
+
+d) “渗透检测应按现行行业标准《承压设备无损检测”第 5 部分: 渗透检测》NB/T 47013. 5 的规
+EDT, PURI BAGH:
+
+ec) 目视检测应按现行行业标准《承压设备无损检测 ”第 7 部分: 目视检测》NBVT 47013. 7 的规
+
+88
+
+SH/T 3046一2024
+
+定执行;
+
+驴”真空箱法密封性试验应按现行行业标准《承压设备无损检测 ”第8 部分: 泄漏检测》NB/T
+47013. 8 附录 B 的规定执行;
+
+g) 衍射时差超声检测 〈TOFD) 应按现行行业标准《承压设备无损检测 ”第 10 部分;衍射时差
+法超声检测》NB/T 47013. 10 的规定执行，检测技术等级不应低于B 级; 检测结果不低于开级为合
+16.3 ”储缸几何形状和尺寸
+16.3.1 饶体组装焊接后，几何尺寸和形状应符合下列规定:
+
+a) ”饶体高度允许偏差不应大于设计高度的 0. 5%，且不应大于 50 mm;
+
+b) “饶壁垂直度允许偏差不应大于镀壁高度的 0. 4%，且不应大于 50 mm;
+
+c) “在底圈壁板 1 m 高处测量, 底圈壁板内表面任意点半径的允许偏差,应符合本标准表 16. 3. 1-1
+的规定;
+
+表. 16. 3. 1-1_底圈负壁内表面任意点半径的允许偏差
+
+m                                                               mm,
+
+DS12.5
+
+d) HERES RE AE, DPE A A PRMER 16. 3. 1-2 的规定;
+表16. 3.1-2 MeGRRARH RAE
+
+<             <
+
+12
+12< 8 <25                                            10
+5 >25                                  S8
+
+e) HEBER BMI ARIL, DAE AAS PRHER 16. 3. 1-3 的规定;
+表 16. 3.1-3 MRO SRM owe
+
+板厚 5 (mm)                        镀辟局部凹凸变形 (mmy)
+6<12                                 <15
+
+12< 6 <25                                S13
+6>25                                 S10
+
+f) WEG PE BE A bP TAH 2D] 58 PR ES ANF 50mm。
+16.3. 2 RECIPE Jes Jeb PAB TMT BR TE TRE AS DAF RTA EN 2%，且不应大于 SOmm; 基础顶面单
+HSE SURE EEA ISAT 40mm.
+16.3.3 ”钢制焊接浮项局部凹凸变形，应符合下列规定:
+a) “浮舱项板的局部凹凸变形，应用直线样板测量，不应大于 15mm;
+b) 单盘板的局部凹凸变形，不应明显影响外观。外浮项缸的浮项单盘板的局部凹凸变形不应影
+响浮顶排水;
+c) 浮顶外边缘板的凹凸变形，用曲线样板测量，不应大于 10mm;
+d) 浮项外边缘板的垂直度允许偏差不应大于 3mm。
+
+89
+
+SH/T 3046一2024
+
+16. 3.4 焊接完毕的浮项的外边缘板的半径允许偏差应为士10mm。
+16.3.5 焊接完毕的浮项的外边缘板和底圈镑壁板之问的间隙，在浮项处于支撑位置测量，人允许偏差
+MAt1Smm; 在充水试验过程中，浮项处于任何高度位置上，人允许偏差应为十0omm。检测饶壁与浮
+顶外边缘板之间环形空间的距离至少应包括下列充水高度，
+
+a) 设计液位高度的 1/4;
+
+b) 设计液位高度的 1/2;
+
+c) 设计液位高度的 3/4;
+
+d) 设计液位高度。
+16.3.6 浮顶量油管、导向管的垂直度不应大于其长度的 1%，且不应大于 10mm。
+16.3.7 固定顶焊后的几何尺寸，应符合下列规定:
+
+a) “带肋球壳固定顶成型应美观，其局部上四凸变形，应用曲线样板测量，不应大于 15mm;
+
+b) “单层球面网过固定项成型应美观，其局部上四凸变形，应用曲线样板测量，不应大于 20mm; 安
+装完毕后的初始挠度值，不应超出设计文件的许可值。
+
+c) ”负顶支柱的垂直度不应大于支柱长度的 1x%，且不应大于 10mm。
+16.3.8 饶壁接管安装尺寸偏差应符合下列规定:
+
+a) 缸壁外表面到接管法兰面的距离允许偏差应为士smmi
+
+b) 饶壁接管或缸顶接管的位置允许偏差应为十10mm;
+
+c) 法兰密封面应与接管的轴线垂直，倾斜不应大于法兰外径的 1%，且不应大于 3mm;
+
+d) 法兰螺栓孔定位允许偏差应为十3mm。
+16.3.9 ”装配式内浮顶安装完毕后，应进行外观和整体形状检查，并应对有和气密性要求的盘板接颖处
+(如蒙皮板接颖处、浮力单元模块接缝处等) 进行密封性检查，检查结果应符合设计文件、订货技术
+协议和供应商的产品说明书要求。
+16. 3.10 玻璃钢内浮顶安装完毕后,应进行外观和整体形状检查，并应对表面电阻进行检测,检查结
+果应符合设计文件、订货技术协议和供应商的产品说明书要求。
+16.3.11 装配式内浮顶安装完毕后, 内浮项边缘构件与饶内壁的密封间距, 在浮顶处于支撑位置测量，
+允许偏差应为土10mm; 在充水试验过程中，内浮项处于任何高度位置上，人允许偏差应为士50mm。
+16.4 充水试验
+16.4.1 储饶建造完毕后应进行充水试验。充水试验应至少检查下列内容:
+
+a) ERE SHE
+
+b) ERE SR FE Ae ETE
+
+c) 固定项的强度、稳定性及严密性;
+
+d) 外浮顶及内浮顶的升降试验及严密性，必要时应进行外浮顶及内浮顶的强度及稳定性试验;
+
+e) 外浮顶排水管的严密性;
+
+f) 基础的沉降观测。
+16.4.2 储饶充水试验应符合下列规定:
+
+a) 充水试验前，所有附件及其他与缸体焊接的构件，应全部完工，并检验合格;
+
+b) 充水试验应在永久性管道与储缸连接之前进行
+
+c) 所有与严密性试验有关的焊缝，均不应涂刷油漆，
+
+d) 充水试验高度应为设计液位高度;
+
+e) 充水试验应采用洁净淡水，试验水温不应低于 5C 。当采用其它液体介质进行充水试验时，
+应对试验过程中的安全性和对储饶的腐蚀性进行评估，并应采取有效的防护措施;
+
+f) 在充水试验中，如基础发生设计不允许的沉降，应停止充水，待采取适当措施处理后，方可
+继续进行试验;
+
+90
+
+SH/T 3046一2024
+
+g) 充水和放水过程中，应打开透光孔;
+
+h) 试验过程中不应使基础浸水。
+16.4. 3 负体焊缝防腐及储缸保温应在充水试验合格后进行。
+16.4.4 负底的严密性应以饶底无渗漏为合格。若发现渗漏，应将水放净，对全部缸底进行渗漏检测，
+找出渗漏部位后，按本标准第 15.6 节的规定进行焊接修补。
+16.3.5 负壁的强度及严密性试验, 充水到设计最高液位并保持 48h Ja, DAG REFER. TOR EI
+为合格。发现渗漏时应放水，使液面比渗漏处低 300mm 左右，按本标准第 15.6 节的规定进行焊接修
+补。
+16.4.6 国定项试验应符合下列规定:
+
+a) 密闭常压储饶固定顶应进行气密性试验，气密试验压力不应小于 0.35SkPa，且不应大于负顶
+板单位面积的重量，试验以镀顶无渗漏、无异常变形为合格;
+
+b) 非密闭常压储饶的固定项可不进行气密性试验，但应对缸项焊缝进行目视检查;
+
+c) 固定项应进行稳定性试验，试验压力不应低于饶项计算外压减去饶项固定载荷〈含缸项单位
+面积的重力) 之差的 1. 1 倍。稳定性试验可采用充水到设计最高液位用放水方法进行。试验时应缓慢
+降压，达到试验负压时，以缸顶无异常变形为合格;
+
+d) 气密性和稳定性试验后，应立即使储缸内部与大气相通，恢复到常压;
+
+16.4.7 外浮顶及内浮顶试验应符合下列规定:
+
+a) 外浮顶及内浮项应进行升降试验，升降试验可结合储缸充水试验进行，升降试验的充水高度
+应为储饶设计液位高度;
+
+b) 外浮顶及内浮顶在升降试验中应升降平稳，导向机构、边缘密封装置及自动通气阀支柱无卡
+涩现象，扶梯转动灵活，浮项及其附件与镀体上的其他附件无干扰，浮顶与液体接触部分无渗漏，
+
+c) 充水试验过程中，浮项边缘密封应紧贴缸壁，不应存在肉眼可见的局部间隙;
+
+d) 外浮顶排水管应进行严密性试验。在浮项的升降过程中，浮项排水管的出口，应保持开启状
+态，以无泄漏为合格。
+
+e) 采用直角旋转接头的外浮项排水管在储饶充水试验后，应再以 390kPa 压力进行水压试验，
+持压 30min 无渗漏为合格;
+
+f) 采用整根软管式结构或局部挠性接头结构的排水管在储饶充水试验后，应确认软管或挠性接
+头无失稳变形迹象和破损;
+
+g) 装配式内浮顶在储饶充水试验后应再次进行外观和整体形状检查，检查部件连接部位是否牢
+固可靠，并应对有气密性要求的盘板接缝处〈如蒙皮板接缝处、浮箱接颖处等) 进行密封性检查，发
+现异常情况应进行分析并处置。
+
+16.4.8 基础沉降观测应符合下列规定:
+
+a) 储缸基础沉降观测应结合充水试验进程和地基充水预压监测进行。当地基基础需要充水预压
+时，基础沉降观测、充水速度及停留点、停留时间、放水速度等应同时符合充水预压的要求;
+
+b) 储饶基础沉降观测应符合《石油化工钢制储缸地基与基础施工及验收规范》SH/T 3528 的要
+求;
+
+c) 充水试验完成后，储缸基础的不均匀沉降值应符合本标准附录 B 的要求。
+
+16.4.9 微内压储饶的充水试验应符合本标准附录 A 的要求。
+
+91
+
+SH/T 3046一2024
+
+附 录 A
+(规范性附录)
+微内压储鲜
+
+A.1 一般规定
+
+A.1.1 当符合本附录的附加要求时，储饶的设计压力可以增大到本附录规定的最大允许值。
+
+A.1.2 当设计内压产生的举升力不大于缸项板及作用在缸项板上的结构件总重时, 设计应符合本标准
+正文的规定。
+
+A.1.3 当设计内压产生的举升力不大于由名义厚度确定的缸壁、缸顶板、作用在饶顶板上的结构件以
+及作用在缸壁上的任何支撑构件的总重时，尚应满足本附录第A. 2 至第A. 7 的要求，地震倾覆稳定性
+应独立于内压提离单独考虑。
+
+A.1.4 当设计压力产生的举升力大于由名义厚度确定的缸壁、缸顶板、作用在缸项板上的结构件以及
+作用在缸壁上的任何支撑构件的总重量，且小于或等于 18kPa 时，储饶应进行锚固，设计尚应满足本
+附录第A. 8 节的要求。
+
+A.1.5 当设计温度大于 90C时，尚应符合本标准附录 C 的规定。
+
+A.2 设计考虑因素
+
+A.2.1 按照本附录设计的储饶，当按本标准式 〈7. 3.2-1)、式 〈7. 3. 2-2) 计算饶壁厚度，按本标准
+表 11. 3. 1-2 选取缸壁人孔各元件厚度，按本标准表 11. 5. 1-1 选取齐平型清扫孔各元件厚度时，式中
+和表中所采用的设计液位高度，应计入气相空间设计压力折算成储存介质的当量液柱高度。对于设计
+压力不大于 1lkPa 的储缸，确定上述元件厚度时，可不计入设计压力折算成储存介质的当量液柱高度。
+A. 2.2 饶壁与饶顶连接处承压环所需截面面积应按附录A. 5 的规定进行计算,计入承压环有效面积的
+范围按照图 8. 1.6 确定。在计入承压环有效面积范围内的构件，如饶项、饶壁及其它组合件自身的拼
+接焊缝应为全焊透对接结构。
+
+A. 2.3 饶顶板、承压环、人和孔接管等用材料应符合本标准的要求。
+
+A.2.4 当储饶设计压力超过 2kPa WY, 饶项人和孔、接管等开孔设计应按照本标准 11.2一11. 4 REFS
+的要求进行。当使用本标准表 11. 3. 2 时，设计液位可取表中的最低值。
+
+A. 3 HR SHE MERAY
+
+A. 3.1 GETH AS HERE BED ALAS RT DL TE A AHEM 8. 1. 6 的规定。
+
+A. 3.2 承压环的有效面积范围为图 8. 1. 6 的阴影部分。
+
+A. 4 最大允许内压和试验步骤
+
+A.4.1 当微内压储负缸项与负壁连接处承压环的有效面积已确定时，其最大允许内压应按下式计算:
+
+_ AR‘, tand
+
+p=           + 0.00127 Din                                          (A. 4.1)
+
+200D2      D
+式中; P — 微内压储缸的最大允许内压，(kpPa);
+A 一一 镑项与饶壁连接处承压环的有效截面积，(mm)，按本标准图 8. 1. 6 确定;
+D — fii A, (m);
+Dra 一一 Hi RF FE WE BY RE THR SE EE, (N);
+Ri, 一一 设计温度下承压环材料标准屈服强度下限值，QIPa) ，
+6 一一 锐顶与负壁连接处饶顶与水平面之间的夹角(”)。
+
+92
+
+SH/T 3046—2024
+
+A. 4. 2 PPA ALAR TE ie tHE GARI IER BSA TB iG A SK LTR AR AR ARTE, 除非A. 4. 3 中另有限
+fill:
+A. 4.2.1 对自支撑锥项和自支撑拱项，最大设计压力应按下列式子计算:
+
+JM
+5 (+ Mo一06Mw) 四
+
+Prax = min} pit (“ASME + Mou Mw) 加         CA.4.2.1)
+Aa (+ Mou -Mws)
+A4.2.2 对柱支撑锥项，最大设计压力按下式计算;
+Prax = Gaps (“Ht + Moun — Mws)                (A. 4. 2.2)
+SUH: Pha, tie REDER PAN BRIA i Me AT HE, (kPa);
+
+B&B, Wom
+Fr一操作压力和设计压力的比值，并不小于 0. 4;
+Mo一一根据有效厚度确定的饶壁重量和由饶壁支撑且不与缸顶板连接的镑项结构件的重量对缸
+壁饶底接合点的力矩，(N.m) ;
+MpzR--一根据有效厚度确定的缸顶板重量及与缸顶连接的结构件重量对饶壁饶底接合点的力矩
+(N.m);
+Mp——F4 i fig SEY HAE SE GER PS A I, HE 12. 1.4 计算，(N.m) ;
+My AF PA BAG AT a) PRR ig a A RE I He TAS) IH, (Nm) ;
+Ms AF PRR nt EAE IER A ATA] 77 HE (Nm) ;
+
+A. 4. 3 RPP HRIT SERRA Sai SA en Heat, Pos 尚应满足下式要求，
+Rs 三0.8亡                                 (A.4.3)
+
+A.4.4 储饶全部焊接完毕并经无损检测合格后，镀内应充水到设计液位，液面上加压至设计压力，稳
+压至少 15min，然后将压力降至 50%的设计压力，对所有焊缝进行渗漏检查，应以无渗漏为合格。液
+面以上的焊颖可采用肥皂泡法进行检查。
+
+A. 4.5 ”通气装置的试验，可与储缸压力试验同时进行，亦可在饶体试压之后进行。
+
+AS 承压环所需最小截面面积
+
+A.5.1 在储饶最大设计压力已经确定后，承压环需要的截面面积应按下式计算:
+
+P;   90017704 Byp2x103
+
+8[c]ttan6
+式中: A, 一一在本标准图 8. 1. 6 规定范围内满足最大设计压力要求的承压环最小截面
+积，不包括腐蚀裕量，(mm ) ;
+P,—iWit EH, (KPa)
+[go和一一材料许用应力，(MPa) ，应取设计温度下 1/1. 6 材料标准屈服强度下限值。
+
+A, =                                             (A.5.1)
+
+93
+
+SH/T 3046一2024
+
+A. 5.2 对于自支撑锥顶或自支撑拱项，承压环的截面面积不应小于按本标准第 8. 3. 3 条或本标准第
+8. 5. 3条要求确定的截面面积。
+
+A.6 储负顶板设计
+
+A.6.1 在内压作用下自支撑或支撑式锥项顶板的计算厚度应按下式计算，且不应小于按本标准 8. 3. 2
+条规定的计算厚度。
+
+_ PR
+cosa[6}'®
+
+(A.6.1)
+式中: 1一一顶板的计算厚度， (mm) ;
+
+P.一一计算压力，为设计压力 Pi减去饶项固定载荷0， (kPa) ;
+R一一储饶镑壁的曲率半径，m) ;
+
+a 一一锥顶半角，(")
+[oo] 一顶板材料许用应力(WPa) ，取 171. 6 倍设计温度下材料标准届服强度下限什
+4一一焊接接头系数
+
+单面满角搭接焊取幼=0. 35;
+
+双面满角搭接焊取幼=0. 65;
+
+全熔透对接焊，有或无垫板取儿=0. 70;
+
+全熔透对接焊，按照 16. 2. 3 条要求进行局部无损检测取乡=0. 85;
+
+全熔透对接焊，按照 16. 2. 3 条要求进行 100%无损检测取乡=1. 0。
+A.6.2 在内压作用下自支撑拱项顶板的计算厚度应按下式计算, 且不应小于按本标准 8. 5. 2 条规定的
+计算厚度。
+
+PeRs
+
+= Fate
+
+(A.6.2)
+式中: !一一顶板的计算厚度， (mm) ;
+
+P.一一计算压力，为设计压力 P,减去饶顶固定载荷 0， (kPa) ;
+
+R, 一一光面球壳的曲率半径，(m);
+
+[e] -一项板材料许用应力，(MPa) ，取 171. 6 倍设计温度下材料标准届服强度下限值;
+4一一焊接接头系数
+单面满角搭接焊取细=0. 35;
+双面满角搭接焊取乡=0. 65;
+全焊透对接焊，有或无垫板取乃=0. 70;
+全焊透对接焊，按照 12. 2. 2 条要求进行局部无损检测取细=0. 85;
+全焊透对接焊，按照 12. 2. 2 条要求进行 100%无损检测取乡=1. 0。
+A. 6.3 不包括腐蚀裕量的搭接项板厚度不应超过 13mm。
+
+94
+
+SH/T 3046一2024
+
+A.7 计算破坏压力
+A. 7.1 对于饶顶与负壁采用弱连接结构的储缸，计算破坏压力可按下式计算。
+
+0.000746D,
+Pr = 1.6p — Sr                (CA.7.1)
+
+式中: 局 一一计算破坏压力，(kpa) ;
+
+Di 一一由有效厚度确定的缸顶板及其上附件的重量，(N) ;
+P一一按式 〈A. 4. 1) 计算的压力， (kPa) 。
+
+A.7.2 对于饶顶与镀壁采用弱连接结构的储饶, 计算破坏压力亦可采用有限元数值模拟的方法进行计
+算。
+A.8 设计压力不大于 18kPa AB eee
+A.8.1 储饶的锚固设计应符合本标准第 12. 2 节的规定
+A. 8. 2 ”抵抗饶壁提离的锚固螺栓/锚带总拉力应取下列情况的最大值。
+
+a) 1.5 倍设计压力产生的提离力加设计风压产生的提离力，抵抗提离力的重量为空饶状态按扣除
+腐蚀裕量后的有效厚度计算;
+
+b) 1. 25 倍试验压力产生的提离力，抵抗提离力的重量为空缸状态按名义厚度计算的重量。
+A.8.3 锚固缸的试验与检查应满足下列要求:
+
+a) 充水到设计液位时，检查饶壁的严密性以及锚固件的松紧程度;
+
+b) 在缸内液面上用空气加压至试验压力，试验压力为 1. 25 倍的设计压力，稳压 15min，然后降
+至设计压力，检查饶体的严密性，应以无渗漏为合格。液面以上的所有焊颖可采用肥皂泡法检查;
+
+c) 负内的水放空后，在常压下检查锚固件的紧固性;
+
+d) 在空缸的条件下，用空气充压至设计压力，对储饶的锚固情况进行检查。
+
+95
+
+SH/T 3046一2024
+
+附 录 B
+(规范性附录)
+储饶对地基基础的基本要求
+
+B.1 一般规定
+8B.1.1 地基应能承受储饶自重及其所储存液体的重量; 基础的沉降不应影响储饶及连接管道的安全使
+用及计量。
+8B.1.2 储饶基础项面应设置绝缘防腐层。
+8B.1.3 储饶基础应根据清扫孔、排水槽等附件的要求进行局部处理。
+8.1.4 锚固储饶的配重设置应符合本标准第 12 章及附录 A. 8 的相关要求。
+B.1.5 储饶基础应具有防渗功能，防渗性能应满足环境保护要求。
+8B.1.6 储饶基础应有适当的缸底泄漏检查措施。 当沿储缸周边设置泄漏管时,泄漏管沿环向间距不应
+大于 15m，数量不宜小于4个。
+8B.1.7 当储饶的设计温度超过 90C时，储饶的基础应适应高温下工作的要求。
+B.2 基础基本尺十要求
+B.2.1 基础中心坐标偏差不应大于土20mm: 基础中心标高偏差不应大于士20mm。
+8B.2.2 饶壁处基础顶面的水平度应以平均标高计算，且应符合下列规定:
+a) 钢筋混凝土环墙基础，任意 10m 弧长上不应超过土3mm，在整个圆周上，不应超过士6mm;
+b) 碎石环梁基础和护坡式无环梁砂石垫层基础，任意 3m 弧长上不应超过士3mm，在整个圆周上，
+
+不应超过十6mm
+B.2.3 基础表面的沥青砂垫层, 在任意方向上不应有突起的棱角: 从中心向周边拉线测量，表面凹凸
+度不应超过 25mm。
+
+B. 2.4 基础锥面坡度由缸中心坡向周边时，锥面坡度不宜大于 15%
+B.3 ”基础沉降基本要求
+8B. 3.1 基础沉降稳定后，基础边缘上表面应高出设计地坪不小于 300mm。
+B. 3.2 ”储饶基础不应发生沉降突变;支撑缸壁的基础环粱与其内侧的基础回填层之间不应发生沉降突
+B.3.3 缸基础直径方向上的沉降差，不应超过表 B. 3. 3 的许可值。
+B. 3.4 储镑基础顶面沿负壁圆周方向任意 10m 弧长内的沉降差不应大于 25mm。
+8B. 3.5 ”基础沉降基本稳定后，正锥面坡向的基础锥面坡度不应小于 8%o。
+
+表B.3.5_储缸基础径向沉降差许可值
+
+外浮项镑与内浮顶镀                     (sl sz Tate
+
+任意直径方向最终沉降差许                    任意直径方向最终沉降差
+MEA D Cm)                             MEA D (m)
+可值                                           许可值
+22
+
+ww |
+22<DS30                    0. 0062                    22<DS30                   0.0102
+
+     N=
+     roe
+     w=
+
+96
+
+SH/T 3046一2024
+
+附 录 C
+(规范性附录)
+提高储缸设计温度的附加要求
+
+C.1 适用范围
+0.1.1 本附录适用于设计温度大于 90C且不高于 250C 的储饶。
+0.1.2 本附录不适用于下列情形的储缸:
+
+a) Fic ide
+
+b) Hbee Tif | AP NGL a SS AH RTH OS Tea oa TL A OD Pa a
+计可参照本附录执行;
+
+c) 采用铝制内浮项和铝制固定项的储饶，
+
+d) 采用复合材料制内浮项的储饶。
+0.1.3 当浮项边缘密封和垫片采取了适当的耐高温措施，且考虑了液体蒸汽压力的影响后, 钢制内浮
+顶储缸的其他部件设计可参照本附录执行。
+6C.1.4 设计温度大于 90C且不高于 250°C 的微内压储饶尚应符合本标准附录 A 的规定。
+C.2 提高设计温度的影响和附加要求
+0.2.1 当设计温度大于 90C时，应考虑以下因素的影响，
+
+a) 饶壁与馆底、负顶、梯子之间的温差，负顶与负顶支撑之间的温差，以及保温不连续处各部
+件之间的温差
+
+b) 镑底的热膨胀;
+
+c) 储液凝固产生的影响，如载荷的增加和通气孔断面的减少等;
+
+d) 热应力的变化频率和幅度对储饶设计寿命的影响。
+C.2.2 当设计温度大于 90C时，储饶设计应符合下列附加要求;
+
+a) 饶壁人孔、缸壁接管和清扫孔的法兰、法兰盖以及清扫孔加强底板的厚度应除以表 C. 2. 2 标准
+屈服强度下限值降低系数;
+
+b) 本标准 8. 2 节构件的许用应力应乘以按表 C. 2. 2 标准屈服强度下限值降低系数
+
+表 5. 2. 2标准屈服强度下限值降低系数
+标准届服强度下限值 MPa)
+
+设计温度
+
+90                                                                                      0. 886
+
+0. 87
+0. 83
+0. 794
+
+注: 中间温度的标准屈服强度降低系数可采用内插法计算。
+©) 有保温的锚固螺栓的许用应力，应为室温下的许用应力乘以表 5. 2. 2 标准届服强度下限值降低
+RM:
+d) 自支撑式锥项和自支撑式拱项的顶板计算厚度, 应为本标准式(8. 3. 2) 和式 (8. 5. 2) AEE SUA
+以室温与设计温度下钢材的弹性模量之比;
+e) 抗风计算中，镀壁的许用临界压应力应乘以设计温度与室温下钢材的弹性模量之比;
+f) 应适当增加环形边缘板的厚度和外接管道的温度补偿能力;
+g) 应改良负底板之间的焊颖和镀壁与角底角焊颖。
+
+97
+
+SH/T 3046一2024
+
+附 录 D
+(规范性附录)
+带肋球壳
+
+D.1 一般规定
+
+D.1.1 储饶拱项带肋球壳的曲率半径不宜大于 40 m，且储饶直径不宜大于 40 mo
+
+D.1.2 肋条间距不应大于 1. 5 m。
+D.1.3 肋条高厚比不宜大于 12。
+
+D.2 许用外荷载
+D.2.1 带肋球壳的许用外荷载应按下式计算:
+
+式中，[四一带肋球壳的许用外荷裁，(kPa) ;
+巨一设计温度下钢材的弹性摸量， (MPa) ;
+Ro 一球壳的曲率半径，(m ;
+ty, MEU AT ROR BE, (rm) ;
+已一一带肋球壳的折算当量厚度，(mm) «
+
+D.2.2 带肋球壳〈图D. 2.2) 的折算当量厚度应按下列公式计算，
+
+3    3   3
+i=} fim + 2tj, + bm
+m=]    4
+
+2       2) 3
+th, = uf a(t lng
+
+ls\3. 24) 12
+2  2 3
+8, =12 Jobo | Fa, tals. fo +4 nye?
+Ls(3 2 4) 12
+ny =14 OL
+tls
+n, =14 22
+tylos
+
+SH: 4, 一 纬向肋与顶板组合截面的折算厚度， (mm) ;
+方一纬向肋宽度， (mm ;
+
+乌一一纬向肋有效厚度， (mm) ;
+且一一纬向肋在经向的间距，(mm) ;
+站一“纬向肋与顶板在经向的面积折算系数，
+
+a一一纬向肋与顶板在经向的组合截面形心到项板中面的距离， (mm) ，
+
+98
+
+CD. 2. 1)
+
+(D. 2. 2-1)
+
+CD, 2, 2-2)
+
+(D, 2. 2-3)
+
+(D. 2. 2-4)
+
+(D, 2. 2-5)
+
+SH/T 3046一2024
+
+二 Pili (hittn)
+1 2istbiha)
+
+ty 一“经向肋与顶板组合堆面的折算厚度，(mm);
+
+万一“经向肋宽度，(mm)，
+
+已一“经向肋有效厚度，(mm) :
+
+万;一“经向肋在纬向的间距，(nm) ;
+
+帮一“经向肋与顶板在纬向的面积折算系数;
+
+e一“经向肋与顶板在纬向的组合截面形心到顶板中面的距离，(nm) ，
+
+— _bzhz(hz+th)
+2 一 BLasth+baha)
+_          Lis(L2s)           加
+bi(b2)
+!
+图 D.2.2 ”带肋球壳板
+1-顶板，2-肋条
+D.2.3 带肋球壳的稳定性验算应满足下式要求:
+T<[P]                                     (D. 2. 3)
+
+step, T—lil a2 Ait Sar RR (kPa), FARA HRHE 8. 1.4 条确定;
+[一一带肋球壳的许用外荷载(kPa) 。
+
+0. 3 带肋球壳的连接要求
+
+D.3.1 带肋球壳项板的连接应符合本标准 8. 1.5 条和 8. 1. 6 条的规定。
+
+D.3.2 肋条的长度方向拼接时可采用对接或搭接。采用对接时，焊缝应全熔透， 采用搭接时，搭接长
+度不应小于肋条宽度的 2 倍，且应采用双面满角焊。
+
+D.3.3 经向肋与纬向肋之间的T 型接头应采用双面满角焊。
+
+D.3.4 项板与肋条的连接应采用双面间断焊，焊脚高度应等于顶板厚度。
+
+D.3.5 肋条不应与包边角钢或缸壁相焊接。
+
+99
+
+SH/T 3046一2024
+
+附 RE
+(规范性附录)
+BRANES SN tid
+
+E.1 适用范围
+E.1.1 本附录适用于饶体采用奥氏体不锈钢 (材料牌号包括 S30403, S30408, S31603, $31608, $31703
+和 S31708)，且设计温度不高于 250C Ay ids te
+E.1.2 本附录仅给出了不同于本标准正文的特殊要求。对于未提及的要求, 应符合本标准正文的要求。
+E.1.3 除非特别指明，本附录中规定的最小厚度为构件腐蚀后的厚度。
+E.2 材料
+E.2.1 一般要求
+E.2.1.1 负体用钢板应符合《承压设备用不锈钢和耐热钢钢板和钢带》GB/T 24511 的有关要求。
+E.2.1.2 钢板应由经炉外精炼的钢轧制而成，并应以固溶热处理状态交货。
+E.2.1.3 钢板的厚度偏差宜采用普通精度等级。
+E.2.1.4 钢板的表面加工类型，热轧产品宜采用 1D Se CNL. PAA. RYE, AFL ARAN 2B
+级〈冷轧、热处理、酸洗)。
+E.2.1.5 储饶用钢管应符合《流体输送用不锈钢无缝钢管》GB/T 14976 的有关要求。
+E.2.1.6，储饶用锻件应符合《承压设备用不锈钢和耐热钢锻件》NB/T 47010 的有关要求。
+E.2.1.7 不锈钢焊接材料应符合《承压设备用焊接材料订货技术条件》NBVT 47018. 1一47018. 5 的要
+求。
+E.2.2 钢板的许用应力值选取应符合表 E. 2. 2 的规定。
+表E.2.2， 钢板许用应力值
+
+室温强度指标       在下列温度(C) 下的许用应力OQtPa)”
+
+R。(MPa)
+
+520
+
+$31708
+GB/T 24511
+
+$31703
+GB/T 24511
+
+VE: ASEAN AE AAI ALTA 0. OR’ A Ryo 1. 5 的较小值确定的。
+
+”中间温度的许用应力值，可采用线性内插法求得。
+”本表为用于储缸壳体钢板的许用应力。当钢板用于其他构件时，应按照相应标准确定许用应力。
+E.2.3 奥氏体不锈钢可不进行冲击试验。
+
+100
+
+
+SH/T 3046一2024
+
+E.3 设计
+E.3.1 dies
+E.3.1.1 SB (I RG ASE AG Je PH 5 AE I AA ZT AY RSE ST OT HE E. 3. 1. 1 的规定:
+表E. 3.1.1 PE SMRASERT
+[|r em) | ASN Com) |
+ee
+
+6°25                                   6
+|                >25°45                                   8                   |
+E. 3.1.2 ANE BACAR AE AD JER BR Bk PEE RE Ag Sm; 2% RP ARE JERE > 25mm Rf, SA Be wR
+
+板最小厚度为 6mm。
+
+E.3.1.3 饶底板宽度不宜小于 1200mm。
+
+E.3.2 饶壁及饶壁开口
+
+E. 3.2.1 镀壁板的名义厚度不应小于试水条件或设计条件下的计算厚度加各自厚度附加量的较大值，
+且满足本标准正文表 7. 3. 1 的规定。
+
+E.3.2.2 镀壁板的宽度不宜小于 1200mm。
+
+E.3.2.3 直径不超过 60m 的储饶饼壁厚度应按下列公式计算;
+
+t= 49D(H -03)p                                     (E.3.2.3-1)
+ole
+
+= 49D(H -03)                                    (BE. 3. 2. 3-2)
+ole
+
+SR ty — BLEEP MEA AEE, (oom) :
+和 — DUKA CE FMEA EE, Cm) ;
+站一一储负内径， (nm ;
+HH 一计算液位高度，指从所计算的那圈饶壁板底端到负壁包边角钢顶部的高
+度，或到洲流口下沿〈有溢流口时) 的高度，或到采取有效措施限定的设
+计液位高度，(m) :;
+Pp 一“储液相对密度;
+[c], 一设计温度下钢板的许用应力， (MPa) ;
+[c], 一试水条件下钢板的许用应力，取 20C时钢板的许用应力，(MPa) ;
+9 EPI AML, ENAMEL 0. 85，其余负壁取 0.9。
+
+E. 3. 2.4 公称直径超过 DN100 的饶壁开口接管的名义厚度不应小于 6mm。
+E. 3.2.5 ”本标准正文 11.2.8 条、11. 5. 11 条带开口接管的饶壁板热处理要求不适用于奥氏体不锈钢
+fits te.
+E. 3.2.6 按照本标准正文 11. 3. 2 Ae BA AAS ES TEA FL BT he YY JE ER HP
+整系数，调整系数取下列大值:
+
+101
+
+SH/T 3046一2024
+
+a) 室温下许用应力与设计温度下许用应力之比的平方根;
+
+b) 205MPa 与设计温度下屈服强度之比的平方根，且此比值不应小于 1. 0。
+E.3.3 dei Ae IF
+E. 3.3.1 材料的屈服强度见表 E. 2. 2。
+E. 3. 3. 2 ”本标准正文第 8 章中构件许用拉伸应力应取设计温度下屈服强度的 2/3。
+E.3.3.3 负项人孔的不锈钢部件最小名义厚度为 5mm。
+E. 3.4 对于微内压储缸〈本标准附录 A)，采用公式 E3. 2. 3-1 和 E3. 2. 3-2 计算饶壁厚度时，所采用
+的设计液位高度，应计入气相空间设计压力折算成储存介质的当量液柱高度。
+E. 3.5 对于设计温度大于 40C上且不高于 250C的储缸〈本标准附录 C)，应考虑温度对强度和弹性模
+量的影响。奥氏体不锈刚弹性模量见表 E. 3. 5。
+
+表 E.3.5 奥氏体不锈钢的弹性模量
+
+在下列温度 CC) 下的弹性模量 (10MPa)“
+钢 ”类                                       -
+
+奥氏体不锈钢
+”中间温度的弹性模量可用线性内插法求得。
+
+E.4 制造安装
+E.4.1 一般要求
+E. 4.1.1 不锈钢在储存、运输、制造和施工等各个环节中应采取有效措施，防止被污染。
+E. 4.1.2 不锈钢板不应与碳素钢板接触，不应与存放过氯化物的材料接触。
+E.4.1.3 露天存放不锈钢材料时，应用苦布遮盖，避免浸泡及受潮。
+E. 4.1.4 不锈钢板不应做硬印标记或刻划标识，宣采用易擦洗的颜料作标记。
+E. 4.1.5 不锈钢应采用机械、激光或等离子切割加工。采用等离子切割时，切割表面硬化变色层应进
+行机械加工或打磨。所有螺栓孔，应钻孔至所需的尺寸，不应采用热切割。
+E. 4.1.6，不锈钢板滚弧宜采用冷成型，不锈钢的构件不应采用热烛成型。
+E. 4.1.7 不锈钢打磨应采用不锈钢专用砂轮或磨带，并不应与其他材料混用。
+E. 4.1.8 不锈钢板及构件的吊装宜采用吊装带，运输胎具上应采取防护措施。
+E.4.1.9 存在晶间腐蚀环境工况时，应进行耐唱间腐蚀试验。
+E.4.2 组装焊接及检验
+E. 4. 2. 1 不锈钢板及构件不应采用铁锤融击，其表面不应有划痕、撞伤、电弧擦伤、腐蚀，并保持其
+光滑。
+E.4.2.2 组装工卡具宜采用不锈钢材质, 碳素钢工卡具不应与不锈钢缸接触及焊接; 如需要接触及焊
+接，应在卡具上焊上不锈钢隔离垫板。
+E. 4.2.3 对于奥氏体不锈钢不宜采用加热的方式去除潮湿。
+E. 4. 2. 4不锈钢的焊接应符合下列要求;
+a) 焊接环境温度不宜低于-5C;
+b) 壁板的定位焊缝长度不宜小于 30mm;
+c) 在保证焊透及熔合良好的条件下，应选用小规范、短电弧和多层焊道，层间温度不宜过高;
+d) 耐腐蚀性要求较高的双面焊颖，与介质接触面的焊缝最后施焊;
+©) 熔化残留物或焊接滴落物应采用不锈钢工具清除，清根宜采用砂轮磨除;
+f) 严禁在坡口外引弧;
+g) 采用倒装法施工时，应采取措施，防止纵颖焊接时损伤内圈壁板;
+
+102
+
+
+SH/T 3046一2024
+
+E.4.2.5 饶壁焊缝的无损检测应符合本标准 16. 2.4条的要求。
+E.4.2.6，储饶进行水压试验前，应对下列焊颖进行渗透检测;
+
+a) ARES ARES T 形接头的内侧焊缝，
+
+b) 无法进行射线检测的所有缸壁开口连接件焊颖，包括接管和人孔颈焊缝，以及接管与法兰之
+间的焊缝;
+
+c) 厚度均超过 19mm 的两连接件之间的焊缝，如饶壁加强圈、承压环以及其他非受压元件等;
+
+d) 带垫板的镑底环形边缘板的对接焊缝。
+E.4.2.7 储饶充水试验应符合下列要求
+
+a) 试验用水应采用洁净淡水，试水时间不宣超过 7 天;
+
+b) 试验用水中氯离子含量不应超过 25mg/L，水的 pH 值应介于 6 到 8. 3 之间;
+
+c) 水温应低于 50TC 。
+E. 4.3 ”不锈钢储缸焊后表面清洁及处理除应符合业主的特定要求外，尚应符合下列要求。
+E.4. 3.1 所采用的化学清洁剂不应对不锈钢和焊接接头有害, 并应按照此类化学清洁剂废物处理的法
+律和法规对其进行处置。使用化学清洁剂时，应用水彻底漂洗不锈钢材料并将其干燥。
+E. 4. 3.2 如果采用喷砂处理，其磨料中游离铁或氧化铁的重量百分数应小于 2%，且磨料不应混用。
+E.4. 3. 3 不应采用硝酸和气氛酸的酸混合物对不锈钢进行酸洗。酸洗后,应用水彻底漂洗不锈钢，并
+将其干燥。
+E. 4. 3.4 不锈钢清洗和酸洗或钝化后，应不等表面干燥立即进行漂洗。漂洗用水应为饮用水，毛化物
+含量不应超过 25 mg/L。
+E.4.3.5 最后一次漂洗后应立即进行干燥处理。
+
+103
+
+SH/T 3046一2024
+
+附 录
+(资料性附录)
+气象台站及数据摘要
+
+F.1 国内最低日平均温度低于-20C 的气象台站及数据摘要见表F. 1。
+
+表F.1_国内最低日平均温度低于-20"C的气象台站及数据
+
+气象台站位置                      最低日平均温度
+                               c
+
+黑龙江
+BNE             50° 15’
+伊春              47° 43'
+齐齐哈尔              47° 23'
+蕉岗               47° 22'
+佳木斯              46° 49'
+安达               46° 23'
+哈尔滨              45° 41'
+牡丹江               44° 34!
+吉
+吉林               43° 57/
+长春               43° 54’
+通辽               43° 36'
+正吉                42° 53!
+通化                41° 41!
+辽宁
+沈阳                41° 46!
+丹东                 40° 03/
+新疆
+Bal Bs              47° 44’                88° 05'               -39.1
+塔城               46° 44'               83° 00'               -33. 3
+克拉玛依              45° 36’               84° 51’               -32.8
+伊宁               43° 57/               81° 20'              -34.0
+乌鲁木齐              43° 47/               87° 37'              -33. 3
+哈密               42° 49!               93° 31'              26.4
+铁干里克              40° 38°               87° 42’              -22.5
+甘肃
+EA              42° 13'              101° 22’             -30.2
+WAR               39° 46’               98° 31’              -23.3
+宁夏
+银川              38° 29'              106° 13'             -24.9
+青海
+西宁               36° 37’               101° 46'              -20.3
+格尔木              36° 25’               94° 54’              -23.0
+陕西
+
+104
+
+地 名
+
+气象台站位置
+
+SH/T 3046一2024
+
+最低日平均温度
+c
+
+榆林
+
+109° 42’
+
+25.7
+
+内蒙古
+海拉尔
+乌里雅斯太
+锡林浩特
+-连浩特
+虎勤盖尔
+呼和浩特
+赤峰
+
+119° 45’
+116° 58’
+116° 04’
+112° 00’
+106° 0°
+111° 41’
+118° 58’
+
+-42.5
+-32
+-32.5
+
+34.
+
+105
+
+SH/T 3046一2024
+
+本标准用词说明
+
+1 为便于在执行本标准条文时区别对待，对要求严格程度不同的用词说明如下:
+1) 表示很严格，非这样做不可的:
+正面词采用“必须”，反面词采用“严禁”，
+2) 表示严格，在正常情况下均应这样做的:
+JEM RA “BL”, Bem RAL “ANB”:
+3) 表示人允许稍有选择，在条件许可时首先应这样做的:
+TEM “a”, Bm RA “ASE”:
+4) 表示有选择，在一定条件下可以这样做的，采用“可”。
+2 条文中指明应按其他有关标准执行的写法为:“应符合……的规定”或“应按……执行”。
+
+中华人民共和国石油化工行业标准
+
+石油化工立式圆简形钢制
+KFS ia ITT ALS
+
+SH/T 3046—2024
+
+条文说明
+
+2024年 dk 京
+
+SH/T 3046一2024
+
+修订说明
+
+《石油化工立式圆简形钢制焊接储饶设计规范》(SHT 3046一2024)，经工业和信息化部 20 24
+年03月29日以第01号公告批准发布。
+
+本标准是在《石油化工立式圆简形钢制焊接储饶设计规范》(SH 3046一92) 的基础上修订而成，
+上一版的主编单位是中国石油化工总公司北京设计院，主要起草人员是斯新中、殴才阐、左游园，
+
+本次修订的主要技术内容是:
+
+1. 新增了第 12 章 储缸抗风稳定计算及锚固设计、附录E 奥氏体不锈钢储缸，取消了原第十
+一章 操作说明，将原第十章 预制组焊及检验拆分为 4 章，分别为第 13 章 预制、第 14 章 组装、
+第15 章 焊接、第 16 章 检验与验收;
+
+2. 调整了储饶设计压力范围，将固定项储饶设计正压提高到 18kPal;
+
+3. 材料牌号按照新标准进行修订，并修订了材料许用应力取值，取消了 Q235-A.F、Q235-A，
+新增了 Q235B、Q235C、Q370R、12MnNiVR 等材料，将不锈钢材料储缸放在了附录 E;
+
+4修订了对负体材料及焊接接头的冲击韧性要求;
+
+5. 修订了镀壁厚度计算公式中的焊接接头系数取值;
+
+6. 新增了固定项储饶饶项与负壁采用弱连接结构时应满足的条件要求、顶板厚度及有效截面
+面积的计算公式，新增了单层球面网壳的相关规定，
+
+7. 修订了内浮顶的相关要求，新增了箱式、蜂梨式、整体加强模块式不锈钢双盘和玻璃钢等新型
+结构装配式内浮顶的要求;
+
+8. 修订了接管补强圈的规格尺寸、法兰连接饶壁开孔接管细部结构等;
+
+9，修订并补充了预制、组装、焊接和检验与验收的相关规定;
+
+10，修订并补充了储饶对基础和地基的基本要求和储饶基础基本尺寸要求。
+
+本标准修订过程中, 编制组进行了广泛的调查研究,征求了国内相关设计单位、制造施工单位、
+使用单位的意见，总结了我国石油化工领域近二十多年储饶工程建设和运行的实践经验，同时参考
+了国外先进技术法规、技术标准 API 650、EN 14015 等。
+
+为便于广大设计、施工、使用、科研、学校等单位有关人员在使用本标准时能正确理解和执行
+条文规定, 《石油化工立式圆简形钢制焊接储饶设计规范》编制组按章、条顺序编制了本标准的条
+文说明，对条文规定的目的、依据以及执行中需注意的有关事项进行了说明。但是，本条文说明不
+具备与标准正文同等的法律效力，仅供使用者作为理解和把握规范规定的参考。
+
+
+SH/T 3046一2024
+
+修订说明
+1 范围 ……
+3 术语和定义
+4. 基本规定
+5.
+
+7                                         .118
+SHR SEAN ..                            118
+
+7.2 RAMA...                                118
+7.3 MBE...                                 118
+
+7.4 SMB.
+
+7.5 HHRMA.                               . 118
+En) -4                                  119
+8.1 一般规定                                    119
+9 浮项.                                    .119
+9.1 一般规定 ….                                  119
+9.2 浮顶的结构与连接 .                             119
+9.3 浮项支柱…                                  119
+9.4 浮项排水系统.….                                                                  119
+9.5 浮顶紧急排水装置.
+9.6
+9.7 自动通气阀.…….
+9.8
+9.9
+9.10 浮项人孔….
+9.11 浮舱人和孔.
+9.13 泡沫挡板.
+10 ”内浮项.ee
+10.1 ARNE...
+
+10.2 单盘式和双盘式内浮项
+10. 3 ”装配式内浮顶.……
+10.4 环形空间的密封…
+10.6 i
+
+SH/T 3046一2024
+
+10.8 导向及防旋转装置
+10.9 ”人孔和检查孔..
+10. 12 ”泡沫挡板
+
+11 附件                               .. 124
+
+12
+
+13
+
+14
+
+15
+
+16
+
+附
+A.1                                     .
+A2 设计考虑因素                              …127
+A.7 计算破坏压力                              …127
+
+Bt oS B......                                  . 128
+
+Mt 录 Cu...                                  … 129
+
+C.1 适用范围
+C.2 提高设计温度的影响和附加要求
+
+=
+SMU Su MU
+
+112
+
+SH/T 3046一2024
+
+石油化工立式圆简形钢制焊接储缸设计规范
+
+1 范围
+
+本次修订适用范围基本维持 92 版规定，从以下几个方面进行了限定:
+
+1 储饶类型，仅包括搁置在地面上的平底立式圆简形钢制焊接储饶。卧式饶、非圆简形饶、支柱
+或衬座支撑的立式圆简形储缸、饶体为非焊接结构的钢制立式圆简式储缸等，均不包括在本标准范围
+之内。地下洞库内立式圆简形储缸，符合本标准规定的储饶结构特征时，仍可执行本标准。
+
+2 储存介质为液态石油、石化产品及其它类似液体,不包括 LPG 和 LNG 等人工致冷液体介质。设
+计压力为常压或接近常压。
+
+3 ，储饶结构范围包括储缸本体及其附件。附件指直接连接在油缸主体上的结构及工艺附件, 不包
+括消防、仪表等附属设施。
+
+3 术语和定义
+
+本标准定义的术语如果在其他相关上位标准规范已经定义过，为了使用查阅方便，都纳入了本标
+准中的术语定义中，其定义与上位标准规范基本一致，部分术语的定义在措词进行了修正。
+
+3.12 内浮顶
+
+列出了常用内浮顶结构形式，并主要从其结构特点和应具备的核心性能进行了定义。内浮项的分
+类主要按照浮力单元和承力构件的结构原理进行，兼顾常用的材质因素，并考虑了应用广泛程度。对
+一些虽然可以从结构原理可以分类但很少使用的结构，并未纳入本标准。
+
+由于近年来环境保护标准中对油品储运设施油气排放标准的不断提高，迫于环保与节能减排的压
+力，密封性能优良的全液面接触式内浮项使用越来越普遍，特别是装配式的全液面接触式内浮项应用
+更为广泛。而这种密封性能优良的内浮项在现行标准中几乎没有涉及到，因此，本次修订，将浮箱式
+内浮项、蜂梨式内浮顶、整体加强模块式不锈钢双盘内浮项和玻璃钢内浮顶等新型内浮项纳入了标准。
+
+单盘式内浮项和双盘式内浮顶一般采用碳钢或不锈钢材质在现场焊接而成，其特点是自重大，浮
+力的绝对值很大,整体强度、刚度都比较大。如果结构设计需要人员进入浮舱内进行施工和检查作业，
+浮舱尺寸通常比较大，每个浮舱至少设置一个人孔。
+
+敞口隔舱式内浮项和浅盘式内浮顶一般采用碳钢或不锈钢材质在现场焊接而成，其特点是结构简
+单，材料消耗非常少。敞口隔舱式内浮顶与单盘式内浮项相比，周圈的浮舱没有盖板，整体强度、刚
+度和浮力的可靠性都比较差，容易在敞口的隔舱内形成积液，浅盘式内浮项没有任何隔舱分割浮力单
+元，整个内浮项只有一个浮力单元，因此，只要盘板一旦泄漏，浮项将失去全部浮力而沉没。这两种
+结构的内浮项由于技术落后，安全性、可靠性差，已被石油库设计规范 GB 50074 和石油化工企业防火
+规范 GB 50160 限制使用，目前已被彻底淘汰。
+
+浮简式、浮箱式、蜂梨式、整体加强模块式不锈钢双盘和玻璃钢内浮顶均属于装配式内浮项。装
+配式内浮顶类型主要以提供浮力和承力构件的元件形式和布置方式进行细分。
+
+浮简式内浮顶由分散分布的浮简提供浮力，金属密封盘板与液面不接触，包括铝制浮简式内浮顶
+和不锈钢制浮简式内浮项，从原理上讲，浮简式内浮项是浮子式内浮项的一种形式，由于其他形式的
+浮子很少使用，因此本标准没有对浮子式内浮项术语进行单独定义，而是直接定义了浮简式内浮项。
+浮简式内浮顶与钢制单盘式和双盘式内浮项相比，其特点是自重比较轻，整体强度、刚度较差。
+
+113
+
+SH/T 3046一2024
+
+浮箱式内浮顶的矩形箱体既是浮力元件，又是密封盖板，其特点是具有连续履盖液面的功能。从
+内浮顶的材质上区分，包括铝制浮箱式内浮项和不锈钢制浮箱式内浮项，从箱体结构上区分，包括空
+箱式内浮顶和内部加强型箱式内浮顶，内部加强的方式包括筋板加强件等，本标准对浮箱内是否有加
+强件以及其材料、结构没有限定。浮箱式内浮顶每一个独立的浮力单元模块，均需要分别进行气密性
+试验，以检验箱体的严密性。所谓的独立浮力单元模块，系指在内浮顶抗沉性计算时采用浮力单元模
+块。对于浮箱内有加强件的内浮项，为了方便检验箱体严密性，应该在结构上采取措施，以避免加强
+件的设置影响严密性的检验。例如对于筋板加强型箱式内浮项，如果加强筋板将一个较大的箱体模块
+分割成了相互独立、相互具有气密性的腔体，则每一个相互独立的腔体均需要进行气密性试验，此气
+密性试验的目的是为了验证整个箱体模块的严密性，而不是为了验证腔体之间的严密性; 为了减少气
+密性试验的工作量，可以人为地将一个独立的浮力单元模块内部的腔体进行连通。
+
+蜂巢式内浮项的浮力由大量且相互密闭的独立蜂巢浮力单元提供，蜂划浮力单元由上下层壳体和
+蜂梨芯共同构成，每个蜂梨浮力单元都具有气密性和液密性，其特点是浮力单元众多，局部破损泄漏
+对其浮力的影响微乎其微,因此，其抗沉性优异。在理解标准中蜂梨式内浮项相关条文时，需要注意，
+“蜂巢浮力单元”系指由上下层壳体和单个蜂巢芯单元共同构成的微小的浮力单元; “蜂巢浮力单元模
+块”系指由大量蜂梨浮力单元、侧板及连接结构等构件组成的，用于直接拼装形成浮项密封盖板的模
+块。
+
+蜂梨式内浮项的材质可以是金属，也可以是复合材料，常用的材料包括铝制蜂巢式内浮顶、不锈
+钢蜂梨式内浮项和玻璃钢蜂巢式内浮项。铝制蜂梨式内浮项由上下铝合金板表面层和蕊部的铝合金蜂
+梨世组成:不锈钢蜂划式内浮项由上下不锈钢薄板表面层和芯部的铝合金蜂巢芯或不锈钢蜂梨芯组成。
+根据玻璃钢蜂巢式内浮顶的材料和结构特点与金属蜂巢式内浮项差异非常大，无法采用较为统一的条
+文对其进行规定，因此，为了方便描述，本标准将玻璃钢内浮顶单独进行了分类。
+
+蜂梨式内浮顶的核心特点是每一个浮力元件模块都是由大量的蜂巢浮力单元组成，这些蜂巢浮力
+单元是连续的，相互之间独立且具有气密性。对于具有蜂梨芯结构的其他内浮顶，如果上下层壳体和
+蜂巢芯共同构成的各个蜂梨浮力单元相互间不具有气密性和液密性，则不具备蜂巢式内浮顶的核心特
+点，不能称作本标准定义的“蜂梨式内浮项”。
+
+整体加强模块式不锈钢双盘内浮项是结合其结构特点和材料特性进行单独分类的。其最大的特点
+是浮力元件和承力结构一体化，从结构上基本消除了装配式全液面接触式内浮顶下方可能由于结构不
+连续原因《如型材断面主梁的采用) 造成的局部油气空间。要实现这种轻量化的整体加强模块结构，
+材料的强度保障至关重要，因此，在术语定义中，也明确了其材料为强度、刚度相对较好的不锈钢。
+
+玻璃钢内浮顶的定义主要从材质角度出发，并结合结构特点。玻璃钢蜂梨式内浮项由上下玻璃纤
+维加强树脂表面层和芯部的蜂巢芯组成。这种结构的内浮项昌然归类为装配式内浮项，但装配完成后
+没有拼接缝的存在，因此其在控制排放方面，与钢制单盘式内浮项和钢制双盘式内浮顶一样，表现最
+为突出，属于国外应用增速较快的一种内浮项形式。与其他装配式内浮顶相比，玻璃钢材质耐腐蚀性
+更强，整体强度也相对较高。
+
+从抗沉性角度出发，如果玻璃钢内浮项不采用蜂梨式结构，则其浮力元件仅为盘板与边缘构件组
+成的浅槽或玻璃钢浮箱式单元，其归类应为浅盘式内浮项或浮箱式内浮项。由于玻璃钢浮箱式内浮项
+无法更换其蜂巢浮力模块单元，因此本标准不推荐使用玻璃钢浮箱式内浮项，也未将玻璃钢浮箱式内
+浮顶纳入标准。
+
+内浮顶从密封盘板与液面接触形式区分，有全液面接触式和非全液面接触式之分。全液面接触式
+内浮项系指密封盘板连续履盖储液表面，单盘式、双盘式、敞口隔舱式、浮箱式、蜂巢式内浮项、整
+体加强模块式不锈钢双盘、玻璃钢内浮顶都是全液面接触式内浮项，非全液面接触式内浮项系指密封
+盘板处于浮力元件上部，不接触储液液面或不连续覆盖储液表面，浮简式内浮项是非全液面接触式内
+FT.
+
+114
+
+SH/T 3046一2024
+
+为了条文表述方便，本标准将浮简式、浮箱式、蜂巢式、整体加强模块式不锈钢双盘、玻璃钢内
+浮顶统称为装配式内浮项。
+
+单盘式内浮顶、双盘式内浮顶、敞口隔舱式内浮项和浅盘式内浮项目前都属于全焊接式内浮顶。
+随着标准化、模块化、机械化施工技术的发展，这些在现场焊接的内浮顶的工厂化预制深度也会不断
+加大，现场焊接工作量会减少。
+
+4. 基本规定
+
+4.4 与92 版相比，固定项储缸的设计压力范围作了较大的调整，目的是满足使用者的需求。调整时
+参照了 GB 50341-2014 和 API 650-2017 的相关规定，设计正压与 GB50341 一致，设计负压维持了 92
+版不变，未采用 GB 50341-2014 版的 250Pa，主要原因如下: 92 版规定的设计负压 490Pa，在国内有
+多年成熟使用经验。沿用 92 版的范围，可大大简化储缸缸壁的抗风稳定计算，方便设计者使用。
+4.6 对于既无加热又无保温的储缸，最低设计温度取值沿用 92 版的规定。由于储缸是储存液体介质
+的容器，具有较大的热容量，因此，其最低设计温度不能照搬压力容器受环境温度控制时最低设计温
+度确定原则, 考虑缸内储存的介质温度对储饶壳体温度的影响, 取建缸地区的最低日平均温度加 13YC 。
+这个原则在国内已有多年的使用经验，证明是安全的，适当的。
+
+5. 材料
+
+5.1. 一般规定
+
+5.1.1、5.1.2 本条规定了材料选用的原则要求。如果采用本标准未引用标准中的材料，其性能不低
+于本标准的规定，这里的性能系指综合使用性能，而非某个特定的指标。对境外材料的使用规定，其
+目的是为了保证使用境外成熟的材料，降低因对境外材料不熟悉造成的技术风险。
+
+5.1.3 目前我国的钢铁冶炼技术已基本上淘汰了平炉治炼工艺, 故本条取消了 92 版规范中的“平炉”
+治炼工艺。同时参照现行国家标准《压力容器 第 2 部分材料》GB 150. 2-2011 的相关技术要求，增
+加了“对标准屈服强度下限值大于 390MPa 的低合金钢钢板，以及设计温度低于-20C 的低温钢板和低
+温钢锻件，还应当采用炉外精炼工艺”的规定“标准屈服强度下限值大于 390MPa 的低合金钢”界定
+范围与现行国家标准《压力容器 第 2 部分材料》GB 150. 2-2011 中将“标准抗拉强度下限值大于或
+等于 540MPa 的低合金钢钢”的界定是相当的。对强度较高的低合金钢，提高其冶炼纯净度，是因其在
+使用条件下实际应力水平较高，淳硬性倾向更大，对原始冶金缺陷的敏感性更高。本规定原则与
+GB50341-2014 的规定是一致的。
+
+5.1.4 本标准对材料的规定是保障储饶安全最基本的要求,不能完全涵盖特定工程项目的所有细节要
+求。因此，设计者应结合工程经验，可在设计图纸中提出符合实际工程要求的附加规定。
+
+5.1.5 本条是新增加的规定。92 版规范对使用在储缸上的材料及其焊接接头冲击韧性没有明确规定，
+本次修订完善了这方面的要求。为预防储缸缸体在使用中发生脆性破坏，参照现行国家标准《压力容
+器 第2 部分: MB) GB 150.2-2011 中 3.8 条的有关规定，对碳素钢和低合金钢钢材〈钢板、钢管、
+锻件) 及其焊接接头规定了冲击试验最低冲击吸收能量的要求，本标准采用的冲击吸收能量指标与 GB
+150. 2 一致。对钢材标准中冲击吸收能量指标高于本条表 5. 1. 5 规定的钢材，还应符合相应钢材标准
+的规定。本规定与 6B50341-2014 的规定是一致的。
+
+5.1.7 本条是针对新材料首次工业化应用的原则要求,其目的是将新材料应用中可能出现的不可预见
+的问题消灭在材料研制阶段，如果在工程实施过程中出现类似问题，往往非技术的因素会左右解决方
+法的确定，造成预期质量标准降低的问题，给工程质量埋下隐患。本条要求材料研制单位进行“系统
+的试验研究工作” 主要是针对目前国内材料研究重性能指标保证，轻机理研究的现状提出的。不少钢
+厂采用工业化大生产方式进行研究，试制产品性能指标检测合格即认为完成了材料生产技术研究，就
+
+115
+
+SH/T 3046一2024
+
+可规模供货，预防不深入细致的研究方法带来的原材料质量风险。材料评审是借助社会优势力量提高
+研发效率的管理方法和手段，不是对材料可用性的第三方独立认证，工程中问题不可能在材料评审阶
+段完全解决，因此工程应用技术的前期研究工作是必不可少的。
+5.1.8 本条规定是为了防止因不熟悉首次使用的国外材料性能特点和工程应用技术特点而带来的问
+题。
+5.2 钢板
+5.2.1 本条规定了储缸用钢板的标准、使用温度和许用最大厚度范围。本次修订取消了 92 版的沸腾
+钢或半镇静钢，取消了低合金结构钢 16Mn，将高强度钢板 12MnNiVR 纳入了标准，并根据材料标准
+的更新,对钢号进行了更新.将不锈钢放入了附录 E 中.本次修定后本章共列有 Q235B.Q235C.Q245R.
+Q345SR、Q370R、16MnDR 和 12MnNiVR 等 7 个钢号。本规定与 GB50341-2014 的规定是一致的。
+
+钢板的“许用温度”应包括许用温度的上限温度和下限温度，本条表 5.2.1 中的许用温度为许用温
+度的下限值，许用温度上限值符合正文要求时是 90C，符合附录 C 要求时 250'C 。许用温度的下限值
+参照现行国家标准《压力容器 第 2 部分: 材料》GB 150.2-2011，并结合储负的使用经验进行了微调。
+本规定与 GBS0341-2014 的规定是一致的。
+
+钢板的“许用最大厚度”主要参照 API 650 和 GB50341-2014，并在总结国内储饶建设经验的基础
+上确定的，与 GB50341-2014 的规定是基本一致的。需要特别说明的是，储缸钢板的“许用最大厚度”
+系指用于负壁的钢板。确定许用最大厚度时，需要同时考虑许用温度的下限值，在这一点上，与压力
+容器相比区别较大。另外，储缸镀壁对接接头焊后无法进行消除残余应力热处理，在确定钢板的“许
+用最大厚度”时，以“饶壁对接接头焊后可不进行消除残余应力热处理”为原则对厚度进行限定。储
+饶饶壁对接接头焊后不进行消除残余应力热处理的厚度确定与压力容器完全不同，不能套用压力容器
+规定。储饶受力以液压为主，缸壁最大厚度与直径密切关联，镀壁厚度较大时直径也比较大，属于典
+型的特薄壁容器，由壳体厚度引起的约束远低于压力容器，因此用在储缸上可不进行消除残余应力热
+处理的钢板厚度大于压力容器。
+5.2.2 本条规定了储饶壳体用钢板的许用应力及确定方法，与 GB50341-2014 的规定是基本一致的。
+对于碳素钢和标准屈服强度下限值小于或等于 390MPa 的低合金钢钢板的许用应力值取设计温度下
+2/3 倍标准屈服强度下限值，原则与 92 版一致， 对于标准屈服强度下限值大于 390MPa 的低合金钢钢
+板，因其届强比较高，如 12MnNiVR 钢板标准屈服强度下限值 490MPa 与抗拉强度下限值 610MPa 之
+比为 0.803，钢板的屈强比的实物值可达到 0.90 以上，仅以屈服强度为基础作为确定许用应力的原则
+似有不受，如果考虑抗拉强度，原则与碳素钢和标准屈服强度下限值小于或等于 390MPa 的低合金钢
+钢板的许用应力值法存在较大差异。故对符合本标准要求的标准屈服强度下限值大于 390MPa 的低合
+金钢钢板的许用应力值，采用折中的做法，取设计温度下 0.6 倍标准屈服强度下限值。对比 API650 许
+用应力的确定原则, 同时考虑屈服强度的安全系数和抗拉强度的安全系数,，取较低值得做法比较科学，
+今后修订时可进行考虑。
+
+本标准钢板屈服强度均采用了下屈服强度 Revo Xf Q235B 和 Q235C 钢板的室温下屈服强度 Rev,
+比现行国家标准 GB/T 700-2006 规定的上屈服强度 Ren 相应降低了 10MPa。
+5.2.9 本条是新增条文， 92 版规范仅规定了钢板厚度超过某个值时需要 100%超声检测，并未明确
+规定厚度小于此值时是否超声检测，抽查比例多少也未提及。本次修订时，对此进行了明确。
+5.2.10 本条是新增条文，对钢板板形进行了明确规定。由于储缸的曲率半径都比较大，预制成形加
+工过程中变形量小，且为单方向变形，很难纠正钢板的原始翘曲变形，而这种钢板的原始疾曲变形会
+影响焊缝的组对精度，造成组对坡口错边量超标。为了防止出现此类问题，对钢板提出不平度指标要
+求。
+5.2.12 本条是新增条文，对厚度较大的钢板可焊性提出明确要求。针对近几年出现的碳钢和低合金
+钢板焊接冷裂纹出现频率不断增高的趋势，对材料碳当量进行限定。限定值确定是在总结调研了国内
+
+116
+
+
+SH/T 3046一2024
+
+钢厂产品实物值水平的基础上，参照 EN14015 确定的。
+5.2.13 本条是新增条文，对高强度低合金 12MnNiVR 钢板的焊接裂纹敏感性系数提出明确要求。限
+定值确定时，主要以焊接性考虑为原则，并参照了 EN14015 的规定。
+5.3 钢管
+5.3.1 本次修订，按照新的材料标准对钢号进行了修订，同时参照 GB50341-2014 的规定，对钢管的
+许用温度范围和许用厚度范围进行了修订。本条修订时，对钢管的化学成分和冲击试验的特殊要求进
+行了规定。
+5.3.2 碳素钢和低合金钢钢管的许用应力值按标准规定的室温抗拉强度下限值 Ra/2.7、标准规定的
+室温最低下届服强度 Rev1.5 和设计温度下最低下屈服强度 Rx /1.5 三者中的最小值进行确定。
+5.3.5 由于储饶所需的钢管数量较少, 非常零散，经常出现采购困难问题，因此规定直径较大的钢管
+可采用与壳体材质一致的钢板卷焊。
+5.4 锻件
+5.4.1 本次修订，按照新的材料标准对钢号进行了修订，同时参照 GB50341-2014 的规定，对锻件的
+许用温度进行了规定。储缸上锻件主要使用在法兰、法兰盖和厚壁管等部件上，而非壳体的整体补强
+件上。
+5.5 螺栓、螺母
+5.5.1 本次修订，按照新的材料标准对钢号进行了修订，同时参照 GB50341-2014 的规定，对螺栓螺
+母组合的许用温度进行了规定。
+5.6 ”结构型钢
+5.6.1 结构型钢主要用于梯子平台、饶项支撑结构和浮顶框架上，本条规定，建饶地区的最低日平均
+温度低于 0C时，主要承重构件应采用镇静钢。本条的主要承重构件系指易受环境温度控制的缸外主
+要结构件和饶顶支撑构件、外浮顶饶的浮顶框架等。
+5.7 焊接材料
+5.7.2 本条规定用于焊接缸底边缘板、饶壁板和镀壁开孔锻件、接管等缸体主要部件的焊接材料，按
+照压力容器用焊接材料的要求执行。
+5.7.4 本条为新增内容，列出了储缸常用材料和常用焊接方法和配套的焊接材料型号/牌号。由于焊
+接材料型号表示方式比较繁琐, 大多数人员更熟悉牌号, 所以在条文中列出了部分牌号供使用者参考。
+以往 12MnNiVR 高强钢配套自动焊焊接材料〈埋弧横焊用焊丝焊剂、气电立焊用药芯焊丝) 主要依赖进
+A, 目前国内在 12MnNiVR 高强钢配套自动焊焊接材料技术方面取得了实质性突破, 数家焊材生产企业
+能够批量生产供应，产品性能指标高于进口产品，性能的实物水平也优于进口产品，完全可以取代进
+口焊接材料。由于国内储缸高强钢配套自动焊焊接材料尚未形成统一的牌号，所以在条文中无法列出
+牌号，使用者可参考国内焊材企业的牌号，进行选用。
+6 HRT
+6.1 HRRR
+
+Si JER 2K A A) JF PE FE AE ZEEE TFL Sh ESE EE hh, FE BEB AG AP 1650 的相关规定，
+FEE FET RETR AL. BRIER LR RY) BE EA ER AP L650 给出方法和计算公式, FRAG eA
+需求。本节规定与 GB50341-2014 的规定是基本一致的。
+6.2 HERA
+
+本节规定与 GB50341-2014 的规定是基本一致的。
+6.2.11 底圈饶壁板与边缘板之间 T 形接头的连接焊缝，即大角焊缝，是一个关键部位。国内外作了
+很多的研究和测试试验工作，储负缸体的破裂事故大多是在这一部位发生的。研究表明，此角焊颖的
+
+117
+
+SH/T 3046一2024
+
+尺寸过大过小都不好，尺寸过小焊颖接头强度不足，尺寸过大会造成接头刚性过大，焊接变形和残余
+应力增大,接头处所受的实际应力会加大。本标准确定此大角焊缝尺寸时,在满足强度要求的前提下，
+尽可能减少焊颖尺寸为原则，并分析比较了国内外标准规范的相关规定、归纳总结了国内相关研究成
+果。在确定大角焊缝的尺寸时，还考虑地震载荷的影响。对于边缘板厚度大于 13mnm 的情况，底圈缸
+壁板与边缘板之间 T 形接头的连接焊颖尺寸与 GB50341-2014 有少许区别，焊颖水平方向尺寸更小一
+些。饼内角焊颖水平方向尺寸确定时，当储缸容量较小时，可取下限值 1.0h;，当储缸容量较大且地震
+基本烈度较高时，可取接近上限值 1.3Sh。
+6.2.13 本条是新增条文。储缸基础坡度变化对底板的寿命存在影响，本条明确要求对此变化值进行
+限定。基础的不均匀沉降不仅会增大缸底板的附加应力,而且会造成镑底板出现不可逆转的皱裙变形，
+严重降低饶底板的使用寿命。对于倒锥面坡度和单边坡度缸底，不均匀沉降直接导致饶底板产生附加
+拉伸应力和弯曲应力，因此提出对此应力进行校核的要求。
+6.2.14 本条是新增条文。目的是防止此处因进水导致的腐蚀增大问题。具体措施一般包括如下几种。
+一是弹性防水胶泥和弹力布复合层封堵，如 GDP 等; 二是带导雨沿的金属密封板，API 650 中有类似
+结构; 三是耐候密封胶带封堵，一端固定在饶壁下部，另一端固定在环墙上。
+7 S@SFiQit
+7.1 负壁排板与接头形式
+7.1.5 气电立焊工艺是大型储饶高效的焊接方法,其特点是焊接线能量比较大, 单面坡口一次焊接成
+形，焊接效率高。由于焊接线能量比较大，焊接接头热影响区性能恶化问题严重。为了防止焊接线能
+量超标，本条规定提出限制单面坡口的最大板厚，从而限制一次焊接填充的金属量。由于电立焊工艺
+设备和工艺的特殊性，焊接坡口的最大宽度受限于焊接设备，因此，其坡口设计不能简单套用
+GB/T985.1 和 GB/T985.2 的有关规定。
+7.2 PEA Aw
+7.2.4 GBA Tid se Tig a A A SFT iE 1 He) TTDI
+7.2.7 AA AERTSG A SC ANA TU 5 TO ie RE AO PS PT ES Hs ST) EE RF SS EE,
+Aid fi SRE, ETE RA IRAN BER. ARAM ESHA APIOSO 确定的，与
+GB50341-2014 的规定是基本一致。
+7.3 MEER
+7. 3.1 XR APA AL EG Ao Sie SR wR BE AB FD BBR 8 2% SPE Sf EEF SF 9 BL EAT TL.
+7.3.2 GRRE RETELS| AT API650 中的变设计点法，直接引用了 GB50341 的具体条款。
+7.3.3 饶壁厚度计算公式中, 对底层饶壁的焊颖系数进行了微调, 由 0.9 调整到 0.85, 与 GB50341-2014
+的规定一致。
+7.3.5、7.3.6 强调了饶壁厚度还需要经过抗风、抗震校核后才能确定。
+7.4 镀壁顶部抗风圈
+7.4.4 本条明确了当设置一道顶部抗风圈不能满足截面模数要求时, 可设置多道, 多道顶部抗风圈截
+面模数总和满足要求即可，一解决设置一道抗风圈而带来断面太大问题。
+7.5 EPA
+
+为了与 GB50341-2014 的定义术语一致，将 92 HALE aA DO SER a” EE Ay“ AE fn) SRB”.
+AIT SSSI, EBERT Rae A Na a ENA: PRT Palatal AY
+Hpk) AND IR Ye 0 Ai B42 FE
+
+118
+
+SH/T 3046一2024
+
+8 固定项
+
+8.1 一般规定
+
+8.1.4 固定项附加载荷最小取值维持了 1.2kPa。附加载荷中包括检维修时缸顶外载荷、基本雪压值、
+HEA PURE. AAR ALE EF GB50341-2014 的 1.0kPa 规定, 其目的是为了提高链顶结构抗外压的能力
+减少饶顶发生失稳破坏的可能性。
+
+8.1.6 He SHERMER ASI APIOSO 的相关规定，与 GB50341-2014 的规定一致。
+
+8.1.7 对饶顶与饶壁采用弱连接结构时的规定,使用了 API 650 的原则做法，并根据国内的具体情况
+进行了扩展和延伸。与 GB50341-2014 的规定相比，也进行完善补充。API 650 的有关弱连接结构的规
+定来源于 API RP 537 研究报告，主要针对国外广泛使用的锥顶储缸制订的条文。国内目前固定项储鲜
+很少使用锥顶储饶，几乎全部为球面拱项储缸，如果按照 API 650 的具体条文来套用，我们的球面拱
+顶储缸都不具备弱连接特性。但是，从国内球面拱项储饶发生的闪爆火灾事故后果来看，除一小部分
+容量较小的储饶发生过储饶底部据裂破坏外，大部分储饶并没有发生饶底部破坏，而是在饶项与缸壁
+连接处发生破坏，实际上具备了弱连接特性。鉴于此，我们对国内球面拱顶储饶的是否具有若连接特
+性开展了系统性研究，从理论上验证了球面拱项储饶只要满足特定的条件，可以具备弱连接特性。综
+上所述，本标准提出了采用锚固的储饶，通过弹性分析确认在空缸条件下饶壁与饶底连接接头处强度
+不应小于饶壁与缸顶连接接头处强度的 1.5 倍，满缸条件下负壁与饶底连接接头处强度不应小于缸壁
+与镑顶连接接头处强度的 2.5 倍，即认为储饶具有弱连接特性;为防止储饶在镑壁与镑顶连接处发生
+破坏时底部被提离，同时规定锚固和配重应按照 3 倍饶顶破坏压力进行设计。
+
+8.5.4 细化了带肋球壳的适用范围，同时考虑球壳曲率半径和储饶直径限制，更趋于合理。
+
+9 浮项
+
+9.1 一般规定
+9.1.9、9.1.10 单盘式浮项和双盘式浮顶结构不同，设计考虑的因素不同。因此，将这两种浮顶的设
+计条件单独给出，与 92 版相比，要求更明确，易于执行。对于双盘式浮项的要求，明确了采取一定的
+结构措施，可以不按 230mm 降雨量载荷设计，有具体取值可结合结构设计由设计者确定。
+9.1.13 本条是新增条文，对寒冷多雪地区的浮顶的设计提出原则要求。具体的结构措施、冰雪去除
+设施或防止冰雪不均匀集聚的措施由设计者自行确定。
+9.1.14 本条是新增条文。对台风暴雨多发地区的浮顶的设计提出原则要求。
+9.2 浮项的结构与连接
+细化和明确了浮顶的隔舱的气密性要求和结构细节要求，更利于条文执行。增加储存腐蚀性介质
+如高含硫原油的储缸，浮项底板和单盘板下表面搭接焊颖间断焊的未焊接处还应采用密封焊或其他可
+靠密封措施的要求，防止间隙腐蚀发生。其他可靠密封措施系指用弹性密封胶泥之类的材料封堵搭接
+间隙。
+9.3 浮顶支柱
+细化和明确了浮顶支柱的规格要求和长细比要求，提高了支柱抗失稳的能力。
+9.4 浮项排水系统
+对排水系统结构形式和配置规定进行了细化，给出了常用几种形式，以方便设计者选用。
+9.5 浮项紧急排水装置
+紧急排水装置是双盘浮项上必不可少的一种安全设施。当发生超过预期的暴雨时，浮项排水管来
+不及排除浮项上的积水时，可通过紧急排水装置把高出允许液面的积水直接导入油缸内部，使浮顶免
+遭沉没或丧失强度或稳定性而垮塌。紧急排水装置经常处于水、储液及油气多相交互区域，腐蚀较为
+严重，因此规定其材质采用奥氏体不锈钢。
+
+119
+
+SH/T 3046一2024
+
+9.6 ”转动扶梯及轨道
+
+增加并细化了轨道宽度和最大仰角的规定，强调了抗风设计要求，避免因大风造成转动扶梯倾覆
+或脱轨。
+9.7 自动通气阀
+
+细化了自动通气阀的功能规定，增加了通气阀密封性、阀体与闪盖间电气连通的规定，增加了设
+置单盘呼吸阁和边缘呼吸阀的规定。
+9.8 导向及限位装置
+
+细化了导向及限位装置的数量和结构要求，增加浮项周边设置限位器得要求。这些规定是为确保
+浮顶能够浮动顺畅，保证较好的密封效果。
+9.9 边缘密封及静电导出装置
+
+为了保证边缘密封的效果，增加了边缘密封的环形密封间隙补偿的能力要求，对密封间隙大小的
+选择提供了建议,明确了对储存对环境有害的挥发性液体时, 浮项边缘密封应采用一次密封+二次密封
+结构的要求，对边缘密封结构形式规定进行了细化，给出了常用几种形式。对构成边缘密封的元件细
+节进行了规定。
+9.10 浮项人孔
+
+细化了浮项人和孔数量要求，增加浮项人和孔法兰盖与人孔简体或法兰之间电气连接的要求。
+9.11 浮舱人孔
+
+对浮舱人孔的大小进行了规定，取消了 DN500mm 这个规格，增加浮舱人孔法兰盖与人孔简体或法
+兰之间电气连接的要求，防止因浮舱底板泄漏造成舱内油气集聚带来的危害。
+9. 13 ”泡沫挡板
+
+本节为新增的内容，对泡沫消防规范的原则性要求进行了落实，规定了泡沫挡板的必备功能和结
+构细节。为了防止浮顶冒顶而损坏转动扶梯或浮项，规定了转动扶梯正下方的挡板采用强度较低的铝
+合金，人为设置一个薄弱环节。
+
+10 内浮顶
+
+本次修订，取消了国内几乎不用的敞口隔舱式内浮顶。
+
+由于近年来环境保护标准中对油品储运设施油气排放标准的不断提高，迫于环保与节能减排的压
+力，密封性能优良的全液面接触式内浮项使用越来越普遍，特别是装配式的全液面接触式内浮项应用
+更为广泛。而这种密封性能优良的内浮顶在现行标准中几乎没有涉及到。为了引导新型装配式内浮项
+技术的发展，本次修订总结了近年来新型装配式内浮项使用的经验教训，对内浮项的结构和功能进行
+了规范和统一，将浮箱式内浮顶、蜂梨式内浮项、整体加强模块式不锈钢双盘内浮项和玻璃钢内浮项
+纳入了标准。
+
+本标准对单盘式内浮项、双盘式内浮项、浮简式内浮顶、浮箱式内浮顶、蜂巢式内浮项、整体加
+强模块式不锈钢双盘内浮项和玻璃钢内浮项的性能要求、浮力要求、结构要求、检验试验要求给出了
+原则性规定。
+
+本标准中对上述内浮项的规定仅仅是原则性总体结构要求和最低功能要求，其他细节要求放入待
+制修订的产品标准〈如 SHT 3194 的修订) 中，在目前这些产品标准未出台之前，使用者应该与供应
+商在产品细节、功能以及实现这些功能的具体结构措施、检验试验项目和方法等方面达成协议。
+
+本标准中，将浮简式内浮顶细分为铝制浮简式内浮项和不锈钢制浮简式内浮项;将浮箱式内浮顶
+按照材质细分为铝制箱式内浮项和不锈钢制箱式内浮项，按照箱体内是否有加强件细分为空箱式内浮
+项和内部加强箱式内浮项。在术语与定义章节和正文中，对内浮顶的结构特点及核心功能进行了归纳
+提炼，形成标准条文。
+
+浮箱式、金属蜂巢式、整体加强模块式不锈钢双盘和玻璃钢内浮项浮力模块最小厚度系指模块上
+
+120
+
+SH/T 3046一2024
+
+下表面之间的厚度，不包括模块边缘伸出模块表面的结构件高度。
+
+10.1 一般规定
+
+10.1.7 ”将装配式内浮项静电导线的材料规格调整为直径不小于中5 mm 的不锈钢钢丝绳。
+
+10.1.17 本次修订适当提高了内浮顶浮力元件和构件的最小厚度,增加了玻璃钢结构件的最小厚度要求。
+10.1.18 ”对内浮顶构件连接方式的可靠性进行了规定;对粘结的使用部位进行了限定，限制其用于浮
+力元件气密性的连接。使用粘接方式连接玻璃钢构件是一种常用工艺方法，在玻璃钢的粘接工艺中，
+
+采用树脂材料将玻璃钢构件或其他树脂构件进行粘合，其固化过程为热固成型，与玻璃钢成型工艺一
+致，已被广泛的工程实践证明为一种可靠的连接方式。而金属材料使用胶粘的工艺效果并不理想，因
+此规定粘接仅适用于玻璃钢内浮顶。
+
+10.1.21 ”对采用具有气密性的弹力板式密封的内浮项，提出边缘密封气相空间和内浮顶上方气相空
+间之间压力平衡的要求，防止因压差造成内浮顶沉没。
+
+10.1.22 对设计压力比较高的密闭式内浮顶储饶〈即不设置通气孔时)，饶内浮项上部气相空间压力
+对内浮顶的作用不可忽视，在进行内浮顶结构设计时，需要考虑此压力载荷。
+
+10.1.24 全液面接触式内浮顶下方可能由于结构不连续原因, 如型材断面主次梁的采用, 不可避免造成
+的局部不能连续对盖液面现象，形成油气空间。内浮顶设计时，应将可能减小此范围。
+
+10.2 单盘式和双盘式内浮顶
+
+细化了单盘式和双盘式内浮顶的功能和结构细节要求，内浮顶不需考虑雨水载荷，核算支柱时考
+虑的附加载荷稍小，其他要求基本上和外浮顶一致。
+
+10.3 SAKA
+10.3.1 通用要求
+
+本条对装配式内浮顶的共性进行了规定。
+
+为了给内浮顶饶饶底上安装的附件留出足够空间，方便安装维修，规定内浮顶应设置支撑。由于
+调整内浮项支柱比较繁珊，且需要在操作中进入缸内浮项上方，存在一定的安全隐患，且漏调个别支
+柱会在内浮顶落地时造成内浮顶局部损坏，因此推荐，一般情况下采用固定式支柱。根据需求，内浮
+顶也可采用悬挂式支撑，并规定在饶顶外调整内浮顶的悬挂高度。当内浮顶采用悬挂式支撑时，整个
+内浮顶悬挂在缸顶上，饶项设计应考虑悬挂式支撑带来的附加载荷。
+
+因浮简式、浮箱式、蜂梨式、整体加强模块式不锈钢双盘和玻璃钢内浮顶等装配式内浮顶浮力的
+绝对值较小，对液体扰动比较敏感，为了减少液体流动速度太快造成的影响，规定储饶进液管出口流
+WEAF lm/s 时，应设置入口扩散管，降低流速。
+
+当采用可调支柱时，需要在浮顶落地前调整支柱高度，此时设置饶壁高位带芯人孔可大大方便使
+用。
+
+本标准是规范内浮顶在设计、制造、安装、操作和检修维护等正常条件下性能和为达到这些性能
+所采取的结构措施的。对于内浮项是否需要具备一定的防火性能、抗爆性能等，即内浮顶在储饶火灾
+爆炸事故中是否能够保持浮动和结构上的完整性，能否有效覆盖储液液面、是否能防止储饶在火灾初
+期即将演变为全面积火灾等，建议在相关防火规范中明确。如果对内浮顶的防火、抗爆性能有要求，
+在内浮顶设计时，需要将这些性能要求作为设计要求一并考虑。
+
+10.3.2 浮简式内浮项
+
+本条对浮简式内浮项的主要组成构件及其功能进行了规定。
+
+内浮顶在可预见的局部损坏工况下仍具备保持完整性及漂浮的基本性能。如果浮力元件不具有独
+立的气密性，一旦一个泄漏，会造成全面失效而沉没，因此规定每一个浮简应分别满足气密性要求。
+
+为了防止因浮力不均匀而带来的浮顶主梁、副梁及盖板等变形，造成密封性下降，本条规定了浮
+fa) ELS BY AES IA
+
+浮顶主梁的布置和间距直接影响浮顶的整体强度和刚度，因此对其布置和间距进行限定。
+
+121
+
+SH/T 3046一2024
+
+10.3.3 RASA ETI
+
+本条对浮箱式内浮项的主要组成构件及其功能进行了规定。
+
+浮箱式内浮顶每一个独立的浮力单元模块，均需要分别进行气密性试验，以检验箱体的严密性。
+所谓的独立浮力单元模块，系指在内浮顶抗沉性计算时采用浮力单元模块。对于浮箱内有加强件的内
+浮项，为了方便检验箱体严密性，应该在结构上采取措施，以避免加强件的设置影响严密性的检验。
+例如对于筋板加强型箱式内浮项，如果加强筋板将一个较大的箱体模块分割成了相互独立、相互具有
+气密性的腔体，则每一个相互独立的腔体均需要进行气密性试验，此气密性试验的目的是为了验证整
+个箱体模块的严密性，而不是为了验证腔体之间的严密性，为了减少气密性试验的工作量，可以人为
+地将一个独立的浮力单元模块内部的腔体进行连通。
+
+浮箱式内浮顶整体密封性和箱体之间的密封性能密切相关，此处的密封效果往往在安装时效果良
+好，而随着时间逐渐降低或失效。内浮项在结构设计时，应采取具体结构措施杜绝此种情况发生。
+
+浮箱式内浮顶结构强度的耐久性和严密性耐久性和浮箱模块单元强度、刚度密切相关。如果浮箱
+模块单元和梁组合体的强度、刚度不足，在经过长期使用会发生塑性变形，从而导致浮箱模块单元之
+间的拼缝密封性降低，甚至失效。
+
+有些内浮顶箱体之问只在浮项上表面进行连接，而忽视下表面之问的连接，当浮项因各种原因发
+生弯曲变形时，因下表面没有可靠的约束，使得箱体连接处发生塑性变形，密封失效。
+
+浮箱模块单元自身的强度、刚度要和梁的强度、刚度统一考虑，再者，浮箱单元模块的尺寸与浮
+箱模块之间的接颖长度密切相关，结构设计时，应尽量减少接缝长度。
+
+10. 3.4 金属蜂梨式内浮项
+
+蜂巢式内浮顶的特点是由众多独立的蜂巢浮力单元提供浮力，由于这些蜂巢浮力单元之间相互独
+立密闭，一个蜂梨浮力单元损坏泄漏后不影响其他相邻单元提供浮力，按照浮力至少为两倍自重的原
+则推算，只有超过 50%的蜂梨浮力单元同时泄漏，内浮项才可能会沉没，因此，此结构的内浮项抗沉
+性优异。如果蜂梨浮力单元不具备上述性能，则一点泄漏就会造成内浮顶沉没，因此规定蜂巢浮力单
+元之间相互独立密闭。
+
+由于结构原因，蜂巢浮力单元数量繁多，局部存在影响密闭性的缺陷在所难免，另外，处于单独
+一块蜂梨模块边缘的蜂梨浮力单元是不完整的，也无法做到 100%闭孔，因此规定蜂梨浮力单元的闭孔
+率不应低于 95%。
+
+由于蜂巢式内浮顶产品很难对蜂巢单元的闭孔性能进行检验，因此提出采用型式试验的方式进行
+验证，从结构设计和工艺上保证此性能。可以参照压力容器产品试板的做法，从正常供货的产品中抽
+检，进行破坏性检验验证。由于蜂巢式内浮项的结构特点，对每一个蜂巢单元进行气密性试验是不具
+备可操作性的，也不可能采用一个检查孔就可代表全部，因此规定，蜂梨与蜂巢上下表层壳体连接后
+形成的蜂巢盘板不必进行气密试验。但这并不意味着每一个蜂梨单元可不具有气密性，这个气密性可
+通过结构措施和工艺措施保证。
+
+使用经验表明，胶粘金属蜂巢式内浮顶蜂巢单元的气密性可靠性较低，特别是经过一段时间使用
+后，时有开裂发生，可靠性变得更差，易引发沉盘事故。因此本条规定，构成蜂巢浮力单元的四周采
+用焊接等可靠连接方式，并且，此处的焊接连接性能需要进行试验验证。
+
+为了保证金属峰梨式内浮项的耐久性和可靠性，提出各种试验要求。由于蜂巢式内浮顶所使用的
+蜂划板还没有标准，因此在设计时，需要通过试验，获得结构及材料性能参数，作为设计中校核构件
+强度、刚度、变形量等项目的输入条件。弯曲试验是模拟使用过程中可能出现的弯曲变形，经过规定
+次数的弯曲疲劳后，考察蜂巢浮力单元的密闭性。
+
+10.3.5 整体加强模块式不锈钢双盘内浮项
+
+整体加强模块式不锈钢双盘内浮项是结合其结构特点和材料特性，提出结构和性能要求。其浮力
+
+元件和承力结构一体化特点，从结构上基本消除了装配式全液面接触式内浮顶下方可能由于结构不连
+
+122
+
+SH/T 3046一2024
+
+续原因《〈如型材断面主梁的采用) 造成的局部油气空间。要实现这种轻量化的整体加强模块结构，材
+料的强度保障至关重要，因此，规定其材料为强度、刚度相对较好的不锈钢。
+
+整体加强模块式不锈钢双盘内浮顶整体密封性和一体化模块之间的密封性能密切相关，此处的密
+封效果往往在安装时效果良好，而随着时间逐渐降低或失效。内浮顶在结构设计时，应采取具体结构
+措施杜绝此种情况发生。
+
+整体加强模块式不锈钢双盘内浮顶结构强度的耐久性和严密性耐久性和一体化模块单元强度、刚
+度密切相关。如果一体化模块的强度、刚度不足，在经过长期使用会发生塑性变形，从而导致一体化
+模块单元之间的拼缝密封性降低，甚至失效。
+
+10. 3.6 ”玻璃钢内浮顶
+
+玻璃钢内浮顶的制作工艺主要分为整体现场粘接和使用玻璃钢蜂梨模块单元现场粘接。
+
+玻璃钢内浮顶的条文规定主要从材质和结构方面，并结合性能要求。玻璃钢蜂划式内浮项由上下
+玻璃纤维加强树脂表面层和芯部的蜂梨芯组成。这种结构的内浮顶虽然归类为装配式内浮项，但装配
+完成后没有拼接缝的存在，因此其在密封性能方面，与钢制单盘式内浮项和钢制双盘式内浮顶一样，
+表现尤为突出，属于国外应用增速较快的一种内浮顶形式。与其他装配式内浮项相比，玻璃钢材质耐
+腐蚀性更强，整体强度也相对较高。
+
+从抗沉性角度出发，条文中明确了玻璃钢内浮顶应采用蜂梨式内浮顶结构，主要考虑如下，如果
+玻璃钢内浮顶不具备蜂梨式内浮顶的特征，即内浮顶的峰梨芯部材料不具备自闭孔特性，贯穿其上下
+表面一处的破损泄漏就会造成整个内浮项蜂巢芯浮力单元泄漏失效，从而使整个内浮顶泄漏失效，使
+内浮顶失去浮力而沉没。也就是说不具备蜂巢式内浮顶特征的玻璃钢内浮顶，其结构的浮力由玻璃钢
+壳体与边缘构件组成的浅槽提供，其归类应为浅盘式内浮项，只不过材质是玻璃钢。
+
+使用玻璃钢蜂划模块单元现场粘接的玻璃钢内浮顶虽然具备浮箱式内浮顶的结构原理特点，仅破
+损的蜂巢模块单元丧失浮力，且玻璃钢蜂巢模块单元之间由于采用粘接工艺连接，更换维护困难，会
+因浮力不均匀造成内浮顶偏斜、卡盘或破坏。为了提高玻璃钢内浮顶的可靠性，因此本标准也不推荐
+使用玻璃钢浮箱式内浮项，也未将玻璃钢浮箱式内浮顶纳入标准。
+
+玻璃钢蜂策式内浮项的蜂策上下表层壳体应具有气密性和液密性。此项检查可采用型式试验的方
+式进行验证。
+
+对于玻璃钢内浮项，由于蜂梨芯与上下层玻璃钢壳体均为复合材料或树脂材料，采用树脂粘接，
+其可靠性容易得到保证，因此，对连接方式做了粘接的规定。
+
+玻璃钢蜂梨式内浮顶为复合材料，为防止静电积聚，对接触储液侧的表面电阻进行规定。
+
+为了保证玻璃钢内浮顶的耐久性和可靠性，提出各种试验要求。为了获得玻璃钢内浮项所使用的
+玻璃钢蜂梨板各项性能参数，需要通过试验获得，作为结构设计中校核构件强度、刚度、变形量等项
+目的输入条件。弯曲试验是模拟使用过程中可能出现的弯曲变形，经过规定次数的弯曲疲劳后，考察
+蜂巢单元的密闭性和耐久性。
+
+10.4 “环形空间的密封
+
+与外浮项环形空间的密封规定基本一致。
+
+10.4.4 一次密封结构中，增加了一种对环形间隙偏差具有较强适应能力的，且具有气密性的“弹力
+板式密封” 这种结构的密封可补偿的环形空间间隙正偏差达 300mm。弹力板式密封由上部连接在内浮
+顶外边缘板上端，中下部紧贴缸壁且沿周向连续布置的不锈钢弹簧板 (提供密封力)，沿周向布置的不
+锈钢弹性支撑板以及夹在弹簧板和支撑板之间柔性密封膜组成。这种结构密封的密封间隙补偿能力与
+弹筑板长度和在内浮顶外边板上的安装高度密切相关，在结构设计时，应关注密封间隙最大条件下弹
+簧板仍能插入液面 100mm 以上，且密封板和饶壁之问不能露液面。
+
+10.4.8 此条对弹力板式密封中的核心部件提供密封力的“弹答板”材料规格和性能进行了规定，目
+
+123
+
+SH/T 3046一2024
+
+的是既保持一定的密封压紧力，实现良好的密封效果，也不会因压紧力太大带来过大的摩擦阻力，对
+内浮顶升降浮动造成影响。
+10.6，通气孔
+
+无密闭要求的内浮顶储饶同时设置环向通气孔和饶顶通气孔，目的是使饶内内浮顶上部的气相与
+外界的空气能及时形成对流，防止储镑内内浮顶上部的油气浓度超过爆炸下限。
+10.8 导向及防旋转装置
+10.8.3 为了防止因过度限制内浮顶的自由度出现卡盘，或自由度太大内浮顶出现过度的球锡而失去
+密封性，规定了导向管数量最多为两根，当采用一根时，限位滚轴数量应为三个。
+10.9 ”人孔和检查孔
+
+本条规定了内浮项人孔和浮舱人孔最小尺寸和数量要求，以方便人员进出。为了方便检维修期间
+采光，规定了内浮项人和孔的数量要求。
+
+为了方便操作人员在饶顶就可查看内浮顶的情况，本次修订增加了饶顶设置采光和孔的要求，对采
+光和孔的数量和大小进行了规定。
+10. 12 ”泡沫挡板
+
+单盘式内浮项和双盘式内浮项顶为碳钢焊接式，具有足够的强度和刚度，且为全液面接触式内浮
+项，可以认为此类内浮顶在储缸火灾初期能保持浮动和结构完整性，可有效覆盖液面，因此，其火灾
+场景仅考虑边缘密封圈处火灾，此类内浮项需要在内浮顶边缘设置泡沫挡板，以便更有效地抑制边缘
+密封圈火灾。规定泡沫挡板高度高出密封 200mm 是为了确保泡沫有效覆盖着火点。
+
+浮简式内浮项为非全液面接触式内浮项，在盘板下侧存在油气空间，往往在储饶火灾初期即丧失
+了结构完整性，失去了浮动和牙盖液面的能力，因此需要按照全液面火灾场景考虑消防泡沫的设置，
+此时如果设置泡沫挡板，就会妨碍泡沫有效覆盖暴露的液面。
+
+其他型式的内浮顶是否需要设置泡沫挡板，需要进行专门的研究才能确定。确定原则就是要看内
+浮顶在储饶火灾初期能保持浮动和结构完整性，能否有效覆盖液面。NFPA 11-2016 版对部分全液面接
+触式内浮顶允许仅考虑边缘密封圈处泡沫覆盖保护，前提条件是需要符合其他一些特定的要求。
+
+内浮顶泡沫挡板的设置需要消防专业确定，是否设置需严格按照消防专业的要求。
+
+11 附件
+
+本章参照 API650 AGB 50341-2014 的相关规定进行修订，细化了相关要求。
+
+补强圈未按照压力容器的做法，而是采用 API 650 的做法，采用大直径补强圈，这样可以钢板的
+厚度规格，方便材料采购。
+
+对带开口接管补强圈的缸壁板热处理条件进行了规定。
+
+对储缸加热器形式和结构进行了规定，以提高其可靠性。
+
+12 ”储负抗风稳定计算及锚固设计
+
+本章为新增内容，对储饶的整体抗风稳定和锚固设计进行了规定，主要参考 API650 和 GB50341。
+在抗风稳性和内压提离校核公式中，虽然使用了弯矩进行比较，但控制的项目是在风和内压共同作用
+下储缸整体倾覆和底部局部提离的校核。设计内压虽然是内力，仅会在充体中产生内应力，在结构不
+连续处产生边缘附加应力，造成储饶饶壁提离，虽不会对整个储饶产生倾覆，但在与风载荷共同作用
+下会加剧储饶局部的提离作用。
+
+储饶锚固结构中，增加了锚固带结构。
+
+13 ”预制
+对新研制的钢板标准屈服强度下限值大于 390MPa 的钢板和调质状态供货的钢板, 提出复验要求。
+
+124
+
+SH/T 3046一2024
+
+钢板性能是否需要复验，主要取决于工业化生产中性能是否稳定，生产工艺的难度，生产工艺参数窗
+口的范围，钢板性能对等工艺参数波动的敏感性。在确定钢板复验抽检比例和复验项目时，应结合
+述因素，有具体问题具体分析，根据具体条件和情况确定，花尽可能小的代价，确保钢板质量稳定。
+
+我国工程建设和管理模式繁多，现场材料的复验责任主体划分不清。借鉴国外经验，可以将复验
+前置，在钢板出三前完成复验，即可解决责任不清的问题，也可防止不合格材料流入现场。具体做法
+可委托第三方进行复验，也可以采用第三方见证制造厂检验过程的方式。
+
+本次修订细化完善了镑底、负壁、负项以及附件的预制要求，目的是提高规范的可操作性，提高
+储缸预制件质量的一致性。
+
+14 组装
+
+本次修订细化完善了饶底、饶壁、缸项以及附件的组装要求,， 将一些成熟的组装工艺纳入了规范，
+目的是提高规范的可操作性，提高储饶组装质量的一致性。
+增加装配式内浮项的组装及检验要求。
+
+15 ”焊接
+
+15.2 ”焊接工艺评定
+
+15.2.1 焊接性试验是拟定预焊接工艺规程的基础，不允许在不做焊接性试验的条件下，直接采用焊
+接接头性能检测报告的方法代替焊接性试验报告和焊接工艺评定报告。气电立焊是储饶特有的大线能
+量高效焊接方法，进行气电立焊焊接工艺评定时，应充分考虑其工艺特点。大量的试验数据表明，饶
+壁最薄壁板的纵焊颖虽然线能量不是最大，但因钢板厚度小，散热条件差，焊接实际冷却速度要低于
+厚度较大的钢板,使得最薄钢板焊接接头性能低于较厚的钢板焊接接头性能。 气电立焊采用单面坡口
+焊接的最厚壁板纵焊缝焊接线能量最大，其焊接接头性能最差，以此为基准进行焊接工艺评定是可靠
+的。
+
+15.2.4 明确了储饶对接焊缝的拉伸、弯曲试验、冲击试验合格指标，此指标是在参照 API650 的相关
+规定，并结合国内的工程经验和试验数据的基础上得出的。
+
+15.4 焊接施工
+
+15.4.9 ”焊接性试验应得出最大允许的焊接线能量，焊接工艺评定中，在此限值范围内寻找一个焊接
+操作控制值。
+
+15.4.10 当12MnNiVR 镑壁纵向焊颖的焊接线能量超过 LOOK J/cm 时,焊接接头热影响区性能下降严重，
+频繁出现冲击韧性不合格现象。因此，规定焊接线能量上限值。
+
+15.6 ”修补与返修
+
+15.6.3 限制多次焊接返修的目的是追查焊缝质量不合格的原因，并不是有批准手续就可多次返修。
+
+16 ”检验与试验
+
+16.1.2 关于焊缝的咬边问题，92 版规范要求部分重要的焊缝不允许存在咬边，这在实际焊接操作中
+很难做到，此条文很难真正被执行，本次修订时，参照国外标准和工程公司的做法，提出采取措施尽
+量避免咬边，严格控制咬边的深度和连续长度，一旦出现不允许存在的咬边，则打磨清除。
+
+16.2.5 底圈镑壁与缸底板的 T 形接头角焊缝由于位置特殊，直接放在在基础上，且焊缝结构为未焊
+透的双面角焊缝，无法进行 RT 或 UT 检测，只能进行表面检测。随着技术的不断发展，可探讨使用相
+
+125
+
+SH/T 3046一2024
+
+控阵技术对焊颖内部进行检测。
+
+16. 3.5 边缘密封的密封效果与缸体整体形状密切相关，本条增加了综合检测缸体形状的要求。
+
+16. 3.7 增加了单层球面网壳固定顶的外观尺寸偏差要求。
+
+16.4.6 对固定项的稳定性试验压力进行了明确规定。固定项的稳定性试验也是检验镑项施工质量的
+有效手段。
+
+126
+
+SH/T 3046一2024
+
+附 录 A
+(规范性附录)
+微内压储鲜
+
+本次修订时，将名称“低压储缸”修订规范为“微内压储缸”，以示与真正的低压储缸区别。
+
+将通气要求和饶顶与缸壁连接处结构形式，放入了第 8 章缸项设计部分。本附录主要参照 API650
+和 GB50341-2014 进行修订。
+
+A.1 一般规定
+
+随着环境保护标准的不断提高，储饶的油气排放问题越来越受到关注。为了减少在正常操作中油
+气的排放，储饶的设计正压力不断提高，92 版标准中最大设计正压力 6kPa 已越来越不能适应储存工
+艺的要求，为了满足生产的需求，本次修订参照 API650 和 GB50341-2014 将设计压力范围扩大到了
+18kPa。
+
+A. 2 ”设计考虑因素
+
+本次修订参照 API650 的相关规定,微内压储缸与缸内气相空间压力相关的部件进行强度设计时需
+要将内压力折算成液柱高度计入静液压头。但对于设计内压力不大于 1lkPa 的情况, 可忽略内压对上述
+元件厚度的影响，以简化工程设计。
+
+当设计内压力大于 2kPa 时，缸项开口设计不能使用正文中缸顶开口接管的做法，需要提高要求。
+为了简化工程设计工作，规定套用负壁开口接管的做法，在查相关表格时，液位高度采用表中的最低
+值，这个最低值折算成压力，是大于 18kPa 的，偏于保守。
+
+A.7 计算破坏压力
+
+修订时扩充了计算破坏压力的确定方法，当采用有限元数值模拟的方法进行分析计算缸顶破坏压
+
+力时，应该将整个储饶作为对象进行分析。
+
+127
+
+SH/T 3046一2024
+
+附 录 B
+(规范性附录)
+储饶对地基基础的基本要求
+
+本次修订增加了基础中心与边缘沉降差的要求, 目的是减少基础坡度变化对负底使用寿命的影响。
+当基础坡度出现较大变化时，饶底会出现大面积空鼓，严重时饶底局部会出现皱福，在镑内液位变化
+时，循环载荷作用下，会发生局部疲劳破坏。因此，对基础中心与边缘沉降差进行规定。规定值参考
+国内工程的经验确定。
+
+本次修订取消了储缸最大直径 60m 的限制，对直径的上限值没有限定。
+
+对于倒锥底储负的基础，不能简单套用正锥底储饶的要求。
+
+128
+
+SH/T 3046—2024
+
+Bt 录 5
+(规范性附录)
+提高储负设计温度的附加要求
+C.1 适用范围
+本次修订细化了对高温储饶的要求，明确了适用范围。对于浮顶储饶，由于边缘密封的材料限制，
+当温度超过 90 时，其使用寿命会急速下降， 对于铝制内浮项和铝制拱顶储缸，由于铝合金在高温下强
+度和弹性模量下降较快。
+C.2 提高设计温度的影响和附加要求
+明确规定高温储缸需要考虑储液凝固的影响，一是流动性带来的问题，而是对构件载荷的作用变
+化。需要特别分析铅项下部是否出现凝结物及量的大小。
+高温下材料屈服强度下限值降低系数参照 API650 和 GB50341-2014 确定，弹性模量的降低系数可
+按照本标准正文的相关规定确定。
+对于存在疲劳载荷作用的焊缝，在接头设计和焊接质量两方面应采取措施，进行控制。
+
+129
+
+SH/T 3046一2024
+
+附 录 D
+(规范性附录)
+带肋球壳
+
+本次修订对钢制带肋球壳的适用范围进行了进一步明确，使之更合理。对于超出此范围更大直径
+的拱项，宣采用单层球面网壳结构，见本标准的相关条文。
+
+钢制带肋球壳拱项是中国人独创的结构技术，具有结构简单，安装方便、造价低廉的特点。从 20
+世纪 60 年代开始，在国内得到广泛应用，实践证明在一定尺寸范围内，是一种成熟可行的结构型式。
+钢制带肋球壳临界荷载的计算方法是由北京石油设计院在精典带肋板壳理论的基础上，借鉴了中国建
+筑科学研究院对钢筋混凝土带肋壳的研究成果，并对安全系数等参数的取法进行研究后，形成的独创
+技术。
+
+钢制带肋球壳固定项盖与术架式锥顶或柱支撑锥项相比，非常省钢材，且可采用倒装法施工，施
+工的安全性和简便性优势明显。这种结构被 API 认为不具备饶项弱连接特性,因此在国外使用受限制。
+国内相关设计研究单位如中石化 SET 和中石油管道院对带肋球壳固定项的弱项特性进行了系统性研究，
+通过改变一些结构特征参数，可以提高其弱项特性，这些研究成果在本标准正文部分第 8 章的相关条
+文中有体现。感兴趣者可以继续开展更深入研究，为今后规范修订积累数据，提供支撑。
+
+130
+
+SH/T 3046—2024
+
+附 录 上E
+(规范性附录)
+BRANES SN tid
+
+本次修订将 92 FHI YE TE SCF BE as ASG fi BE A PRE Oe Deh FR BR, 并从材料、许用应
+力、设计结构、强度计算、制造安装的方面细化了相关规定。
+
+本次修订对材料牌号按照新标准进行了修订，保留了 S30403、S30408、S31603、S31608、S31703
+和 S31708 六个牌号材料。对材料的等级、表面加工类型等进行了明确规定。
+
+储饶壳体不锈钢许用应力取 0. OR’ 和 Ru y1. 5 的较小值。
+
+131
+
+SH/T 3046一2024
+
+附 录
+(资料性附录)
+气象台站及数据摘要
+
+气象台站及数据与 SH3046-92 的数据是一致的。
+
+132
